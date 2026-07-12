@@ -17,7 +17,8 @@ export default function Players() {
   const select = (id) => setParams(id ? { id } : {}, { replace: true });
 
   return (
-    <Container className="py-4 md:py-8">
+    <section className="min-h-full w-full bg-gray-50 py-5 md:py-9">
+    <Container>
       <h1 className="mb-3 text-xl font-black text-lg-ink md:mb-5 md:text-2xl">선수 스탯</h1>
 
       {roster.loading && <Loading />}
@@ -50,6 +51,7 @@ export default function Players() {
         </>
       )}
     </Container>
+    </section>
   );
 }
 
