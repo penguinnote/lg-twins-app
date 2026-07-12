@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #ffffff;
+  color: theme("colors.lg.ink");
+  -webkit-font-smoothing: antialiased;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+/* 하단 탭바가 iOS 세이프에어리어를 침범하지 않게 */
+.safe-b {
+  padding-bottom: env(safe-area-inset-bottom);
+}

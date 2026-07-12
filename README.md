@@ -33,7 +33,12 @@
 
 ## 스크린샷
 
-_Phase 1(웹사이트)에서 추가 예정._
+| 홈 (뉴스 + 주목 선수) | 뉴스 피드 | 선수 스탯 시계열 (핵심) |
+|:--:|:--:|:--:|
+| <img src="docs/screenshots/home.png" width="240"> | <img src="docs/screenshots/news.png" width="240"> | <img src="docs/screenshots/player_parkhaemin.png" width="240"> |
+
+> 선수 화면은 타율/OPS를 **주식 차트처럼** 시간 축으로 보여준다. **일별·주별·월별** 토글로
+> 성장·슬럼프 흐름을 읽는다. (위: 박해민 — 시즌 초 대비 타율 상승 곡선)
 
 ## 아키텍처 (요약)
 
