@@ -1,41 +1,79 @@
-# ARCHITECTURE
+# 아키텍처 (ARCHITECTURE)
 
-_작성 예정 (코워크에서 문서화)._ 아래는 Phase 0 구현 중 확정된 사실 메모 — 코워크가 참고해 정리한다.
+이 프로젝트의 엔지니어링 핵심은 **KBO 데이터를 매일 자동 수집·정제하는 파이프라인**이다.
+KBO는 공개 API가 없어, 검증된 스크래퍼로 데이터를 모으고 JSON으로 떨궈 웹사이트가 읽는다.
 
-## 확정 데이터 소스 (엔드포인트)
+## 전체 구조
 
-| 데이터 | 엔드포인트 | 방식 | 비고 |
-|--------|-----------|------|------|
-| 팀 뉴스 | `GET sports.news.naver.com/kbaseball/news/list?isphoto=N&type=team&team=LG&page=N` | JSON | 헤더 `Referer: .../kbaseball/news/index`, `X-Requested-With: XMLHttpRequest`. 응답 `list[]`: oid·aid·title·datetime·officeName·url. **헤드라인·링크·날짜만 저장(본문 금지).** |
-| 로스터 | `POST koreabaseball.com/Player/Register.aspx` | HTML(ASP.NET 포스트백) | 팀 전환: 히든 `hfSearchTeam=LG` + `__EVENTTARGET=...btnCalendarSelect`. 포지션 표의 선수 `<a>`가 `playerId` 보유. 감독·코치 제외. |
-| 등록/말소 | `GET koreabaseball.com/Player/RegisterAll.aspx` | HTML | 하단 '당일 1군 등록/말소' 표(선수·포지션·팀). **'당일'만 제공 → 매일 폴링해 누적. 과거 소급·사유 없음.** |
-| 선수 시계열 | `GET koreabaseball.com/Record/Player/HitterDetail/Daily.aspx?playerId=ID` | HTML | 월별 표, 행=경기. 누적 AVG = cumsum(H)/cumsum(AB) (사이트 누적 컬럼과 일치 검증). OPS는 계산(OBP+SLG, SF 미노출로 OBP 소폭 근사). |
+```
+[GitHub Actions · 매일 08:00 KST]
+        │  python pipeline/run_daily.py
+        ▼
+  ┌───────────── pipeline/ ─────────────┐
+  │ roster.py   뉴스.py   moves.py   timeseries.py │
+  └───────────────────┬─────────────────┘
+                      ▼
+              data/ (JSON 산출)
+   roster.json · news.json · moves_history.json · players/<id>.json
+                      │  (Actions가 자동 커밋)
+                      ▼
+             [웹사이트(React)] ← Phase 1에서 이 JSON을 읽어 렌더
+```
 
-## data/ 파일 구조
+## 데이터 소스 (스파이크로 검증한 확정 엔드포인트)
+
+| 데이터 | 엔드포인트 | 방식 |
+|---|---|---|
+| 뉴스 | `sports.news.naver.com/kbaseball/news/list?type=team&team=LG` | JSON. 헤드라인·URL·날짜만 |
+| 로스터 | `koreabaseball.com/Player/Register.aspx` (포스트백 `hfSearchTeam=LG`) | HTML. playerId 추출 |
+| 등록/말소 | `koreabaseball.com/Player/RegisterAll.aspx` (당일 위젯) | HTML. 매일 폴링·누적 |
+| 선수 시계열 | `.../HitterDetail/Daily.aspx?playerId=<ID>` | HTML. 경기별 로그 → 누적 AVG/OPS |
+
+## 수집기별 설계
+
+- **roster.py** — LG 현재 선수단 playerId 목록을 `data/roster.json`으로. 시계열 수집의 입력.
+- **news.py** — LG 뉴스 목록을 `data/news.json`으로. 저작권상 **헤드라인·원문 링크·날짜만**
+  저장하고 본문은 저장하지 않는다.
+- **moves.py** — 등록/말소는 **당일만** 제공되고 소급이 불가하다. 매일 스냅샷을 찍어
+  `data/moves_history.json`에 **날짜별로 append**(중복 방지)해 이력을 스스로 축적한다.
+- **timeseries.py** — 선수 경기별 로그를 모아 경기 종료 시점마다 누적 타율/OPS를 계산,
+  `data/players/<playerId>.json` 시계열로 저장. 과거 소급 복원이 가능하다.
+
+## 시계열 복원과 검증 (신뢰도의 핵심)
+
+"주식 차트" 기능의 원천은 **경기별 로그로 역산한 누적 스탯 시계열**이다. 신뢰도를 확보하기 위해,
+직접 계산한 누적 타율을 KBO가 제공하는 공식 누적 컬럼과 매 시점 대조했다.
+
+- 타자 **15명 전원의 누적 타율이 공식값과 정확히 일치 (15/15, 불일치 0).**
+- 즉 화면에 그릴 시계열이 공식 기록과 동일함을 보장한다.
+
+## 자동화 (GitHub Actions)
+
+- `.github/workflows/daily.yml` — 매일 08:00 KST(cron `0 23 * * *` UTC) + 수동 실행(workflow_dispatch).
+- `run_daily.py` 실행 → `data/` 변경분을 기본 `GITHUB_TOKEN`으로 자동 커밋·푸시(추가 시크릿 불필요).
+- `permissions: contents: write`.
+
+## 저장 구조
 
 ```
 data/
-  roster.json            # {team, updated, count, hitter_count, players:[{playerId,name,position,is_pitcher}]}
-  news.json              # {team, updated, count, items:[{title,url,datetime,office,oid,aid}]}
-  moves_history.json     # [{date, fetched_at, registered:[{name,position,team}], waived:[...]}]  (날짜별 append, 중복 방지)
-  players/<playerId>.json# {playerId, season, games, totals, series:[{date,opp,cum_avg,cum_ops,site_cum_avg}]}
+├── roster.json            # LG 선수단 (playerId 등)
+├── news.json              # 최근 뉴스 (헤드라인·URL·날짜)
+├── moves_history.json     # 등록/말소 누적 이력 (2026-07-12~)
+└── players/<playerId>.json # 선수별 누적 타율/OPS 시계열
 ```
 
-## 파이프라인 모듈 (`pipeline/`)
+MVP는 읽기 전용·일 배치라 DB 없이 JSON으로 충분하다. 계정·알림이 필요해지면 Firestore로 승격한다.
 
-- `common.py` — 세션/헤더/경로/JSON/sleep + LG 상수(엔드포인트 교체 지점).
-- `roster.py` · `news.py` · `moves.py` · `timeseries.py` — 소스별 독립 모듈.
-- `run_daily.py` — 오케스트레이터. 단계별 try/except 격리, 요청 사이 sleep(1~2s),
-  타자별 시계열 격리(한 선수 실패해도 전체 진행). 소스 전체 실패만 exit 1.
+## 견고성 · 법적 고려
 
-## 실행/스케줄
+- **저작권/ToS** — 뉴스는 헤드라인·링크만, 본문 복사·저장 금지. rate-limit(요청 간 sleep), robots 존중,
+  개인/학습용.
+- **장애 격리** — 한 선수/한 소스가 실패해도 전체 배치가 죽지 않도록 try/except로 격리.
+- **스크래퍼 취약성** — 네이버/KBO 구조 변경 시 깨질 수 있어, 소스별 모듈로 분리해 교체를 쉽게 했다.
 
-- 로컬: `python -m pipeline.run_daily`
-- 자동: `.github/workflows/daily.yml` — 매일 KST 아침 1회(cron UTC) + `workflow_dispatch`.
-  `data/` 변경분을 자동 커밋·푸시(`permissions: contents: write`). 이력이 커밋으로 축적된다.
+## 한계 · 향후
 
-## 가드레일
-
-- 뉴스 본문 저장 금지(헤드라인·링크만). 요청 sleep·robots 존중. 개인/학습용.
-- 데이터 권리는 KBO·네이버 소유 → 상업적 재배포 주의.
-- 등록/말소는 **소급 불가**이므로 폴링 가동일부터가 이력의 시작점이다.
+- 등록/말소는 소급 불가 → 이력은 수집 시작일(2026-07-12)부터 쌓인다.
+- 뉴스 엔드포인트는 구 버전이라 변경 가능성 있음 → 모듈 교체로 대응.
+- Phase 2에서 로스터 이동 "사유"를 뉴스+LLM으로 생성, Phase 3에서 승부 예측 모델을 얹을 예정.
