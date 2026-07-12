@@ -1,0 +1,430 @@
+{
+  "playerId": "69102",
+  "season": 2026,
+  "games": 59,
+  "updated": "2026-07-12T20:01:14",
+  "totals": {
+    "AB": 201,
+    "H": 51,
+    "2B": 6,
+    "3B": 0,
+    "HR": 7,
+    "BB": 39,
+    "HBP": 1
+  },
+  "series": [
+    {
+      "date": "2026-03-28",
+      "opp": "KT",
+      "cum_avg": 0.667,
+      "cum_ops": 1.75,
+      "site_cum_avg": "0.667"
+    },
+    {
+      "date": "2026-03-29",
+      "opp": "KT",
+      "cum_avg": 0.429,
+      "cum_ops": 1.127,
+      "site_cum_avg": "0.429"
+    },
+    {
+      "date": "2026-03-31",
+      "opp": "KIA",
+      "cum_avg": 0.333,
+      "cum_ops": 0.944,
+      "site_cum_avg": "0.333"
+    },
+    {
+      "date": "2026-04-02",
+      "opp": "KIA",
+      "cum_avg": 0.308,
+      "cum_ops": 0.822,
+      "site_cum_avg": "0.308"
+    },
+    {
+      "date": "2026-04-03",
+      "opp": "키움",
+      "cum_avg": 0.235,
+      "cum_ops": 0.644,
+      "site_cum_avg": "0.235"
+    },
+    {
+      "date": "2026-04-04",
+      "opp": "키움",
+      "cum_avg": 0.211,
+      "cum_ops": 0.663,
+      "site_cum_avg": "0.211"
+    },
+    {
+      "date": "2026-04-05",
+      "opp": "키움",
+      "cum_avg": 0.292,
+      "cum_ops": 0.892,
+      "site_cum_avg": "0.292"
+    },
+    {
+      "date": "2026-04-07",
+      "opp": "NC",
+      "cum_avg": 0.269,
+      "cum_ops": 0.864,
+      "site_cum_avg": "0.269"
+    },
+    {
+      "date": "2026-04-08",
+      "opp": "NC",
+      "cum_avg": 0.276,
+      "cum_ops": 0.896,
+      "site_cum_avg": "0.276"
+    },
+    {
+      "date": "2026-04-10",
+      "opp": "SSG",
+      "cum_avg": 0.29,
+      "cum_ops": 0.928,
+      "site_cum_avg": "0.290"
+    },
+    {
+      "date": "2026-04-11",
+      "opp": "SSG",
+      "cum_avg": 0.286,
+      "cum_ops": 0.885,
+      "site_cum_avg": "0.286"
+    },
+    {
+      "date": "2026-04-12",
+      "opp": "SSG",
+      "cum_avg": 0.263,
+      "cum_ops": 0.846,
+      "site_cum_avg": "0.263"
+    },
+    {
+      "date": "2026-04-14",
+      "opp": "롯데",
+      "cum_avg": 0.275,
+      "cum_ops": 0.873,
+      "site_cum_avg": "0.275"
+    },
+    {
+      "date": "2026-04-15",
+      "opp": "롯데",
+      "cum_avg": 0.25,
+      "cum_ops": 0.804,
+      "site_cum_avg": "0.250"
+    },
+    {
+      "date": "2026-04-16",
+      "opp": "롯데",
+      "cum_avg": 0.265,
+      "cum_ops": 0.825,
+      "site_cum_avg": "0.265"
+    },
+    {
+      "date": "2026-04-18",
+      "opp": "삼성",
+      "cum_avg": 0.264,
+      "cum_ops": 0.804,
+      "site_cum_avg": "0.264"
+    },
+    {
+      "date": "2026-04-19",
+      "opp": "삼성",
+      "cum_avg": 0.273,
+      "cum_ops": 0.881,
+      "site_cum_avg": "0.273"
+    },
+    {
+      "date": "2026-04-21",
+      "opp": "한화",
+      "cum_avg": 0.263,
+      "cum_ops": 0.868,
+      "site_cum_avg": "0.263"
+    },
+    {
+      "date": "2026-04-22",
+      "opp": "한화",
+      "cum_avg": 0.262,
+      "cum_ops": 0.847,
+      "site_cum_avg": "0.262"
+    },
+    {
+      "date": "2026-04-23",
+      "opp": "한화",
+      "cum_avg": 0.277,
+      "cum_ops": 0.862,
+      "site_cum_avg": "0.277"
+    },
+    {
+      "date": "2026-04-24",
+      "opp": "두산",
+      "cum_avg": 0.304,
+      "cum_ops": 0.901,
+      "site_cum_avg": "0.304"
+    },
+    {
+      "date": "2026-04-25",
+      "opp": "두산",
+      "cum_avg": 0.297,
+      "cum_ops": 0.872,
+      "site_cum_avg": "0.297"
+    },
+    {
+      "date": "2026-04-26",
+      "opp": "두산",
+      "cum_avg": 0.291,
+      "cum_ops": 0.845,
+      "site_cum_avg": "0.291"
+    },
+    {
+      "date": "2026-04-28",
+      "opp": "KT",
+      "cum_avg": 0.309,
+      "cum_ops": 0.923,
+      "site_cum_avg": "0.309"
+    },
+    {
+      "date": "2026-04-29",
+      "opp": "KT",
+      "cum_avg": 0.302,
+      "cum_ops": 0.896,
+      "site_cum_avg": "0.302"
+    },
+    {
+      "date": "2026-04-30",
+      "opp": "KT",
+      "cum_avg": 0.311,
+      "cum_ops": 0.905,
+      "site_cum_avg": "0.311"
+    },
+    {
+      "date": "2026-05-01",
+      "opp": "NC",
+      "cum_avg": 0.304,
+      "cum_ops": 0.897,
+      "site_cum_avg": "0.304"
+    },
+    {
+      "date": "2026-05-02",
+      "opp": "NC",
+      "cum_avg": 0.319,
+      "cum_ops": 0.931,
+      "site_cum_avg": "0.319"
+    },
+    {
+      "date": "2026-05-03",
+      "opp": "NC",
+      "cum_avg": 0.316,
+      "cum_ops": 0.915,
+      "site_cum_avg": "0.316"
+    },
+    {
+      "date": "2026-05-05",
+      "opp": "두산",
+      "cum_avg": 0.31,
+      "cum_ops": 0.899,
+      "site_cum_avg": "0.310"
+    },
+    {
+      "date": "2026-06-05",
+      "opp": "NC",
+      "cum_avg": 0.308,
+      "cum_ops": 0.915,
+      "site_cum_avg": "0.308"
+    },
+    {
+      "date": "2026-06-06",
+      "opp": "NC",
+      "cum_avg": 0.302,
+      "cum_ops": 0.903,
+      "site_cum_avg": "0.302"
+    },
+    {
+      "date": "2026-06-07",
+      "opp": "NC",
+      "cum_avg": 0.312,
+      "cum_ops": 0.918,
+      "site_cum_avg": "0.312"
+    },
+    {
+      "date": "2026-06-09",
+      "opp": "SSG",
+      "cum_avg": 0.304,
+      "cum_ops": 0.9,
+      "site_cum_avg": "0.304"
+    },
+    {
+      "date": "2026-06-10",
+      "opp": "SSG",
+      "cum_avg": 0.296,
+      "cum_ops": 0.882,
+      "site_cum_avg": "0.296"
+    },
+    {
+      "date": "2026-06-11",
+      "opp": "SSG",
+      "cum_avg": 0.3,
+      "cum_ops": 0.88,
+      "site_cum_avg": "0.300"
+    },
+    {
+      "date": "2026-06-12",
+      "opp": "롯데",
+      "cum_avg": 0.296,
+      "cum_ops": 0.863,
+      "site_cum_avg": "0.296"
+    },
+    {
+      "date": "2026-06-13",
+      "opp": "롯데",
+      "cum_avg": 0.287,
+      "cum_ops": 0.839,
+      "site_cum_avg": "0.287"
+    },
+    {
+      "date": "2026-06-14",
+      "opp": "롯데",
+      "cum_avg": 0.284,
+      "cum_ops": 0.824,
+      "site_cum_avg": "0.284"
+    },
+    {
+      "date": "2026-06-16",
+      "opp": "KIA",
+      "cum_avg": 0.288,
+      "cum_ops": 0.823,
+      "site_cum_avg": "0.288"
+    },
+    {
+      "date": "2026-06-17",
+      "opp": "KIA",
+      "cum_avg": 0.289,
+      "cum_ops": 0.845,
+      "site_cum_avg": "0.289"
+    },
+    {
+      "date": "2026-06-18",
+      "opp": "KIA",
+      "cum_avg": 0.281,
+      "cum_ops": 0.824,
+      "site_cum_avg": "0.281"
+    },
+    {
+      "date": "2026-06-19",
+      "opp": "두산",
+      "cum_avg": 0.275,
+      "cum_ops": 0.812,
+      "site_cum_avg": "0.275"
+    },
+    {
+      "date": "2026-06-20",
+      "opp": "두산",
+      "cum_avg": 0.281,
+      "cum_ops": 0.843,
+      "site_cum_avg": "0.281"
+    },
+    {
+      "date": "2026-06-21",
+      "opp": "두산",
+      "cum_avg": 0.276,
+      "cum_ops": 0.831,
+      "site_cum_avg": "0.276"
+    },
+    {
+      "date": "2026-06-23",
+      "opp": "삼성",
+      "cum_avg": 0.275,
+      "cum_ops": 0.824,
+      "site_cum_avg": "0.275"
+    },
+    {
+      "date": "2026-06-24",
+      "opp": "삼성",
+      "cum_avg": 0.27,
+      "cum_ops": 0.81,
+      "site_cum_avg": "0.270"
+    },
+    {
+      "date": "2026-06-25",
+      "opp": "삼성",
+      "cum_avg": 0.268,
+      "cum_ops": 0.817,
+      "site_cum_avg": "0.268"
+    },
+    {
+      "date": "2026-06-26",
+      "opp": "롯데",
+      "cum_avg": 0.265,
+      "cum_ops": 0.811,
+      "site_cum_avg": "0.265"
+    },
+    {
+      "date": "2026-06-27",
+      "opp": "롯데",
+      "cum_avg": 0.263,
+      "cum_ops": 0.806,
+      "site_cum_avg": "0.263"
+    },
+    {
+      "date": "2026-06-28",
+      "opp": "롯데",
+      "cum_avg": 0.263,
+      "cum_ops": 0.806,
+      "site_cum_avg": "0.263"
+    },
+    {
+      "date": "2026-06-30",
+      "opp": "키움",
+      "cum_avg": 0.262,
+      "cum_ops": 0.802,
+      "site_cum_avg": "0.262"
+    },
+    {
+      "date": "2026-07-01",
+      "opp": "키움",
+      "cum_avg": 0.263,
+      "cum_ops": 0.803,
+      "site_cum_avg": "0.263"
+    },
+    {
+      "date": "2026-07-02",
+      "opp": "키움",
+      "cum_avg": 0.267,
+      "cum_ops": 0.808,
+      "site_cum_avg": "0.267"
+    },
+    {
+      "date": "2026-07-03",
+      "opp": "한화",
+      "cum_avg": 0.266,
+      "cum_ops": 0.808,
+      "site_cum_avg": "0.266"
+    },
+    {
+      "date": "2026-07-04",
+      "opp": "한화",
+      "cum_avg": 0.261,
+      "cum_ops": 0.795,
+      "site_cum_avg": "0.261"
+    },
+    {
+      "date": "2026-07-07",
+      "opp": "삼성",
+      "cum_avg": 0.26,
+      "cum_ops": 0.789,
+      "site_cum_avg": "0.260"
+    },
+    {
+      "date": "2026-07-08",
+      "opp": "삼성",
+      "cum_avg": 0.259,
+      "cum_ops": 0.78,
+      "site_cum_avg": "0.259"
+    },
+    {
+      "date": "2026-07-09",
+      "opp": "삼성",
+      "cum_avg": 0.254,
+      "cum_ops": 0.766,
+      "site_cum_avg": "0.254"
+    }
+  ]
+}

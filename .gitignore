@@ -1,0 +1,20 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Env / secrets
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# 내부 기획/지시 문서 (공개 레포에는 미포함 — 로컬 보관용)
+CLAUDE_CODE_*.md
+KBO_APP_PRD.md
+convene-docs/
+
+# 주의: data/ 는 커밋한다 (이력 축적)

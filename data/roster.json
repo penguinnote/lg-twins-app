@@ -1,0 +1,182 @@
+{
+  "team": "LG",
+  "updated": "2026-07-12",
+  "count": 29,
+  "hitter_count": 15,
+  "players": [
+    {
+      "playerId": "61101",
+      "name": "임찬규",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "63248",
+      "name": "함덕주",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "51526",
+      "name": "우강훈",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "61145",
+      "name": "이우찬",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "67143",
+      "name": "손주영",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "55130",
+      "name": "톨허스트",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "69134",
+      "name": "이정용",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "75867",
+      "name": "김진성",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "51154",
+      "name": "김진수",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "56146",
+      "name": "리오스",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "50157",
+      "name": "김윤식",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "55121",
+      "name": "박시원",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "55167",
+      "name": "김영우",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "55348",
+      "name": "웰스",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "79365",
+      "name": "박동원",
+      "position": "포수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "52154",
+      "name": "이주헌",
+      "position": "포수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "69102",
+      "name": "문보경",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "65207",
+      "name": "신민재",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "69100",
+      "name": "구본혁",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "51100",
+      "name": "이영빈",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "79109",
+      "name": "오지환",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "53123",
+      "name": "오스틴",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "50054",
+      "name": "천성호",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "52121",
+      "name": "문정빈",
+      "position": "내야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "68119",
+      "name": "문성주",
+      "position": "외야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "62415",
+      "name": "박해민",
+      "position": "외야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "66108",
+      "name": "홍창기",
+      "position": "외야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "68106",
+      "name": "이재원",
+      "position": "외야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "68110",
+      "name": "송찬의",
+      "position": "외야수",
+      "is_pitcher": false
+    }
+  ]
+}
