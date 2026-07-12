@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { api } from "../lib/api";
 import { useFetch } from "../hooks/useFetch";
+import { Container } from "../components/Container";
 import { NewsCard } from "../components/NewsCard";
 import { Sparkline } from "../components/Sparkline";
 import { Loading, ErrorState, Empty } from "../components/States";
@@ -14,41 +15,46 @@ export default function Home() {
   const roster = useFetch((o) => api.roster(o), []);
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-4">
-      <section className="mb-6">
-        <div className="mb-2 flex items-center justify-between">
-          <h2 className="text-base font-bold text-lg-ink">주목 선수</h2>
-          <Link to="/players" className="text-xs font-semibold text-lg-red">
-            전체 선수 →
-          </Link>
-        </div>
-        {roster.loading && <Loading />}
-        {roster.error && <ErrorState message={roster.error} />}
-        {roster.data && <FeaturedCard roster={roster.data} />}
-      </section>
+    <Container className="py-4 md:py-8">
+      {/* 모바일: 세로 스택 / 데스크톱: 2컬럼 그리드(좌 선수, 우 뉴스) */}
+      <div className="grid gap-6 md:grid-cols-2 md:gap-8">
+        <section>
+          <div className="mb-2 flex items-center justify-between">
+            <h2 className="text-base font-bold text-lg-ink md:text-lg">주목 선수</h2>
+            <Link to="/players" className="text-xs font-semibold text-lg-red">
+              전체 선수 →
+            </Link>
+          </div>
+          {roster.loading && <Loading />}
+          {roster.error && <ErrorState message={roster.error} />}
+          {roster.data && <FeaturedCard roster={roster.data} />}
+        </section>
 
-      <section>
-        <div className="mb-2 flex items-center justify-between">
-          <h2 className="text-base font-bold text-lg-ink">최신 뉴스</h2>
-          <Link to="/news" className="text-xs font-semibold text-lg-red">
-            더보기 →
-          </Link>
-        </div>
-        {news.loading && <Loading />}
-        {news.error && <ErrorState message={news.error} />}
-        {news.data && (
-          news.data.items?.length ? (
-            <div className="flex flex-col gap-2">
-              {news.data.items.slice(0, 4).map((it) => (
-                <NewsCard key={`${it.oid}-${it.aid}`} item={it} />
-              ))}
-            </div>
-          ) : (
-            <Empty label="뉴스가 아직 없습니다." />
-          )
-        )}
-      </section>
-    </div>
+        <section>
+          <div className="mb-2 flex items-center justify-between">
+            <h2 className="text-base font-bold text-lg-ink md:text-lg">최신 뉴스</h2>
+            <Link to="/news" className="text-xs font-semibold text-lg-red">
+              더보기 →
+            </Link>
+          </div>
+          {news.loading && <Loading />}
+          {news.error && <ErrorState message={news.error} />}
+          {news.data &&
+            (news.data.items?.length ? (
+              <div className="flex flex-col gap-2">
+                {news.data.items.slice(0, 6).map((it, i) => (
+                  // 모바일은 4건 유지, 데스크톱(md+)에서만 5~6번째 노출
+                  <div key={`${it.oid}-${it.aid}`} className={i >= 4 ? "hidden md:block" : ""}>
+                    <NewsCard item={it} />
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <Empty label="뉴스가 아직 없습니다." />
+            ))}
+        </section>
+      </div>
+    </Container>
   );
 }
 
@@ -66,11 +72,11 @@ function FeaturedCard({ roster }) {
   return (
     <Link
       to={`/players?id=${featured.playerId}`}
-      className="block rounded-2xl border border-gray-100 bg-white p-4 active:bg-lg-soft"
+      className="block rounded-2xl border border-gray-100 bg-white p-4 active:bg-lg-soft md:p-6 md:transition-shadow md:hover:shadow-md"
     >
       <div className="flex items-center justify-between">
         <div>
-          <p className="text-lg font-extrabold text-lg-ink">{featured.name}</p>
+          <p className="text-lg font-extrabold text-lg-ink md:text-xl">{featured.name}</p>
           <p className="text-xs text-gray-400">{featured.position} · LG 트윈스</p>
         </div>
         {player.data && (
@@ -80,14 +86,16 @@ function FeaturedCard({ roster }) {
           </div>
         )}
       </div>
-      <div className="mt-3">
-        {player.loading && <div className="h-14" />}
+      <div className="mt-3 md:mt-5">
+        {player.loading && <div className="h-14 md:h-24" />}
         {player.error && <p className="py-4 text-center text-xs text-gray-400">스탯을 불러오지 못했습니다.</p>}
         {player.data?.series?.length ? (
-          <Sparkline series={player.data.series} dataKey="cum_avg" />
+          <div className="h-14 md:h-28">
+            <Sparkline series={player.data.series} dataKey="cum_avg" />
+          </div>
         ) : null}
       </div>
-      <p className="mt-1 text-center text-[11px] font-medium text-lg-red">
+      <p className="mt-1 text-center text-[11px] font-medium text-lg-red md:mt-3 md:text-xs">
         타율 시계열 자세히 보기 →
       </p>
     </Link>
@@ -97,7 +105,7 @@ function FeaturedCard({ roster }) {
 function Stat({ label, value }) {
   return (
     <div>
-      <p className="text-base font-black text-lg-ink">{value}</p>
+      <p className="text-base font-black text-lg-ink md:text-lg">{value}</p>
       <p className="text-[10px] text-gray-400">{label}</p>
     </div>
   );

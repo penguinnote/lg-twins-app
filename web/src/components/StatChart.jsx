@@ -53,7 +53,7 @@ export function StatChart({ series }) {
         )}
       </div>
 
-      <div className="h-60 w-full">
+      <div className="h-60 w-full md:h-[440px]">
         <ResponsiveContainer width="100%" height="100%">
           <AreaChart data={data} margin={{ top: 8, right: 6, left: -8, bottom: 0 }}>
             <defs>

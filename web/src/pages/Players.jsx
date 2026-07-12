@@ -1,9 +1,9 @@
 import { useSearchParams } from "react-router-dom";
 import { api } from "../lib/api";
 import { useFetch } from "../hooks/useFetch";
+import { Container } from "../components/Container";
 import { StatChart } from "../components/StatChart";
 import { Loading, ErrorState, Empty } from "../components/States";
-import { avgFmt } from "../lib/format";
 
 export default function Players() {
   const roster = useFetch((o) => api.roster(o), []);
@@ -17,16 +17,16 @@ export default function Players() {
   const select = (id) => setParams(id ? { id } : {}, { replace: true });
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-4">
-      <h1 className="mb-3 text-xl font-black text-lg-ink">선수 스탯</h1>
+    <Container className="py-4 md:py-8">
+      <h1 className="mb-3 text-xl font-black text-lg-ink md:mb-5 md:text-2xl">선수 스탯</h1>
 
       {roster.loading && <Loading />}
       {roster.error && <ErrorState message={roster.error} onRetry={() => location.reload()} />}
 
       {roster.data && (
         <>
-          {/* 타자 선택 칩 */}
-          <div className="-mx-4 mb-4 flex gap-2 overflow-x-auto px-4 pb-1">
+          {/* 타자 선택 — 모바일: 가로 스크롤 / 데스크톱: 줄바꿈으로 전부 노출 */}
+          <div className="-mx-4 mb-4 flex gap-2 overflow-x-auto px-4 pb-1 md:mx-0 md:mb-6 md:flex-wrap md:overflow-visible md:px-0">
             {hitters.map((p) => (
               <button
                 key={p.playerId}
@@ -34,7 +34,7 @@ export default function Players() {
                 className={`shrink-0 rounded-full border px-3.5 py-1.5 text-sm font-semibold transition-colors ${
                   current?.playerId === p.playerId
                     ? "border-lg-red bg-lg-red text-white"
-                    : "border-gray-200 bg-white text-gray-600"
+                    : "border-gray-200 bg-white text-gray-600 hover:border-lg-red hover:text-lg-red"
                 }`}
               >
                 {p.name}
@@ -49,7 +49,7 @@ export default function Players() {
           )}
         </>
       )}
-    </div>
+    </Container>
   );
 }
 
@@ -60,14 +60,14 @@ function PlayerPanel({ player }) {
   );
 
   return (
-    <div className="rounded-2xl border border-gray-100 bg-white p-4">
-      <div className="mb-3 flex items-baseline justify-between">
+    <div className="rounded-2xl border border-gray-100 bg-white p-4 md:p-8">
+      <div className="mb-3 flex items-baseline justify-between md:mb-5">
         <div>
-          <h2 className="text-lg font-extrabold text-lg-ink">{player.name}</h2>
-          <p className="text-xs text-gray-400">{player.position} · LG 트윈스</p>
+          <h2 className="text-lg font-extrabold text-lg-ink md:text-2xl">{player.name}</h2>
+          <p className="text-xs text-gray-400 md:text-sm">{player.position} · LG 트윈스</p>
         </div>
         {data && (
-          <p className="text-xs text-gray-400">
+          <p className="text-xs text-gray-400 md:text-sm">
             {data.season} 시즌 · {data.games}경기
           </p>
         )}

@@ -7,7 +7,7 @@ export function Sparkline({ series, dataKey = "cum_avg" }) {
   const max = Math.max(...values);
   const pad = (max - min) * 0.2 || 0.02;
   return (
-    <div className="h-14 w-full">
+    <div className="h-full w-full">
       <ResponsiveContainer width="100%" height="100%">
         <AreaChart data={series} margin={{ top: 4, right: 0, left: 0, bottom: 0 }}>
           <defs>

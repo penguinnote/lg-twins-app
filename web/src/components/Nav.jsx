@@ -6,24 +6,42 @@ const tabs = [
   { to: "/players", label: "선수", icon: ChartIcon },
 ];
 
+// 상단바 — 데스크톱(md+)에서는 우측에 네비게이션을 함께 노출한다.
 export function TopBar() {
   return (
     <header className="sticky top-0 z-10 border-b border-gray-100 bg-white/90 backdrop-blur">
-      <div className="mx-auto flex h-14 max-w-2xl items-center gap-2 px-4">
+      <div className="mx-auto flex h-14 max-w-2xl items-center gap-2 px-4 md:h-16 md:max-w-6xl md:px-8">
         <span className="grid h-7 w-7 place-items-center rounded-md bg-lg-red text-[13px] font-black italic text-white">
           LG
         </span>
         <span className="text-[15px] font-extrabold tracking-tight text-lg-ink">
           트윈스 <span className="font-medium text-gray-400">팬</span>
         </span>
+        <nav className="ml-auto hidden items-center gap-1 md:flex">
+          {tabs.map(({ to, label, end }) => (
+            <NavLink
+              key={to}
+              to={to}
+              end={end}
+              className={({ isActive }) =>
+                `rounded-full px-4 py-2 text-sm font-semibold transition-colors ${
+                  isActive ? "bg-lg-soft text-lg-red" : "text-gray-500 hover:text-lg-ink"
+                }`
+              }
+            >
+              {label}
+            </NavLink>
+          ))}
+        </nav>
       </div>
     </header>
   );
 }
 
+// 하단 탭바 — 모바일 전용(md+에서는 상단 네비로 대체하므로 숨김).
 export function BottomNav() {
   return (
-    <nav className="safe-b sticky bottom-0 z-10 border-t border-gray-100 bg-white">
+    <nav className="safe-b sticky bottom-0 z-10 border-t border-gray-100 bg-white md:hidden">
       <div className="mx-auto flex max-w-2xl">
         {tabs.map(({ to, label, icon: Icon, end }) => (
           <NavLink
