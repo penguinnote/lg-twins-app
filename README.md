@@ -7,10 +7,10 @@
   <img alt="React" src="https://img.shields.io/badge/React-web-61DAFB?logo=react&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python-pipeline-3776AB?logo=python&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-daily-2088FF?logo=githubactions&logoColor=white">
-  <img alt="status" src="https://img.shields.io/badge/status-WIP-orange">
+  <img alt="status" src="https://img.shields.io/badge/MVP%20live-brightgreen">
 </p>
 
-🔗 **Live demo:** _Phase 1에서 추가 예정_
+🔗 **Live demo:** https://lg-twins-app.vercel.app/
 📄 **문서:** [기획](docs/PLANNING.md) · [디자인](docs/DESIGN.md) · [아키텍처](docs/ARCHITECTURE.md)
 
 ---
@@ -71,7 +71,7 @@ JSON으로 떨구고 웹사이트가 이를 읽는다. GitHub Actions로 매일 
 ## 로드맵
 
 - [x] **Phase 0** — 데이터 파이프라인 + 매일 자동 수집. 로스터 이동 이력 축적 시작.
-- [ ] **Phase 1 (MVP)** — 뉴스 + 시계열 그래프 웹사이트. 친구들에게 배포해 검증.
+- [x] **Phase 1 (MVP)** — 뉴스 + 시계열 그래프 웹사이트 배포 완료 (Vercel). 친구 검증 진행 중.
 - [ ] **Phase 2** — 로스터 이동 탭 + LLM 사유 생성.
 - [ ] **Phase 3** — (선택) 승부 예측 모델, 알림.
 
