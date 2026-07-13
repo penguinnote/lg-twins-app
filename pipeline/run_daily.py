@@ -11,7 +11,7 @@ from __future__ import annotations
 import sys
 
 from .common import polite_sleep, load_json, log, DATA
-from . import roster, news, moves, timeseries
+from . import roster, news, moves, timeseries, pitcher
 
 
 def main() -> int:
@@ -43,7 +43,7 @@ def main() -> int:
         failures.append("moves")
     polite_sleep()
 
-    # 4) 타자 시계열 (투수 제외, 선수별 격리)
+    # 4) 타자 시계열 + 트윈스 코인 (선수별 격리)
     hitters = [p for p in players if not p.get("is_pitcher")]
     ok = 0
     for p in hitters:
@@ -51,12 +51,27 @@ def main() -> int:
         try:
             data = timeseries.update_player(pid)
             ok += 1
-            log.info("  timeseries %s(%s): %d경기", p.get("name"), pid, data["games"])
+            log.info("  타자 %s(%s): %d경기", p.get("name"), pid, data["games"])
         except Exception as e:
-            log.warning("  timeseries 실패 %s(%s): %s", p.get("name"), pid, e)
+            log.warning("  타자 실패 %s(%s): %s", p.get("name"), pid, e)
             failures.append(f"player:{pid}")
         polite_sleep()
-    log.info("timeseries: %d/%d 선수 성공", ok, len(hitters))
+    log.info("타자: %d/%d 성공", ok, len(hitters))
+
+    # 5) 투수 게임로그 + 트윈스 코인 (선수별 격리)
+    pitchers = [p for p in players if p.get("is_pitcher")]
+    okp = 0
+    for p in pitchers:
+        pid = p["playerId"]
+        try:
+            data = pitcher.update_pitcher(pid)
+            okp += 1
+            log.info("  투수 %s(%s): %d등판", p.get("name"), pid, data["games"])
+        except Exception as e:
+            log.warning("  투수 실패 %s(%s): %s", p.get("name"), pid, e)
+            failures.append(f"player:{pid}")
+        polite_sleep()
+    log.info("투수: %d/%d 성공", okp, len(pitchers))
 
     if failures:
         log.warning("완료 (일부 실패: %s)", ", ".join(failures))

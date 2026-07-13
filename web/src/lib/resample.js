@@ -48,3 +48,35 @@ export const METRICS = [
   { key: "cum_avg", label: "타율", digits: 3 },
   { key: "cum_ops", label: "OPS", digits: 3 },
 ];
+
+/**
+ * 코인 캔들 리샘플링. [{date, opp, open, close, value}] (오름차순 가정).
+ * 각 기간: open=첫 캔들 open, close=마지막 캔들 close, value=합, 날짜=마지막.
+ */
+export function resampleCandles(candles, mode) {
+  if (!Array.isArray(candles)) return [];
+  const groups = new Map();
+  for (const c of candles) {
+    const k = keyOf(c.date, mode);
+    if (!groups.has(k)) groups.set(k, []);
+    groups.get(k).push(c);
+  }
+  return Array.from(groups.values())
+    .map((g) => ({
+      date: g[g.length - 1].date,
+      opp: g[g.length - 1].opp,
+      open: g[0].open,
+      close: g[g.length - 1].close,
+      value: g.reduce((s, x) => s + (x.value || 0), 0),
+    }))
+    .sort((a, b) => (a.date < b.date ? -1 : 1));
+}
+
+/** 종가 이동평균(window). */
+export function movingAvg(candles, window = 5) {
+  return candles.map((_, i) => {
+    const seg = candles.slice(Math.max(0, i - window + 1), i + 1);
+    const m = seg.reduce((s, x) => s + x.close, 0) / seg.length;
+    return Math.round(m * 100) / 100;
+  });
+}

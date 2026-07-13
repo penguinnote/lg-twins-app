@@ -33,12 +33,13 @@
 
 ## 스크린샷
 
-| 홈 (뉴스 + 주목 선수) | 뉴스 피드 | 선수 스탯 시계열 (핵심) |
+| 홈 — 트윈스 코인 시세판 | 타자 코인 (캔들) | 투수 코인 (캔들) |
 |:--:|:--:|:--:|
-| <img src="docs/screenshots/home.png" width="240"> | <img src="docs/screenshots/news.png" width="240"> | <img src="docs/screenshots/player_parkhaemin.png" width="240"> |
+| <img src="docs/screenshots/home.png" width="240"> | <img src="docs/screenshots/player_coin_hitter.png" width="240"> | <img src="docs/screenshots/player_coin_pitcher.png" width="240"> |
 
-> 선수 화면은 타율/OPS를 **주식 차트처럼** 시간 축으로 보여준다. **일별·주별·월별** 토글로
-> 성장·슬럼프 흐름을 읽는다. (위: 박해민 — 시즌 초 대비 타율 상승 곡선)
+> **트윈스 코인** — 경기별 박스스코어로 계산한 선수 가치를 **코인 시세**처럼 보여준다.
+> 잘한 경기=상승(빨강·떡상), 못한 경기=하락(파랑·떡락). 캔들 = 그날 기여, 이동평균 = 추세.
+> 일별·주별·월별 토글. (자세한 계산: [docs/VALUE_MODEL.md](docs/VALUE_MODEL.md))
 
 ## 아키텍처 (요약)
 

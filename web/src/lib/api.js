@@ -1,8 +1,11 @@
 // 데이터 접근 — 파이프라인이 매일 커밋하는 raw GitHub JSON을 런타임에 읽는다(재배포 불필요).
 // 프론트는 읽기 전용. 뉴스 본문은 저장하지 않으므로 항상 원문 링크로만 보낸다.
 
-export const BASE =
-  "https://raw.githubusercontent.com/penguinnote/lg-twins-app/main/data";
+// 프로덕션: 파이프라인이 매일 커밋하는 raw GitHub JSON.
+// 개발(npm run dev): 로컬 data/ (public/data 심링크)로 최신 산출 즉시 확인.
+export const BASE = import.meta.env.DEV
+  ? "/data"
+  : "https://raw.githubusercontent.com/penguinnote/lg-twins-app/main/data";
 
 /**
  * JSON 하나를 fetch. 실패 시 명확한 Error를 던져 호출부(useFetch)가 에러 상태로 처리.

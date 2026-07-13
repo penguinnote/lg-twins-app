@@ -13,6 +13,7 @@ import datetime as dt
 from bs4 import BeautifulSoup
 
 from .common import make_session, save_json, log, PLAYERS
+from .value_model import hitter_value, build_candles, coin_block
 
 URL = "https://www.koreabaseball.com/Record/Player/HitterDetail/Daily.aspx?playerId={pid}"
 COLS = ["date", "opp", "avg_g", "PA", "AB", "R", "H", "2B", "3B", "HR",
@@ -44,7 +45,7 @@ def build_series(pid: str, year: int | None = None) -> dict:
             games.append(dict(zip(COLS, cells)))
 
     cum = {k: 0 for k in ["AB", "H", "2B", "3B", "HR", "BB", "HBP"]}
-    series = []
+    series, valued = [], []
     for g in games:
         for k in cum:
             cum[k] += _num(g[k])
@@ -54,20 +55,28 @@ def build_series(pid: str, year: int | None = None) -> dict:
         avg = round(h / ab, 3) if ab else 0.0
         obp = (h + cum["BB"] + cum["HBP"]) / obp_den if obp_den else 0.0
         slg = tb / ab if ab else 0.0
+        date = f"{year}-{g['date'].replace('.', '-')}"
         series.append({
-            "date": f"{year}-{g['date'].replace('.', '-')}",
+            "date": date,
             "opp": g["opp"],
             "cum_avg": avg,
             "cum_ops": round(obp + slg, 3),
             "site_cum_avg": g["avg_cum"],   # 교차검증용(사이트 누적)
         })
+        # 트윈스 코인 — 그날 타격 가치(runs)
+        stats = {k: _num(g[k]) for k in ["AB", "H", "2B", "3B", "HR", "BB", "HBP", "SB", "CS"]}
+        valued.append({"date": date, "opp": g["opp"], "value": hitter_value(stats)})
+
+    candles = build_candles(valued)
     return {
         "playerId": pid,
         "season": year,
+        "is_pitcher": False,
         "games": len(series),
         "updated": dt.datetime.now().isoformat(timespec="seconds"),
         "totals": {k: cum[k] for k in cum},
         "series": series,
+        "coin": coin_block(candles),
     }
 
 

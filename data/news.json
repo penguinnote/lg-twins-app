@@ -1,55 +1,87 @@
 {
   "team": "LG",
-  "updated": "2026-07-12T11:25:46",
-  "count": 6,
+  "updated": "2026-07-13T13:58:21",
+  "count": 10,
   "items": [
     {
-      "title": "\"불펜 용병은 사치다\" LG 팬들, 리오스 교체 촉구...\"고우석 복귀 예상하고 영입한 듯\"",
-      "url": "https://n.news.naver.com/mnews/article/425/0000198756",
-      "datetime": "2026.07.12 17:10",
+      "title": "삼성은 ML 선발전문 데려왔는데... 161㎞ 외국인 불펜 영입 '신의 한수'일까 '후회의 패착'일까",
+      "url": "https://n.news.naver.com/mnews/article/076/0004425230",
+      "datetime": "2026.07.13 12:30",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004425230"
+    },
+    {
+      "title": "[SW인터뷰] 흔들리는 LG?…‘트중박’ 박해민이 있기에 든든하다",
+      "url": "https://n.news.naver.com/mnews/article/396/0000749496",
+      "datetime": "2026.07.13 11:41",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000749496"
+    },
+    {
+      "title": "전반기 2위? ‘디펜딩 챔프’ LG는 걱정 없다…2025시즌 ‘대역전’ 기억, 올해 재현 노린다 [SS포커스]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001253331",
+      "datetime": "2026.07.13 11:13",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001253331"
+    },
+    {
+      "title": "전반기 목표에 -1, LG 후반기 +11 통합 2연패를 바라본다",
+      "url": "https://n.news.naver.com/mnews/article/241/0003519688",
+      "datetime": "2026.07.13 11:05",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003519688"
+    },
+    {
+      "title": "홈어드밴티지 실체 있다? 없다?···LG, 홈승률은 만드는 것이다",
+      "url": "https://n.news.naver.com/mnews/article/144/0001125830",
+      "datetime": "2026.07.13 10:31",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001125830"
+    },
+    {
+      "title": "오러클린이 남기고 간 경고장, 웰스는 ‘긴 여름’과 '100이닝'을 버틸 수 있을까",
+      "url": "https://n.news.naver.com/mnews/article/445/0000438506",
+      "datetime": "2026.07.13 10:05",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000438506"
+    },
+    {
+      "title": "FA 계약 이후 전반기 최고 성적 찍었는데…LG 캡틴, 왜 “70~80점 정도다” 했을까",
+      "url": "https://n.news.naver.com/mnews/article/109/0005570583",
+      "datetime": "2026.07.13 07:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005570583"
+    },
+    {
+      "title": "“작년처럼 좋은 결과 낼 것”…LG 후반기 선전 예고한 ‘트윈스 역대 최고의 외국인 타자’ 오스틴 [MK인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/410/0001132264",
+      "datetime": "2026.07.13 07:41",
+      "office": "MK스포츠 ",
+      "oid": "410",
+      "aid": "0001132264"
+    },
+    {
+      "title": "우승 조준한 삼성 '핵잠수함' vs 불 끄기 급급한 LG '소방수'…외인 투수 영입전 누가 승리?",
+      "url": "https://n.news.naver.com/mnews/article/425/0000198896",
+      "datetime": "2026.07.13 04:32",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000198756"
+      "aid": "0000198896"
     },
     {
-      "title": "“잠실돔 외야가 작아지면…저 말고 다 좋아하지 않을까요?” 박해민 안타도둑 명성 끝? 2032년, 현역으로 입성하면 폭풍박수",
-      "url": "https://n.news.naver.com/mnews/article/117/0004084172",
-      "datetime": "2026.07.12 15:46",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004084172"
-    },
-    {
-      "title": "\"투수와 싸워\" 아내의 일침, 홍창기 무엇을 바꿨을까…염경엽 감독이 본 출루왕 부활 비결",
-      "url": "https://n.news.naver.com/mnews/article/477/0000617888",
-      "datetime": "2026.07.12 11:44",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000617888"
-    },
-    {
-      "title": "\"ML서 성공한다고 꼭 KBO서 성공하는 건 아냐\"…LG 최초 역사 바라보는 '잠실 오씨' 오스틴, 왜 적응 강조했나 [올스타전]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002033056",
-      "datetime": "2026.07.12 09:01",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002033056"
-    },
-    {
-      "title": "\"이래서 강팀이다\"…주전들 줄줄이 부상 이탈에도 '굳건한 3강'",
-      "url": "https://n.news.naver.com/mnews/article/586/0000133565",
-      "datetime": "2026.07.12 09:00",
-      "office": "시사저널",
-      "oid": "586",
-      "aid": "0000133565"
-    },
-    {
-      "title": "감독 무릎 꿇게한 우승 청부사→긁히면 에이스, 아니면 5선발 롤러코스터…'면담 효과' 후반기엔 나올까",
-      "url": "https://n.news.naver.com/mnews/article/477/0000617847",
-      "datetime": "2026.07.12 05:50",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000617847"
+      "title": "‘왕조건설’ 꿈꾸는 LG…더 강해져야 한다 [김대호의 야구생각]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000515347",
+      "datetime": "2026.07.13 00:01",
+      "office": "더팩트",
+      "oid": "629",
+      "aid": "0000515347"
     }
   ]
 }

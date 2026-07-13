@@ -3,3 +3,6 @@ dist/
 .vite/
 *.local
 .DS_Store
+
+# 로컬 개발용 데이터 심링크(커밋 안 함)
+public/data
