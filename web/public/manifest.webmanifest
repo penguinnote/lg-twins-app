@@ -1,0 +1,14 @@
+{
+  "name": "트윈스 코인",
+  "short_name": "트윈스 코인",
+  "description": "LG 트윈스 선수 가치를 코인 시세처럼 — 경기별 캔들 차트.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C4012F",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

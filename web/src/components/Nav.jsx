@@ -1,4 +1,5 @@
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
+import { CoinLogo } from "./CoinLogo";
 
 const tabs = [
   { to: "/", label: "홈", icon: HomeIcon, end: true },
@@ -6,28 +7,29 @@ const tabs = [
   { to: "/players", label: "선수", icon: ChartIcon },
 ];
 
-// 상단바 — full-bleed 레드→다크 그라데이션 밴드(화면 끝까지), 콘텐츠는 컨테이너 정렬.
+// 상단바 — full-bleed 레드 밴드(화면 끝까지). 중앙에 코인 로고 + "트윈스 코인",
+// 그 아래 네비(데스크톱, 활성=흰색 밑줄). 모바일은 브랜드만(네비는 하단 탭).
 export function TopBar() {
   return (
     <header className="sticky top-0 z-20 w-full bg-gradient-to-r from-lg-crimson via-lg-red to-lg-crimson shadow-sm">
-      <div className="mx-auto flex h-14 max-w-2xl items-center gap-2 px-4 md:h-16 md:max-w-7xl md:px-8 2xl:max-w-[1700px]">
-        <span className="grid h-7 w-7 place-items-center rounded-md bg-white text-[13px] font-black italic text-lg-red">
-          LG
-        </span>
-        <span className="text-[15px] font-extrabold tracking-tight text-white">
-          트윈스 <span className="font-medium text-white/70">팬</span>
-        </span>
-        <nav className="ml-auto hidden items-center gap-1 md:flex">
+      <div className="mx-auto flex max-w-7xl flex-col items-center px-4 py-3 md:py-4 2xl:max-w-[1700px]">
+        <Link to="/" className="flex items-center gap-2.5">
+          <CoinLogo className="h-11 w-11 md:h-[52px] md:w-[52px]" />
+          <span className="text-2xl font-black tracking-tight text-white md:text-[32px]">
+            트윈스 코인
+          </span>
+        </Link>
+        <nav className="mt-2.5 hidden items-center gap-7 md:flex">
           {tabs.map(({ to, label, end }) => (
             <NavLink
               key={to}
               to={to}
               end={end}
               className={({ isActive }) =>
-                `rounded-full px-4 py-2 text-sm font-semibold transition-colors ${
+                `border-b-2 pb-1 text-sm font-semibold transition-colors ${
                   isActive
-                    ? "bg-white/20 text-white"
-                    : "text-white/75 hover:bg-white/10 hover:text-white"
+                    ? "border-white text-white"
+                    : "border-transparent text-white/70 hover:text-white"
                 }`
               }
             >
