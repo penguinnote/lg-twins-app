@@ -7,29 +7,29 @@ const tabs = [
   { to: "/players", label: "선수", icon: ChartIcon },
 ];
 
-// 상단바 — full-bleed 레드 밴드(화면 끝까지). 중앙에 코인 로고 + "트윈스 코인",
-// 그 아래 네비(데스크톱, 활성=흰색 밑줄). 모바일은 브랜드만(네비는 하단 탭).
+// 상단바 — full-bleed 레드 밴드(화면 끝까지). 좌: 코인로고 + 이탤릭 "트윈스 코인",
+// 우: 탭 알약(활성=흰 배경+빨강 글자 / 비활성=흰 글자+반투명 외곽선). 모바일은 브랜드만(탭은 하단).
 export function TopBar() {
   return (
     <header className="sticky top-0 z-20 w-full bg-gradient-to-r from-lg-crimson via-lg-red to-lg-crimson shadow-sm">
-      <div className="mx-auto flex max-w-7xl flex-col items-center px-4 py-3 md:py-4 2xl:max-w-[1700px]">
-        <Link to="/" className="flex items-center gap-2.5">
-          <CoinLogo className="h-11 w-11 md:h-[52px] md:w-[52px]" />
-          <span className="text-2xl font-black tracking-tight text-white md:text-[32px]">
-            트윈스 코인
+      <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-8 md:py-4 2xl:max-w-[1700px]">
+        <Link to="/" className="flex items-center gap-3">
+          <CoinLogo className="h-14 w-14 md:h-16 md:w-16" />
+          <span className="text-2xl italic tracking-tight text-white md:text-[30px]">
+            <span className="font-black">트윈스 코인</span>
           </span>
         </Link>
-        <nav className="mt-2.5 hidden items-center gap-7 md:flex">
+        <nav className="hidden items-center gap-3 md:flex">
           {tabs.map(({ to, label, end }) => (
             <NavLink
               key={to}
               to={to}
               end={end}
               className={({ isActive }) =>
-                `border-b-2 pb-1 text-sm font-semibold transition-colors ${
+                `rounded-full px-5 py-2 text-sm font-bold transition-colors ${
                   isActive
-                    ? "border-white text-white"
-                    : "border-transparent text-white/70 hover:text-white"
+                    ? "bg-white text-lg-red shadow-sm"
+                    : "border border-white/60 text-white hover:bg-white/10"
                 }`
               }
             >
