@@ -11,7 +11,7 @@ from __future__ import annotations
 import sys
 
 from .common import polite_sleep, load_json, log, DATA
-from . import roster, news, moves, timeseries, pitcher
+from . import roster, moves, timeseries, pitcher  # news는 news.yml이 전담
 
 
 def main() -> int:
@@ -27,13 +27,7 @@ def main() -> int:
         # 로스터 갱신 실패 시 기존 roster.json으로 시계열이라도 시도
         players = load_json(DATA / "roster.json", {}).get("players", [])
 
-    # 2) 뉴스
-    try:
-        news.update_news()
-    except Exception as e:
-        log.exception("news 실패: %s", e)
-        failures.append("news")
-    polite_sleep()
+    # 2) 뉴스는 news.yml(매시간)이 전담한다 → run_daily에서는 실행하지 않음(중복 커밋 방지).
 
     # 3) 등록/말소 이력 (오늘부터 축적 — 소급 불가라 최우선 신뢰성)
     try:

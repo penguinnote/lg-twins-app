@@ -1,0 +1,46 @@
+name: news-hourly
+
+# 뉴스만 매시간 갱신(가벼움). 스탯/코인 스크래퍼는 실행하지 않는다.
+on:
+  schedule:
+    # KST 06~23시 매정시 = UTC 0~14시(KST 09~23) + UTC 21~23시(KST 06~08)
+    - cron: "0 0-14,21-23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-hourly
+  cancel-in-progress: false
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update news only
+        run: python -m pipeline.news
+
+      - name: Commit news.json if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --cached --quiet; then
+            echo "news.json 변경 없음 — 커밋 스킵"
+          else
+            git commit -m "chore(news): 시간별 갱신 $(date -u +%Y-%m-%dT%H:%MZ)"
+            # 동시에 도는 daily.yml과의 경쟁 대비(디스조인트 파일이라 rebase 깔끔)
+            git pull --rebase --autostash origin main
+            git push
+          fi
