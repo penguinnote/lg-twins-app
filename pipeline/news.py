@@ -80,6 +80,13 @@ def update_news() -> list[dict]:
     prev = load_json(DATA / "news.json", {}).get("items", [])
     carried = _carryover(today, prev)
     items = today + carried                                  # 오늘(최신) 뒤에 유지분
+
+    # 내용(items)이 그대로면 파일을 다시 쓰지 않는다 → 매시간 실행이라도 불필요한
+    # 커밋(타임스탬프만 바뀌는)이 쌓이지 않게 한다. workflow의 git diff가 스킵을 판단.
+    if items == prev:
+        log.info("news: 변경 없음(오늘 %d + 유지 %d) — 파일 유지", len(today), len(carried))
+        return items
+
     save_json(DATA / "news.json", {
         "team": TEAM_CODE,
         "updated": dt.datetime.now().isoformat(timespec="seconds"),
@@ -87,7 +94,7 @@ def update_news() -> list[dict]:
         "carried_count": len(carried),
         "items": items,
     })
-    log.info("news: 오늘 %d건 + 유지 %d건 = %d건", len(today), len(carried), len(items))
+    log.info("news: 오늘 %d건 + 유지 %d건 = %d건 (갱신)", len(today), len(carried), len(items))
     return items
 
 
