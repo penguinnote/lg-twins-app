@@ -6,7 +6,7 @@ export function CoinLogo({ className = "" }) {
       viewBox="0 0 200 200"
       xmlns="http://www.w3.org/2000/svg"
       role="img"
-      aria-label="트윈스 코인"
+      aria-label="TWINS COIN"
       className={className}
     >
       <defs>

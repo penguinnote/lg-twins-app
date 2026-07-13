@@ -15,6 +15,7 @@ export default {
       },
       fontFamily: {
         sans: ["'Pretendard'", "system-ui", "-apple-system", "sans-serif"],
+        bebas: ["'Bebas Neue'", "sans-serif"],
       },
     },
   },

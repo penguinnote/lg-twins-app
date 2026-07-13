@@ -15,8 +15,8 @@ export function TopBar() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 md:px-8 md:py-4 2xl:max-w-[1700px]">
         <Link to="/" className="flex items-center gap-3">
           <CoinLogo className="h-14 w-14 md:h-16 md:w-16" />
-          <span className="text-2xl italic tracking-tight text-white md:text-[30px]">
-            <span className="font-black">트윈스 코인</span>
+          <span className="font-bebas text-[36px] leading-none tracking-[0.06em] text-white md:text-[44px]">
+            TWINS COIN
           </span>
         </Link>
         <nav className="hidden items-center gap-3 md:flex">
