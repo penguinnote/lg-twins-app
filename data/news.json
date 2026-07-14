@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-07-14T07:09:40",
-  "count": 20,
+  "updated": "2026-07-14T09:52:56",
+  "count": 23,
   "carried_count": 6,
   "items": [
+    {
+      "title": "“그게 목표긴 해요” LG 송찬의에겐 특별할 수밖에 없는 후반기와 한국시리즈",
+      "url": "https://n.news.naver.com/mnews/article/382/0001283242",
+      "datetime": "2026.07.14 17:39",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001283242"
+    },
+    {
+      "title": "‘2위로 전반기 마감’ LG 염경엽 감독 “후반기는 결국 변수 관리 싸움”",
+      "url": "https://n.news.naver.com/mnews/article/382/0001283235",
+      "datetime": "2026.07.14 17:05",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001283235"
+    },
+    {
+      "title": "\"천성호 거기선 초구가 맞다\" 선수 감싼 염경엽 감독, 팬들에게는 \"비난 수위 조금만…\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000618335",
+      "datetime": "2026.07.14 16:54",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000618335"
+    },
     {
       "title": "페덱이 콜 어빈만 아니라면...삼성-LG의 다른 승부수, 우승과 직결되는 '핵폭탄'",
       "url": "https://n.news.naver.com/mnews/article/076/0004425517",
