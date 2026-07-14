@@ -6,6 +6,7 @@ import { Container } from "../components/Container";
 import { CandleChart } from "../components/CandleChart";
 import { StatChart } from "../components/StatChart";
 import { StatusCard } from "../components/StatusCard";
+import { FollowButton } from "../components/FollowButton";
 import { Loading, ErrorState, Empty } from "../components/States";
 
 export default function Players() {
@@ -110,18 +111,21 @@ function PlayerPanel({ player }) {
             · LG 트윈스 {data ? `· ${data.season} ${data.games}경기` : ""}
           </p>
         </div>
-        <div className="inline-flex shrink-0 rounded-full bg-gray-100 p-0.5">
-          {modes.map(([k, label]) => (
-            <button
-              key={k}
-              onClick={() => setMode(k)}
-              className={`rounded-full px-3 py-1 text-xs font-semibold transition-colors ${
-                mode === k ? "bg-lg-red text-white" : "text-gray-500"
-              }`}
-            >
-              {label}
-            </button>
-          ))}
+        <div className="flex shrink-0 flex-col items-end gap-2">
+          <FollowButton playerId={player.playerId} />
+          <div className="inline-flex rounded-full bg-gray-100 p-0.5">
+            {modes.map(([k, label]) => (
+              <button
+                key={k}
+                onClick={() => setMode(k)}
+                className={`rounded-full px-3 py-1 text-xs font-semibold transition-colors ${
+                  mode === k ? "bg-lg-red text-white" : "text-gray-500"
+                }`}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
         </div>
       </div>
 

@@ -6,3 +6,11 @@ dist/
 
 # 로컬 개발용 데이터 심링크(커밋 안 함)
 public/data
+
+# Firebase 설정(비밀 아님이지만 환경별) — 예시만 커밋
+.env
+.env.*
+!.env.example
+
+# PWA 빌드 산출물
+dev-dist/

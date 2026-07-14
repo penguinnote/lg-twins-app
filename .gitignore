@@ -8,6 +8,10 @@ __pycache__/
 # Env / secrets
 .env
 .env.*
+# Firebase Admin 서비스계정 키 (GitHub Actions 시크릿으로만 — 절대 커밋 금지)
+*serviceAccount*.json
+*-firebase-adminsdk-*.json
+firebase-service-account*.json
 
 # OS
 .DS_Store

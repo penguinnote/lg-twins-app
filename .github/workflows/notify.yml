@@ -1,0 +1,49 @@
+name: notify-evening
+
+# 저녁 경기 종료 후: 코인 파이프라인 갱신 → 변동분 커밋 → 코인 등락 알림 발송.
+on:
+  schedule:
+    - cron: "30 14 * * *" # 23:30 KST (UTC+9) = 14:30 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: notify-evening
+  cancel-in-progress: false
+
+jobs:
+  evening:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt firebase-admin
+
+      - name: Update coin/data (evening refresh)
+        run: python -m pipeline.run_daily
+
+      - name: Commit data changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "변경 없음"
+          else
+            git commit -m "chore(data): 저녁 수집 $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash origin main
+            git push
+          fi
+
+      - name: Send coin push
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: python -m pipeline.notify
