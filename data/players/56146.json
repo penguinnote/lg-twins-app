@@ -317,5 +317,48 @@
         "value": -1.8224
       }
     ]
+  },
+  "ratings": {
+    "OVR": 56,
+    "lowSample": false,
+    "axes": [
+      {
+        "key": "control",
+        "label": "제구",
+        "value": 2.93,
+        "rating": 72
+      },
+      {
+        "key": "strikeout",
+        "label": "탈삼진",
+        "value": 8.8,
+        "rating": 79
+      },
+      {
+        "key": "hits",
+        "label": "피안타억제",
+        "value": 0.224,
+        "rating": 80
+      },
+      {
+        "key": "homers",
+        "label": "장타억제",
+        "value": 1.17,
+        "rating": 29
+      },
+      {
+        "key": "innings",
+        "label": "이닝소화",
+        "value": 15.3,
+        "rating": 12
+      },
+      {
+        "key": "run_prevention",
+        "label": "실점억제",
+        "value": 3.92,
+        "rating": 65
+      }
+    ],
+    "type": "pitcher"
   }
 }

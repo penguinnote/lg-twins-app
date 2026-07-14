@@ -513,5 +513,48 @@
         "value": -0.2792
       }
     ]
+  },
+  "ratings": {
+    "OVR": 68,
+    "lowSample": false,
+    "axes": [
+      {
+        "key": "contact",
+        "label": "컨택",
+        "value": 0.313,
+        "rating": 88
+      },
+      {
+        "key": "power",
+        "label": "파워",
+        "value": 0.361,
+        "rating": 99
+      },
+      {
+        "key": "eye",
+        "label": "선구안",
+        "value": 0.106,
+        "rating": 64
+      },
+      {
+        "key": "speed",
+        "label": "주력",
+        "value": 2,
+        "rating": 51
+      },
+      {
+        "key": "avoidK",
+        "label": "삼진회피",
+        "value": 0.287,
+        "rating": 9
+      },
+      {
+        "key": "production",
+        "label": "생산성",
+        "value": 0.45,
+        "rating": 99
+      }
+    ],
+    "type": "hitter"
   }
 }

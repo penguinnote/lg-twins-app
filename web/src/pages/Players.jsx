@@ -5,6 +5,7 @@ import { useFetch } from "../hooks/useFetch";
 import { Container } from "../components/Container";
 import { CandleChart } from "../components/CandleChart";
 import { StatChart } from "../components/StatChart";
+import { StatusCard } from "../components/StatusCard";
 import { Loading, ErrorState, Empty } from "../components/States";
 
 export default function Players() {
@@ -91,9 +92,11 @@ function PlayerPanel({ player }) {
     (o) => api.player(player.playerId, o),
     [player.playerId]
   );
-  const [mode, setMode] = useState("coin"); // 'coin' | 'stat'
+  const [mode, setMode] = useState("coin"); // 'coin' | 'status' | 'stat'
   const isHitter = !player.is_pitcher;
-  const showStat = isHitter && mode === "stat";
+  const modes = isHitter
+    ? [["coin", "코인"], ["status", "상태창"], ["stat", "타율·OPS"]]
+    : [["coin", "코인"], ["status", "상태창"]];
 
   return (
     <div className="rounded-2xl border border-gray-100 bg-white p-4 md:p-8">
@@ -107,42 +110,44 @@ function PlayerPanel({ player }) {
             · LG 트윈스 {data ? `· ${data.season} ${data.games}경기` : ""}
           </p>
         </div>
-        {isHitter && (
-          <div className="inline-flex shrink-0 rounded-full bg-gray-100 p-0.5">
-            {[
-              ["coin", "코인"],
-              ["stat", "타율·OPS"],
-            ].map(([k, label]) => (
-              <button
-                key={k}
-                onClick={() => setMode(k)}
-                className={`rounded-full px-3 py-1 text-xs font-semibold transition-colors ${
-                  mode === k ? "bg-lg-red text-white" : "text-gray-500"
-                }`}
-              >
-                {label}
-              </button>
-            ))}
-          </div>
-        )}
+        <div className="inline-flex shrink-0 rounded-full bg-gray-100 p-0.5">
+          {modes.map(([k, label]) => (
+            <button
+              key={k}
+              onClick={() => setMode(k)}
+              className={`rounded-full px-3 py-1 text-xs font-semibold transition-colors ${
+                mode === k ? "bg-lg-red text-white" : "text-gray-500"
+              }`}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
       </div>
 
-      {loading && <Loading label="시세 불러오는 중…" />}
+      {loading && <Loading label="불러오는 중…" />}
       {error && <ErrorState message={error} />}
-      {data &&
-        (showStat ? (
-          data.series?.length ? <StatChart series={data.series} /> : <Empty label="기록 없음" />
-        ) : data.coin?.candles?.length ? (
+      {data && mode === "status" && (
+        <StatusCard player={player} ratings={data.ratings} />
+      )}
+      {data && mode === "stat" && (
+        data.series?.length ? <StatChart series={data.series} /> : <Empty label="기록 없음" />
+      )}
+      {data && mode === "coin" && (
+        data.coin?.candles?.length ? (
           <CandleChart candles={data.coin.candles} base={data.coin.base} />
         ) : (
           <Empty label="아직 경기 기록이 없습니다." />
-        ))}
+        )
+      )}
 
-      {/* 모델 투명성 고지 */}
-      <p className="mt-4 text-[11px] leading-relaxed text-gray-400">
-        ※ 박스스코어 기반 <b>타격·투구 기여 지수</b>입니다(WAR 아님). 수비·주루(SB/CS 외)·클러치·
-        레버리지는 KBO 공개데이터에 없어 제외했습니다. 단일 경기는 표본이 작아 추세(이동평균)로 보세요.
-      </p>
+      {/* 코인/타율 뷰의 투명성 고지(상태창은 자체 고지) */}
+      {mode !== "status" && (
+        <p className="mt-4 text-[11px] leading-relaxed text-gray-400">
+          ※ 박스스코어 기반 <b>타격·투구 기여 지수</b>입니다(WAR 아님). 수비·주루(SB/CS 외)·클러치·
+          레버리지는 KBO 공개데이터에 없어 제외했습니다. 단일 경기는 표본이 작아 추세(이동평균)로 보세요.
+        </p>
+      )}
     </div>
   );
 }

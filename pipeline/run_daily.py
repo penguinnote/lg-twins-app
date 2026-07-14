@@ -11,7 +11,7 @@ from __future__ import annotations
 import sys
 
 from .common import polite_sleep, load_json, log, DATA
-from . import roster, moves, timeseries, pitcher  # news는 news.yml이 전담
+from . import roster, moves, timeseries, pitcher, ratings  # news는 news.yml이 전담
 
 
 def main() -> int:
@@ -66,6 +66,13 @@ def main() -> int:
             failures.append(f"player:{pid}")
         polite_sleep()
     log.info("투수: %d/%d 성공", okp, len(pitchers))
+
+    # 6) 능력치 레이더 (리그 분포 수집 + LG 선수별 백분위 → player 파일 병합)
+    try:
+        ratings.update_ratings(players)
+    except Exception as e:
+        log.exception("ratings 실패: %s", e)
+        failures.append("ratings")
 
     if failures:
         log.warning("완료 (일부 실패: %s)", ", ".join(failures))
