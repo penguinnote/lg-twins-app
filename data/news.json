@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-07-14T22:53:42",
-  "count": 14,
+  "updated": "2026-07-15T01:55:40",
+  "count": 18,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG 송승기가 돌아온다, KT전 출격 대기 완료",
+      "url": "https://n.news.naver.com/mnews/article/241/0003520134",
+      "datetime": "2026.07.15 10:50",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003520134"
+    },
+    {
+      "title": "\"나도 오스틴, 켈리 같은 선수가 됐으면\" LG 우승 청부사가 돌아본 한국에서의 1년",
+      "url": "https://n.news.naver.com/mnews/article/477/0000618459",
+      "datetime": "2026.07.15 10:48",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000618459"
+    },
+    {
+      "title": "\"4월부터 선발 찾았다\"?...LG, 리오스를 바꾸겠다는건가, 톨허스트를 교체하겠다는 건가",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199011",
+      "datetime": "2026.07.15 10:01",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199011"
+    },
+    {
+      "title": "‘어떤 송승기일까’로 쓰고, ‘어떤 LG일까’로 읽는다",
+      "url": "https://n.news.naver.com/mnews/article/144/0001126251",
+      "datetime": "2026.07.15 09:00",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001126251"
+    },
     {
       "title": "투수 조장만 5년째, 임찬규 \"동생들아 힘내자\"",
       "url": "https://n.news.naver.com/mnews/article/241/0003520075",
