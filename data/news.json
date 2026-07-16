@@ -1,16 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-07-16T10:53:39",
-  "count": 41,
+  "updated": "2026-07-16T21:59:53",
+  "count": 11,
   "carried_count": 6,
   "items": [
+    {
+      "title": "\"좋은 투수 나오면 바꿀 수도\" 염갈량 의미심장 한마디, LG 후반기 선발진 변수 생기나 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004085410",
+      "datetime": "2026.07.17 06:32",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004085410"
+    },
+    {
+      "title": "‘대충격’ 우승팀 LG, 2경기 연속 9회 1사 만루 찬스 놓치다…전반기 마지막도, 후반기 첫 경기도 1점 차 패배 '악몽'",
+      "url": "https://n.news.naver.com/mnews/article/109/0005572765",
+      "datetime": "2026.07.17 05:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005572765"
+    },
+    {
+      "title": "염경엽 감독 \"외국인은 결과가 전부\" 강조했는데…톨허스트, 2회 4실점 와르르→후반기 첫 경기도 숙제만 남겼다 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002034868",
+      "datetime": "2026.07.17 03:44",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002034868"
+    },
+    {
+      "title": "리오스 두고 왈가왈부, 실패라고? 염경엽 생각은 확고하다…단 교체 가능성은 \"언제든 있다\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000618688",
+      "datetime": "2026.07.17 01:32",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000618688"
+    },
+    {
+      "title": "‘이럴 수가’ LG 초특급 신인, 무실점 행진이 6경기 만에 깨졌다…1사 만루 위기→첫 실점 아쉽네",
+      "url": "https://n.news.naver.com/mnews/article/109/0005572753",
+      "datetime": "2026.07.17 01:11",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005572753"
+    },
     {
       "title": "LG 오스틴, 후반기 첫 경기 첫 타석에서 시즌 28호 홈런...단독 1위",
       "url": "https://n.news.naver.com/mnews/article/472/0000040861",
       "datetime": "2026.07.16 19:15",
       "office": "스포츠타임스",
       "oid": "472",
-      "aid": "0000040861"
+      "aid": "0000040861",
+      "carried": true
     },
     {
       "title": "염갈량의 반문 \"외인 1이닝만 쓰고 싶은 팀이 어딨나?\"…리오스 선택에 후회 없다 [잠실 현장]",
@@ -18,7 +59,8 @@
       "datetime": "2026.07.16 19:14",
       "office": "엑스포츠뉴스",
       "oid": "311",
-      "aid": "0002034707"
+      "aid": "0002034707",
+      "carried": true
     },
     {
       "title": "후반기 첫 타석서 '177㎞ 대포' 쾅 오스틴, 김도영 제치고 홈런 단독 선두 [IS 잠실]",
@@ -26,7 +68,8 @@
       "datetime": "2026.07.16 19:09",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003520370"
+      "aid": "0003520370",
+      "carried": true
     },
     {
       "title": "LG 오스틴, 후반기 첫 타석서 시즌 28호포…홈런 단독 선두",
@@ -34,7 +77,8 @@
       "datetime": "2026.07.16 19:07",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009064498"
+      "aid": "0009064498",
+      "carried": true
     },
     {
       "title": "전반기만 놓고 보면 MVP는 따 논 당상인 LG 오스틴, 후반기 첫 타석에 솔로포 터뜨리며 홈런 부문 단독 선두 등극",
@@ -42,7 +86,8 @@
       "datetime": "2026.07.16 19:04",
       "office": "세계일보",
       "oid": "022",
-      "aid": "0004143692"
+      "aid": "0004143692",
+      "carried": true
     },
     {
       "title": "저점 찍어본 쌍둥이 방망이, 염경엽 감독의 진단 “문보경이 살아나야”",
@@ -50,292 +95,7 @@
       "datetime": "2026.07.16 19:01",
       "office": "스포츠월드",
       "oid": "396",
-      "aid": "0000749870"
-    },
-    {
-      "title": "'김도영 제치고 강백호 따라잡고!'…오스틴, 후반기 시작부터 솔로포→홈런 단독 선두 등극 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002034687",
-      "datetime": "2026.07.16 19:00",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002034687"
-    },
-    {
-      "title": "후반기 첫날 첫타석부터 쾅! KIA 김도영 보고있나? 오스틴이 한발 앞섰다 [잠실현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004426254",
-      "datetime": "2026.07.16 18:59",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004426254"
-    },
-    {
-      "title": "'도영아, 나 먼저 쳤다' LG 오스틴, 28호 홈런 터졌다. 홈런 단독 1위",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572455",
-      "datetime": "2026.07.16 18:58",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572455"
-    },
-    {
-      "title": "'홈런왕 경쟁' LG 오스틴, 후반기 첫 타석부터 대포 '쾅'…시즌 28호",
-      "url": "https://n.news.naver.com/mnews/article/003/0014072187",
-      "datetime": "2026.07.16 18:55",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014072187"
-    },
-    {
-      "title": "LG 오스틴, 후반기 첫 경기서 시즌 28호 홈런 '쾅'",
-      "url": "https://n.news.naver.com/mnews/article/001/0016199899",
-      "datetime": "2026.07.16 18:52",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016199899"
-    },
-    {
-      "title": "“LG, 삼성, KT 싸움이라고 본다” 염갈량, 우승 경쟁 포인트 “변수에 잘 대처하느냐가 관건”",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572441",
-      "datetime": "2026.07.16 18:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572441"
-    },
-    {
-      "title": "“포심은 안 던지는 게 맞다”…유튜버 지적에 직접 등판한 임찬규",
-      "url": "https://n.news.naver.com/mnews/article/468/0001254075",
-      "datetime": "2026.07.16 18:20",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001254075"
-    },
-    {
-      "title": "\"LG는 전반기에 바닥 찍었다\" 승차없는 2위에도 만족않는 염갈량의 진심 \"7명 중에 4명만 살아나면…송찬의 문정빈 있잖아\" [잠실포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004426208",
-      "datetime": "2026.07.16 18:05",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004426208"
-    },
-    {
-      "title": "좀 애매한 톨허스트, '우승 청부사' 작년 모습 어디 갔나…염경엽의 처방→후반기 첫 승으로 이어질까",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618653",
-      "datetime": "2026.07.16 18:03",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618653"
-    },
-    {
-      "title": "‘발가락 골절’ 송지만 코치, 3개월 만에 1군 돌아왔다…김용의 코치 1군 말소",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572403",
-      "datetime": "2026.07.16 17:35",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572403"
-    },
-    {
-      "title": "'드디어' LG 5선발이 제대로 돌아간다, 염갈량 고개 끄덕끄덕 \"전반기보다는 더 나은 시작\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085336",
-      "datetime": "2026.07.16 17:31",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085336"
-    },
-    {
-      "title": "“올해도 8월의 대질주 가능하다고 생각해요” LG ‘염갈량’ 염경엽 감독이 지난해 8월의 대질주 재현이 가능하다고 생각하는 이유는? [잠실 현장 프리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004143640",
-      "datetime": "2026.07.16 16:59",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004143640"
-    },
-    {
-      "title": "\"문보경 살아나야 한다\" 염경엽 감독이 꼽은 LG 후반기 키플레이어, 국가대표 4번 타자였다 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/108/0003453392",
-      "datetime": "2026.07.16 16:53",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003453392"
-    },
-    {
-      "title": "\"외국인 투수 1이닝만 쓰고 싶은 팀이 있나, 좋은 투수 나오면 바꿀 수도\" LG 후반기 선발진 변수 생기나 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/529/0000077882",
-      "datetime": "2026.07.16 16:53",
-      "office": "더게이트",
-      "oid": "529",
-      "aid": "0000077882"
-    },
-    {
-      "title": "'선두 탈환 노리는 LG' 톨허스트 선발 출격→염경엽 감독 \"개막전이라고 생각하고 시작…후반기엔 좋은 경기 더 많을 것\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002034603",
-      "datetime": "2026.07.16 16:48",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002034603"
-    },
-    {
-      "title": "염경엽 LG 감독 \"후반기엔 선발 투수 5명 제대로 돌려보겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016199640",
-      "datetime": "2026.07.16 16:44",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016199640"
-    },
-    {
-      "title": "LG도 결단 내릴까… 염경엽 “좋은 외인 선발 나오면 언제든 데려오면 된다”",
-      "url": "https://n.news.naver.com/mnews/article/144/0001126597",
-      "datetime": "2026.07.16 16:39",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001126597"
-    },
-    {
-      "title": "\"리오스 대신 외국인 선발 영입? 언제든 가능 → 불펜 1순위는 장현식\" 구체화되는 염갈량의 후반기 플랜 [잠실포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004426184",
-      "datetime": "2026.07.16 16:35",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004426184"
-    },
-    {
-      "title": "1위 탈환 가능할까...송찬의 4번타자-이재원 8번타자, LG 라인업 공개...강민균 1군 콜업",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572318",
-      "datetime": "2026.07.16 16:01",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572318"
-    },
-    {
-      "title": "송찬의 4번 타자-잠실 빅보이 선발 출격... '1위 탈환 가자' LG 선발 라인업, 톨허스트 면담 효과 나올까 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085313",
-      "datetime": "2026.07.16 16:00",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085313"
-    },
-    {
-      "title": "‘2루타-안타-볼넷-안타-안타’ 3할6푼2리 퓨처스 타격 1위...LG 내야는 백업도 포화 상태, 1군 기회는 너무 멀다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572174",
-      "datetime": "2026.07.16 12:13",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572174"
-    },
-    {
-      "title": "선두 빼앗겼는데 \"정말 잘했다\"…LG 캡틴이 선수들에게 고마워한 이유 \"팀 위해 뛰어줬다\"",
-      "url": "https://n.news.naver.com/mnews/article/311/0002034351",
-      "datetime": "2026.07.16 08:41",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002034351"
-    },
-    {
-      "title": "엔트리 1명 늘어난다…'퓨처스 5G 연속 무실점' LG 초대형 신인, 드디어 1군 데뷔전 기회 온다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572045",
-      "datetime": "2026.07.16 07:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572045"
-    },
-    {
-      "title": "“작년에는 4.5G 차 뒤집었다”…후반기 LG 선전 의심치 않는 ‘트중박’ 박해민 [MK인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/410/0001132757",
-      "datetime": "2026.07.16 07:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001132757"
-    },
-    {
-      "title": "LG는 다시 보고싶다, 찬란했던 ‘4월의 송승기’",
-      "url": "https://n.news.naver.com/mnews/article/144/0001126456",
-      "datetime": "2026.07.16 07:01",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001126456"
-    },
-    {
-      "title": "승률 차이는 0.002뿐…AI는 그래도 확신 “삼성이 ‘코시’ 직행” [베이스볼 비키니]",
-      "url": "https://n.news.naver.com/mnews/article/020/0003734356",
-      "datetime": "2026.07.16 07:01",
-      "office": "동아일보",
-      "oid": "020",
-      "aid": "0003734356"
-    },
-    {
-      "title": "LG 157km 국가대표의 충격 슬럼프…2군서 실점→실점→실점→실점→실점 'ERA 17.47 부진 미스터리'",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618556",
-      "datetime": "2026.07.16 06:07",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618556"
-    },
-    {
-      "title": "이 선수가 볼카운트 0-2였는데 볼넷을? 전반기 마지막 타석으로 본 달라진 송찬의",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618545",
-      "datetime": "2026.07.16 00:06",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618545"
-    },
-    {
-      "title": "‘이럴 수가’ 올해도 부활 힘드나…LG 홀드왕 사이드암, 1이닝 5실점→ERA 17.47 ‘대충격’",
-      "url": "https://n.news.naver.com/mnews/article/109/0005571990",
-      "datetime": "2026.07.16 00:05",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005571990"
-    },
-    {
-      "title": "“LG는 개인성적 앞세우는 팀 아니다…그래서 무너지지 않았다” LG 65억원 캡틴 박해민은 ‘전반기 2위’ 만든 동료에게 감사",
-      "url": "https://n.news.naver.com/mnews/article/117/0004084947",
-      "datetime": "2026.07.15 15:30",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004084947",
-      "carried": true
-    },
-    {
-      "title": "부상 아냐? 사라졌던 LG 신인왕 후보가 돌아온다 \"트래킹 데이터 이상 없어\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618497",
-      "datetime": "2026.07.15 15:14",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618497",
-      "carried": true
-    },
-    {
-      "title": "‘4점대 ERA’ LG 우승 청부사, ‘특별 면담’ 효과 나올까…후반기 첫 경기 중요하다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005571666",
-      "datetime": "2026.07.15 13:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005571666",
-      "carried": true
-    },
-    {
-      "title": "“100타점 해본 타자, 누가 있나”…염갈량의 확신, 후반기 문보경은 다르다",
-      "url": "https://n.news.naver.com/mnews/article/144/0001126296",
-      "datetime": "2026.07.15 12:11",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001126296",
-      "carried": true
-    },
-    {
-      "title": "\"선수 생활 고민했다.\" 9년차 유망주의 생애 첫 올스타전. '누렁이'배트의 진실은[잠실 인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004425789",
-      "datetime": "2026.07.15 11:03",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004425789",
-      "carried": true
-    },
-    {
-      "title": "LG 송승기가 돌아온다, KT전 출격 대기 완료",
-      "url": "https://n.news.naver.com/mnews/article/241/0003520134",
-      "datetime": "2026.07.15 10:50",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003520134",
+      "aid": "0000749870",
       "carried": true
     }
   ]
