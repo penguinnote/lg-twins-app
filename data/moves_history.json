@@ -22,5 +22,28 @@
     "fetched_at": "2026-07-15T15:59:54",
     "registered": [],
     "waived": []
+  },
+  {
+    "date": "2026-07-16",
+    "fetched_at": "2026-07-16T15:54:17",
+    "registered": [
+      {
+        "name": "강민균",
+        "position": "내",
+        "team": "LG"
+      },
+      {
+        "name": "송지만",
+        "position": "코치",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "김용의",
+        "position": "코치",
+        "team": "LG"
+      }
+    ]
   }
 ]

@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 48,
-  "updated": "2026-07-15T16:00:06",
+  "updated": "2026-07-16T15:54:33",
   "totals": {
     "AB": 71,
     "H": 16,
@@ -711,14 +711,14 @@
     ]
   },
   "ratings": {
-    "OVR": 25,
+    "OVR": 24,
     "lowSample": false,
     "axes": [
       {
         "key": "contact",
         "label": "컨택",
         "value": 0.225,
-        "rating": 20
+        "rating": 19
       },
       {
         "key": "power",
@@ -736,13 +736,13 @@
         "key": "speed",
         "label": "주력",
         "value": 2,
-        "rating": 51
+        "rating": 50
       },
       {
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.256,
-        "rating": 22
+        "rating": 23
       },
       {
         "key": "production",

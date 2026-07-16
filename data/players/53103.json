@@ -1,0 +1,126 @@
+{
+  "playerId": "53103",
+  "season": 2026,
+  "is_pitcher": false,
+  "games": 3,
+  "updated": "2026-07-16T15:54:24",
+  "totals": {
+    "AB": 2,
+    "H": 0,
+    "2B": 0,
+    "3B": 0,
+    "HR": 0,
+    "BB": 0,
+    "HBP": 0
+  },
+  "series": [
+    {
+      "date": "2026-05-02",
+      "opp": "NC",
+      "cum_avg": 0.0,
+      "cum_ops": 0.0,
+      "site_cum_avg": "0.000"
+    },
+    {
+      "date": "2026-06-11",
+      "opp": "SSG",
+      "cum_avg": 0.0,
+      "cum_ops": 0.0,
+      "site_cum_avg": "0.000"
+    },
+    {
+      "date": "2026-06-12",
+      "opp": "롯데",
+      "cum_avg": 0.0,
+      "cum_ops": 0.0,
+      "site_cum_avg": "0.000"
+    }
+  ],
+  "coin": {
+    "base": 100.0,
+    "scale": 5.0,
+    "constants": {
+      "year": 2026,
+      "source": "v1-representative",
+      "w_BB": 0.69,
+      "w_HBP": 0.72,
+      "w_1B": 0.89,
+      "w_2B": 1.27,
+      "w_3B": 1.62,
+      "w_HR": 2.1,
+      "lgwOBA": 0.335,
+      "wOBA_scale": 1.2,
+      "run_SB": 0.2,
+      "run_CS": -0.42,
+      "lgRA9": 4.8,
+      "bonus_HLD": 0.3,
+      "bonus_SV": 0.5
+    },
+    "candles": [
+      {
+        "date": "2026-05-02",
+        "opp": "NC",
+        "open": 100.0,
+        "close": 100.0,
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-11",
+        "opp": "SSG",
+        "open": 100.0,
+        "close": 98.604,
+        "value": -0.2792
+      },
+      {
+        "date": "2026-06-12",
+        "opp": "롯데",
+        "open": 98.604,
+        "close": 97.208,
+        "value": -0.2792
+      }
+    ]
+  },
+  "ratings": {
+    "OVR": 17,
+    "lowSample": true,
+    "axes": [
+      {
+        "key": "contact",
+        "label": "컨택",
+        "value": 0.0,
+        "rating": 0
+      },
+      {
+        "key": "power",
+        "label": "파워",
+        "value": 0.0,
+        "rating": 0
+      },
+      {
+        "key": "eye",
+        "label": "선구안",
+        "value": 0.0,
+        "rating": 0
+      },
+      {
+        "key": "speed",
+        "label": "주력",
+        "value": 0,
+        "rating": 0
+      },
+      {
+        "key": "avoidK",
+        "label": "삼진회피",
+        "value": 0.0,
+        "rating": 100
+      },
+      {
+        "key": "production",
+        "label": "생산성",
+        "value": 0.0,
+        "rating": 0
+      }
+    ],
+    "type": "hitter"
+  }
+}

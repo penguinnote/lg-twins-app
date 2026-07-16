@@ -2,14 +2,14 @@
   "playerId": "79109",
   "season": 2026,
   "is_pitcher": false,
-  "games": 78,
-  "updated": "2026-07-15T16:00:09",
+  "games": 79,
+  "updated": "2026-07-16T15:54:36",
   "totals": {
-    "AB": 234,
-    "H": 59,
+    "AB": 238,
+    "H": 61,
     "2B": 9,
     "3B": 0,
-    "HR": 6,
+    "HR": 7,
     "BB": 27,
     "HBP": 3
   },
@@ -559,6 +559,13 @@
       "cum_avg": 0.252,
       "cum_ops": 0.705,
       "site_cum_avg": "0.252"
+    },
+    {
+      "date": "2026-07-16",
+      "opp": "KT",
+      "cum_avg": 0.256,
+      "cum_ops": 0.722,
+      "site_cum_avg": "0.256"
     }
   ],
   "coin": {
@@ -1127,48 +1134,55 @@
         "open": 78.216,
         "close": 80.216,
         "value": 0.4
+      },
+      {
+        "date": "2026-07-16",
+        "opp": "KT",
+        "open": 80.216,
+        "close": 87.091,
+        "value": 1.375
       }
     ]
   },
   "ratings": {
-    "OVR": 50,
+    "OVR": 52,
     "lowSample": false,
     "axes": [
       {
         "key": "contact",
         "label": "컨택",
-        "value": 0.252,
-        "rating": 40
+        "value": 0.256,
+        "rating": 43
       },
       {
         "key": "power",
         "label": "파워",
-        "value": 0.115,
-        "rating": 49
+        "value": 0.126,
+        "rating": 53
       },
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.099,
-        "rating": 59
+        "value": 0.097,
+        "rating": 58
       },
       {
         "key": "speed",
         "label": "주력",
         "value": 3,
-        "rating": 62
+        "rating": 61
       },
       {
         "key": "avoidK",
         "label": "삼진회피",
-        "value": 0.198,
+        "value": 0.199,
         "rating": 44
       },
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.318,
-        "rating": 44
+        "value": 0.325,
+        "rating": 52
       }
     ],
     "type": "hitter"
