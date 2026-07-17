@@ -1,9 +1,121 @@
 {
   "team": "LG",
-  "updated": "2026-07-17T05:36:55",
-  "count": 21,
+  "updated": "2026-07-17T08:00:54",
+  "count": 35,
   "carried_count": 6,
   "items": [
+    {
+      "title": "염경엽 감독, 톨허스트 교체설 정면 반박 \"선수 동기부여 꺾는 일\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004169443",
+      "datetime": "2026.07.17 16:49",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004169443"
+    },
+    {
+      "title": "‘부진 장기화’ LG 외인 에이스를 어쩌나, 염갈량 딱 선 그었다 “교체 논의? 지금은 아냐…기존 선수들 동기부여 상실” [오!쎈 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005573010",
+      "datetime": "2026.07.17 16:42",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005573010"
+    },
+    {
+      "title": "'송찬의 선발 제외' LG, 2연패 탈출 위한 선발 라인업 공개 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004085560",
+      "datetime": "2026.07.17 16:19",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004085560"
+    },
+    {
+      "title": "송찬의·이재원 OUT-문성주·문정빈 IN…'2연패' LG 칼 갈았나, 선발 라인업 대폭 바꿨다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000618756",
+      "datetime": "2026.07.17 16:18",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000618756"
+    },
+    {
+      "title": "'두 개 남았다' 3년 연속 30홈런 LG 오스틴…달성 시 외국인 선수 3번째",
+      "url": "https://n.news.naver.com/mnews/article/117/0004085558",
+      "datetime": "2026.07.17 16:17",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004085558"
+    },
+    {
+      "title": "만루 또 놓친 LG…염경엽 감독 \"실패는 내 책임, 선수들 중압감 이겨내야\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004169439",
+      "datetime": "2026.07.17 16:16",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004169439"
+    },
+    {
+      "title": "두 차례 만루서 침묵한 LG 문보경…염경엽 감독 \"역할 해줘야 목표 이뤄\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014072990",
+      "datetime": "2026.07.17 16:15",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014072990"
+    },
+    {
+      "title": "\"한번만 터지면 되는데\" 오지환 투런포 → 홍창기 9회 찬스 물꼬…염갈량의 시선, \"LG는 결국 문보경이라니까\" [잠실포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004426474",
+      "datetime": "2026.07.17 16:14",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004426474"
+    },
+    {
+      "title": "오스틴, 3년 연속 '30홈런' 도전…외인 역대 3번째 기록될듯",
+      "url": "https://n.news.naver.com/mnews/article/417/0001152025",
+      "datetime": "2026.07.17 16:12",
+      "office": "동행미디어 시대",
+      "oid": "417",
+      "aid": "0001152025"
+    },
+    {
+      "title": "염경엽 LG 감독 \"톨허스트 역전 3점포 허용, 볼 배합 잘못\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009065446",
+      "datetime": "2026.07.17 16:10",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009065446"
+    },
+    {
+      "title": "'후반기 첫 승 절실' LG, 웰스 앞세워 KT에 설욕 도전…염경엽 감독 \"문보경이 해줘야 목표 이룬다\"→믿음 변함 없다 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002034961",
+      "datetime": "2026.07.17 16:08",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002034961"
+    },
+    {
+      "title": "LG 오스틴, 3시즌 연속 30홈런에 단 '두 발'…KBO 외국인 역대 3번째",
+      "url": "https://n.news.naver.com/mnews/article/003/0014072973",
+      "datetime": "2026.07.17 15:33",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014072973"
+    },
+    {
+      "title": "'2연패 빠진’ LG 선발 라인업 변화, 송찬의 제외→문성주 LF-문정빈 1B…웰스-박동원 배터리 [오!쎈 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005572957",
+      "datetime": "2026.07.17 15:25",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005572957"
+    },
+    {
+      "title": "'홈런왕 독주' 시동 건 오스틴, 외인 역대 3번째 3연속 30홈런까지 '-2'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004169434",
+      "datetime": "2026.07.17 15:24",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004169434"
+    },
     {
       "title": "\"뭐가 문제인지 분석해서 알려줬다\"는데…LG 우승에이스 부활 가능? 염갈량 기대와 어떻게 달랐나 [잠실리포트]",
       "url": "https://n.news.naver.com/mnews/article/076/0004426434",
