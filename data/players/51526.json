@@ -2,10 +2,10 @@
   "playerId": "51526",
   "season": 2026,
   "is_pitcher": true,
-  "games": 40,
-  "updated": "2026-07-16T23:54:45",
+  "games": 41,
+  "updated": "2026-07-17T15:55:01",
   "totals": {
-    "IP": 35.332,
+    "IP": 36.332,
     "R": 19,
     "ER": 15,
     "SO": 35,
@@ -657,6 +657,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "3.82"
+    },
+    {
+      "date": "2026-07-17",
+      "opp": "KT",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 3,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "3.72"
     }
   ],
   "coin": {
@@ -959,48 +975,55 @@
         "open": 120.822,
         "close": 121.71,
         "value": 0.1776
+      },
+      {
+        "date": "2026-07-17",
+        "opp": "KT",
+        "open": 121.71,
+        "close": 124.376,
+        "value": 0.5333
       }
     ]
   },
   "ratings": {
-    "OVR": 75,
+    "OVR": 76,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 2.55,
+        "value": 2.48,
         "rating": 85
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 8.92,
-        "rating": 80
+        "value": 8.67,
+        "rating": 76
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.216,
-        "rating": 87
+        "value": 0.212,
+        "rating": 89
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.76,
-        "rating": 60
+        "value": 0.74,
+        "rating": 62
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 35.3,
-        "rating": 57
+        "value": 36.3,
+        "rating": 59
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.43,
-        "rating": 81
+        "value": 3.42,
+        "rating": 82
       }
     ],
     "type": "pitcher"

@@ -2,13 +2,13 @@
   "playerId": "55167",
   "season": 2026,
   "is_pitcher": true,
-  "games": 31,
-  "updated": "2026-07-16T23:55:09",
+  "games": 32,
+  "updated": "2026-07-17T15:55:23",
   "totals": {
-    "IP": 26.335,
+    "IP": 27.335,
     "R": 9,
     "ER": 9,
-    "SO": 22,
+    "SO": 23,
     "H": 26,
     "HR": 2,
     "BB": 12,
@@ -513,6 +513,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "3.08"
+    },
+    {
+      "date": "2026-07-17",
+      "opp": "KT",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 3,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 1,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "2.96"
     }
   ],
   "coin": {
@@ -752,48 +768,55 @@
         "open": 127.05,
         "close": 129.716,
         "value": 0.5333
+      },
+      {
+        "date": "2026-07-17",
+        "opp": "KT",
+        "open": 129.716,
+        "close": 132.383,
+        "value": 0.5333
       }
     ]
   },
   "ratings": {
-    "OVR": 53,
+    "OVR": 57,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 4.1,
-        "rating": 39
+        "value": 3.95,
+        "rating": 46
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 7.52,
-        "rating": 50
+        "value": 7.57,
+        "rating": 52
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.248,
-        "rating": 58
+        "value": 0.241,
+        "rating": 68
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.68,
-        "rating": 66
+        "value": 0.66,
+        "rating": 68
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 26.3,
-        "rating": 36
+        "value": 27.3,
+        "rating": 37
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.88,
-        "rating": 67
+        "value": 3.79,
+        "rating": 71
       }
     ],
     "type": "pitcher"
