@@ -1,16 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-07-17T14:29:00",
-  "count": 41,
+  "updated": "2026-07-17T21:46:38",
+  "count": 11,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG 2연패 도전 초비상! 해도 너무한 타선+믿었던 亞쿼터 붕괴…66일 만에 패패패→이제 2위도 위태롭다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005573364",
+      "datetime": "2026.07.18 06:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005573364"
+    },
+    {
+      "title": "'얘는 또 왜이러는 걸까요? 아시아쿼터의 한계인가' 톨허스트에 이어 웰스도 불안...LG 고민 깊어간다",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199111",
+      "datetime": "2026.07.18 05:32",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199111"
+    },
+    {
+      "title": "'최근 6경기 1승5패' 톨허스트 감쌌다→염경엽 감독 \"실투 하나가 홈런 됐다…외인 교체? 그런 이야기할 때 아냐\" [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002035144",
+      "datetime": "2026.07.18 03:34",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002035144"
+    },
+    {
+      "title": "3연패 모르던 LG 위기감지기 오작동…66일 만에 3연패, 이러다 시즌 최장 연패 나온다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000618824",
+      "datetime": "2026.07.18 00:06",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000618824"
+    },
+    {
+      "title": "'또 161km/h 쾅!' 광속구 외인, 광복절까지 고용불안?…염갈량은 모든 가능성 열어둔다",
+      "url": "https://n.news.naver.com/mnews/article/311/0002035123",
+      "datetime": "2026.07.18 00:00",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002035123"
+    },
     {
       "title": "‘2위도 불안’ LG, 무너진 외인 원투펀치에 발목",
       "url": "https://n.news.naver.com/mnews/article/119/0003112431",
       "datetime": "2026.07.17 21:57",
       "office": "데일리안",
       "oid": "119",
-      "aid": "0003112431"
+      "aid": "0003112431",
+      "carried": true
     },
     {
       "title": "'힐리어드 홈런 두 방' KT, 2위 보인다…연이틀 LG 제압",
@@ -18,7 +59,8 @@
       "datetime": "2026.07.17 20:41",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009065607"
+      "aid": "0009065607",
+      "carried": true
     },
     {
       "title": "LG 팬 야구 사랑 이 정도라니! 45G서 37번째 매진 실화냐, 잠실과 마지막 추억 쌓기 [MD잠실]",
@@ -26,7 +68,8 @@
       "datetime": "2026.07.17 19:14",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004085634"
+      "aid": "0004085634",
+      "carried": true
     },
     {
       "title": "'162km-162km' 김현수도 따라가기 급급했다, LG 광속구 외인 대단하네…\"그런 구속 처음봤다\" 152승 레전드도 화들짝 [MD잠실]",
@@ -34,7 +77,8 @@
       "datetime": "2026.07.17 18:15",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004085613"
+      "aid": "0004085613",
+      "carried": true
     },
     {
       "title": "3연패 빠진 LG 톨허스트, 염경엽 감독 “지금은 승운이 따르지 않는 상황, 다시 선발로 충분히 역할할 것”",
@@ -42,7 +86,8 @@
       "datetime": "2026.07.17 17:47",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001126765"
+      "aid": "0001126765",
+      "carried": true
     },
     {
       "title": "LG 오스틴, 외인 역대 3번째 3시즌 연속 30홈런 '-2'",
@@ -50,292 +95,7 @@
       "datetime": "2026.07.17 17:34",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009065512"
-    },
-    {
-      "title": "염경엽 감독, 톨허스트 교체설 정면 반박 \"선수 동기부여 꺾는 일\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004169443",
-      "datetime": "2026.07.17 16:49",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004169443"
-    },
-    {
-      "title": "‘부진 장기화’ LG 외인 에이스를 어쩌나, 염갈량 딱 선 그었다 “교체 논의? 지금은 아냐…기존 선수들 동기부여 상실” [오!쎈 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005573010",
-      "datetime": "2026.07.17 16:42",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005573010"
-    },
-    {
-      "title": "'송찬의 선발 제외' LG, 2연패 탈출 위한 선발 라인업 공개 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085560",
-      "datetime": "2026.07.17 16:19",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085560"
-    },
-    {
-      "title": "송찬의·이재원 OUT-문성주·문정빈 IN…'2연패' LG 칼 갈았나, 선발 라인업 대폭 바꿨다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618756",
-      "datetime": "2026.07.17 16:18",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618756"
-    },
-    {
-      "title": "'두 개 남았다' 3년 연속 30홈런 LG 오스틴…달성 시 외국인 선수 3번째",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085558",
-      "datetime": "2026.07.17 16:17",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085558"
-    },
-    {
-      "title": "만루 또 놓친 LG…염경엽 감독 \"실패는 내 책임, 선수들 중압감 이겨내야\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004169439",
-      "datetime": "2026.07.17 16:16",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004169439"
-    },
-    {
-      "title": "두 차례 만루서 침묵한 LG 문보경…염경엽 감독 \"역할 해줘야 목표 이뤄\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014072990",
-      "datetime": "2026.07.17 16:15",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014072990"
-    },
-    {
-      "title": "\"한번만 터지면 되는데\" 오지환 투런포 → 홍창기 9회 찬스 물꼬…염갈량의 시선, \"LG는 결국 문보경이라니까\" [잠실포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004426474",
-      "datetime": "2026.07.17 16:14",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004426474"
-    },
-    {
-      "title": "오스틴, 3년 연속 '30홈런' 도전…외인 역대 3번째 기록될듯",
-      "url": "https://n.news.naver.com/mnews/article/417/0001152025",
-      "datetime": "2026.07.17 16:12",
-      "office": "동행미디어 시대",
-      "oid": "417",
-      "aid": "0001152025"
-    },
-    {
-      "title": "염경엽 LG 감독 \"톨허스트 역전 3점포 허용, 볼 배합 잘못\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009065446",
-      "datetime": "2026.07.17 16:10",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009065446"
-    },
-    {
-      "title": "'후반기 첫 승 절실' LG, 웰스 앞세워 KT에 설욕 도전…염경엽 감독 \"문보경이 해줘야 목표 이룬다\"→믿음 변함 없다 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002034961",
-      "datetime": "2026.07.17 16:08",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002034961"
-    },
-    {
-      "title": "LG 오스틴, 3시즌 연속 30홈런에 단 '두 발'…KBO 외국인 역대 3번째",
-      "url": "https://n.news.naver.com/mnews/article/003/0014072973",
-      "datetime": "2026.07.17 15:33",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014072973"
-    },
-    {
-      "title": "'2연패 빠진’ LG 선발 라인업 변화, 송찬의 제외→문성주 LF-문정빈 1B…웰스-박동원 배터리 [오!쎈 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572957",
-      "datetime": "2026.07.17 15:25",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572957"
-    },
-    {
-      "title": "'홈런왕 독주' 시동 건 오스틴, 외인 역대 3번째 3연속 30홈런까지 '-2'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004169434",
-      "datetime": "2026.07.17 15:24",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004169434"
-    },
-    {
-      "title": "\"뭐가 문제인지 분석해서 알려줬다\"는데…LG 우승에이스 부활 가능? 염갈량 기대와 어떻게 달랐나 [잠실리포트]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004426434",
-      "datetime": "2026.07.17 12:45",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004426434"
-    },
-    {
-      "title": "\"4월부터 선발 찾았다\" 염경엽 감독 발언, 문제될 것도 걱정할 것도 없는 이유",
-      "url": "https://n.news.naver.com/mnews/article/445/0000439889",
-      "datetime": "2026.07.17 12:28",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000439889"
-    },
-    {
-      "title": "'우승 청부사'였는데 또또또 패전 투수, 1선발이 리그 최다패 불명예…이러면 염갈량 계산이 안 맞는데",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572906",
-      "datetime": "2026.07.17 11:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572906"
-    },
-    {
-      "title": "두 경기 연속 9회 만루 뒤집기 실패서 드러난 LG의 답답한 공격",
-      "url": "https://n.news.naver.com/mnews/article/001/0016200407",
-      "datetime": "2026.07.17 11:39",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016200407"
-    },
-    {
-      "title": "오스틴만 치면 뭐해? LG, '미친 존재' 1~2명 더 나와야...문보경, 아직도 잠자고 있나",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199087",
-      "datetime": "2026.07.17 09:56",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199087"
-    },
-    {
-      "title": "톨허스트냐 리오스냐, 염경엽 감독의 '마지막 교체 카드'는 누구?",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199086",
-      "datetime": "2026.07.17 09:03",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199086"
-    },
-    {
-      "title": "'패패승패패패→6월 이후 ERA 5.63' LG 우승 외인 심상치 않다... \"언제든 대체할 수 있다\" 사령탑 경고도 있었는데",
-      "url": "https://n.news.naver.com/mnews/article/108/0003453606",
-      "datetime": "2026.07.17 08:38",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003453606"
-    },
-    {
-      "title": "LG 염경엽 감독을 위한 변명...안타면 '신의 한 수' 아웃이면 '실패한 용병술'이 되는 결과론 속 감독이라는 외로운 자리",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199084",
-      "datetime": "2026.07.17 08:37",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199084"
-    },
-    {
-      "title": "“외국인 투수 바꿀 수 있다” LG 승부수, 161.7km 韓 신기록 외인 불펜투수 포기하나",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572797",
-      "datetime": "2026.07.17 07:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572797"
-    },
-    {
-      "title": "\"문보경이 살아나야 한다\" 염갈량 바람, 후반기 첫날엔 절반만 이뤄졌다…만루 찬스 2번 무산 옥에 티 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002034884",
-      "datetime": "2026.07.17 07:40",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002034884"
-    },
-    {
-      "title": "\"좋은 투수 나오면 바꿀 수도\" 염갈량 의미심장 한마디, LG 후반기 선발진 변수 생기나 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085410",
-      "datetime": "2026.07.17 06:32",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085410"
-    },
-    {
-      "title": "‘대충격’ 우승팀 LG, 2경기 연속 9회 1사 만루 찬스 놓치다…전반기 마지막도, 후반기 첫 경기도 1점 차 패배 '악몽'",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572765",
-      "datetime": "2026.07.17 05:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572765"
-    },
-    {
-      "title": "염경엽 감독 \"외국인은 결과가 전부\" 강조했는데…톨허스트, 2회 4실점 와르르→후반기 첫 경기도 숙제만 남겼다 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002034868",
-      "datetime": "2026.07.17 03:44",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002034868"
-    },
-    {
-      "title": "리오스 두고 왈가왈부, 실패라고? 염경엽 생각은 확고하다…단 교체 가능성은 \"언제든 있다\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618688",
-      "datetime": "2026.07.17 01:32",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618688"
-    },
-    {
-      "title": "‘이럴 수가’ LG 초특급 신인, 무실점 행진이 6경기 만에 깨졌다…1사 만루 위기→첫 실점 아쉽네",
-      "url": "https://n.news.naver.com/mnews/article/109/0005572753",
-      "datetime": "2026.07.17 01:11",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005572753"
-    },
-    {
-      "title": "LG 오스틴, 후반기 첫 경기 첫 타석에서 시즌 28호 홈런...단독 1위",
-      "url": "https://n.news.naver.com/mnews/article/472/0000040861",
-      "datetime": "2026.07.16 19:15",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000040861",
-      "carried": true
-    },
-    {
-      "title": "염갈량의 반문 \"외인 1이닝만 쓰고 싶은 팀이 어딨나?\"…리오스 선택에 후회 없다 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002034707",
-      "datetime": "2026.07.16 19:14",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002034707",
-      "carried": true
-    },
-    {
-      "title": "후반기 첫 타석서 '177㎞ 대포' 쾅 오스틴, 김도영 제치고 홈런 단독 선두 [IS 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003520370",
-      "datetime": "2026.07.16 19:09",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003520370",
-      "carried": true
-    },
-    {
-      "title": "LG 오스틴, 후반기 첫 타석서 시즌 28호포…홈런 단독 선두",
-      "url": "https://n.news.naver.com/mnews/article/421/0009064498",
-      "datetime": "2026.07.16 19:07",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009064498",
-      "carried": true
-    },
-    {
-      "title": "전반기만 놓고 보면 MVP는 따 논 당상인 LG 오스틴, 후반기 첫 타석에 솔로포 터뜨리며 홈런 부문 단독 선두 등극",
-      "url": "https://n.news.naver.com/mnews/article/022/0004143692",
-      "datetime": "2026.07.16 19:04",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004143692",
-      "carried": true
-    },
-    {
-      "title": "저점 찍어본 쌍둥이 방망이, 염경엽 감독의 진단 “문보경이 살아나야”",
-      "url": "https://n.news.naver.com/mnews/article/396/0000749870",
-      "datetime": "2026.07.16 19:01",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000749870",
+      "aid": "0009065512",
       "carried": true
     }
   ]
