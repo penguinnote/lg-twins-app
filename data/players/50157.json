@@ -2,13 +2,13 @@
   "playerId": "50157",
   "season": 2026,
   "is_pitcher": true,
-  "games": 20,
-  "updated": "2026-07-17T15:55:18",
+  "games": 21,
+  "updated": "2026-07-18T15:30:00",
   "totals": {
-    "IP": 23.001,
+    "IP": 24.001,
     "R": 12,
     "ER": 12,
-    "SO": 14,
+    "SO": 16,
     "H": 20,
     "HR": 1,
     "BB": 16,
@@ -337,6 +337,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "4.70"
+    },
+    {
+      "date": "2026-07-18",
+      "opp": "KT",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 3,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 2,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "4.50"
     }
   ],
   "coin": {
@@ -499,48 +515,55 @@
         "open": 104.663,
         "close": 107.329,
         "value": 0.5333
+      },
+      {
+        "date": "2026-07-18",
+        "opp": "KT",
+        "open": 107.329,
+        "close": 109.995,
+        "value": 0.5333
       }
     ]
   },
   "ratings": {
-    "OVR": 38,
+    "OVR": 43,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 6.26,
+        "value": 6.0,
         "rating": 16
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 5.48,
-        "rating": 10
+        "value": 6.0,
+        "rating": 16
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.238,
-        "rating": 72
+        "value": 0.23,
+        "rating": 78
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.39,
-        "rating": 82
+        "value": 0.38,
+        "rating": 83
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 23.0,
-        "rating": 24
+        "value": 24.0,
+        "rating": 26
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 5.03,
-        "rating": 27
+        "value": 4.78,
+        "rating": 37
       }
     ],
     "type": "pitcher"

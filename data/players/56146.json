@@ -2,16 +2,16 @@
   "playerId": "56146",
   "season": 2026,
   "is_pitcher": true,
-  "games": 13,
-  "updated": "2026-07-17T15:55:16",
+  "games": 14,
+  "updated": "2026-07-18T15:29:58",
   "totals": {
-    "IP": 16.333,
+    "IP": 17.333,
     "R": 7,
     "ER": 7,
-    "SO": 16,
-    "H": 14,
+    "SO": 17,
+    "H": 16,
     "HR": 2,
-    "BB": 6,
+    "BB": 7,
     "W": 1,
     "L": 2,
     "SV": 2,
@@ -225,6 +225,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "3.86"
+    },
+    {
+      "date": "2026-07-18",
+      "opp": "KT",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 6,
+      "H": 2,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 1,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "3.63"
     }
   ],
   "coin": {
@@ -338,47 +354,54 @@
         "open": 118.39,
         "close": 121.056,
         "value": 0.5333
+      },
+      {
+        "date": "2026-07-18",
+        "opp": "KT",
+        "open": 121.056,
+        "close": 123.722,
+        "value": 0.5333
       }
     ]
   },
   "ratings": {
-    "OVR": 56,
+    "OVR": 54,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 3.31,
-        "rating": 60
+        "value": 3.63,
+        "rating": 53
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 8.82,
-        "rating": 80
+        "value": 8.83,
+        "rating": 79
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.226,
-        "rating": 80
+        "value": 0.239,
+        "rating": 71
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 1.1,
-        "rating": 34
+        "value": 1.04,
+        "rating": 42
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 16.3,
-        "rating": 14
+        "value": 17.3,
+        "rating": 15
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.93,
+        "value": 3.95,
         "rating": 65
       }
     ],
