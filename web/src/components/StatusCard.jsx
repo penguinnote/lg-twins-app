@@ -1,7 +1,8 @@
 import { HexRadar } from "./HexRadar";
 
 // 선수 상태창(HUD) — 어두운 카드 + 레드 강조 + 육각 레이더 + OVR.
-export function StatusCard({ player, ratings }) {
+// compact=true → 축 상세표·고지 없이 레이더 + OVR + 상위 능력치 2개(홈 배치용).
+export function StatusCard({ player, ratings, compact = false }) {
   if (!ratings || !ratings.axes?.length) {
     return (
       <div className="rounded-2xl bg-[#111318] p-8 text-center text-sm text-gray-400">
@@ -10,6 +11,7 @@ export function StatusCard({ player, ratings }) {
     );
   }
   const low = ratings.lowSample;
+  const top2 = [...ratings.axes].sort((a, b) => b.rating - a.rating).slice(0, 2);
 
   return (
     <div className="rounded-2xl bg-[#111318] p-4 text-white md:p-6">
@@ -41,24 +43,37 @@ export function StatusCard({ player, ratings }) {
         <HexRadar axes={ratings.axes} dim={low} />
       </div>
 
-      {/* 축 상세 (원지표 값) */}
-      <div className="mt-2 grid grid-cols-2 gap-x-4 gap-y-1.5 text-xs">
-        {ratings.axes.map((a) => (
-          <div key={a.key} className="flex items-center justify-between border-b border-white/5 pb-1">
-            <span className="text-gray-400">{a.label}</span>
-            <span className="tabular-nums">
-              <span className="text-gray-500">{formatVal(a.key, a.value)}</span>{" "}
-              <span className="font-bold text-white">{a.rating}</span>
+      {compact ? (
+        /* 상위 능력치 2개 */
+        <div className="mt-2 flex flex-wrap justify-center gap-1.5">
+          {top2.map((a) => (
+            <span key={a.key} className="rounded-full bg-white/10 px-2.5 py-1 text-[11px] font-semibold">
+              {a.label} <span className="text-[#E4002B]">{a.rating}</span>
             </span>
+          ))}
+        </div>
+      ) : (
+        <>
+          {/* 축 상세 (원지표 값) */}
+          <div className="mt-2 grid grid-cols-2 gap-x-4 gap-y-1.5 text-xs">
+            {ratings.axes.map((a) => (
+              <div key={a.key} className="flex items-center justify-between border-b border-white/5 pb-1">
+                <span className="text-gray-400">{a.label}</span>
+                <span className="tabular-nums">
+                  <span className="text-gray-500">{formatVal(a.key, a.value)}</span>{" "}
+                  <span className="font-bold text-white">{a.rating}</span>
+                </span>
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
 
-      {/* 투명성 고지 */}
-      <p className="mt-3 text-[11px] leading-relaxed text-gray-500">
-        박스스코어 기반 <b className="text-gray-400">능력 근사 · 리그 백분위(0~100)</b>. 수비·구속·회전수·
-        멘탈은 KBO 공개데이터에 없어 제외.
-      </p>
+          {/* 투명성 고지 */}
+          <p className="mt-3 text-[11px] leading-relaxed text-gray-500">
+            박스스코어 기반 <b className="text-gray-400">능력 근사 · 리그 백분위(0~100)</b>. 수비·구속·회전수·
+            멘탈은 KBO 공개데이터에 없어 제외.
+          </p>
+        </>
+      )}
     </div>
   );
 }

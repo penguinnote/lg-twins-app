@@ -79,7 +79,11 @@ export default function Players() {
             </div>
 
             {current ? (
-              <PlayerPanel player={current} masterDates={masterDates} />
+              <PlayerPanel
+                player={current}
+                masterDates={masterDates}
+                initialMode={params.get("view") === "status" ? "status" : "coin"}
+              />
             ) : (
               <Empty label="선수 정보가 없습니다." />
             )}
@@ -90,12 +94,12 @@ export default function Players() {
   );
 }
 
-function PlayerPanel({ player, masterDates }) {
+function PlayerPanel({ player, masterDates, initialMode = "coin" }) {
   const { loading, error, data } = useFetch(
     (o) => api.player(player.playerId, o),
     [player.playerId]
   );
-  const [mode, setMode] = useState("coin"); // 'coin' | 'status' | 'stat'
+  const [mode, setMode] = useState(initialMode); // 'coin' | 'status' | 'stat'
   const isHitter = !player.is_pitcher;
   const modes = isHitter
     ? [["coin", "코인"], ["status", "상태창"], ["stat", "타율·OPS"]]

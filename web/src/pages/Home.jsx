@@ -6,6 +6,7 @@ import { usePlayers } from "../hooks/usePlayers";
 import { Container } from "../components/Container";
 import { NewsCard } from "../components/NewsCard";
 import { CandleChart } from "../components/CandleChart";
+import { StatusCard } from "../components/StatusCard";
 import { Loading, ErrorState, Empty } from "../components/States";
 
 // 표시 선수(4명) 커스텀 — localStorage(기기 단위, 타자4·투수4 각각).
@@ -160,6 +161,9 @@ function CoinBoard({ roster, masterDates }) {
         </Link>
       </div>
 
+      {/* 능력치 스탯창 — 코인가 1위 타자 + 1위 투수 */}
+      <StatSection byId={byId} />
+
       {editing && (
         <EditModal
           pos={pos}
@@ -207,6 +211,42 @@ function CandleCard({ item, masterDates }) {
           windowN={35}
         />
       </div>
+    </Link>
+  );
+}
+
+function StatSection({ byId }) {
+  const rated = (isP) =>
+    Object.values(byId)
+      .filter((x) => x.data?.ratings?.axes?.length && (isP ? x.player.is_pitcher : !x.player.is_pitcher))
+      .sort((a, b) => b.price - a.price)[0];
+  const topHit = rated(false);
+  const topPit = rated(true);
+  if (!topHit && !topPit) return null;
+
+  return (
+    <section className="mt-8">
+      <h3 className="mb-1 text-base font-bold text-lg-ink md:text-lg">능력치</h3>
+      <p className="mb-3 text-xs text-gray-400">코인가 상위 선수 · 카드를 누르면 상세 상태창</p>
+      <div className="grid gap-3 md:grid-cols-2 md:gap-4">
+        {topHit && <StatLink item={topHit} />}
+        {topPit && <StatLink item={topPit} />}
+      </div>
+      <p className="mt-3 text-[11px] leading-relaxed text-gray-400">
+        박스스코어 기반 능력 근사 · 수비/구속/회전수/멘탈 제외 · 리그 백분위(0~100).
+      </p>
+    </section>
+  );
+}
+
+function StatLink({ item }) {
+  const { player, data } = item;
+  return (
+    <Link
+      to={`/players?id=${player.playerId}&view=status`}
+      className="block rounded-2xl md:transition-transform md:hover:-translate-y-0.5"
+    >
+      <StatusCard player={player} ratings={data.ratings} compact />
     </Link>
   );
 }
