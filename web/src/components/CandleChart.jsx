@@ -17,11 +17,12 @@ const UP = "#C4012F"; // 떡상(빨강)
 const DOWN = "#2563EB"; // 떡락(파랑)
 
 // 트윈스 코인 캔들차트 — 경기별 가치 등락을 코인 시세처럼.
-export function CandleChart({ candles, base = 100 }) {
+// compact=true → 축·격자·토글·헤더 없이 캔들 + 이동평균선만(홈 썸네일용).
+export function CandleChart({ candles, base = 100, compact = false }) {
   const [period, setPeriod] = useState("daily");
 
   const data = useMemo(() => {
-    const rs = resampleCandles(candles, period);
+    const rs = resampleCandles(candles, compact ? "daily" : period);
     const ma = movingAvg(rs, 5);
     return rs.map((c, i) => ({
       ...c,
@@ -29,7 +30,7 @@ export function CandleChart({ candles, base = 100 }) {
       up: c.close >= c.open,
       ma: ma[i],
     }));
-  }, [candles, period]);
+  }, [candles, period, compact]);
 
   if (!data.length) return null;
 
@@ -41,6 +42,29 @@ export function CandleChart({ candles, base = 100 }) {
 
   const latest = data[data.length - 1];
   const totalDelta = latest.close - base;
+
+  // 컴팩트 썸네일 — 캔들 몸통 + MA선만.
+  if (compact) {
+    return (
+      <div className="h-[116px] w-full md:h-[140px]">
+        <ResponsiveContainer width="100%" height="100%">
+          <ComposedChart data={data} margin={{ top: 4, right: 2, left: 2, bottom: 0 }}>
+            <YAxis domain={[min - pad, max + pad]} hide />
+            <XAxis dataKey="date" hide />
+            <Bar dataKey="body" shape={<Candle />} isAnimationActive={false} />
+            <Line
+              type="monotone"
+              dataKey="ma"
+              stroke="#f59e0b"
+              strokeWidth={1.2}
+              dot={false}
+              isAnimationActive={false}
+            />
+          </ComposedChart>
+        </ResponsiveContainer>
+      </div>
+    );
+  }
 
   return (
     <div>
