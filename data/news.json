@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-07-17T23:47:23",
-  "count": 14,
+  "updated": "2026-07-18T04:52:13",
+  "count": 17,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'득점권 장타율 0.790' LG 오스틴, 이렇게 잘 치는데 솔로포가 절반이라니... 3시즌 연속 30홈런 눈앞에도 아쉽다",
+      "url": "https://n.news.naver.com/mnews/article/108/0003453869",
+      "datetime": "2026.07.18 11:40",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003453869"
+    },
+    {
+      "title": "후반기 시작되자 '삐그덕'한 LG... 역시 '선발'이 문제",
+      "url": "https://n.news.naver.com/mnews/article/450/0000152604",
+      "datetime": "2026.07.18 11:33",
+      "office": "STN 뉴스",
+      "oid": "450",
+      "aid": "0000152604"
+    },
+    {
+      "title": "‘이럴 수가’ 우승팀 LG, 첫 4연패 위기다, 왜 진짜 위기일까…삼성-KT 상대로 1승 4패 치명적이다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005573473",
+      "datetime": "2026.07.18 11:14",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005573473"
+    },
     {
       "title": "LG 오스틴, '용·타 레전드' 우즈·테임즈 소환...'3년 연속 30홈런' 달성 임박",
       "url": "https://n.news.naver.com/mnews/article/241/0003520456",
