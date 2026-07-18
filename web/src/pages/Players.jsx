@@ -11,6 +11,8 @@ import { Loading, ErrorState, Empty } from "../components/States";
 
 export default function Players() {
   const roster = useFetch((o) => api.roster(o), []);
+  const games = useFetch((o) => api.games(o), []);
+  const masterDates = games.data?.dates || null;
   const [params, setParams] = useSearchParams();
   const selectedId = params.get("id");
 
@@ -77,7 +79,7 @@ export default function Players() {
             </div>
 
             {current ? (
-              <PlayerPanel player={current} />
+              <PlayerPanel player={current} masterDates={masterDates} />
             ) : (
               <Empty label="선수 정보가 없습니다." />
             )}
@@ -88,7 +90,7 @@ export default function Players() {
   );
 }
 
-function PlayerPanel({ player }) {
+function PlayerPanel({ player, masterDates }) {
   const { loading, error, data } = useFetch(
     (o) => api.player(player.playerId, o),
     [player.playerId]
@@ -139,7 +141,7 @@ function PlayerPanel({ player }) {
       )}
       {data && mode === "coin" && (
         data.coin?.candles?.length ? (
-          <CandleChart candles={data.coin.candles} base={data.coin.base} />
+          <CandleChart candles={data.coin.candles} base={data.coin.base} masterDates={masterDates} />
         ) : (
           <Empty label="아직 경기 기록이 없습니다." />
         )

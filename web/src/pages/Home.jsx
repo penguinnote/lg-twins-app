@@ -29,14 +29,23 @@ function saveSel(pos, ids) {
 export default function Home() {
   const roster = useFetch((o) => api.roster(o), []);
   const news = useFetch((o) => api.news(o), []);
+  const games = useFetch((o) => api.games(o), []);
+  const masterDates = games.data?.dates || null;
 
   return (
     <section className="w-full bg-gray-50 py-5 md:py-9">
       <Container>
-        {/* 데스크톱: 좌 뉴스 1/3 + 우 시세판 2/3. 모바일: 시세판 먼저, 뉴스 아래. */}
-        <div className="grid gap-6 md:grid-cols-[minmax(260px,1fr)_2fr] md:gap-8">
-          {/* 좌 — 뉴스 컬럼 */}
-          <aside className="order-2 md:order-1">
+        {/* 데스크톱: 좌 시세판 2/3 + 우 뉴스 1/3. 모바일: 시세판 먼저, 뉴스 아래. */}
+        <div className="grid gap-6 md:grid-cols-[2fr_minmax(260px,1fr)] md:gap-8">
+          {/* 좌 — 코인 시세판 */}
+          <div>
+            {roster.loading && <BoardSkeleton />}
+            {roster.error && <ErrorState message={roster.error} onRetry={() => location.reload()} />}
+            {roster.data && <CoinBoard roster={roster.data} masterDates={masterDates} />}
+          </div>
+
+          {/* 우 — 뉴스 컬럼 */}
+          <aside>
             <div className="mb-3 flex items-baseline justify-between">
               <h2 className="text-base font-bold text-lg-ink md:text-lg">최신 뉴스</h2>
               <Link to="/news" className="text-xs font-semibold text-lg-red">
@@ -56,20 +65,13 @@ export default function Home() {
                 <Empty label="뉴스가 아직 없습니다." />
               ))}
           </aside>
-
-          {/* 우 — 코인 시세판 */}
-          <div className="order-1 md:order-2">
-            {roster.loading && <BoardSkeleton />}
-            {roster.error && <ErrorState message={roster.error} onRetry={() => location.reload()} />}
-            {roster.data && <CoinBoard roster={roster.data} />}
-          </div>
         </div>
       </Container>
     </section>
   );
 }
 
-function CoinBoard({ roster }) {
+function CoinBoard({ roster, masterDates }) {
   const players = roster.players || [];
   const { loading, results } = usePlayers(players);
   const [pos, setPos] = useState("bat");
@@ -114,8 +116,8 @@ function CoinBoard({ roster }) {
     <div>
       <div className="mb-3 flex flex-wrap items-center justify-between gap-2 md:mb-4">
         <div>
-          <h2 className="text-base font-bold text-lg-ink md:text-xl">🪙 트윈스 코인 시세판</h2>
-          <p className="text-xs text-gray-400 md:text-sm">경기 기여도로 매긴 선수 가치 · 카드를 누르면 상세</p>
+          <h2 className="text-base font-bold text-lg-ink md:text-xl">트윈스 코인</h2>
+          <p className="text-xs text-gray-400 md:text-sm">경기 기여도로 매긴 선수 지수 · 카드를 누르면 상세</p>
         </div>
         <div className="flex items-center gap-2">
           {/* 타자/투수 토글 */}
@@ -145,7 +147,7 @@ function CoinBoard({ roster }) {
       {cards.length ? (
         <div className="grid grid-cols-2 gap-3 md:gap-4">
           {cards.map((item) => (
-            <CandleCard key={item.player.playerId} item={item} />
+            <CandleCard key={item.player.playerId} item={item} masterDates={masterDates} />
           ))}
         </div>
       ) : (
@@ -171,7 +173,7 @@ function CoinBoard({ roster }) {
   );
 }
 
-function CandleCard({ item }) {
+function CandleCard({ item, masterDates }) {
   const { player, data, price, delta } = item;
   const up = delta >= 0;
   return (
@@ -197,7 +199,13 @@ function CandleCard({ item }) {
         </div>
       </div>
       <div className="mt-2">
-        <CandleChart candles={data.coin.candles} base={data.coin.base} compact />
+        <CandleChart
+          candles={data.coin.candles}
+          base={data.coin.base}
+          masterDates={masterDates}
+          compact
+          windowN={20}
+        />
       </div>
     </Link>
   );

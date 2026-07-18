@@ -28,5 +28,6 @@ export async function fetchJson(path, { signal } = {}) {
 export const api = {
   news: (opts) => fetchJson("news.json", opts),
   roster: (opts) => fetchJson("roster.json", opts),
+  games: (opts) => fetchJson("games.json", opts), // 팀 경기 마스터 날짜축
   player: (playerId, opts) => fetchJson(`players/${playerId}.json`, opts),
 };

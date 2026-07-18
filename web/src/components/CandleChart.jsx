@@ -13,24 +13,49 @@ import {
 import { resampleCandles, movingAvg, PERIODS } from "../lib/resample";
 import { shortDate } from "../lib/format";
 
-const UP = "#C4012F"; // 떡상(빨강)
-const DOWN = "#2563EB"; // 떡락(파랑)
+const UP = "#C4012F"; // 상승(빨강)
+const DOWN = "#2563EB"; // 하락(파랑)
+const ABSENT = "#cbd5e1"; // 결장(회색 짝대기)
 
-// 트윈스 코인 캔들차트 — 경기별 가치 등락을 코인 시세처럼.
-// compact=true → 축·격자·토글·헤더 없이 캔들 + 이동평균선만(홈 썸네일용).
-export function CandleChart({ candles, base = 100, compact = false }) {
+// 선수 캔들을 팀 경기 마스터 축에 정렬 — 안 뛴 날은 직전 종가로 유지되는 회색 짝대기.
+function alignToMaster(candles, masterDates, base) {
+  const byDate = new Map(candles.map((c) => [c.date, c]));
+  let last = base;
+  return masterDates.map((d) => {
+    const c = byDate.get(d);
+    if (c) {
+      last = c.close;
+      return { ...c, absent: false };
+    }
+    return { date: d, opp: "", open: last, close: last, value: 0, absent: true };
+  });
+}
+
+// 트윈스 코인 캔들차트. masterDates가 있으면 팀 경기축에 정렬(봉 개수 통일).
+// compact=true → 축·격자·토글 없이 캔들+이동평균선만, 최근 windowN경기만(홈 썸네일).
+export function CandleChart({ candles, base = 100, masterDates, compact = false, windowN = 20 }) {
   const [period, setPeriod] = useState("daily");
 
   const data = useMemo(() => {
-    const rs = resampleCandles(candles, compact ? "daily" : period);
+    const aligned = masterDates?.length
+      ? alignToMaster(candles, masterDates, base)
+      : candles.map((c) => ({ ...c, absent: false }));
+    const usePeriod = compact ? "daily" : period;
+    const rs =
+      usePeriod === "daily"
+        ? aligned
+        : resampleCandles(aligned, usePeriod).map((c) => ({ ...c, absent: false }));
     const ma = movingAvg(rs, 5);
-    return rs.map((c, i) => ({
+    let arr = rs.map((c, i) => ({
       ...c,
-      body: [Math.min(c.open, c.close), Math.max(c.open, c.close)], // 범위 바(플로팅)
+      body: [Math.min(c.open, c.close), Math.max(c.open, c.close)],
       up: c.close >= c.open,
       ma: ma[i],
+      absent: c.absent || false,
     }));
-  }, [candles, period, compact]);
+    if (compact) arr = arr.slice(-(windowN || 20));
+    return arr;
+  }, [candles, masterDates, base, period, compact, windowN]);
 
   if (!data.length) return null;
 
@@ -43,7 +68,7 @@ export function CandleChart({ candles, base = 100, compact = false }) {
   const latest = data[data.length - 1];
   const totalDelta = latest.close - base;
 
-  // 컴팩트 썸네일 — 캔들 몸통 + MA선만.
+  // 컴팩트 썸네일 — 캔들 + 이동평균선만.
   if (compact) {
     return (
       <div className="h-[116px] w-full md:h-[140px]">
@@ -106,7 +131,7 @@ export function CandleChart({ candles, base = 100, compact = false }) {
               tickFormatter={(v) => v.toFixed(0)}
             />
             <ReferenceLine y={base} stroke="#d1d5db" strokeDasharray="4 4" />
-            <Tooltip content={<CandleTip base={base} />} />
+            <Tooltip content={<CandleTip />} />
             <Bar dataKey="body" shape={<Candle />} isAnimationActive={false} />
             <Line
               type="monotone"
@@ -120,17 +145,17 @@ export function CandleChart({ candles, base = 100, compact = false }) {
         </ResponsiveContainer>
       </div>
       <p className="mt-2 text-center text-[11px] text-gray-400">
-        빨강=떡상 · 파랑=떡락 · 주황선=이동평균(5) · 점선=시작가({base}) · {data.length}캔들
+        빨강=상승 · 파랑=하락 · 회색=결장 · 주황선=이동평균 · 점선=시작가({base}) · {data.length}칸
       </p>
     </div>
   );
 }
 
 function Candle({ x, y, width, height, payload }) {
-  const fill = payload.up ? UP : DOWN;
   const w = Math.max(2, Math.min(width * 0.7, 16));
   const cx = x + (width - w) / 2;
-  const h = Math.max(height, 2); // 도지(가치 0) 최소 두께
+  const h = Math.max(height, 2); // 도지·결장 최소 두께
+  const fill = payload.absent ? ABSENT : payload.up ? UP : DOWN;
   return <rect x={cx} y={y} width={w} height={h} rx={1} fill={fill} />;
 }
 
@@ -159,14 +184,19 @@ function CandleTip({ active, payload }) {
   return (
     <div className="rounded-lg border border-gray-100 bg-white px-3 py-2 text-xs shadow-lg">
       <p className="font-semibold text-lg-ink">{d.date}</p>
-      {d.opp && <p className="text-gray-400">vs {d.opp}</p>}
-      <p className="mt-0.5 text-gray-500">
-        {d.open.toFixed(1)} → <span className="font-bold text-lg-ink">{d.close.toFixed(1)}</span>
-      </p>
-      <p className={`font-bold ${up ? "text-lg-red" : "text-blue-600"}`}>
-        {up ? "▲ 떡상" : "▼ 떡락"} {Math.abs(d.close - d.open).toFixed(1)} (가치 {d.value >= 0 ? "+" : ""}
-        {d.value.toFixed(2)})
-      </p>
+      {d.absent ? (
+        <p className="text-gray-400">결장</p>
+      ) : (
+        <>
+          {d.opp && <p className="text-gray-400">vs {d.opp}</p>}
+          <p className="mt-0.5 text-gray-500">
+            {d.open.toFixed(1)} → <span className="font-bold text-lg-ink">{d.close.toFixed(1)}</span>
+          </p>
+          <p className={`font-bold ${up ? "text-lg-red" : "text-blue-600"}`}>
+            {up ? "▲" : "▼"} {Math.abs(d.close - d.open).toFixed(1)}
+          </p>
+        </>
+      )}
     </div>
   );
 }
