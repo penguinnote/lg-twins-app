@@ -1,16 +1,49 @@
 {
   "team": "LG",
-  "updated": "2026-07-18T10:15:12",
-  "count": 27,
+  "updated": "2026-07-18T21:44:34",
+  "count": 10,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘초비상’ LG 선발진, ‘토종 에이스’마저 무너졌다…후반기 선발 운영 걱정 점점 커진다 [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001254326",
+      "datetime": "2026.07.19 06:37",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001254326"
+    },
+    {
+      "title": "8회초 LG 팬들은 떠나갔다...무기력한 LG, 시즌 첫 4연패, 언제 타선이 터질까",
+      "url": "https://n.news.naver.com/mnews/article/109/0005573927",
+      "datetime": "2026.07.19 01:11",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005573927"
+    },
+    {
+      "title": "'이럴수가' LG 초비상! 임찬규마저 무너졌다, 시즌 첫 4연패→이제 2위도 장담하기 힘들다 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004085968",
+      "datetime": "2026.07.19 00:09",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004085968"
+    },
+    {
+      "title": "LG 팬들 인내심 한계왔나, 시즌 첫 토요일 매진 실패→8회부터 관중석 텅텅",
+      "url": "https://n.news.naver.com/mnews/article/477/0000618973",
+      "datetime": "2026.07.19 00:00",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000618973"
+    },
     {
       "title": "LG 1루수 시속 175㎞ 역전포, 그런데 오스틴이 아니다? 문정빈 시즌 8호 홈런에 LG 2-1 역전",
       "url": "https://n.news.naver.com/mnews/article/477/0000618935",
       "datetime": "2026.07.18 18:52",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000618935"
+      "aid": "0000618935",
+      "carried": true
     },
     {
       "title": "'잠실서만 벌써 4개째' LG 문정빈, KT 사우어 상대 137m 역전 투런포! '시속 174.6㎞' 타구속도 미쳤다 [잠실 현장]",
@@ -18,7 +51,8 @@
       "datetime": "2026.07.18 18:41",
       "office": "스타뉴스",
       "oid": "108",
-      "aid": "0003453923"
+      "aid": "0003453923",
+      "carried": true
     },
     {
       "title": "“7번에 놔도 걸리고, 4번에 놔도 걸리고…” 염갈량의 득점권 찬스 고민, “전반기에는 다 살렸는데”",
@@ -26,7 +60,8 @@
       "datetime": "2026.07.18 17:43",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005573585"
+      "aid": "0005573585",
+      "carried": true
     },
     {
       "title": "\"스타팅 써볼까 했는데\" LG 시범경기 4할 타자 말소 예고, 1군 첫 안타 치고 내려갈 수 있을까",
@@ -34,7 +69,8 @@
       "datetime": "2026.07.18 16:12",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000618893"
+      "aid": "0000618893",
+      "carried": true
     },
     {
       "title": "'최근 10G 타율 0.231' 문보경 4번 굳건! 3연패 LG, 5번 송찬의-7번 문정빈 선발 출격 [잠실 현장]",
@@ -42,7 +78,8 @@
       "datetime": "2026.07.18 16:11",
       "office": "스타뉴스",
       "oid": "108",
-      "aid": "0003453893"
+      "aid": "0003453893",
+      "carried": true
     },
     {
       "title": "\"주자 모아놓고 못 치네\" 염경엽 허탈... 시즌 첫 4연패 위기 LG 선발 라인업, 문보경 4번→송찬의 5번 복귀 [MD잠실]",
@@ -50,180 +87,7 @@
       "datetime": "2026.07.18 16:10",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004085819"
-    },
-    {
-      "title": "“올스타전 이겨서 후반기 운이 따르나 했는데…” 3연패 LG, 염갈량의 ‘쓰린 농담’ [SS잠실in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001254289",
-      "datetime": "2026.07.18 16:07",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001254289"
-    },
-    {
-      "title": "시즌 첫 4연패 위기다...송찬의 5번 복귀, 문보경 4번-문정빈 7번, LG 라인업 공개",
-      "url": "https://n.news.naver.com/mnews/article/109/0005573546",
-      "datetime": "2026.07.18 15:32",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005573546"
-    },
-    {
-      "title": "'다승 공동 1위' 임찬규 앞세운 LG, 3연패 탈출 위해 문성주 대신 송찬의 선발 카드",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618873",
-      "datetime": "2026.07.18 15:28",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618873"
-    },
-    {
-      "title": "득점권 찬스에서 왜 이리 무력할까…오후 2시, 문보경 나홀로 특타 훈련, 홈런 타구 펑펑",
-      "url": "https://n.news.naver.com/mnews/article/109/0005573532",
-      "datetime": "2026.07.18 14:29",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005573532"
-    },
-    {
-      "title": "'득점권 장타율 0.790' LG 오스틴, 이렇게 잘 치는데 솔로포가 절반이라니... 3시즌 연속 30홈런 눈앞에도 아쉽다",
-      "url": "https://n.news.naver.com/mnews/article/108/0003453869",
-      "datetime": "2026.07.18 11:40",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003453869"
-    },
-    {
-      "title": "후반기 시작되자 '삐그덕'한 LG... 역시 '선발'이 문제",
-      "url": "https://n.news.naver.com/mnews/article/450/0000152604",
-      "datetime": "2026.07.18 11:33",
-      "office": "STN 뉴스",
-      "oid": "450",
-      "aid": "0000152604"
-    },
-    {
-      "title": "‘이럴 수가’ 우승팀 LG, 첫 4연패 위기다, 왜 진짜 위기일까…삼성-KT 상대로 1승 4패 치명적이다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005573473",
-      "datetime": "2026.07.18 11:14",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005573473"
-    },
-    {
-      "title": "LG 오스틴, '용·타 레전드' 우즈·테임즈 소환...'3년 연속 30홈런' 달성 임박",
-      "url": "https://n.news.naver.com/mnews/article/241/0003520456",
-      "datetime": "2026.07.18 08:45",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003520456"
-    },
-    {
-      "title": "LG는 좋겠다, 잠실 오씨 있어서! ‘홈런왕 단독 선두’ 오스틴, 외인 역대 3번째 3시즌 연속 30홈런 ‘-2’",
-      "url": "https://n.news.naver.com/mnews/article/468/0001254256",
-      "datetime": "2026.07.18 08:04",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001254256"
-    },
-    {
-      "title": "톨허스트에 이어 믿었던 웰스까지 원투펀치 와르르, 5선발 꾸리면 뭐하나... LG 선발 고민 커졌다",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085683",
-      "datetime": "2026.07.18 07:43",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085683"
-    },
-    {
-      "title": "LG 2연패 도전 초비상! 해도 너무한 타선+믿었던 亞쿼터 붕괴…66일 만에 패패패→이제 2위도 위태롭다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005573364",
-      "datetime": "2026.07.18 06:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005573364"
-    },
-    {
-      "title": "'얘는 또 왜이러는 걸까요? 아시아쿼터의 한계인가' 톨허스트에 이어 웰스도 불안...LG 고민 깊어간다",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199111",
-      "datetime": "2026.07.18 05:32",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199111"
-    },
-    {
-      "title": "'최근 6경기 1승5패' 톨허스트 감쌌다→염경엽 감독 \"실투 하나가 홈런 됐다…외인 교체? 그런 이야기할 때 아냐\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002035144",
-      "datetime": "2026.07.18 03:34",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002035144"
-    },
-    {
-      "title": "3연패 모르던 LG 위기감지기 오작동…66일 만에 3연패, 이러다 시즌 최장 연패 나온다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000618824",
-      "datetime": "2026.07.18 00:06",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000618824"
-    },
-    {
-      "title": "'또 161km/h 쾅!' 광속구 외인, 광복절까지 고용불안?…염갈량은 모든 가능성 열어둔다",
-      "url": "https://n.news.naver.com/mnews/article/311/0002035123",
-      "datetime": "2026.07.18 00:00",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002035123"
-    },
-    {
-      "title": "‘2위도 불안’ LG, 무너진 외인 원투펀치에 발목",
-      "url": "https://n.news.naver.com/mnews/article/119/0003112431",
-      "datetime": "2026.07.17 21:57",
-      "office": "데일리안",
-      "oid": "119",
-      "aid": "0003112431",
-      "carried": true
-    },
-    {
-      "title": "'힐리어드 홈런 두 방' KT, 2위 보인다…연이틀 LG 제압",
-      "url": "https://n.news.naver.com/mnews/article/421/0009065607",
-      "datetime": "2026.07.17 20:41",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009065607",
-      "carried": true
-    },
-    {
-      "title": "LG 팬 야구 사랑 이 정도라니! 45G서 37번째 매진 실화냐, 잠실과 마지막 추억 쌓기 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085634",
-      "datetime": "2026.07.17 19:14",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085634",
-      "carried": true
-    },
-    {
-      "title": "'162km-162km' 김현수도 따라가기 급급했다, LG 광속구 외인 대단하네…\"그런 구속 처음봤다\" 152승 레전드도 화들짝 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004085613",
-      "datetime": "2026.07.17 18:15",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004085613",
-      "carried": true
-    },
-    {
-      "title": "3연패 빠진 LG 톨허스트, 염경엽 감독 “지금은 승운이 따르지 않는 상황, 다시 선발로 충분히 역할할 것”",
-      "url": "https://n.news.naver.com/mnews/article/144/0001126765",
-      "datetime": "2026.07.17 17:47",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001126765",
-      "carried": true
-    },
-    {
-      "title": "LG 오스틴, 외인 역대 3번째 3시즌 연속 30홈런 '-2'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009065512",
-      "datetime": "2026.07.17 17:34",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009065512",
+      "aid": "0004085819",
       "carried": true
     }
   ]
