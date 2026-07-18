@@ -204,7 +204,7 @@ function CandleCard({ item, masterDates }) {
           base={data.coin.base}
           masterDates={masterDates}
           compact
-          windowN={20}
+          windowN={35}
         />
       </div>
     </Link>
