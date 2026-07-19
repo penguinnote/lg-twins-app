@@ -1,8 +1,8 @@
 {
   "team": "LG",
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "count": 30,
-  "hitter_count": 16,
+  "hitter_count": 15,
   "players": [
     {
       "playerId": "61101",
@@ -13,6 +13,12 @@
     {
       "playerId": "63248",
       "name": "함덕주",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "51111",
+      "name": "송승기",
       "position": "투수",
       "is_pitcher": true
     },
@@ -98,12 +104,6 @@
       "playerId": "52154",
       "name": "이주헌",
       "position": "포수",
-      "is_pitcher": false
-    },
-    {
-      "playerId": "53103",
-      "name": "강민균",
-      "position": "내야수",
       "is_pitcher": false
     },
     {
