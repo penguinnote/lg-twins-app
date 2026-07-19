@@ -1,9 +1,129 @@
 {
   "team": "LG",
-  "updated": "2026-07-19T05:46:25",
-  "count": 17,
+  "updated": "2026-07-19T08:08:05",
+  "count": 32,
   "carried_count": 6,
   "items": [
+    {
+      "title": "[토크박스] “부상 아닌 이기기 위한 교체”…‘다승 1위’ 임찬규의 아쉬운 조기 강판",
+      "url": "https://n.news.naver.com/mnews/article/396/0000750056",
+      "datetime": "2026.07.19 16:57",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000750056"
+    },
+    {
+      "title": "'파격 라인업 꺼내 들었다' LG 염경엽 감독, 4연패 탈출 승부수...한 방에 승부 보겠다",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199164",
+      "datetime": "2026.07.19 16:46",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199164"
+    },
+    {
+      "title": "LG 라인업 파격을 넘어 충격이다…염갈량의 4연패 탈출 승부수, 어떤 의미일까 “장타력에 승부 걸었다” [오!쎈 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005574098",
+      "datetime": "2026.07.19 16:42",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005574098"
+    },
+    {
+      "title": "'4연패 탈출 도전' LG 송찬의·이재원·문정빈 동반 선발…염경엽 \"장타력에 승부\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014074452",
+      "datetime": "2026.07.19 16:23",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014074452"
+    },
+    {
+      "title": "“아직 그래도 시간 있다” LG 염경엽 감독, 시즌 첫 4연패에도 평정심 유지",
+      "url": "https://n.news.naver.com/mnews/article/382/0001283854",
+      "datetime": "2026.07.19 16:15",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001283854"
+    },
+    {
+      "title": "4연패 LG 이판사판이다! 장타자로 도배 → 염갈량 염원 \"모아서 한 방에..\" [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004426910",
+      "datetime": "2026.07.19 16:13",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004426910"
+    },
+    {
+      "title": "‘송찬의·이재원·문정빈’ 모두 선발, ‘빈공’ LG 파격 라인업…염갈량 “파워 히터 다 들어갔다” [SS잠실in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001254421",
+      "datetime": "2026.07.19 16:09",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001254421"
+    },
+    {
+      "title": "타순 갈아엎은 '4연패' 염경엽 LG 감독 \"장타력에 승부\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016202149",
+      "datetime": "2026.07.19 16:09",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016202149"
+    },
+    {
+      "title": "4연패 빠진 LG, 박해민 선발 제외→문성주 1번 중견수 투입 라인업 대폭 변경…염경엽 감독 “장타력에 승부를”[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001126938",
+      "datetime": "2026.07.19 16:04",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001126938"
+    },
+    {
+      "title": "'패패패패' LG 좌찬의-중성주-우재원 파격 무엇인가…\"장타력에 승부를 걸겠다\" 염경엽 감독 초강수 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004086141",
+      "datetime": "2026.07.19 16:00",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004086141"
+    },
+    {
+      "title": "[IS 잠실] '문성주 리드오프+2루수 구본혁' 4연패 LG의 파격 라인업, \"돌파구 찾아야 한다\"",
+      "url": "https://n.news.naver.com/mnews/article/241/0003520588",
+      "datetime": "2026.07.19 15:58",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003520588"
+    },
+    {
+      "title": "\"파워히터 모아놨다\" LG 2026년 가장 파격적인 선발 라인업, 이렇게 만들어졌다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619031",
+      "datetime": "2026.07.19 15:55",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619031"
+    },
+    {
+      "title": "‘4연패’ LG 라인업 싹 갈아엎었다! 문성주-송찬의 테이블세터, 홍창기-박해민 제외…2위 지켜낼까 [오!쎈 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005574082",
+      "datetime": "2026.07.19 15:33",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005574082"
+    },
+    {
+      "title": "4연패 LG 초파격 라인업! → 송찬의(좌) 문성주(중) 이재원(우) 문정빈(1루) [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004426895",
+      "datetime": "2026.07.19 15:30",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004426895"
+    },
+    {
+      "title": "5연패 기로 LG, 강수 라인업 가동…박해민 선발 제외→문성주 1번 CF [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004086140",
+      "datetime": "2026.07.19 15:30",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004086140"
+    },
     {
       "title": "LG 오늘도 지면 1089일 만에 5연패…42일 만의 복귀전 송승기 벌써 어깨가 무겁다",
       "url": "https://n.news.naver.com/mnews/article/477/0000619018",
