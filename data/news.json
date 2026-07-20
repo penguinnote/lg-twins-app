@@ -1,16 +1,25 @@
 {
   "team": "LG",
-  "updated": "2026-07-20T09:54:57",
-  "count": 23,
+  "updated": "2026-07-20T15:07:09",
+  "count": 7,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG 5연패? 2023년과 2025년에 한 것, 2024년에 하지 않은 것…웃픈 징크스 올해도 이어질까",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619239",
+      "datetime": "2026.07.21 00:06",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619239"
+    },
     {
       "title": "만루서 병살타, 대타 연속 삼진...LG 천성호 결국 시즌 첫 2군행",
       "url": "https://n.news.naver.com/mnews/article/241/0003520842",
       "datetime": "2026.07.20 18:31",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003520842"
+      "aid": "0003520842",
+      "carried": true
     },
     {
       "title": "홈런 4방 쳤는데 4경기 7득점이라니…충격의 득점권 타율 6푼9리, '10위-10위-10위' LG 타선 지금이 최저점일까",
@@ -18,7 +27,8 @@
       "datetime": "2026.07.20 17:43",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005574747"
+      "aid": "0005574747",
+      "carried": true
     },
     {
       "title": "5경기 만에 1위에서 3위로...LG에 무슨 일이 벌어지고 있나",
@@ -26,7 +36,8 @@
       "datetime": "2026.07.20 17:06",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000199207"
+      "aid": "0000199207",
+      "carried": true
     },
     {
       "title": "‘5연패’ 대위기 맞은 LG…타선도 타선인데 ‘선발도 흔들’, 산재한 ‘불안 요소’ [SS포커스]",
@@ -34,7 +45,8 @@
       "datetime": "2026.07.20 15:18",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001254683"
+      "aid": "0001254683",
+      "carried": true
     },
     {
       "title": "시즌 첫 5연패 '위기의 LG'  도대체 타선 언제 터지나",
@@ -42,7 +54,8 @@
       "datetime": "2026.07.20 13:47",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003520794"
+      "aid": "0003520794",
+      "carried": true
     },
     {
       "title": "LG 후반기 추락…찬스마다 답답한 타선·홈런에 무너진 마운드",
@@ -50,148 +63,7 @@
       "datetime": "2026.07.20 11:31",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009068056"
-    },
-    {
-      "title": "‘드디어’ LG전 굴욕의 역사 청산, 5년 만에 상대전적 우위 확정! 자신감 하늘을 찌른다 “LG에 3승1패 예상? AI 서운해”",
-      "url": "https://n.news.naver.com/mnews/article/109/0005574556",
-      "datetime": "2026.07.20 10:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005574556"
-    },
-    {
-      "title": "오스틴까지 막히니 LG 타선 민낯이 드러났다...참혹했던 오스틴의 10경기",
-      "url": "https://n.news.naver.com/mnews/article/445/0000440100",
-      "datetime": "2026.07.20 09:33",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000440100"
-    },
-    {
-      "title": "4G 득점권 타율 6푼 9리 '충격의 타선 침체', 우승팀이 어쩌다 후반기 유일 4연패 팀이 됐나",
-      "url": "https://n.news.naver.com/mnews/article/117/0004086277",
-      "datetime": "2026.07.20 09:23",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004086277"
-    },
-    {
-      "title": "LG 또는 한화행 불발? 트로이 왓슨 깜짝 ML 40인 로스터 등록 \"해외 구단 관심 받고 있어서\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619085",
-      "datetime": "2026.07.20 08:36",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619085"
-    },
-    {
-      "title": "‘연패 브레이커’ 송승기도 팀 구하지 못했다…‘충격의 5연패’ LG, 2위→3위 추락 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001254489",
-      "datetime": "2026.07.20 06:22",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001254489"
-    },
-    {
-      "title": "장타력에 승부 건 LG, 결정타 불발의 ‘고구마 타선’에 한숨…충격의 5연패, 3위 추락",
-      "url": "https://n.news.naver.com/mnews/article/629/0000517082",
-      "datetime": "2026.07.20 06:07",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000517082"
-    },
-    {
-      "title": "이제 남은 건 기도 뿐인가? → LG 초파격 라인업도 실패했다. 무슨 수를 써야 할까 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004427067",
-      "datetime": "2026.07.20 05:45",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004427067"
-    },
-    {
-      "title": "‘챔피언’ LG 어쩌다 이런 팀이 됐나…충격의 4G 7득점, 염갈량표 파격 타순도 무소용→57일 만에 3위 추락하다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005574457",
-      "datetime": "2026.07.20 05:26",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005574457"
-    },
-    {
-      "title": "'LG, 총체적 위기다' 외인 투수들 휘청, 손주영도 지쳐가, 타선은 '재앙' 수준...분위기 쇄신책 나와야",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199181",
-      "datetime": "2026.07.20 02:46",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199181"
-    },
-    {
-      "title": "연패가 캡틴마저 조급하게 만들었나…박해민 통한의 도루 실패, 통계상 최악의 플레이였다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619076",
-      "datetime": "2026.07.20 01:56",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619076"
-    },
-    {
-      "title": "'비 예보도 없는데' LG 주말 연속 매진 실패→5연패 수모까지, 위기는 팬들이 먼저 알았다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619069",
-      "datetime": "2026.07.20 00:00",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619069"
-    },
-    {
-      "title": "흔들리는 LG, 피타고리안 승률은 과학?",
-      "url": "https://n.news.naver.com/mnews/article/144/0001126966",
-      "datetime": "2026.07.19 20:30",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001126966",
-      "carried": true
-    },
-    {
-      "title": "LG 염경엽 감독, 4연패 탈출 위해 신발까지 바꿨다? \"연패 안 하는 팀 없어\" 차분하게 답했지만, 이렇게 절실합니다 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004086178",
-      "datetime": "2026.07.19 18:01",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004086178",
-      "carried": true
-    },
-    {
-      "title": "[토크박스] “부상 아닌 이기기 위한 교체”…‘다승 1위’ 임찬규의 아쉬운 조기 강판",
-      "url": "https://n.news.naver.com/mnews/article/396/0000750056",
-      "datetime": "2026.07.19 16:57",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000750056",
-      "carried": true
-    },
-    {
-      "title": "'파격 라인업 꺼내 들었다' LG 염경엽 감독, 4연패 탈출 승부수...한 방에 승부 보겠다",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199164",
-      "datetime": "2026.07.19 16:46",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199164",
-      "carried": true
-    },
-    {
-      "title": "LG 라인업 파격을 넘어 충격이다…염갈량의 4연패 탈출 승부수, 어떤 의미일까 “장타력에 승부 걸었다” [오!쎈 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005574098",
-      "datetime": "2026.07.19 16:42",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005574098",
-      "carried": true
-    },
-    {
-      "title": "'4연패 탈출 도전' LG 송찬의·이재원·문정빈 동반 선발…염경엽 \"장타력에 승부\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014074452",
-      "datetime": "2026.07.19 16:23",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014074452",
+      "aid": "0009068056",
       "carried": true
     }
   ]
