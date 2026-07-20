@@ -75,5 +75,17 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-07-20",
+    "fetched_at": "2026-07-20T16:08:02",
+    "registered": [],
+    "waived": [
+      {
+        "name": "천성호",
+        "position": "내",
+        "team": "LG"
+      }
+    ]
   }
 ]
