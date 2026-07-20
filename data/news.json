@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-07-20T06:12:03",
-  "count": 19,
+  "updated": "2026-07-20T09:54:57",
+  "count": 23,
   "carried_count": 6,
   "items": [
+    {
+      "title": "만루서 병살타, 대타 연속 삼진...LG 천성호 결국 시즌 첫 2군행",
+      "url": "https://n.news.naver.com/mnews/article/241/0003520842",
+      "datetime": "2026.07.20 18:31",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003520842"
+    },
+    {
+      "title": "홈런 4방 쳤는데 4경기 7득점이라니…충격의 득점권 타율 6푼9리, '10위-10위-10위' LG 타선 지금이 최저점일까",
+      "url": "https://n.news.naver.com/mnews/article/109/0005574747",
+      "datetime": "2026.07.20 17:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005574747"
+    },
+    {
+      "title": "5경기 만에 1위에서 3위로...LG에 무슨 일이 벌어지고 있나",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199207",
+      "datetime": "2026.07.20 17:06",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199207"
+    },
+    {
+      "title": "‘5연패’ 대위기 맞은 LG…타선도 타선인데 ‘선발도 흔들’, 산재한 ‘불안 요소’ [SS포커스]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001254683",
+      "datetime": "2026.07.20 15:18",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001254683"
+    },
     {
       "title": "시즌 첫 5연패 '위기의 LG'  도대체 타선 언제 터지나",
       "url": "https://n.news.naver.com/mnews/article/241/0003520794",
