@@ -1,9 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-07-21T11:02:58",
-  "count": 38,
+  "updated": "2026-07-21T13:27:01",
+  "count": 44,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'충격 6연패' 1위 LG의 고속 추락, 이대로면 3위도 위태롭다…NC는 3연패 탈출[잠실 리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004427718",
+      "datetime": "2026.07.21 21:58",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004427718"
+    },
+    {
+      "title": "‘역대 최고구속’ 약셀 리오스 방출…LG 결단 배경은?",
+      "url": "https://n.news.naver.com/mnews/article/119/0003113496",
+      "datetime": "2026.07.21 21:41",
+      "office": "데일리안",
+      "oid": "119",
+      "aid": "0003113496"
+    },
+    {
+      "title": "'외국인 불펜' 시도했던 LG, 결국 '실패'로 끝났다",
+      "url": "https://n.news.naver.com/mnews/article/450/0000152665",
+      "datetime": "2026.07.21 21:08",
+      "office": "STN 뉴스",
+      "oid": "450",
+      "aid": "0000152665"
+    },
+    {
+      "title": "부러진 LG ‘쌍둥이 창’…오스틴 홀로 싸우는 형국",
+      "url": "https://n.news.naver.com/mnews/article/144/0001127315",
+      "datetime": "2026.07.21 21:01",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001127315"
+    },
+    {
+      "title": "승부수 던진 LG, 리오스 전격 방출…새 외인 '임박'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004170613",
+      "datetime": "2026.07.21 20:22",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004170613"
+    },
+    {
+      "title": "'패패패패패→3위 추락' LG, 리오스 방출 결단…2개월도 못 버틴 '불펜 외인' 기용 승부수 [오피셜]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002036167",
+      "datetime": "2026.07.21 20:10",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002036167"
+    },
     {
       "title": "'3위로 내려간' LG, 악셀 리오스 방출…새 외국인 투수와 막바지 조율 중",
       "url": "https://n.news.naver.com/mnews/article/472/0000040903",
