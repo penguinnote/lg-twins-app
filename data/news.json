@@ -1,16 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-07-21T13:27:01",
-  "count": 44,
+  "updated": "2026-07-21T22:00:18",
+  "count": 11,
   "carried_count": 6,
   "items": [
+    {
+      "title": "테이블세터 6출루 만들면 뭐하나... 득점권에서 작아지는 LG, 자꾸만 밥상을 엎는다 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004087172",
+      "datetime": "2026.07.22 06:40",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004087172"
+    },
+    {
+      "title": "염경엽 LG 감독 ‘뿔났다’…느슨한 플레이 박동원에 \"당장 들어와!\"",
+      "url": "https://n.news.naver.com/mnews/article/629/0000517852",
+      "datetime": "2026.07.22 05:14",
+      "office": "더팩트",
+      "oid": "629",
+      "aid": "0000517852"
+    },
+    {
+      "title": "'충격 전패' LG 칼 빼들었다, 28억 실패 만회할 외국인 누구인가…\"뭐지? 갑자기 바뀌었다\"",
+      "url": "https://n.news.naver.com/mnews/article/076/0004427772",
+      "datetime": "2026.07.22 04:24",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004427772"
+    },
+    {
+      "title": "\"누구 없어서 안 되는 팀 아니다\" 그런데 왜 바뀌는 게 없을까, LG '주전야구'가 마주한 딜레마",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619506",
+      "datetime": "2026.07.22 01:56",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619506"
+    },
+    {
+      "title": "‘6연패 충격 LG’ 무사 만루, 또 적시타 침묵하다. 5G 득점권 8푼1리…0승 투수 선발 데뷔전에도 패배하다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005575562",
+      "datetime": "2026.07.22 01:16",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005575562"
+    },
     {
       "title": "'충격 6연패' 1위 LG의 고속 추락, 이대로면 3위도 위태롭다…NC는 3연패 탈출[잠실 리뷰]",
       "url": "https://n.news.naver.com/mnews/article/076/0004427718",
       "datetime": "2026.07.21 21:58",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004427718"
+      "aid": "0004427718",
+      "carried": true
     },
     {
       "title": "‘역대 최고구속’ 약셀 리오스 방출…LG 결단 배경은?",
@@ -18,7 +59,8 @@
       "datetime": "2026.07.21 21:41",
       "office": "데일리안",
       "oid": "119",
-      "aid": "0003113496"
+      "aid": "0003113496",
+      "carried": true
     },
     {
       "title": "'외국인 불펜' 시도했던 LG, 결국 '실패'로 끝났다",
@@ -26,7 +68,8 @@
       "datetime": "2026.07.21 21:08",
       "office": "STN 뉴스",
       "oid": "450",
-      "aid": "0000152665"
+      "aid": "0000152665",
+      "carried": true
     },
     {
       "title": "부러진 LG ‘쌍둥이 창’…오스틴 홀로 싸우는 형국",
@@ -34,7 +77,8 @@
       "datetime": "2026.07.21 21:01",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001127315"
+      "aid": "0001127315",
+      "carried": true
     },
     {
       "title": "승부수 던진 LG, 리오스 전격 방출…새 외인 '임박'",
@@ -42,7 +86,8 @@
       "datetime": "2026.07.21 20:22",
       "office": "노컷뉴스",
       "oid": "079",
-      "aid": "0004170613"
+      "aid": "0004170613",
+      "carried": true
     },
     {
       "title": "'패패패패패→3위 추락' LG, 리오스 방출 결단…2개월도 못 버틴 '불펜 외인' 기용 승부수 [오피셜]",
@@ -50,316 +95,7 @@
       "datetime": "2026.07.21 20:10",
       "office": "엑스포츠뉴스",
       "oid": "311",
-      "aid": "0002036167"
-    },
-    {
-      "title": "'3위로 내려간' LG, 악셀 리오스 방출…새 외국인 투수와 막바지 조율 중",
-      "url": "https://n.news.naver.com/mnews/article/472/0000040903",
-      "datetime": "2026.07.21 18:50",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000040903"
-    },
-    {
-      "title": "'5연패' LG, 강속구 투수 리오스 방출…\"선발투수 외인 계약 추진\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009071307",
-      "datetime": "2026.07.21 18:31",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009071307"
-    },
-    {
-      "title": "[공식발표] 162㎞ ML 외인, 14G 만에 한국 떠난다... '57일 만의 3위 추락' LG 파격 결단",
-      "url": "https://n.news.naver.com/mnews/article/108/0003454640",
-      "datetime": "2026.07.21 18:29",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003454640"
-    },
-    {
-      "title": "'영입 한 달 만에 짐 쌌다' 3위 LG, 외국인 투수 리오스 방출",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199250",
-      "datetime": "2026.07.21 18:27",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199250"
-    },
-    {
-      "title": "LG, 최고 162㎞ 리오스 영입 49일만에 방출 결정...\"새 외인은 선발, 곧 발표\"",
-      "url": "https://n.news.naver.com/mnews/article/241/0003521028",
-      "datetime": "2026.07.21 17:51",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003521028"
-    },
-    {
-      "title": "[오피셜]결단 내린 LG, 리오스와 작별… ‘선발’ 새 외인은 언제",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127290",
-      "datetime": "2026.07.21 17:36",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127290"
-    },
-    {
-      "title": "LG, 1위 탈환 위한 승부수…리오스 방출 결정, 외국인 선수 교체 카드 모두 사용한다",
-      "url": "https://n.news.naver.com/mnews/article/382/0001284296",
-      "datetime": "2026.07.21 17:34",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001284296"
-    },
-    {
-      "title": "'방수포 다시 깔았다' 비 오락가락 잠실, NC-LG전 정상 개시 가능한가[잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004427552",
-      "datetime": "2026.07.21 17:31",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004427552"
-    },
-    {
-      "title": "리오스 방출, LG도 승부수 던졌다 “새 외인 투수 영입 막바지 조율 중”",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127287",
-      "datetime": "2026.07.21 17:30",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127287"
-    },
-    {
-      "title": "[공식] LG ‘외국인 불펜’ 승부수는 결국 실패→리오스 방출…‘시속 160㎞’ 속구 안 통했다",
-      "url": "https://n.news.naver.com/mnews/article/468/0001254950",
-      "datetime": "2026.07.21 17:28",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001254950"
-    },
-    {
-      "title": "[오피셜]\"스카우트팀 일 잘한다. 고맙다\"던 염갈량, 어쩌다 리오스 방출까지 갔나...처음부터 잘못됐던 선택",
-      "url": "https://n.news.naver.com/mnews/article/445/0000440603",
-      "datetime": "2026.07.21 17:24",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000440603"
-    },
-    {
-      "title": "160km 광속구만으로는 부족했다...LG 약셀 리오스 웨이버 공시, '선발투수' 영입 임박",
-      "url": "https://n.news.naver.com/mnews/article/529/0000077934",
-      "datetime": "2026.07.21 17:18",
-      "office": "더게이트",
-      "oid": "529",
-      "aid": "0000077934"
-    },
-    {
-      "title": "'3위 추락' LG트윈스, 한 달 만에 리오스 방출...분위기 반전 노려",
-      "url": "https://n.news.naver.com/mnews/article/018/0006334087",
-      "datetime": "2026.07.21 17:01",
-      "office": "이데일리",
-      "oid": "018",
-      "aid": "0006334087"
-    },
-    {
-      "title": "‘강속구 불펜 포기하다니’ LG, 또 한 번 승부수 던졌다!…리오스 방출→“새 외국인 투수 계약 조만간 발표”",
-      "url": "https://n.news.naver.com/mnews/article/410/0001133372",
-      "datetime": "2026.07.21 17:01",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001133372"
-    },
-    {
-      "title": "LG, 리오스와 방출하고 새 외인 영입…\"계약 마무리 단계\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014079378",
-      "datetime": "2026.07.21 16:56",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014079378"
-    },
-    {
-      "title": "[공식발표] '전격 교체' LG 결단,160㎞ 파이어볼러 방출한다…\"새로운 투수 곧 발표한다\"",
-      "url": "https://n.news.naver.com/mnews/article/076/0004427543",
-      "datetime": "2026.07.21 16:55",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004427543"
-    },
-    {
-      "title": "'162km 포기한다' LG 리오스 방출, 이번엔 선발투수 데려온다...염갈량 \"계약 마무리 단계\"",
-      "url": "https://n.news.naver.com/mnews/article/109/0005575160",
-      "datetime": "2026.07.21 16:42",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005575160"
-    },
-    {
-      "title": "프로야구 LG, 리오스 방출…\"새 외국인 투수 계약 조만간 발표\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016206676",
-      "datetime": "2026.07.21 16:36",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016206676"
-    },
-    {
-      "title": "LG '162㎞ 파이어볼러' 리오스 깜짝 말소→웨이버 \"선발투수 영입 무산, 바로 다른 투수 계약 진행\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619347",
-      "datetime": "2026.07.21 16:28",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619347"
-    },
-    {
-      "title": "'리오스 웨이버 공시' LG 승부수! 전격 외국인 선수 교체, 염경엽 감독 \"합의 단계, 선발로 쓴다\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004086874",
-      "datetime": "2026.07.21 16:24",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004086874"
-    },
-    {
-      "title": "'패패패패패' LG 리오스, 전격 2군행...라인업 떴다. 문정빈 4번-문보경 6번",
-      "url": "https://n.news.naver.com/mnews/article/109/0005575149",
-      "datetime": "2026.07.21 16:02",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005575149"
-    },
-    {
-      "title": "'충격 5연패' LG 단비인가, 잠실 방수포 깔렸다…정상 개최 가능할까[잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004427513",
-      "datetime": "2026.07.21 15:26",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004427513"
-    },
-    {
-      "title": "52억 필승조→5선발 전환, 이번엔 '연패 스토퍼' 도전장...변수는 장마",
-      "url": "https://n.news.naver.com/mnews/article/241/0003520997",
-      "datetime": "2026.07.21 15:23",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003520997"
-    },
-    {
-      "title": "52억 투수 장현식, 5연패 탈출 스토퍼가 될까...무실점 호투가 절실히다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005575054",
-      "datetime": "2026.07.21 13:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005575054"
-    },
-    {
-      "title": "코치 바꾸고 주전 2군행, LG선 볼 수 없다? 어쩌면 양날의 칼이 될 염갈량의 소신",
-      "url": "https://n.news.naver.com/mnews/article/445/0000440502",
-      "datetime": "2026.07.21 12:08",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000440502"
-    },
-    {
-      "title": "위기에 빠진 ‘디펜딩 챔피언’ LG, ‘NC·한화·키움’ 까다로운 9연전 돌입…어쩌면 ‘진짜 고비’ [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001254837",
-      "datetime": "2026.07.21 11:27",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001254837"
-    },
-    {
-      "title": "선두에서 3위로 추락…'5연패' LG, 후반기 최대 위기 이겨낼까",
-      "url": "https://n.news.naver.com/mnews/article/018/0006333695",
-      "datetime": "2026.07.21 10:01",
-      "office": "이데일리",
-      "oid": "018",
-      "aid": "0006333695"
-    },
-    {
-      "title": "'롤러코스터 타격' LG 천성호, 시즌 첫 2군행 통보...재조정 필요",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199228",
-      "datetime": "2026.07.21 09:39",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199228"
-    },
-    {
-      "title": "‘오스틴 파워’도 힘 빠지는 LG 물방방이, 만루에서도 선두 타자 안타에도 침묵하는 타선 침묵",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127190",
-      "datetime": "2026.07.21 09:37",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127190"
-    },
-    {
-      "title": "‘패패패패패’ 득점권 타율 6푼9리 LG, 데뷔 첫 선발 21세 투수마저 공략 못하면 답 없다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005574904",
-      "datetime": "2026.07.21 07:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005574904"
-    },
-    {
-      "title": "\"삼성은 잘도 뽑는데, LG는 뭐하나?\" 예견된 3위 추락 LG 팬들, 뿔났다...고우석도, 왓슨도 모두 닭 쫓던 개 지붕 쳐다본 꼴",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199220",
-      "datetime": "2026.07.21 07:02",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199220"
-    },
-    {
-      "title": "LG 5연패? 2023년과 2025년에 한 것, 2024년에 하지 않은 것…웃픈 징크스 올해도 이어질까",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619239",
-      "datetime": "2026.07.21 00:06",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619239"
-    },
-    {
-      "title": "만루서 병살타, 대타 연속 삼진...LG 천성호 결국 시즌 첫 2군행",
-      "url": "https://n.news.naver.com/mnews/article/241/0003520842",
-      "datetime": "2026.07.20 18:31",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003520842",
-      "carried": true
-    },
-    {
-      "title": "홈런 4방 쳤는데 4경기 7득점이라니…충격의 득점권 타율 6푼9리, '10위-10위-10위' LG 타선 지금이 최저점일까",
-      "url": "https://n.news.naver.com/mnews/article/109/0005574747",
-      "datetime": "2026.07.20 17:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005574747",
-      "carried": true
-    },
-    {
-      "title": "5경기 만에 1위에서 3위로...LG에 무슨 일이 벌어지고 있나",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199207",
-      "datetime": "2026.07.20 17:06",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199207",
-      "carried": true
-    },
-    {
-      "title": "‘5연패’ 대위기 맞은 LG…타선도 타선인데 ‘선발도 흔들’, 산재한 ‘불안 요소’ [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001254683",
-      "datetime": "2026.07.20 15:18",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001254683",
-      "carried": true
-    },
-    {
-      "title": "시즌 첫 5연패 '위기의 LG'  도대체 타선 언제 터지나",
-      "url": "https://n.news.naver.com/mnews/article/241/0003520794",
-      "datetime": "2026.07.20 13:47",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003520794",
-      "carried": true
-    },
-    {
-      "title": "LG 후반기 추락…찬스마다 답답한 타선·홈런에 무너진 마운드",
-      "url": "https://n.news.naver.com/mnews/article/421/0009068056",
-      "datetime": "2026.07.20 11:31",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009068056",
+      "aid": "0002036167",
       "carried": true
     }
   ]
