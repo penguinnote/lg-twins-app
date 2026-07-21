@@ -1,9 +1,105 @@
 {
   "team": "LG",
-  "updated": "2026-07-21T08:18:01",
-  "count": 26,
+  "updated": "2026-07-21T11:02:58",
+  "count": 38,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'3위로 내려간' LG, 악셀 리오스 방출…새 외국인 투수와 막바지 조율 중",
+      "url": "https://n.news.naver.com/mnews/article/472/0000040903",
+      "datetime": "2026.07.21 18:50",
+      "office": "스포츠타임스",
+      "oid": "472",
+      "aid": "0000040903"
+    },
+    {
+      "title": "'5연패' LG, 강속구 투수 리오스 방출…\"선발투수 외인 계약 추진\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009071307",
+      "datetime": "2026.07.21 18:31",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009071307"
+    },
+    {
+      "title": "[공식발표] 162㎞ ML 외인, 14G 만에 한국 떠난다... '57일 만의 3위 추락' LG 파격 결단",
+      "url": "https://n.news.naver.com/mnews/article/108/0003454640",
+      "datetime": "2026.07.21 18:29",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003454640"
+    },
+    {
+      "title": "'영입 한 달 만에 짐 쌌다' 3위 LG, 외국인 투수 리오스 방출",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199250",
+      "datetime": "2026.07.21 18:27",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199250"
+    },
+    {
+      "title": "LG, 최고 162㎞ 리오스 영입 49일만에 방출 결정...\"새 외인은 선발, 곧 발표\"",
+      "url": "https://n.news.naver.com/mnews/article/241/0003521028",
+      "datetime": "2026.07.21 17:51",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003521028"
+    },
+    {
+      "title": "[오피셜]결단 내린 LG, 리오스와 작별… ‘선발’ 새 외인은 언제",
+      "url": "https://n.news.naver.com/mnews/article/144/0001127290",
+      "datetime": "2026.07.21 17:36",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001127290"
+    },
+    {
+      "title": "LG, 1위 탈환 위한 승부수…리오스 방출 결정, 외국인 선수 교체 카드 모두 사용한다",
+      "url": "https://n.news.naver.com/mnews/article/382/0001284296",
+      "datetime": "2026.07.21 17:34",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001284296"
+    },
+    {
+      "title": "'방수포 다시 깔았다' 비 오락가락 잠실, NC-LG전 정상 개시 가능한가[잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004427552",
+      "datetime": "2026.07.21 17:31",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004427552"
+    },
+    {
+      "title": "리오스 방출, LG도 승부수 던졌다 “새 외인 투수 영입 막바지 조율 중”",
+      "url": "https://n.news.naver.com/mnews/article/144/0001127287",
+      "datetime": "2026.07.21 17:30",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001127287"
+    },
+    {
+      "title": "[공식] LG ‘외국인 불펜’ 승부수는 결국 실패→리오스 방출…‘시속 160㎞’ 속구 안 통했다",
+      "url": "https://n.news.naver.com/mnews/article/468/0001254950",
+      "datetime": "2026.07.21 17:28",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001254950"
+    },
+    {
+      "title": "[오피셜]\"스카우트팀 일 잘한다. 고맙다\"던 염갈량, 어쩌다 리오스 방출까지 갔나...처음부터 잘못됐던 선택",
+      "url": "https://n.news.naver.com/mnews/article/445/0000440603",
+      "datetime": "2026.07.21 17:24",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000440603"
+    },
+    {
+      "title": "160km 광속구만으로는 부족했다...LG 약셀 리오스 웨이버 공시, '선발투수' 영입 임박",
+      "url": "https://n.news.naver.com/mnews/article/529/0000077934",
+      "datetime": "2026.07.21 17:18",
+      "office": "더게이트",
+      "oid": "529",
+      "aid": "0000077934"
+    },
     {
       "title": "'3위 추락' LG트윈스, 한 달 만에 리오스 방출...분위기 반전 노려",
       "url": "https://n.news.naver.com/mnews/article/018/0006334087",
