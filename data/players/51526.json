@@ -2,14 +2,14 @@
   "playerId": "51526",
   "season": 2026,
   "is_pitcher": true,
-  "games": 42,
-  "updated": "2026-07-20T23:53:17",
+  "games": 43,
+  "updated": "2026-07-21T16:00:54",
   "totals": {
-    "IP": 36.999,
+    "IP": 37.666,
     "R": 19,
     "ER": 15,
     "SO": 36,
-    "H": 29,
+    "H": 31,
     "HR": 3,
     "BB": 12,
     "W": 0,
@@ -689,6 +689,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "3.65"
+    },
+    {
+      "date": "2026-07-21",
+      "opp": "NC",
+      "role": "구원",
+      "result": "",
+      "IP": 0.667,
+      "TBF": 4,
+      "H": 2,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "3.58"
     }
   ],
   "coin": {
@@ -1005,48 +1021,55 @@
         "open": 124.376,
         "close": 126.154,
         "value": 0.3557
+      },
+      {
+        "date": "2026-07-21",
+        "opp": "NC",
+        "open": 126.154,
+        "close": 127.932,
+        "value": 0.3557
       }
     ]
   },
   "ratings": {
-    "OVR": 74,
+    "OVR": 72,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 2.92,
-        "rating": 74
+        "value": 2.87,
+        "rating": 73
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 8.76,
-        "rating": 77
+        "value": 8.6,
+        "rating": 72
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.209,
-        "rating": 90
+        "value": 0.217,
+        "rating": 87
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.73,
+        "value": 0.72,
         "rating": 65
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 37.0,
+        "value": 37.7,
         "rating": 59
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
         "value": 3.52,
-        "rating": 81
+        "rating": 79
       }
     ],
     "type": "pitcher"

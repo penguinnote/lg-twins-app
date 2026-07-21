@@ -87,5 +87,28 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "fetched_at": "2026-07-21T16:00:09",
+    "registered": [
+      {
+        "name": "장현식",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "최원영",
+        "position": "외",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "리오스",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
