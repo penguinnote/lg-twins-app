@@ -1,9 +1,97 @@
 {
   "team": "LG",
-  "updated": "2026-07-21T05:45:10",
-  "count": 15,
+  "updated": "2026-07-21T08:18:01",
+  "count": 26,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'3위 추락' LG트윈스, 한 달 만에 리오스 방출...분위기 반전 노려",
+      "url": "https://n.news.naver.com/mnews/article/018/0006334087",
+      "datetime": "2026.07.21 17:01",
+      "office": "이데일리",
+      "oid": "018",
+      "aid": "0006334087"
+    },
+    {
+      "title": "‘강속구 불펜 포기하다니’ LG, 또 한 번 승부수 던졌다!…리오스 방출→“새 외국인 투수 계약 조만간 발표”",
+      "url": "https://n.news.naver.com/mnews/article/410/0001133372",
+      "datetime": "2026.07.21 17:01",
+      "office": "MK스포츠 ",
+      "oid": "410",
+      "aid": "0001133372"
+    },
+    {
+      "title": "LG, 리오스와 방출하고 새 외인 영입…\"계약 마무리 단계\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014079378",
+      "datetime": "2026.07.21 16:56",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014079378"
+    },
+    {
+      "title": "[공식발표] '전격 교체' LG 결단,160㎞ 파이어볼러 방출한다…\"새로운 투수 곧 발표한다\"",
+      "url": "https://n.news.naver.com/mnews/article/076/0004427543",
+      "datetime": "2026.07.21 16:55",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004427543"
+    },
+    {
+      "title": "'162km 포기한다' LG 리오스 방출, 이번엔 선발투수 데려온다...염갈량 \"계약 마무리 단계\"",
+      "url": "https://n.news.naver.com/mnews/article/109/0005575160",
+      "datetime": "2026.07.21 16:42",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005575160"
+    },
+    {
+      "title": "프로야구 LG, 리오스 방출…\"새 외국인 투수 계약 조만간 발표\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016206676",
+      "datetime": "2026.07.21 16:36",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016206676"
+    },
+    {
+      "title": "LG '162㎞ 파이어볼러' 리오스 깜짝 말소→웨이버 \"선발투수 영입 무산, 바로 다른 투수 계약 진행\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619347",
+      "datetime": "2026.07.21 16:28",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619347"
+    },
+    {
+      "title": "'리오스 웨이버 공시' LG 승부수! 전격 외국인 선수 교체, 염경엽 감독 \"합의 단계, 선발로 쓴다\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004086874",
+      "datetime": "2026.07.21 16:24",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004086874"
+    },
+    {
+      "title": "'패패패패패' LG 리오스, 전격 2군행...라인업 떴다. 문정빈 4번-문보경 6번",
+      "url": "https://n.news.naver.com/mnews/article/109/0005575149",
+      "datetime": "2026.07.21 16:02",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005575149"
+    },
+    {
+      "title": "'충격 5연패' LG 단비인가, 잠실 방수포 깔렸다…정상 개최 가능할까[잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004427513",
+      "datetime": "2026.07.21 15:26",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004427513"
+    },
+    {
+      "title": "52억 필승조→5선발 전환, 이번엔 '연패 스토퍼' 도전장...변수는 장마",
+      "url": "https://n.news.naver.com/mnews/article/241/0003520997",
+      "datetime": "2026.07.21 15:23",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003520997"
+    },
     {
       "title": "52억 투수 장현식, 5연패 탈출 스토퍼가 될까...무실점 호투가 절실히다",
       "url": "https://n.news.naver.com/mnews/article/109/0005575054",
