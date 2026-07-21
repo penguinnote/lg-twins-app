@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-07-21T02:08:48",
-  "count": 12,
+  "updated": "2026-07-21T05:45:10",
+  "count": 15,
   "carried_count": 6,
   "items": [
+    {
+      "title": "52억 투수 장현식, 5연패 탈출 스토퍼가 될까...무실점 호투가 절실히다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005575054",
+      "datetime": "2026.07.21 13:44",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005575054"
+    },
+    {
+      "title": "코치 바꾸고 주전 2군행, LG선 볼 수 없다? 어쩌면 양날의 칼이 될 염갈량의 소신",
+      "url": "https://n.news.naver.com/mnews/article/445/0000440502",
+      "datetime": "2026.07.21 12:08",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000440502"
+    },
+    {
+      "title": "위기에 빠진 ‘디펜딩 챔피언’ LG, ‘NC·한화·키움’ 까다로운 9연전 돌입…어쩌면 ‘진짜 고비’ [SS포커스]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001254837",
+      "datetime": "2026.07.21 11:27",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001254837"
+    },
     {
       "title": "선두에서 3위로 추락…'5연패' LG, 후반기 최대 위기 이겨낼까",
       "url": "https://n.news.naver.com/mnews/article/018/0006333695",
