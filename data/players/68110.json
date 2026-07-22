@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 67,
-  "updated": "2026-07-21T16:00:46",
+  "updated": "2026-07-22T15:57:56",
   "totals": {
     "AB": 203,
     "H": 58,
@@ -996,19 +996,19 @@
         "key": "eye",
         "label": "선구안",
         "value": 0.09,
-        "rating": 49
+        "rating": 48
       },
       {
         "key": "speed",
         "label": "주력",
         "value": 2,
-        "rating": 49
+        "rating": 50
       },
       {
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.239,
-        "rating": 28
+        "rating": 29
       },
       {
         "key": "production",

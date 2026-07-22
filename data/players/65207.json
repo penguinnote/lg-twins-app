@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 89,
-  "updated": "2026-07-21T16:00:19",
+  "updated": "2026-07-22T15:57:33",
   "totals": {
     "AB": 254,
     "H": 64,
@@ -1285,14 +1285,14 @@
     ]
   },
   "ratings": {
-    "OVR": 49,
+    "OVR": 50,
     "lowSample": false,
     "axes": [
       {
         "key": "contact",
         "label": "컨택",
         "value": 0.252,
-        "rating": 39
+        "rating": 40
       },
       {
         "key": "power",
@@ -1322,7 +1322,7 @@
         "key": "production",
         "label": "생산성",
         "value": 0.282,
-        "rating": 19
+        "rating": 20
       }
     ],
     "type": "hitter"
