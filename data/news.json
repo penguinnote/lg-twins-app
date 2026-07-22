@@ -1,16 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-07-22T13:39:08",
-  "count": 46,
+  "updated": "2026-07-22T15:28:50",
+  "count": 8,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'연속 우승 최대 고비' LG는 왜 마흔살 투수를 데려왔을까",
+      "url": "https://n.news.naver.com/mnews/article/076/0004428134",
+      "datetime": "2026.07.23 00:10",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004428134"
+    },
+    {
+      "title": "LG 마운드에 MLB 다승왕",
+      "url": "https://n.news.naver.com/mnews/article/025/0003539459",
+      "datetime": "2026.07.23 00:01",
+      "office": "중앙일보",
+      "oid": "025",
+      "aid": "0003539459"
+    },
     {
       "title": "3위도 노란불 LG, 왕조건설은 빨간불? 전례 없는 위기에 ‘2년 연속우승’ 목표 흔들",
       "url": "https://n.news.naver.com/mnews/article/144/0001127577",
       "datetime": "2026.07.22 22:02",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001127577"
+      "aid": "0001127577",
+      "carried": true
     },
     {
       "title": "기습 폭우에 LG·NC 경기 결국 취소…추후 재편성",
@@ -18,7 +35,8 @@
       "datetime": "2026.07.22 20:05",
       "office": "서울신문",
       "oid": "081",
-      "aid": "0003663709"
+      "aid": "0003663709",
+      "carried": true
     },
     {
       "title": "잠실 덮친 기습 폭우…프로야구 NC-LG전, 우천 노게임",
@@ -26,7 +44,8 @@
       "datetime": "2026.07.22 20:04",
       "office": "뉴시스",
       "oid": "003",
-      "aid": "0014082288"
+      "aid": "0014082288",
+      "carried": true
     },
     {
       "title": "갑자기 쏟아진 폭우에…잠실 LG-NC전, 3회 우천 노게임",
@@ -34,7 +53,8 @@
       "datetime": "2026.07.22 20:04",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009073706"
+      "aid": "0009073706",
+      "carried": true
     },
     {
       "title": "톨허스트 대 라일리, 두 에이스의 호투가 비에 쓸려갔다… 잠실 LG-NC 맞대결 ‘우천 노게임’",
@@ -42,7 +62,8 @@
       "datetime": "2026.07.22 20:01",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001127549"
+      "aid": "0001127549",
+      "carried": true
     },
     {
       "title": "'비가 이렇게 쏟아지다니' 6연패 탈출도, 연승 도전도 다음으로…LG-NC전, 잠실 집어삼킨 폭우에 3회말 우천 취소, 0-0 노게임 [잠실 현장]",
@@ -50,332 +71,7 @@
       "datetime": "2026.07.22 20:01",
       "office": "엑스포츠뉴스",
       "oid": "311",
-      "aid": "0002036569"
-    },
-    {
-      "title": "'기습 폭우에 손쓸 틈 없었다' 잠실 LG-NC전 우천 노게임... 6연패 LG 하루 휴식 벌었다 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087474",
-      "datetime": "2026.07.22 19:59",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087474"
-    },
-    {
-      "title": "순식간에 물바다 됐다…22일 잠실 LG-NC전, 결국 우천 노게임 선언",
-      "url": "https://n.news.naver.com/mnews/article/410/0001133574",
-      "datetime": "2026.07.22 19:56",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001133574"
-    },
-    {
-      "title": "긴급 폭우에 방수포도 못 덮었다…6연패 LG, 일단 하루 쉬나",
-      "url": "https://n.news.naver.com/mnews/article/081/0003663704",
-      "datetime": "2026.07.22 19:31",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003663704"
-    },
-    {
-      "title": "'엄청난 폭우' 순식간에 내야 물바다가 됐다, 잠실 LG-NC전 3회 우천 중단→투수전 속 0-0 균형 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087453",
-      "datetime": "2026.07.22 19:27",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087453"
-    },
-    {
-      "title": "잠실 휘몰아친 엄청난 폭우, LG-NC전 3회말 우천 중단…톨허스트-라일리 팽팽한 투수전, 0-0 균형 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036546",
-      "datetime": "2026.07.22 19:24",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036546"
-    },
-    {
-      "title": "MLB 통산 112승 vs 어느덧 39세…LG 카라스코 영입 왜? 염경엽 감독 \"경험 무시 못 해, 28~29일 등판 가능\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036528",
-      "datetime": "2026.07.22 18:20",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036528"
-    },
-    {
-      "title": "6연패 LG, KIA와도 2.5경기차 3위도 '간당간당'",
-      "url": "https://n.news.naver.com/mnews/article/450/0000152692",
-      "datetime": "2026.07.22 17:36",
-      "office": "STN 뉴스",
-      "oid": "450",
-      "aid": "0000152692"
-    },
-    {
-      "title": "'MLB 통산 112승' 카라스코 품은 LG...6연패 탈출 승부수 던졌다",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199292",
-      "datetime": "2026.07.22 17:27",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199292"
-    },
-    {
-      "title": "'LG 승부수' 39세 ML 112승 베테랑 선발 투수 데려왔다, 염갈량 기대감 \"경험 무시 못해\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087399",
-      "datetime": "2026.07.22 17:24",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087399"
-    },
-    {
-      "title": "삼성만? LG도 거물 영입…MLB 112승 카라스코 온다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003663630",
-      "datetime": "2026.07.22 17:19",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003663630"
-    },
-    {
-      "title": "번트 타구 서서 봤던 박동원, 선발 라인업 빠졌다… 염경엽 “당연히 포수가 처리해야 할 타구”",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127509",
-      "datetime": "2026.07.22 16:54",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127509"
-    },
-    {
-      "title": "'6연패 속 3위로 내려간' LG, MLB 112승 투수 카라스코 영입으로 승부수",
-      "url": "https://n.news.naver.com/mnews/article/472/0000040922",
-      "datetime": "2026.07.22 16:44",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000040922"
-    },
-    {
-      "title": "LG, 두 달 만에 ‘선발’ 외인 투수 안았다… 염경엽 “메이저에서 100승 넘게 한 투수, 경험은 무시 못한다”",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127500",
-      "datetime": "2026.07.22 16:42",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127500"
-    },
-    {
-      "title": "누적 수입 1200억원, ML 통산 100승 투수 카라스코는 왜 KBO에 왔을까...염경엽 감독은 '페타지니'를 거론했다 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/529/0000077947",
-      "datetime": "2026.07.22 16:40",
-      "office": "더게이트",
-      "oid": "529",
-      "aid": "0000077947"
-    },
-    {
-      "title": "'2217일 만의 6연패' LG 시즌 최대 위기…염경엽 감독, 박동원 전격 선발 제외 \"길게 설명 안 하겠다\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036506",
-      "datetime": "2026.07.22 16:38",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036506"
-    },
-    {
-      "title": "LG, 메이저리그 다승왕 출신 카라스코 영입…통산 112승 달성",
-      "url": "https://n.news.naver.com/mnews/article/028/0002815262",
-      "datetime": "2026.07.22 16:32",
-      "office": "한겨레",
-      "oid": "028",
-      "aid": "0002815262"
-    },
-    {
-      "title": "'LG 승부수' 39세 112승 투수가 한국에 오다니 \"24일 입국, 다음주 등판\"[잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004427965",
-      "datetime": "2026.07.22 16:28",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004427965"
-    },
-    {
-      "title": "문보경-박동원 선발 제외, 송찬의-이주헌 출격... '충격의 6연패' LG 라인업 변화 줬다 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087375",
-      "datetime": "2026.07.22 16:25",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087375"
-    },
-    {
-      "title": "LG, 새 외인투수로 베테랑 '카를로스 카라스코' 영입",
-      "url": "https://n.news.naver.com/mnews/article/450/0000152690",
-      "datetime": "2026.07.22 16:15",
-      "office": "STN 뉴스",
-      "oid": "450",
-      "aid": "0000152690"
-    },
-    {
-      "title": "반등 노리는 LG, 'MLB 112승' 베테랑 우완 카라스코 영입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014081769",
-      "datetime": "2026.07.22 15:45",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014081769"
-    },
-    {
-      "title": "프로야구 LG, '메이저리그 112승' 베테랑 투수 카라스코 영입",
-      "url": "https://n.news.naver.com/mnews/article/214/0001513209",
-      "datetime": "2026.07.22 15:44",
-      "office": "MBC",
-      "oid": "214",
-      "aid": "0001513209"
-    },
-    {
-      "title": "'충격 6연패' 위기의 LG, 'ML 112승' 카라스코 영입 \"완성도 높은 변화구 갖고 있어\" [공식발표]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036480",
-      "datetime": "2026.07.22 15:40",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036480"
-    },
-    {
-      "title": "\"시즌 출발이면 못 했다\" LG 어떻게 MLB 112승 투수 데려왔나, 카라스코 영입 비하인드",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619608",
-      "datetime": "2026.07.22 15:16",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619608"
-    },
-    {
-      "title": "'6연패' LG의 승부수…MLB '112승' 투수 카라스코 영입",
-      "url": "https://n.news.naver.com/mnews/article/421/0009073047",
-      "datetime": "2026.07.22 15:03",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009073047"
-    },
-    {
-      "title": "[오피셜] LG '빅리그 112승' 역대 최고 경력 39세 베테랑 카라스코 영입",
-      "url": "https://n.news.naver.com/mnews/article/241/0003521186",
-      "datetime": "2026.07.22 14:50",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003521186"
-    },
-    {
-      "title": "리오스 방출한 LG, ‘AL 다승왕 출신 투수’ 영입…반등 위한 ‘마지막 승부수’ [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001255211",
-      "datetime": "2026.07.22 14:48",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001255211"
-    },
-    {
-      "title": "프로야구 LG, MLB 112승 투수 카라스코 영입…승부수 띄웠다",
-      "url": "https://n.news.naver.com/mnews/article/001/0016208493",
-      "datetime": "2026.07.22 14:46",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016208493"
-    },
-    {
-      "title": "위기의 LG, ML 112승 베테랑 데려왔다…162km 파이어볼러 방출하고 39세 카라스코 영입 [공식발표]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005575787",
-      "datetime": "2026.07.22 14:41",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005575787"
-    },
-    {
-      "title": "“우승 트로피 가져오는데 기여할 것!”…리오스와 결별한 LG, 새 외국인 투수로 ‘빅리그 통산 112승’ 카라스코 영입 [공식발표]",
-      "url": "https://n.news.naver.com/mnews/article/410/0001133507",
-      "datetime": "2026.07.22 14:40",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001133507"
-    },
-    {
-      "title": "[공식발표] 위기의 LG, MLB 343경기 39살 베테랑 카라스코 전격 영입 '총액 36만 달러'",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619584",
-      "datetime": "2026.07.22 14:34",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619584"
-    },
-    {
-      "title": "2023·2025년에도 연패는 있었다, 그러나 지금의 LG는 그때와 다르다… 6년 만의 6연패, 흔들리는 ‘디펜딩 챔피언’",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127457",
-      "datetime": "2026.07.22 14:32",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127457"
-    },
-    {
-      "title": "데뷔 첫 선발에도 고전한 6연패 LG, 14K 당한 라일리 공략에 성공할까",
-      "url": "https://n.news.naver.com/mnews/article/241/0003521183",
-      "datetime": "2026.07.22 14:08",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003521183"
-    },
-    {
-      "title": "위기의 LG, 외국인 교체 카드까지 던졌다… 카라스코 영입",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539312",
-      "datetime": "2026.07.22 13:55",
-      "office": "중앙일보",
-      "oid": "025",
-      "aid": "0003539312"
-    },
-    {
-      "title": "후반기 아직 승이 없다고?…'투타 붕괴' LG, 끝없는 6연패 추락",
-      "url": "https://n.news.naver.com/mnews/article/079/0004170843",
-      "datetime": "2026.07.22 13:48",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004170843"
-    },
-    {
-      "title": "‘충격 6연패’ 우승팀 LG, 염갈량 부임 이후 최다 연패 불명예…2년 전 후반기 추락 되풀이되나, 새 외국인 투수 오면 달라질까",
-      "url": "https://n.news.naver.com/mnews/article/109/0005575764",
-      "datetime": "2026.07.22 13:13",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005575764",
-      "carried": true
-    },
-    {
-      "title": "‘실패’로 끝난 LG ‘외국인 불펜’ 승부수…반등 위한 ‘두 번째 승부수’, 이제 다시 선발 [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001255187",
-      "datetime": "2026.07.22 13:01",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001255187",
-      "carried": true
-    },
-    {
-      "title": "6연패 없었던 LG, 희망은 있다?",
-      "url": "https://n.news.naver.com/mnews/article/119/0003113705",
-      "datetime": "2026.07.22 12:10",
-      "office": "데일리안",
-      "oid": "119",
-      "aid": "0003113705",
-      "carried": true
-    },
-    {
-      "title": "충격의 6연패로 3위도 위태…위기 직면한 '디펜딩 챔프' LG",
-      "url": "https://n.news.naver.com/mnews/article/003/0014080418",
-      "datetime": "2026.07.22 10:23",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014080418",
-      "carried": true
-    },
-    {
-      "title": "'1위보다 4위가 더 가깝다.' 계속되는 '이상현상' 득점권 타율 0.081. 6연패. 위기의 LG 2연패 멀어지나",
-      "url": "https://n.news.naver.com/mnews/article/076/0004427811",
-      "datetime": "2026.07.22 08:49",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004427811",
-      "carried": true
-    },
-    {
-      "title": "1이닝당 일반 직장인 연봉 챙긴 리오스, 가라...LG, 결국 선발 외인으로 교체",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199262",
-      "datetime": "2026.07.22 07:19",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199262",
+      "aid": "0002036569",
       "carried": true
     }
   ]
