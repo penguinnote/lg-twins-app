@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-07-22T11:04:04",
+  "updated": "2026-07-22T13:39:08",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "3위도 노란불 LG, 왕조건설은 빨간불? 전례 없는 위기에 ‘2년 연속우승’ 목표 흔들",
+      "url": "https://n.news.naver.com/mnews/article/144/0001127577",
+      "datetime": "2026.07.22 22:02",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001127577"
+    },
+    {
+      "title": "기습 폭우에 LG·NC 경기 결국 취소…추후 재편성",
+      "url": "https://n.news.naver.com/mnews/article/081/0003663709",
+      "datetime": "2026.07.22 20:05",
+      "office": "서울신문",
+      "oid": "081",
+      "aid": "0003663709"
+    },
+    {
+      "title": "잠실 덮친 기습 폭우…프로야구 NC-LG전, 우천 노게임",
+      "url": "https://n.news.naver.com/mnews/article/003/0014082288",
+      "datetime": "2026.07.22 20:04",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014082288"
+    },
+    {
+      "title": "갑자기 쏟아진 폭우에…잠실 LG-NC전, 3회 우천 노게임",
+      "url": "https://n.news.naver.com/mnews/article/421/0009073706",
+      "datetime": "2026.07.22 20:04",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009073706"
+    },
     {
       "title": "톨허스트 대 라일리, 두 에이스의 호투가 비에 쓸려갔다… 잠실 LG-NC 맞대결 ‘우천 노게임’",
       "url": "https://n.news.naver.com/mnews/article/144/0001127549",
@@ -298,7 +330,8 @@
       "datetime": "2026.07.22 13:13",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005575764"
+      "aid": "0005575764",
+      "carried": true
     },
     {
       "title": "‘실패’로 끝난 LG ‘외국인 불펜’ 승부수…반등 위한 ‘두 번째 승부수’, 이제 다시 선발 [SS포커스]",
@@ -306,7 +339,8 @@
       "datetime": "2026.07.22 13:01",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001255187"
+      "aid": "0001255187",
+      "carried": true
     },
     {
       "title": "6연패 없었던 LG, 희망은 있다?",
@@ -314,7 +348,8 @@
       "datetime": "2026.07.22 12:10",
       "office": "데일리안",
       "oid": "119",
-      "aid": "0003113705"
+      "aid": "0003113705",
+      "carried": true
     },
     {
       "title": "충격의 6연패로 3위도 위태…위기 직면한 '디펜딩 챔프' LG",
@@ -322,7 +357,8 @@
       "datetime": "2026.07.22 10:23",
       "office": "뉴시스",
       "oid": "003",
-      "aid": "0014080418"
+      "aid": "0014080418",
+      "carried": true
     },
     {
       "title": "'1위보다 4위가 더 가깝다.' 계속되는 '이상현상' 득점권 타율 0.081. 6연패. 위기의 LG 2연패 멀어지나",
@@ -340,42 +376,6 @@
       "office": "마니아타임즈",
       "oid": "425",
       "aid": "0000199262",
-      "carried": true
-    },
-    {
-      "title": "테이블세터 6출루 만들면 뭐하나... 득점권에서 작아지는 LG, 자꾸만 밥상을 엎는다 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087172",
-      "datetime": "2026.07.22 06:40",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087172",
-      "carried": true
-    },
-    {
-      "title": "염경엽 LG 감독 ‘뿔났다’…느슨한 플레이 박동원에 \"당장 들어와!\"",
-      "url": "https://n.news.naver.com/mnews/article/629/0000517852",
-      "datetime": "2026.07.22 05:14",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000517852",
-      "carried": true
-    },
-    {
-      "title": "'충격 전패' LG 칼 빼들었다, 28억 실패 만회할 외국인 누구인가…\"뭐지? 갑자기 바뀌었다\"",
-      "url": "https://n.news.naver.com/mnews/article/076/0004427772",
-      "datetime": "2026.07.22 04:24",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004427772",
-      "carried": true
-    },
-    {
-      "title": "\"누구 없어서 안 되는 팀 아니다\" 그런데 왜 바뀌는 게 없을까, LG '주전야구'가 마주한 딜레마",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619506",
-      "datetime": "2026.07.22 01:56",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619506",
       "carried": true
     }
   ]
