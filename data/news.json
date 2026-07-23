@@ -1,9 +1,81 @@
 {
   "team": "LG",
-  "updated": "2026-07-23T15:51:38",
-  "count": 7,
+  "updated": "2026-07-23T22:00:43",
+  "count": 16,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'예고한대로' 초대형 신인 마침내 1군에 왔다, 염갈량 계획 밝혔다 \"1경기 던지면 이틀 쉴 것\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004087928",
+      "datetime": "2026.07.24 06:43",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004087928"
+    },
+    {
+      "title": "LG 7연패 했는데 우승 시즌만큼 하고 있다고? '5.5경기 역전' 드라마가 시작된 순간",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619877",
+      "datetime": "2026.07.24 06:40",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619877"
+    },
+    {
+      "title": "장현식의 선발 전환, \"위험하다\" 경고했다! 결국 부상으로 이탈...LG는 '소탐대실'하고 있어",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199360",
+      "datetime": "2026.07.24 06:08",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199360"
+    },
+    {
+      "title": "어디까지 내려가는 거예요? LG 충격의 7연패…팬들도 등 돌렸다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003664228",
+      "datetime": "2026.07.24 05:57",
+      "office": "서울신문",
+      "oid": "081",
+      "aid": "0003664228"
+    },
+    {
+      "title": "하늘도 외면한 LG, ‘병살타 4개-잔루 13개’로 이길 수 없다…6년 만의 7연패",
+      "url": "https://n.news.naver.com/mnews/article/629/0000518618",
+      "datetime": "2026.07.24 05:09",
+      "office": "더팩트",
+      "oid": "629",
+      "aid": "0000518618"
+    },
+    {
+      "title": "'6년 만의 7연패? LG, 도대체 무슨 일이' ML 112승 새 외인이 최후의 보루인가",
+      "url": "https://n.news.naver.com/mnews/article/079/0004171576",
+      "datetime": "2026.07.24 01:30",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004171576"
+    },
+    {
+      "title": "병살타-병살타-병살타-병살타, 11안타 12사사구인데 이길 수가 없다...LG 7연패 충격, 잔루만 14개 쌓였다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005577041",
+      "datetime": "2026.07.24 01:13",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005577041"
+    },
+    {
+      "title": "빅리거 모시고도… 식은 방망이에 웃지 못하는 LG",
+      "url": "https://n.news.naver.com/mnews/article/005/0001862839",
+      "datetime": "2026.07.24 01:04",
+      "office": "국민일보",
+      "oid": "005",
+      "aid": "0001862839"
+    },
+    {
+      "title": "강팀은 마무리가 결정한다는데…볼 일이 없으면 무슨 소용, 손주영 후반기 딱 1경기 나왔다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619868",
+      "datetime": "2026.07.24 01:00",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619868"
+    },
     {
       "title": "디펜딩 챔프가 2218일 만에 ‘패패패패패패패’라니…후반기 들어 깊은 부진 빠진 LG, 반등은 언제쯤",
       "url": "https://n.news.naver.com/mnews/article/410/0001133795",
