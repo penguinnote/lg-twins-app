@@ -1,9 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-07-23T09:22:08",
-  "count": 41,
+  "updated": "2026-07-23T11:47:36",
+  "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'이럴 수가' 선발 ERA 3.80 장현식, 팔꿈치 부상→최소 3주 이탈... '퓨처스 ERA 0.93' 1R 강속구 신인 '마침내' 첫 1군 등록",
+      "url": "https://n.news.naver.com/mnews/article/108/0003455411",
+      "datetime": "2026.07.23 19:41",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003455411"
+    },
+    {
+      "title": "몸으로 만든 값진 기록! LG 오지환, NC전 통산 100사구 달성…KBO 역대 47번째 이름 올렸다 [잠실 라이브]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002036952",
+      "datetime": "2026.07.23 19:40",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002036952"
+    },
+    {
+      "title": "셋업맨에서 선발까지...LG 장현식의 시즌에 제동",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199340",
+      "datetime": "2026.07.23 19:38",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199340"
+    },
+    {
+      "title": "프로야구 LG 장현식, 팔꿈치 부상으로 이탈…2주 뒤 재검진",
+      "url": "https://n.news.naver.com/mnews/article/421/0009076096",
+      "datetime": "2026.07.23 19:37",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009076096"
+    },
+    {
+      "title": "LG 또또 날벼락! '카라스코 안 왔는데' 장현식 부상 3~4주 이탈…선발진 또 비상→염경엽 감독 \"26일 선발 고민, 톨허스트는 28일\" [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002036928",
+      "datetime": "2026.07.23 19:00",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002036928"
+    },
+    {
+      "title": "프로야구 LG 선발 장현식, 팔꿈치 부상으로 이탈…2주 뒤 재검진",
+      "url": "https://n.news.naver.com/mnews/article/001/0016211976",
+      "datetime": "2026.07.23 18:56",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016211976"
+    },
+    {
+      "title": "'아뿔싸' 장현식 3~4주 쉰다, 부상 말소→신인 양우진 첫 콜업'…염경엽 감독 \"경험 쌓고 다음 시즌 활용 여부 테스트\" [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002036908",
+      "datetime": "2026.07.23 18:30",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002036908"
+    },
     {
       "title": "아뿔싸 LG에 또 찾아든 ‘악재’…장현식 팔꿈치 부상으로 3~4주 이탈 [SD 잠실 브리핑]",
       "url": "https://n.news.naver.com/mnews/article/382/0001284745",
@@ -274,7 +330,8 @@
       "datetime": "2026.07.23 00:10",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004428134"
+      "aid": "0004428134",
+      "carried": true
     },
     {
       "title": "LG 마운드에 MLB 다승왕",
@@ -282,7 +339,8 @@
       "datetime": "2026.07.23 00:01",
       "office": "중앙일보",
       "oid": "025",
-      "aid": "0003539459"
+      "aid": "0003539459",
+      "carried": true
     },
     {
       "title": "3위도 노란불 LG, 왕조건설은 빨간불? 전례 없는 위기에 ‘2년 연속우승’ 목표 흔들",
@@ -318,24 +376,6 @@
       "office": "뉴스1",
       "oid": "421",
       "aid": "0009073706",
-      "carried": true
-    },
-    {
-      "title": "톨허스트 대 라일리, 두 에이스의 호투가 비에 쓸려갔다… 잠실 LG-NC 맞대결 ‘우천 노게임’",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127549",
-      "datetime": "2026.07.22 20:01",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127549",
-      "carried": true
-    },
-    {
-      "title": "'비가 이렇게 쏟아지다니' 6연패 탈출도, 연승 도전도 다음으로…LG-NC전, 잠실 집어삼킨 폭우에 3회말 우천 취소, 0-0 노게임 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036569",
-      "datetime": "2026.07.22 20:01",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036569",
       "carried": true
     }
   ]
