@@ -1,9 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-07-23T11:47:36",
+  "updated": "2026-07-23T13:45:00",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘11안타·12사사구 얻고도 5점’ 변비 야구에 LG 7연패",
+      "url": "https://n.news.naver.com/mnews/article/119/0003114370",
+      "datetime": "2026.07.23 22:36",
+      "office": "데일리안",
+      "oid": "119",
+      "aid": "0003114370"
+    },
+    {
+      "title": "“안 풀린다. 안 풀려…” 11안타 4사구 12개 얻고도 5점에 그치는 ‘잔루 파티’의 LG, NC에게 5-7로 패하며 7연패 수렁 [잠실 현장 리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145444",
+      "datetime": "2026.07.23 22:12",
+      "office": "세계일보",
+      "oid": "022",
+      "aid": "0004145444"
+    },
+    {
+      "title": "병살 또 병살...또 타선 침묵에 고개 숙인 '디펜딩 챔프' LG, 6년 만에 7연패",
+      "url": "https://n.news.naver.com/mnews/article/241/0003521468",
+      "datetime": "2026.07.23 22:11",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003521468"
+    },
+    {
+      "title": "안타 11개·볼넷 12개로도 단 5득점…‘후반기 0승’ LG, 6년 만의 7연패",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644598",
+      "datetime": "2026.07.23 22:10",
+      "office": "서울경제",
+      "oid": "011",
+      "aid": "0004644598"
+    },
+    {
+      "title": "LG 병살타→병살타→병살타 충격 그 자체…2218일 만에 7연패 수렁, KBO 신입생에 결정적 한방 맞았다 [잠실 게임노트]",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619859",
+      "datetime": "2026.07.23 22:06",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619859"
+    },
+    {
+      "title": "오늘도 ‘잔루 파티’ 찬스마다 삼진·병살·내야뜬공… LG 또 졌다, 설마하던 7연패",
+      "url": "https://n.news.naver.com/mnews/article/144/0001127799",
+      "datetime": "2026.07.23 22:02",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001127799"
+    },
+    {
+      "title": "'끝없는 추락' LG, NC에 5-7 패배…6년 만에 7연패 수렁",
+      "url": "https://n.news.naver.com/mnews/article/421/0009076153",
+      "datetime": "2026.07.23 21:58",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009076153"
+    },
     {
       "title": "'이럴 수가' 선발 ERA 3.80 장현식, 팔꿈치 부상→최소 3주 이탈... '퓨처스 ERA 0.93' 1R 강속구 신인 '마침내' 첫 1군 등록",
       "url": "https://n.news.naver.com/mnews/article/108/0003455411",
@@ -274,7 +330,8 @@
       "datetime": "2026.07.23 10:53",
       "office": "서울신문",
       "oid": "081",
-      "aid": "0003663913"
+      "aid": "0003663913",
+      "carried": true
     },
     {
       "title": "'류현진과 동갑' 39세 카라스코…LG, '노장 외인' 반전 승부수 될까",
@@ -282,7 +339,8 @@
       "datetime": "2026.07.23 10:18",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009074512"
+      "aid": "0009074512",
+      "carried": true
     },
     {
       "title": "39세 LG 카라스코, 피어오르는 페타지니 향기",
@@ -290,7 +348,8 @@
       "datetime": "2026.07.23 08:36",
       "office": "데일리안",
       "oid": "119",
-      "aid": "0003113972"
+      "aid": "0003113972",
+      "carried": true
     },
     {
       "title": "1군 데뷔전 언제 불러주나요…LG 초대형 신인, 2이닝 무피안타 무실점→ERA 0.93 '위력투'",
@@ -298,7 +357,8 @@
       "datetime": "2026.07.23 07:43",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005576334"
+      "aid": "0005576334",
+      "carried": true
     },
     {
       "title": "\"켈리와는 달라, 동기부여 되지 않는다\" 염경엽 감독이 밝혔다, 왜 리오스 안 쓰고 하루 일찍 방출했나 [MD잠실]",
@@ -306,7 +366,8 @@
       "datetime": "2026.07.23 06:40",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004087579"
+      "aid": "0004087579",
+      "carried": true
     },
     {
       "title": "'거물' 카라스코 품은 LG, 선두 탈환 위한 '마지막 승부수'",
@@ -314,68 +375,7 @@
       "datetime": "2026.07.23 06:30",
       "office": "뉴시스",
       "oid": "003",
-      "aid": "0014082547"
-    },
-    {
-      "title": "카라스코 LG행→美는 리오스 거취에 더 주목! \"158㎞ 강속구, MLB 복귀 가능\"",
-      "url": "https://n.news.naver.com/mnews/article/108/0003455137",
-      "datetime": "2026.07.23 05:31",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003455137"
-    },
-    {
-      "title": "'연속 우승 최대 고비' LG는 왜 마흔살 투수를 데려왔을까",
-      "url": "https://n.news.naver.com/mnews/article/076/0004428134",
-      "datetime": "2026.07.23 00:10",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004428134",
-      "carried": true
-    },
-    {
-      "title": "LG 마운드에 MLB 다승왕",
-      "url": "https://n.news.naver.com/mnews/article/025/0003539459",
-      "datetime": "2026.07.23 00:01",
-      "office": "중앙일보",
-      "oid": "025",
-      "aid": "0003539459",
-      "carried": true
-    },
-    {
-      "title": "3위도 노란불 LG, 왕조건설은 빨간불? 전례 없는 위기에 ‘2년 연속우승’ 목표 흔들",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127577",
-      "datetime": "2026.07.22 22:02",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127577",
-      "carried": true
-    },
-    {
-      "title": "기습 폭우에 LG·NC 경기 결국 취소…추후 재편성",
-      "url": "https://n.news.naver.com/mnews/article/081/0003663709",
-      "datetime": "2026.07.22 20:05",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003663709",
-      "carried": true
-    },
-    {
-      "title": "잠실 덮친 기습 폭우…프로야구 NC-LG전, 우천 노게임",
-      "url": "https://n.news.naver.com/mnews/article/003/0014082288",
-      "datetime": "2026.07.22 20:04",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014082288",
-      "carried": true
-    },
-    {
-      "title": "갑자기 쏟아진 폭우에…잠실 LG-NC전, 3회 우천 노게임",
-      "url": "https://n.news.naver.com/mnews/article/421/0009073706",
-      "datetime": "2026.07.22 20:04",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009073706",
+      "aid": "0014082547",
       "carried": true
     }
   ]
