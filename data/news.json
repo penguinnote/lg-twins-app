@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-07-23T03:13:19",
-  "count": 20,
+  "updated": "2026-07-23T06:26:22",
+  "count": 23,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'충격' 韓 온 지 두 달도 안 됐는데, 왜 162km 투수 LG서 퇴출됐나…美 깜짝 놀랐다 \"리오스 방출 의외, LG 승부수 던졌다\"",
+      "url": "https://n.news.naver.com/mnews/article/117/0004087699",
+      "datetime": "2026.07.23 13:41",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004087699"
+    },
+    {
+      "title": "'왜 나만 갖고 그래?' LG 포수 박동원, 안일한 수비 vs 억울한 불운 논란 가열",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199319",
+      "datetime": "2026.07.23 12:52",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199319"
+    },
+    {
+      "title": "박동원이 롯데행? 손성빈·유강남 두고 '에이징 커브' 포수에 거액 베팅이라니...LG가 놓아줄지도 의문",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199316",
+      "datetime": "2026.07.23 12:36",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199316"
+    },
     {
       "title": "'MLB 112승' 카라스코 영입은 \"환영\", '강속구 투수' 리오스 방출은 \"의외\"…美 현지도 놀란 LG 외국인 선수 교체 승부수",
       "url": "https://n.news.naver.com/mnews/article/311/0002036784",
