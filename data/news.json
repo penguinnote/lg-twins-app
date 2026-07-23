@@ -1,9 +1,153 @@
 {
   "team": "LG",
-  "updated": "2026-07-23T06:26:22",
-  "count": 23,
+  "updated": "2026-07-23T09:22:08",
+  "count": 41,
   "carried_count": 6,
   "items": [
+    {
+      "title": "아뿔싸 LG에 또 찾아든 ‘악재’…장현식 팔꿈치 부상으로 3~4주 이탈 [SD 잠실 브리핑]",
+      "url": "https://n.news.naver.com/mnews/article/382/0001284745",
+      "datetime": "2026.07.23 18:11",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001284745"
+    },
+    {
+      "title": "‘LG 부상 날벼락’ 52억 FA 장현식, 팔꿈치 부상→3~4주 재활…초대형 신인 양우진, 드디어 1군 콜업",
+      "url": "https://n.news.naver.com/mnews/article/109/0005576576",
+      "datetime": "2026.07.23 17:48",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005576576"
+    },
+    {
+      "title": "잠실 폭우, 반전 또 반전! 15분 만에 비 그치며 안도…방수포 치웠다→LG-NC전 예정대로 개시 임박 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002036896",
+      "datetime": "2026.07.23 17:47",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002036896"
+    },
+    {
+      "title": "LG, MLB 다승왕 수혈…‘112승 경험’에 승부수 걸었다",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644511",
+      "datetime": "2026.07.23 17:43",
+      "office": "서울경제",
+      "oid": "011",
+      "aid": "0004644511"
+    },
+    {
+      "title": "‘톨허스트 시즌2’ 승부수 LG…주축 타자 4인방 반등 절실",
+      "url": "https://n.news.naver.com/mnews/article/005/0001862753",
+      "datetime": "2026.07.23 17:30",
+      "office": "국민일보",
+      "oid": "005",
+      "aid": "0001862753"
+    },
+    {
+      "title": "갑자기 장대비 쏟아진 잠실구장…LG-NC전 개시 불투명, 6시 30분 정상 개최 가능할까",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619838",
+      "datetime": "2026.07.23 17:23",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619838"
+    },
+    {
+      "title": "'하늘도 너무한다! 야구할 때만 되면 비 쏟아져' 잠실에 폭우 엄습→내야 방수포 설치…LG-NC전 정상 개최 여부 '불투명' [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002036889",
+      "datetime": "2026.07.23 17:17",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002036889"
+    },
+    {
+      "title": "LG 장현식, 팔꿈치 부상으로 이탈…염경엽 감독 \"26일 선발 고민\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014084834",
+      "datetime": "2026.07.23 17:11",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014084834"
+    },
+    {
+      "title": "후반기 유일의 무승팀 LG에 부상 악재가 덮쳤다… 우완 장현식 팔꿈치 부상으로 3∼4주 뒤에나 돌아올 수 있다 [잠실 현장 프리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145366",
+      "datetime": "2026.07.23 16:57",
+      "office": "세계일보",
+      "oid": "022",
+      "aid": "0004145366"
+    },
+    {
+      "title": "'이럴수가' LG 52억 승부수 다쳤다, 4주 이탈 예상…\"큰 부상은 아닌데, 선발 고민하겠다\"[잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004428348",
+      "datetime": "2026.07.23 16:55",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004428348"
+    },
+    {
+      "title": "[오피셜]엎친데 덮친 LG, 이번엔 5선발 장현식 부상 이탈...카스트로만으로 극복 가능한 위기일까",
+      "url": "https://n.news.naver.com/mnews/article/445/0000441174",
+      "datetime": "2026.07.23 16:54",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000441174"
+    },
+    {
+      "title": "'가만히 서 있어도 땀이 흐른다' 폭염주의보 잠실구장, 땀으로 샤워한 포수 박동원",
+      "url": "https://n.news.naver.com/mnews/article/076/0004428347",
+      "datetime": "2026.07.23 16:51",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004428347"
+    },
+    {
+      "title": "염경엽 감독의 확신 \"새 외인 카라스코, 치리노스 상위 버전\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004171478",
+      "datetime": "2026.07.23 16:46",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004171478"
+    },
+    {
+      "title": "LG 또 ‘악재’ 장현식 굴곡근 염좌, 복귀까지 3~4주… 퓨처스 0점대 신인 양우진이 1군 데뷔를 기다린다",
+      "url": "https://n.news.naver.com/mnews/article/144/0001127745",
+      "datetime": "2026.07.23 16:44",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001127745"
+    },
+    {
+      "title": "LG ‘염갈량’ 염경엽 감독 “대체 외인 카라스코, 메커니즘이나 커맨드 안정적...구종도 많아 ABS도 효과적으로 활용할 수 있을 것” [남정훈의 비욘드 더 그라운드]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004145361",
+      "datetime": "2026.07.23 16:42",
+      "office": "세계일보",
+      "oid": "022",
+      "aid": "0004145361"
+    },
+    {
+      "title": "'6연패 LG 또 시련' 장현식 우측 팔꿈치 부상으로 1군 말소 \"26일 대체 선발 고민\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004087755",
+      "datetime": "2026.07.23 16:28",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004087755"
+    },
+    {
+      "title": "LG 6연패인데 부상 악재까지 덮쳤다…52억 전천후 투수 1군 제외 \"투구하는데 3~4주 걸릴 것\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619828",
+      "datetime": "2026.07.23 16:27",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619828"
+    },
+    {
+      "title": "'우천 노게임→하루 휴식' LG 라인업, 박동원-문보경 또 선발 제외...양우진 1군 콜업, 장현식 팔꿈치 부상",
+      "url": "https://n.news.naver.com/mnews/article/109/0005576524",
+      "datetime": "2026.07.23 16:02",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005576524"
+    },
     {
       "title": "'충격' 韓 온 지 두 달도 안 됐는데, 왜 162km 투수 LG서 퇴출됐나…美 깜짝 놀랐다 \"리오스 방출 의외, LG 승부수 던졌다\"",
       "url": "https://n.news.naver.com/mnews/article/117/0004087699",
