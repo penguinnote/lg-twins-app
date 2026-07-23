@@ -1,16 +1,25 @@
 {
   "team": "LG",
-  "updated": "2026-07-23T13:45:00",
-  "count": 46,
+  "updated": "2026-07-23T15:51:38",
+  "count": 7,
   "carried_count": 6,
   "items": [
+    {
+      "title": "디펜딩 챔프가 2218일 만에 ‘패패패패패패패’라니…후반기 들어 깊은 부진 빠진 LG, 반등은 언제쯤",
+      "url": "https://n.news.naver.com/mnews/article/410/0001133795",
+      "datetime": "2026.07.24 00:01",
+      "office": "MK스포츠 ",
+      "oid": "410",
+      "aid": "0001133795"
+    },
     {
       "title": "‘11안타·12사사구 얻고도 5점’ 변비 야구에 LG 7연패",
       "url": "https://n.news.naver.com/mnews/article/119/0003114370",
       "datetime": "2026.07.23 22:36",
       "office": "데일리안",
       "oid": "119",
-      "aid": "0003114370"
+      "aid": "0003114370",
+      "carried": true
     },
     {
       "title": "“안 풀린다. 안 풀려…” 11안타 4사구 12개 얻고도 5점에 그치는 ‘잔루 파티’의 LG, NC에게 5-7로 패하며 7연패 수렁 [잠실 현장 리뷰]",
@@ -18,7 +27,8 @@
       "datetime": "2026.07.23 22:12",
       "office": "세계일보",
       "oid": "022",
-      "aid": "0004145444"
+      "aid": "0004145444",
+      "carried": true
     },
     {
       "title": "병살 또 병살...또 타선 침묵에 고개 숙인 '디펜딩 챔프' LG, 6년 만에 7연패",
@@ -26,7 +36,8 @@
       "datetime": "2026.07.23 22:11",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003521468"
+      "aid": "0003521468",
+      "carried": true
     },
     {
       "title": "안타 11개·볼넷 12개로도 단 5득점…‘후반기 0승’ LG, 6년 만의 7연패",
@@ -34,7 +45,8 @@
       "datetime": "2026.07.23 22:10",
       "office": "서울경제",
       "oid": "011",
-      "aid": "0004644598"
+      "aid": "0004644598",
+      "carried": true
     },
     {
       "title": "LG 병살타→병살타→병살타 충격 그 자체…2218일 만에 7연패 수렁, KBO 신입생에 결정적 한방 맞았다 [잠실 게임노트]",
@@ -42,7 +54,8 @@
       "datetime": "2026.07.23 22:06",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000619859"
+      "aid": "0000619859",
+      "carried": true
     },
     {
       "title": "오늘도 ‘잔루 파티’ 찬스마다 삼진·병살·내야뜬공… LG 또 졌다, 설마하던 7연패",
@@ -50,332 +63,7 @@
       "datetime": "2026.07.23 22:02",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001127799"
-    },
-    {
-      "title": "'끝없는 추락' LG, NC에 5-7 패배…6년 만에 7연패 수렁",
-      "url": "https://n.news.naver.com/mnews/article/421/0009076153",
-      "datetime": "2026.07.23 21:58",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009076153"
-    },
-    {
-      "title": "'이럴 수가' 선발 ERA 3.80 장현식, 팔꿈치 부상→최소 3주 이탈... '퓨처스 ERA 0.93' 1R 강속구 신인 '마침내' 첫 1군 등록",
-      "url": "https://n.news.naver.com/mnews/article/108/0003455411",
-      "datetime": "2026.07.23 19:41",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003455411"
-    },
-    {
-      "title": "몸으로 만든 값진 기록! LG 오지환, NC전 통산 100사구 달성…KBO 역대 47번째 이름 올렸다 [잠실 라이브]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036952",
-      "datetime": "2026.07.23 19:40",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036952"
-    },
-    {
-      "title": "셋업맨에서 선발까지...LG 장현식의 시즌에 제동",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199340",
-      "datetime": "2026.07.23 19:38",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199340"
-    },
-    {
-      "title": "프로야구 LG 장현식, 팔꿈치 부상으로 이탈…2주 뒤 재검진",
-      "url": "https://n.news.naver.com/mnews/article/421/0009076096",
-      "datetime": "2026.07.23 19:37",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009076096"
-    },
-    {
-      "title": "LG 또또 날벼락! '카라스코 안 왔는데' 장현식 부상 3~4주 이탈…선발진 또 비상→염경엽 감독 \"26일 선발 고민, 톨허스트는 28일\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036928",
-      "datetime": "2026.07.23 19:00",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036928"
-    },
-    {
-      "title": "프로야구 LG 선발 장현식, 팔꿈치 부상으로 이탈…2주 뒤 재검진",
-      "url": "https://n.news.naver.com/mnews/article/001/0016211976",
-      "datetime": "2026.07.23 18:56",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016211976"
-    },
-    {
-      "title": "'아뿔싸' 장현식 3~4주 쉰다, 부상 말소→신인 양우진 첫 콜업'…염경엽 감독 \"경험 쌓고 다음 시즌 활용 여부 테스트\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036908",
-      "datetime": "2026.07.23 18:30",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036908"
-    },
-    {
-      "title": "아뿔싸 LG에 또 찾아든 ‘악재’…장현식 팔꿈치 부상으로 3~4주 이탈 [SD 잠실 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/382/0001284745",
-      "datetime": "2026.07.23 18:11",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001284745"
-    },
-    {
-      "title": "‘LG 부상 날벼락’ 52억 FA 장현식, 팔꿈치 부상→3~4주 재활…초대형 신인 양우진, 드디어 1군 콜업",
-      "url": "https://n.news.naver.com/mnews/article/109/0005576576",
-      "datetime": "2026.07.23 17:48",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005576576"
-    },
-    {
-      "title": "잠실 폭우, 반전 또 반전! 15분 만에 비 그치며 안도…방수포 치웠다→LG-NC전 예정대로 개시 임박 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036896",
-      "datetime": "2026.07.23 17:47",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036896"
-    },
-    {
-      "title": "LG, MLB 다승왕 수혈…‘112승 경험’에 승부수 걸었다",
-      "url": "https://n.news.naver.com/mnews/article/011/0004644511",
-      "datetime": "2026.07.23 17:43",
-      "office": "서울경제",
-      "oid": "011",
-      "aid": "0004644511"
-    },
-    {
-      "title": "‘톨허스트 시즌2’ 승부수 LG…주축 타자 4인방 반등 절실",
-      "url": "https://n.news.naver.com/mnews/article/005/0001862753",
-      "datetime": "2026.07.23 17:30",
-      "office": "국민일보",
-      "oid": "005",
-      "aid": "0001862753"
-    },
-    {
-      "title": "갑자기 장대비 쏟아진 잠실구장…LG-NC전 개시 불투명, 6시 30분 정상 개최 가능할까",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619838",
-      "datetime": "2026.07.23 17:23",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619838"
-    },
-    {
-      "title": "'하늘도 너무한다! 야구할 때만 되면 비 쏟아져' 잠실에 폭우 엄습→내야 방수포 설치…LG-NC전 정상 개최 여부 '불투명' [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036889",
-      "datetime": "2026.07.23 17:17",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036889"
-    },
-    {
-      "title": "LG 장현식, 팔꿈치 부상으로 이탈…염경엽 감독 \"26일 선발 고민\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014084834",
-      "datetime": "2026.07.23 17:11",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014084834"
-    },
-    {
-      "title": "후반기 유일의 무승팀 LG에 부상 악재가 덮쳤다… 우완 장현식 팔꿈치 부상으로 3∼4주 뒤에나 돌아올 수 있다 [잠실 현장 프리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004145366",
-      "datetime": "2026.07.23 16:57",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004145366"
-    },
-    {
-      "title": "'이럴수가' LG 52억 승부수 다쳤다, 4주 이탈 예상…\"큰 부상은 아닌데, 선발 고민하겠다\"[잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004428348",
-      "datetime": "2026.07.23 16:55",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004428348"
-    },
-    {
-      "title": "[오피셜]엎친데 덮친 LG, 이번엔 5선발 장현식 부상 이탈...카스트로만으로 극복 가능한 위기일까",
-      "url": "https://n.news.naver.com/mnews/article/445/0000441174",
-      "datetime": "2026.07.23 16:54",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000441174"
-    },
-    {
-      "title": "'가만히 서 있어도 땀이 흐른다' 폭염주의보 잠실구장, 땀으로 샤워한 포수 박동원",
-      "url": "https://n.news.naver.com/mnews/article/076/0004428347",
-      "datetime": "2026.07.23 16:51",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004428347"
-    },
-    {
-      "title": "염경엽 감독의 확신 \"새 외인 카라스코, 치리노스 상위 버전\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004171478",
-      "datetime": "2026.07.23 16:46",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004171478"
-    },
-    {
-      "title": "LG 또 ‘악재’ 장현식 굴곡근 염좌, 복귀까지 3~4주… 퓨처스 0점대 신인 양우진이 1군 데뷔를 기다린다",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127745",
-      "datetime": "2026.07.23 16:44",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127745"
-    },
-    {
-      "title": "LG ‘염갈량’ 염경엽 감독 “대체 외인 카라스코, 메커니즘이나 커맨드 안정적...구종도 많아 ABS도 효과적으로 활용할 수 있을 것” [남정훈의 비욘드 더 그라운드]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004145361",
-      "datetime": "2026.07.23 16:42",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004145361"
-    },
-    {
-      "title": "'6연패 LG 또 시련' 장현식 우측 팔꿈치 부상으로 1군 말소 \"26일 대체 선발 고민\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087755",
-      "datetime": "2026.07.23 16:28",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087755"
-    },
-    {
-      "title": "LG 6연패인데 부상 악재까지 덮쳤다…52억 전천후 투수 1군 제외 \"투구하는데 3~4주 걸릴 것\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619828",
-      "datetime": "2026.07.23 16:27",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619828"
-    },
-    {
-      "title": "'우천 노게임→하루 휴식' LG 라인업, 박동원-문보경 또 선발 제외...양우진 1군 콜업, 장현식 팔꿈치 부상",
-      "url": "https://n.news.naver.com/mnews/article/109/0005576524",
-      "datetime": "2026.07.23 16:02",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005576524"
-    },
-    {
-      "title": "'충격' 韓 온 지 두 달도 안 됐는데, 왜 162km 투수 LG서 퇴출됐나…美 깜짝 놀랐다 \"리오스 방출 의외, LG 승부수 던졌다\"",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087699",
-      "datetime": "2026.07.23 13:41",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087699"
-    },
-    {
-      "title": "'왜 나만 갖고 그래?' LG 포수 박동원, 안일한 수비 vs 억울한 불운 논란 가열",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199319",
-      "datetime": "2026.07.23 12:52",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199319"
-    },
-    {
-      "title": "박동원이 롯데행? 손성빈·유강남 두고 '에이징 커브' 포수에 거액 베팅이라니...LG가 놓아줄지도 의문",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199316",
-      "datetime": "2026.07.23 12:36",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199316"
-    },
-    {
-      "title": "'MLB 112승' 카라스코 영입은 \"환영\", '강속구 투수' 리오스 방출은 \"의외\"…美 현지도 놀란 LG 외국인 선수 교체 승부수",
-      "url": "https://n.news.naver.com/mnews/article/311/0002036784",
-      "datetime": "2026.07.23 12:01",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002036784"
-    },
-    {
-      "title": "\"바뀌는 거 본인도 아는데...동기부여가 되겠나\" LG는 왜 리오스 '고별전' 없이 웨이버 공시했을까",
-      "url": "https://n.news.naver.com/mnews/article/529/0000077961",
-      "datetime": "2026.07.23 11:25",
-      "office": "더게이트",
-      "oid": "529",
-      "aid": "0000077961"
-    },
-    {
-      "title": "커리어는 KBO ‘역대 최고 수준’…LG 합류한 ‘ML 다승왕 출신’ 투수, 믿을 건 역시 ‘경험’ [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001255440",
-      "datetime": "2026.07.23 11:13",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001255440"
-    },
-    {
-      "title": "방망이 던진 아빠, 모자 던진 아들 ‘오스틴 부자의 벤치클리어링’ [박준형의 ZZOOM]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005576429",
-      "datetime": "2026.07.23 11:09",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005576429"
-    },
-    {
-      "title": "배려할 여유 없다, 카라스코는 30도, 71%의 벽을 넘어설 수 있을까...안 좋은 전례가 너무 많다",
-      "url": "https://n.news.naver.com/mnews/article/445/0000441093",
-      "datetime": "2026.07.23 10:57",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000441093"
-    },
-    {
-      "title": "냉정과 열정 사이에 선 감독들의 리더십",
-      "url": "https://n.news.naver.com/mnews/article/081/0003663913",
-      "datetime": "2026.07.23 10:53",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003663913",
-      "carried": true
-    },
-    {
-      "title": "'류현진과 동갑' 39세 카라스코…LG, '노장 외인' 반전 승부수 될까",
-      "url": "https://n.news.naver.com/mnews/article/421/0009074512",
-      "datetime": "2026.07.23 10:18",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009074512",
-      "carried": true
-    },
-    {
-      "title": "39세 LG 카라스코, 피어오르는 페타지니 향기",
-      "url": "https://n.news.naver.com/mnews/article/119/0003113972",
-      "datetime": "2026.07.23 08:36",
-      "office": "데일리안",
-      "oid": "119",
-      "aid": "0003113972",
-      "carried": true
-    },
-    {
-      "title": "1군 데뷔전 언제 불러주나요…LG 초대형 신인, 2이닝 무피안타 무실점→ERA 0.93 '위력투'",
-      "url": "https://n.news.naver.com/mnews/article/109/0005576334",
-      "datetime": "2026.07.23 07:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005576334",
-      "carried": true
-    },
-    {
-      "title": "\"켈리와는 달라, 동기부여 되지 않는다\" 염경엽 감독이 밝혔다, 왜 리오스 안 쓰고 하루 일찍 방출했나 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087579",
-      "datetime": "2026.07.23 06:40",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087579",
-      "carried": true
-    },
-    {
-      "title": "'거물' 카라스코 품은 LG, 선두 탈환 위한 '마지막 승부수'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014082547",
-      "datetime": "2026.07.23 06:30",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014082547",
+      "aid": "0001127799",
       "carried": true
     }
   ]
