@@ -1,0 +1,43 @@
+{
+  "playerId": "56165",
+  "season": 2026,
+  "is_pitcher": true,
+  "games": 0,
+  "updated": "2026-07-23T16:07:54",
+  "totals": {
+    "IP": 0.0,
+    "R": 0,
+    "ER": 0,
+    "SO": 0,
+    "H": 0,
+    "HR": 0,
+    "BB": 0,
+    "W": 0,
+    "L": 0,
+    "SV": 0,
+    "HLD": 0
+  },
+  "pitching": [],
+  "coin": {
+    "base": 100.0,
+    "scale": 5.0,
+    "constants": {
+      "year": 2026,
+      "source": "v1-representative",
+      "w_BB": 0.69,
+      "w_HBP": 0.72,
+      "w_1B": 0.89,
+      "w_2B": 1.27,
+      "w_3B": 1.62,
+      "w_HR": 2.1,
+      "lgwOBA": 0.335,
+      "wOBA_scale": 1.2,
+      "run_SB": 0.2,
+      "run_CS": -0.42,
+      "lgRA9": 4.8,
+      "bonus_HLD": 0.3,
+      "bonus_SV": 0.5
+    },
+    "candles": []
+  }
+}

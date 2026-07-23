@@ -1,6 +1,6 @@
 {
   "team": "LG",
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "count": 30,
   "hitter_count": 15,
   "players": [
@@ -71,14 +71,14 @@
       "is_pitcher": true
     },
     {
-      "playerId": "63950",
-      "name": "장현식",
+      "playerId": "55121",
+      "name": "박시원",
       "position": "투수",
       "is_pitcher": true
     },
     {
-      "playerId": "55121",
-      "name": "박시원",
+      "playerId": "56165",
+      "name": "양우진",
       "position": "투수",
       "is_pitcher": true
     },

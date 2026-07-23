@@ -116,5 +116,23 @@
     "fetched_at": "2026-07-22T15:57:25",
     "registered": [],
     "waived": []
+  },
+  {
+    "date": "2026-07-23",
+    "fetched_at": "2026-07-23T16:06:47",
+    "registered": [
+      {
+        "name": "양우진",
+        "position": "투",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "장현식",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
