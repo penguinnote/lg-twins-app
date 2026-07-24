@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-07-24T12:22:51",
-  "count": 40,
+  "updated": "2026-07-24T14:50:18",
+  "count": 43,
   "carried_count": 6,
   "items": [
+    {
+      "title": "임찬규마저 무너진 LG, 8년 만에 충격 8연패…25일 류현진 상대",
+      "url": "https://n.news.naver.com/mnews/article/119/0003114766",
+      "datetime": "2026.07.24 21:56",
+      "office": "데일리안",
+      "oid": "119",
+      "aid": "0003114766"
+    },
+    {
+      "title": "최민석 10실점 와르르, 임찬규도 7실점 최악투...서울 에이스 10승 도전 또 다음 기회로",
+      "url": "https://n.news.naver.com/mnews/article/529/0000077980",
+      "datetime": "2026.07.24 21:54",
+      "office": "더게이트",
+      "oid": "529",
+      "aid": "0000077980"
+    },
+    {
+      "title": "“오늘도 졌다” 한 이닝 7점 내주며 와르르…‘패패패패패패패패’ LG, 2906일 만에 8연패",
+      "url": "https://n.news.naver.com/mnews/article/011/0004644979",
+      "datetime": "2026.07.24 21:31",
+      "office": "서울경제",
+      "oid": "011",
+      "aid": "0004644979"
+    },
     {
       "title": "2906일 만에 ‘패패패패패패패패’라니…공·수 모두 흔들린 LG, 한화에 발목→8연패 늪",
       "url": "https://n.news.naver.com/mnews/article/410/0001133882",
