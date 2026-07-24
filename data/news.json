@@ -1,9 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-07-24T08:16:36",
-  "count": 30,
+  "updated": "2026-07-24T10:58:57",
+  "count": 36,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG의 새 외인 '39세' 카라스코, 한국서 통할까?",
+      "url": "https://n.news.naver.com/mnews/article/450/0000152749",
+      "datetime": "2026.07.24 19:38",
+      "office": "STN 뉴스",
+      "oid": "450",
+      "aid": "0000152749"
+    },
+    {
+      "title": "LG 7연패 몰아넣은 김한별 환상 수비, 염갈량도 인정할 수밖에 없었다…\"처음 보는 글러브 토스였어\" [대전 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002037366",
+      "datetime": "2026.07.24 19:04",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002037366"
+    },
+    {
+      "title": "'후반기 0승' 우승팀이 어쩌다 2218일 만에 7연패 수모를 당했나…염갈량 \"하던 대로 해야 하는데, 8월이 가장 중요하다\" [MD대전]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004088137",
+      "datetime": "2026.07.24 19:01",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004088137"
+    },
+    {
+      "title": "“글러브 토스가 그렇게 빠르고 정확한 건 처음 봤다” 충격의 7연패 LG, 온갖 불운이 겹치고 있다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005577341",
+      "datetime": "2026.07.24 18:36",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005577341"
+    },
+    {
+      "title": "임찬규 4년 연속 10승 재도전이 7연패 탈출의 날? 문보경 다시 선발출전[대전 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004428728",
+      "datetime": "2026.07.24 17:52",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004428728"
+    },
+    {
+      "title": "LG 승부수 'MLB 112승 거물' 카라스코 드디어 한국 땅 밟았다… KBO 데뷔전은 언제?",
+      "url": "https://n.news.naver.com/mnews/article/477/0000619968",
+      "datetime": "2026.07.24 17:38",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000619968"
+    },
     {
       "title": "'7연패 탈출할까' 문보경 7번-박동원 8번, 라인업 복귀...임찬규 시즌 10승 도전",
       "url": "https://n.news.naver.com/mnews/article/109/0005577318",
