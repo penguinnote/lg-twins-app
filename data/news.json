@@ -1,16 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-07-24T14:50:18",
-  "count": 43,
+  "updated": "2026-07-24T22:00:51",
+  "count": 12,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'보직 변경 옳았나?' 2경기 연속 실점 LG 손주영, 팀 연패 속 등판 기회 사라져",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199426",
+      "datetime": "2026.07.25 05:12",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199426"
+    },
+    {
+      "title": "8년 만에 8연패 '굴욕', LG 총체적 난국이다…선발은 대량 실점, 수비는 실수 연발, 타선은 잔루 남발",
+      "url": "https://n.news.naver.com/mnews/article/109/0005577583",
+      "datetime": "2026.07.25 01:13",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005577583"
+    },
+    {
+      "title": "구본혁이 2루를 안 밟다니, LG 기본기 어디로... '패패패패패패패패' 당연했다",
+      "url": "https://n.news.naver.com/mnews/article/117/0004088218",
+      "datetime": "2026.07.25 01:10",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004088218"
+    },
+    {
+      "title": "LG 8연패? 선발 투수 중요성 간과한 당연한 결과...손주영 마무리 전환 및 불펜 리오스 영입의 나비효과",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199425",
+      "datetime": "2026.07.25 01:09",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199425"
+    },
+    {
+      "title": "'박동원 태그 미스→만루 병살'…LG, 안방마님 부진 속 8연패 굴욕 못 피했다 [대전 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002037504",
+      "datetime": "2026.07.25 01:00",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002037504"
+    },
+    {
+      "title": "[지금이뉴스] 8년 만의 '8연패' LG…어디까지 무너질까",
+      "url": "https://n.news.naver.com/mnews/article/437/0000502996",
+      "datetime": "2026.07.25 00:47",
+      "office": "JTBC",
+      "oid": "437",
+      "aid": "0000502996"
+    },
     {
       "title": "임찬규마저 무너진 LG, 8년 만에 충격 8연패…25일 류현진 상대",
       "url": "https://n.news.naver.com/mnews/article/119/0003114766",
       "datetime": "2026.07.24 21:56",
       "office": "데일리안",
       "oid": "119",
-      "aid": "0003114766"
+      "aid": "0003114766",
+      "carried": true
     },
     {
       "title": "최민석 10실점 와르르, 임찬규도 7실점 최악투...서울 에이스 10승 도전 또 다음 기회로",
@@ -18,7 +67,8 @@
       "datetime": "2026.07.24 21:54",
       "office": "더게이트",
       "oid": "529",
-      "aid": "0000077980"
+      "aid": "0000077980",
+      "carried": true
     },
     {
       "title": "“오늘도 졌다” 한 이닝 7점 내주며 와르르…‘패패패패패패패패’ LG, 2906일 만에 8연패",
@@ -26,7 +76,8 @@
       "datetime": "2026.07.24 21:31",
       "office": "서울경제",
       "oid": "011",
-      "aid": "0004644979"
+      "aid": "0004644979",
+      "carried": true
     },
     {
       "title": "2906일 만에 ‘패패패패패패패패’라니…공·수 모두 흔들린 LG, 한화에 발목→8연패 늪",
@@ -34,7 +85,8 @@
       "datetime": "2026.07.24 21:17",
       "office": "MK스포츠 ",
       "oid": "410",
-      "aid": "0001133882"
+      "aid": "0001133882",
+      "carried": true
     },
     {
       "title": "'우승팀도 7연패하니 급해졌다.' 기본기는 어디갔나. 공도 못잡고, 발 떨어지고... 정신줄부터[대전 현장]",
@@ -42,7 +94,8 @@
       "datetime": "2026.07.24 20:29",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004428815"
+      "aid": "0004428815",
+      "carried": true
     },
     {
       "title": "'7연패 LG 어쩌나' 임찬규도 무너졌다, 7실점 충격 강판→10승 실패…볼넷-안타-2루타-야선-2루타-볼넷, 또 5회 못 채웠다 [MD대전]",
@@ -50,308 +103,7 @@
       "datetime": "2026.07.24 20:21",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004088168"
-    },
-    {
-      "title": "LG 선발 또 붕괴! 임찬규 5회 아웃 하나도 못 잡고 6타자 연속 출루→7실점 역전 허용",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619996",
-      "datetime": "2026.07.24 20:12",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619996"
-    },
-    {
-      "title": "LG의 새 외인 '39세' 카라스코, 한국서 통할까?",
-      "url": "https://n.news.naver.com/mnews/article/450/0000152749",
-      "datetime": "2026.07.24 19:38",
-      "office": "STN 뉴스",
-      "oid": "450",
-      "aid": "0000152749"
-    },
-    {
-      "title": "LG 7연패 몰아넣은 김한별 환상 수비, 염갈량도 인정할 수밖에 없었다…\"처음 보는 글러브 토스였어\" [대전 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002037366",
-      "datetime": "2026.07.24 19:04",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002037366"
-    },
-    {
-      "title": "'후반기 0승' 우승팀이 어쩌다 2218일 만에 7연패 수모를 당했나…염갈량 \"하던 대로 해야 하는데, 8월이 가장 중요하다\" [MD대전]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004088137",
-      "datetime": "2026.07.24 19:01",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004088137"
-    },
-    {
-      "title": "“글러브 토스가 그렇게 빠르고 정확한 건 처음 봤다” 충격의 7연패 LG, 온갖 불운이 겹치고 있다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005577341",
-      "datetime": "2026.07.24 18:36",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005577341"
-    },
-    {
-      "title": "임찬규 4년 연속 10승 재도전이 7연패 탈출의 날? 문보경 다시 선발출전[대전 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004428728",
-      "datetime": "2026.07.24 17:52",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004428728"
-    },
-    {
-      "title": "LG 승부수 'MLB 112승 거물' 카라스코 드디어 한국 땅 밟았다… KBO 데뷔전은 언제?",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619968",
-      "datetime": "2026.07.24 17:38",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619968"
-    },
-    {
-      "title": "'7연패 탈출할까' 문보경 7번-박동원 8번, 라인업 복귀...임찬규 시즌 10승 도전",
-      "url": "https://n.news.naver.com/mnews/article/109/0005577318",
-      "datetime": "2026.07.24 17:03",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005577318"
-    },
-    {
-      "title": "'충격의 패패패패패패패' LG 라인업 떴다! 문보경 7번-박동원 8번, 구본혁 2루수-문정빈 1루수…임찬규 10승 도전 [MD대전]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004088088",
-      "datetime": "2026.07.24 17:01",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004088088"
-    },
-    {
-      "title": "차우찬-소사까지 소환하나…'패패패패패패패' LG, 8년 전 8연패 악몽은 막아낼까",
-      "url": "https://n.news.naver.com/mnews/article/109/0005577207",
-      "datetime": "2026.07.24 13:42",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005577207"
-    },
-    {
-      "title": "LG 새 외인 이 정도야? 염경엽 감독 \"카라스코, 치리노스보다 상위 버전…ABS 환경에서 충분히 경쟁력 있다\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002037188",
-      "datetime": "2026.07.24 13:30",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002037188"
-    },
-    {
-      "title": "'LG 충격의 7연패' 결국 ML 112승 거물만 믿어야 하나…\"치리노스보다 상위 버전\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619933",
-      "datetime": "2026.07.24 13:23",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619933"
-    },
-    {
-      "title": "무너진 투타 밸런스에 '7연패'…'흔들리는 우승후보' LG의 반전 열쇠는",
-      "url": "https://n.news.naver.com/mnews/article/003/0014086221",
-      "datetime": "2026.07.24 13:06",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014086221"
-    },
-    {
-      "title": "'초비상' LG, 7년 만의 8연패 비극 피할까…한화 킬러 임찬규만 믿는다",
-      "url": "https://n.news.naver.com/mnews/article/311/0002037147",
-      "datetime": "2026.07.24 12:26",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002037147"
-    },
-    {
-      "title": "'믿을 건 임찬규' LG, 7연패 끊기에 나선다...타선의 지원도 필요",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199369",
-      "datetime": "2026.07.24 12:06",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199369"
-    },
-    {
-      "title": "득점 꼴찌도 문제인데... ERA 7.58 선발도 잘한게 없다. 유일한 QS 제로팀. 단체 무기력 LG 원정에서 활력찾을까",
-      "url": "https://n.news.naver.com/mnews/article/076/0004428601",
-      "datetime": "2026.07.24 09:57",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004428601"
-    },
-    {
-      "title": "안 그래도 팀 분위기 최악인데…팔꿈치 부상으로 이탈한 장현식, ‘7연패’ LG에 닥친 또 하나의 악재",
-      "url": "https://n.news.naver.com/mnews/article/410/0001133818",
-      "datetime": "2026.07.24 09:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001133818"
-    },
-    {
-      "title": "'웰스도 한계, 뭘 어쩌라는 건가?' LG, 7연패보다 팀 분위기 살릴 베테랑 리더십 부재가 더 큰 문제",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199362",
-      "datetime": "2026.07.24 07:51",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199362"
-    },
-    {
-      "title": "투혼의 1루 헤드퍼스트 슬라이딩→손가락 타박상, 안타성 타구가 병살타…오지환, 2안타 2사사구 2타점에도 고개 숙이다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005577088",
-      "datetime": "2026.07.24 07:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005577088"
-    },
-    {
-      "title": "'선발로 전환한' LG 장현식, 팔꿈치 부상으로 전력 이탈…2주 뒤 재검진",
-      "url": "https://n.news.naver.com/mnews/article/472/0000040937",
-      "datetime": "2026.07.24 07:30",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000040937"
-    },
-    {
-      "title": "[프리뷰]7연패 끊을 마지막 희망은 임찬규…LG, 대전서 반등 이끌까",
-      "url": "https://n.news.naver.com/mnews/article/241/0003521505",
-      "datetime": "2026.07.24 07:27",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003521505"
-    },
-    {
-      "title": "'예고한대로' 초대형 신인 마침내 1군에 왔다, 염갈량 계획 밝혔다 \"1경기 던지면 이틀 쉴 것\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004087928",
-      "datetime": "2026.07.24 06:43",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004087928"
-    },
-    {
-      "title": "LG 7연패 했는데 우승 시즌만큼 하고 있다고? '5.5경기 역전' 드라마가 시작된 순간",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619877",
-      "datetime": "2026.07.24 06:40",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619877"
-    },
-    {
-      "title": "장현식의 선발 전환, \"위험하다\" 경고했다! 결국 부상으로 이탈...LG는 '소탐대실'하고 있어",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199360",
-      "datetime": "2026.07.24 06:08",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199360"
-    },
-    {
-      "title": "어디까지 내려가는 거예요? LG 충격의 7연패…팬들도 등 돌렸다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003664228",
-      "datetime": "2026.07.24 05:57",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003664228"
-    },
-    {
-      "title": "하늘도 외면한 LG, ‘병살타 4개-잔루 13개’로 이길 수 없다…6년 만의 7연패",
-      "url": "https://n.news.naver.com/mnews/article/629/0000518618",
-      "datetime": "2026.07.24 05:09",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000518618"
-    },
-    {
-      "title": "'6년 만의 7연패? LG, 도대체 무슨 일이' ML 112승 새 외인이 최후의 보루인가",
-      "url": "https://n.news.naver.com/mnews/article/079/0004171576",
-      "datetime": "2026.07.24 01:30",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004171576"
-    },
-    {
-      "title": "병살타-병살타-병살타-병살타, 11안타 12사사구인데 이길 수가 없다...LG 7연패 충격, 잔루만 14개 쌓였다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005577041",
-      "datetime": "2026.07.24 01:13",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005577041"
-    },
-    {
-      "title": "빅리거 모시고도… 식은 방망이에 웃지 못하는 LG",
-      "url": "https://n.news.naver.com/mnews/article/005/0001862839",
-      "datetime": "2026.07.24 01:04",
-      "office": "국민일보",
-      "oid": "005",
-      "aid": "0001862839"
-    },
-    {
-      "title": "강팀은 마무리가 결정한다는데…볼 일이 없으면 무슨 소용, 손주영 후반기 딱 1경기 나왔다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619868",
-      "datetime": "2026.07.24 01:00",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619868"
-    },
-    {
-      "title": "디펜딩 챔프가 2218일 만에 ‘패패패패패패패’라니…후반기 들어 깊은 부진 빠진 LG, 반등은 언제쯤",
-      "url": "https://n.news.naver.com/mnews/article/410/0001133795",
-      "datetime": "2026.07.24 00:01",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001133795"
-    },
-    {
-      "title": "‘11안타·12사사구 얻고도 5점’ 변비 야구에 LG 7연패",
-      "url": "https://n.news.naver.com/mnews/article/119/0003114370",
-      "datetime": "2026.07.23 22:36",
-      "office": "데일리안",
-      "oid": "119",
-      "aid": "0003114370",
-      "carried": true
-    },
-    {
-      "title": "“안 풀린다. 안 풀려…” 11안타 4사구 12개 얻고도 5점에 그치는 ‘잔루 파티’의 LG, NC에게 5-7로 패하며 7연패 수렁 [잠실 현장 리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004145444",
-      "datetime": "2026.07.23 22:12",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004145444",
-      "carried": true
-    },
-    {
-      "title": "병살 또 병살...또 타선 침묵에 고개 숙인 '디펜딩 챔프' LG, 6년 만에 7연패",
-      "url": "https://n.news.naver.com/mnews/article/241/0003521468",
-      "datetime": "2026.07.23 22:11",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003521468",
-      "carried": true
-    },
-    {
-      "title": "안타 11개·볼넷 12개로도 단 5득점…‘후반기 0승’ LG, 6년 만의 7연패",
-      "url": "https://n.news.naver.com/mnews/article/011/0004644598",
-      "datetime": "2026.07.23 22:10",
-      "office": "서울경제",
-      "oid": "011",
-      "aid": "0004644598",
-      "carried": true
-    },
-    {
-      "title": "LG 병살타→병살타→병살타 충격 그 자체…2218일 만에 7연패 수렁, KBO 신입생에 결정적 한방 맞았다 [잠실 게임노트]",
-      "url": "https://n.news.naver.com/mnews/article/477/0000619859",
-      "datetime": "2026.07.23 22:06",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000619859",
-      "carried": true
-    },
-    {
-      "title": "오늘도 ‘잔루 파티’ 찬스마다 삼진·병살·내야뜬공… LG 또 졌다, 설마하던 7연패",
-      "url": "https://n.news.naver.com/mnews/article/144/0001127799",
-      "datetime": "2026.07.23 22:02",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001127799",
+      "aid": "0004088168",
       "carried": true
     }
   ]
