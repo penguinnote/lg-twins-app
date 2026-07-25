@@ -2,14 +2,14 @@
   "playerId": "75867",
   "season": 2026,
   "is_pitcher": true,
-  "games": 45,
-  "updated": "2026-07-24T15:53:51",
+  "games": 46,
+  "updated": "2026-07-25T15:38:24",
   "totals": {
-    "IP": 41.667,
+    "IP": 42.667,
     "R": 20,
     "ER": 20,
     "SO": 30,
-    "H": 47,
+    "H": 49,
     "HR": 4,
     "BB": 16,
     "W": 6,
@@ -737,6 +737,22 @@
       "R": 1,
       "ER": 1,
       "era_cum": "4.32"
+    },
+    {
+      "date": "2026-07-25",
+      "opp": "한화",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 5,
+      "H": 2,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "4.22"
     }
   ],
   "coin": {
@@ -1074,48 +1090,55 @@
         "open": 139.942,
         "close": 137.609,
         "value": -0.4667
+      },
+      {
+        "date": "2026-07-25",
+        "opp": "한화",
+        "open": 137.609,
+        "close": 140.276,
+        "value": 0.5333
       }
     ]
   },
   "ratings": {
-    "OVR": 46,
+    "OVR": 47,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 3.46,
-        "rating": 56
+        "value": 3.37,
+        "rating": 62
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 6.48,
-        "rating": 22
+        "value": 6.33,
+        "rating": 21
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.281,
-        "rating": 28
+        "value": 0.285,
+        "rating": 22
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.86,
-        "rating": 51
+        "value": 0.84,
+        "rating": 53
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 41.7,
-        "rating": 67
+        "value": 42.7,
+        "rating": 68
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 4.23,
-        "rating": 52
+        "value": 4.21,
+        "rating": 55
       }
     ],
     "type": "pitcher"
