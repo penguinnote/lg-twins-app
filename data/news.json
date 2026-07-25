@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-07-25T02:55:48",
-  "count": 20,
+  "updated": "2026-07-25T05:40:16",
+  "count": 24,
   "carried_count": 6,
   "items": [
+    {
+      "title": "쌍둥이 만나면 더 '괴물 모드'...8연패 LG, 이번엔 류현진 공략할까",
+      "url": "https://n.news.naver.com/mnews/article/241/0003521721",
+      "datetime": "2026.07.25 14:01",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003521721"
+    },
+    {
+      "title": "오늘도 지면, 18년 만에 9연패 굴욕이다…LG는 ‘천적 투수’ 류현진을 어떻게 공략할까",
+      "url": "https://n.news.naver.com/mnews/article/109/0005577705",
+      "datetime": "2026.07.25 12:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005577705"
+    },
+    {
+      "title": "'5회가 무섭다.' 44점 중 5회에만 22점 집중포화... 5회를 넘겨야 8연패 탈출이 보인다[대전 포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004428954",
+      "datetime": "2026.07.25 12:18",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004428954"
+    },
+    {
+      "title": "우상과의 꿈의 맞대결 성사, 8연패 LG의 시즌 운명도 걸렸다 [IS 포커스]",
+      "url": "https://n.news.naver.com/mnews/article/241/0003521660",
+      "datetime": "2026.07.25 12:03",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003521660"
+    },
     {
       "title": "‘8년 만의 8연패’ 위기의 LG, 무거워진 ‘연패 브레이커’ 어깨…‘두 번째 도전’ 성공할까 [SS시선집중]",
       "url": "https://n.news.naver.com/mnews/article/468/0001255713",
