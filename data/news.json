@@ -1,9 +1,105 @@
 {
   "team": "LG",
-  "updated": "2026-07-25T07:58:58",
-  "count": 25,
+  "updated": "2026-07-25T09:53:45",
+  "count": 37,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'9연패는 싫다!' LG, 박해민-오스틴 홈런포로 류현진 공략 성공…2초까지 4-0 리드 [대전 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002037652",
+      "datetime": "2026.07.25 18:36",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002037652"
+    },
+    {
+      "title": "LG 오스틴, 한화 류현진 상대 시즌 29호포…홈런 단독 선두",
+      "url": "https://n.news.naver.com/mnews/article/421/0009078774",
+      "datetime": "2026.07.25 18:25",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009078774"
+    },
+    {
+      "title": "'8연패 끊는다' 박해민 투런→오스틴 솔로, 류현진 상대로 1회 홈런 2방 터졌다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005577922",
+      "datetime": "2026.07.25 18:22",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005577922"
+    },
+    {
+      "title": "오스틴, 류현진 상대로 시즌 29호포···김도영 밀어내고 홈런 단독 선두로[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001128099",
+      "datetime": "2026.07.25 18:19",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001128099"
+    },
+    {
+      "title": "LG, 8연패 탈출 가능할까…오스틴 점수 차이 벌리는 ‘솔로포’, 홈런 단독 선두 등극 [SS대전in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001255732",
+      "datetime": "2026.07.25 18:17",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001255732"
+    },
+    {
+      "title": "LG 오스틴, 류현진 상대로 29호 홈런…김도영 제치고 단독 1위",
+      "url": "https://n.news.naver.com/mnews/article/001/0016214557",
+      "datetime": "2026.07.25 18:15",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016214557"
+    },
+    {
+      "title": "LG 오스틴, 류현진 상대로 시즌 29호포 '쾅'…홈런 단독 선두 재탈환",
+      "url": "https://n.news.naver.com/mnews/article/003/0014087913",
+      "datetime": "2026.07.25 18:14",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014087913"
+    },
+    {
+      "title": "'8연패 탈출 시급' LG, 류현진 상대 박동원 선발 제외+'잠실 빅보이' 3번 배치 승부수 [대전 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002037638",
+      "datetime": "2026.07.25 17:58",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002037638"
+    },
+    {
+      "title": "이재원-오스틴-문정빈 우타 거포 클린업으로 8연패 탈출 나선다[대전 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004428999",
+      "datetime": "2026.07.25 17:45",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004428999"
+    },
+    {
+      "title": "‘8연패’ LG, 라인업 변화 줬다…이재원 ‘3번’-오지환·박동원 선발 제외 [SS대전in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001255731",
+      "datetime": "2026.07.25 17:25",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001255731"
+    },
+    {
+      "title": "9연패 위기의 LG, '류현진 천적' 박동원-문성주 제외...이재원 3번 배치",
+      "url": "https://n.news.naver.com/mnews/article/241/0003521780",
+      "datetime": "2026.07.25 17:19",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003521780"
+    },
+    {
+      "title": "지면 18년 만의 9연패 수모, 천적 류현진을 잡아라…LG 오지환도 빼고 이재원 오스틴 문정빈 클린업",
+      "url": "https://n.news.naver.com/mnews/article/477/0000620087",
+      "datetime": "2026.07.25 17:13",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000620087"
+    },
     {
       "title": "8연패 탈출할까...LG 라인업, 박동원 제외, 이재원-오스틴-문정빈 중심타선...ERA 1.36' 천적 류현진 공략할까.",
       "url": "https://n.news.naver.com/mnews/article/109/0005577838",
