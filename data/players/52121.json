@@ -2,15 +2,15 @@
   "playerId": "52121",
   "season": 2026,
   "is_pitcher": false,
-  "games": 41,
-  "updated": "2026-07-25T15:37:46",
+  "games": 42,
+  "updated": "2026-07-26T15:37:27",
   "totals": {
-    "AB": 109,
+    "AB": 112,
     "H": 36,
     "2B": 9,
     "3B": 2,
     "HR": 9,
-    "BB": 14,
+    "BB": 15,
     "HBP": 1
   },
   "series": [
@@ -300,6 +300,13 @@
       "cum_avg": 0.33,
       "cum_ops": 1.109,
       "site_cum_avg": "0.330"
+    },
+    {
+      "date": "2026-07-26",
+      "opp": "한화",
+      "cum_avg": 0.321,
+      "cum_ops": 1.085,
+      "site_cum_avg": "0.321"
     }
   ],
   "coin": {
@@ -609,30 +616,37 @@
         "open": 154.251,
         "close": 169.376,
         "value": 3.025
+      },
+      {
+        "date": "2026-07-26",
+        "opp": "한화",
+        "open": 169.376,
+        "close": 166.668,
+        "value": -0.5417
       }
     ]
   },
   "ratings": {
-    "OVR": 74,
+    "OVR": 72,
     "lowSample": false,
     "axes": [
       {
         "key": "contact",
         "label": "컨택",
-        "value": 0.33,
-        "rating": 95
+        "value": 0.321,
+        "rating": 92
       },
       {
         "key": "power",
         "label": "파워",
-        "value": 0.367,
+        "value": 0.357,
         "rating": 99
       },
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.112,
-        "rating": 73
+        "value": 0.116,
+        "rating": 75
       },
       {
         "key": "speed",
@@ -643,13 +657,13 @@
       {
         "key": "avoidK",
         "label": "삼진회피",
-        "value": 0.248,
-        "rating": 25
+        "value": 0.264,
+        "rating": 19
       },
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.469,
+        "value": 0.46,
         "rating": 99
       }
     ],

@@ -146,5 +146,33 @@
     "fetched_at": "2026-07-25T15:37:25",
     "registered": [],
     "waived": []
+  },
+  {
+    "date": "2026-07-26",
+    "fetched_at": "2026-07-26T15:37:06",
+    "registered": [
+      {
+        "name": "배재준",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "최지명",
+        "position": "투",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "이정용",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "함덕주",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]

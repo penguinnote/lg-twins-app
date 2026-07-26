@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 13,
-  "updated": "2026-07-25T15:38:07",
+  "updated": "2026-07-26T15:37:45",
   "totals": {
     "IP": 55.666,
     "R": 37,
@@ -349,7 +349,7 @@
         "key": "control",
         "label": "제구",
         "value": 2.75,
-        "rating": 78
+        "rating": 77
       },
       {
         "key": "strikeout",
