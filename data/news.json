@@ -1,9 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-07-27T02:47:30",
-  "count": 16,
+  "updated": "2026-07-27T06:24:01",
+  "count": 22,
   "carried_count": 6,
   "items": [
+    {
+      "title": "[오피셜] '8연패→1승→10점 차 대패' 휘청거리는 LG, 결국 칼 빼들었다! 1군 코치진 대폭 교체…송지만 타격+김일경 QC+최경철 배터리",
+      "url": "https://n.news.naver.com/mnews/article/311/0002038241",
+      "datetime": "2026.07.27 15:07",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002038241"
+    },
+    {
+      "title": "'1승 8패에 칼 뺐다' LG, 코치진 대거 개편...송지만 1군 타격 맡는다",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199537",
+      "datetime": "2026.07.27 14:13",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199537"
+    },
+    {
+      "title": "'⅔이닝 3실점' LG 초대형 신인 데뷔전 이렇게 허망하다니... 초구 홈런 허용→수비도 도와주지 않았다",
+      "url": "https://n.news.naver.com/mnews/article/117/0004088826",
+      "datetime": "2026.07.27 14:13",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004088826"
+    },
+    {
+      "title": "‘ERA 4.49→7.29’ 약점이 된 LG 마운드, 재건 없이는 반등도 요원하다",
+      "url": "https://n.news.naver.com/mnews/article/382/0001285237",
+      "datetime": "2026.07.27 13:34",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001285237"
+    },
+    {
+      "title": "'10G 1승9패 붕괴' LG, 코칭스태프 보직 대폭 개편…1군 타격코치에 송지만, 윤진호-최경철-김용의 콜업 [공식발표]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005578882",
+      "datetime": "2026.07.27 13:26",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005578882"
+    },
+    {
+      "title": "프로야구 LG, 분위기 쇄신 차 코치진 개편…송지만 1군 타격코치",
+      "url": "https://n.news.naver.com/mnews/article/001/0016216796",
+      "datetime": "2026.07.27 13:22",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016216796"
+    },
     {
       "title": "위기의 LG, '난적' 키움 만난다…주말엔 두산과 '잠실 라이벌' 매치[주간 야구 전망대]",
       "url": "https://n.news.naver.com/mnews/article/003/0014089958",
@@ -21,7 +69,7 @@
       "aid": "0001256000"
     },
     {
-      "title": "'8회 무사 동점' 마무리 투입+야수선택 2번+글러브 맞고 홈런→LG, 불운까지 겹친 '10실점' 참사",
+      "title": "LG 불운까지 겹친 '10실점' 참사, '8회 무사 동점' 마무리 투입+야수선택 2번+글러브 맞고 홈런 허용",
       "url": "https://n.news.naver.com/mnews/article/108/0003456490",
       "datetime": "2026.07.27 10:45",
       "office": "스타뉴스",
