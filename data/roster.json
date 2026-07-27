@@ -1,7 +1,7 @@
 {
   "team": "LG",
-  "updated": "2026-07-26",
-  "count": 30,
+  "updated": "2026-07-27",
+  "count": 29,
   "hitter_count": 15,
   "players": [
     {
@@ -13,12 +13,6 @@
     {
       "playerId": "51111",
       "name": "송승기",
-      "position": "투수",
-      "is_pitcher": true
-    },
-    {
-      "playerId": "68419",
-      "name": "최지명",
       "position": "투수",
       "is_pitcher": true
     },

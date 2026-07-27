@@ -174,5 +174,17 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-07-27",
+    "fetched_at": "2026-07-27T16:37:50",
+    "registered": [],
+    "waived": [
+      {
+        "name": "최지명",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
