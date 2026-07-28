@@ -1,9 +1,89 @@
 {
   "team": "LG",
-  "updated": "2026-07-28T16:02:41",
-  "count": 11,
+  "updated": "2026-07-28T21:59:15",
+  "count": 21,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG ‘우타 거포 유망주’ 완전히 터졌다! 데뷔 첫 ‘두 자릿수 홈런’, “10홈런 목표였는데…” [SS잠실in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001256497",
+      "datetime": "2026.07.29 06:55",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001256497"
+    },
+    {
+      "title": "김도영-오스틴 제치고 1위다. 어디서 23세 홈런타자가 튀어나왔나…후반기 LG 최고타자 \"10홈런이 목표였는데\"",
+      "url": "https://n.news.naver.com/mnews/article/109/0005579643",
+      "datetime": "2026.07.29 06:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005579643"
+    },
+    {
+      "title": "\"우승하러 왔다\" LG 승부수, 등번호 양보한 신인 투수에게 선물 약속한 사연 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004089447",
+      "datetime": "2026.07.29 06:11",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004089447"
+    },
+    {
+      "title": "잠실 10홈런 장타력에 가려지기 아깝네…문정빈 진짜 강점, 2S에서도 그냥은 못 간다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000620700",
+      "datetime": "2026.07.29 06:00",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000620700"
+    },
+    {
+      "title": "비난 받고 떠났던 플럿코가 LG 추천했다...ML 112승 투수, 왜 한국 왔나 \"팬들의 열정 응원 얘기 많이 들었다\"",
+      "url": "https://n.news.naver.com/mnews/article/109/0005579624",
+      "datetime": "2026.07.29 04:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005579624"
+    },
+    {
+      "title": "\"잃을 것 없다는 마음으로 던졌다\"…LG 톨허스트, 7이닝 7K QS로 2달여 만에 시즌 9승 수확→\"개인보다 팀 승리가 더 기뻐\" [잠실 인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002038864",
+      "datetime": "2026.07.29 04:40",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002038864"
+    },
+    {
+      "title": "'26일 만에 SV' 아홉수 끝낸 LG 손주영, 아직 포기 안 했다 \"KS 가는 게 첫 번째 목표... 30SV는 그다음\"",
+      "url": "https://n.news.naver.com/mnews/article/108/0003457192",
+      "datetime": "2026.07.29 03:31",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003457192"
+    },
+    {
+      "title": "'12경기 만에 7이닝 QS+' 얼마나 마음 고생 심했으면... 돌아온 LG 외인 에이스 \"잃을 것 없단 마인드로 마운드 올랐다\"",
+      "url": "https://n.news.naver.com/mnews/article/108/0003457191",
+      "datetime": "2026.07.29 01:23",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003457191"
+    },
+    {
+      "title": "'실책-실책-실책' 키움 자멸 덕분, '후반기 최하위' LG가 '시즌 최하위'에 승리 당하다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005579620",
+      "datetime": "2026.07.29 01:21",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005579620"
+    },
+    {
+      "title": "'홈 6연패 탈출' 염경엽 감독 \"팬 응원 덕에 승리\"…뜨거운 감사 전했다",
+      "url": "https://n.news.naver.com/mnews/article/311/0002038849",
+      "datetime": "2026.07.29 01:15",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002038849"
+    },
     {
       "title": "잠실 6연패 끝, 반등 신호탄 쐈다... 염경엽 감독 폭풍 칭찬 \"문정빈 전체적인 타선 이끌었다\" [MD잠실]",
       "url": "https://n.news.naver.com/mnews/article/117/0004089424",
