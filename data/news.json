@@ -1,9 +1,49 @@
 {
   "team": "LG",
-  "updated": "2026-07-28T08:25:26",
-  "count": 32,
+  "updated": "2026-07-28T11:12:34",
+  "count": 37,
   "carried_count": 6,
   "items": [
+    {
+      "title": "최근 1승 9패로 부진한 LG...염경엽 감독 \"체력 저하 아니다\"",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199591",
+      "datetime": "2026.07.28 19:20",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199591"
+    },
+    {
+      "title": "'MLB 112승' 카라스코가 LG 택한 진짜 이유…\"플럿코·에르난데스가 KBO 적극 추천, 팬 응원 문화에 매료됐다\" [잠실 인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002038690",
+      "datetime": "2026.07.28 19:15",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002038690"
+    },
+    {
+      "title": "'코치진 전격 개편' LG 염경엽 감독 \"보강 위한 변화\"…후반기 부진엔 \"선수들 안 지쳤다, 결국 사이클 문제\" [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002038629",
+      "datetime": "2026.07.28 18:38",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002038629"
+    },
+    {
+      "title": "'7월 꼴찌' LG 구세주 될까? 한국에 도대체 왜 왔나 \"부담감 극복하는 법, 정확히 안다\"…'ML 다승왕' 외인의 진심 [인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004430100",
+      "datetime": "2026.07.28 17:47",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004430100"
+    },
+    {
+      "title": "[일문일답] MLB 112승→LG 반전카드 카라스코 \"한국에 우승하러 왔다, 올라갈 일만 남았다\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000620566",
+      "datetime": "2026.07.28 17:41",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000620566"
+    },
     {
       "title": "LG 코치진 변경, 염갈량이 직접 답했다 \"전력 보강 차원…김일경 QC코치, 선수들과 소통 최고\" [잠실포커스]",
       "url": "https://n.news.naver.com/mnews/article/076/0004430095",
@@ -37,7 +77,7 @@
       "aid": "0016219925"
     },
     {
-      "title": "'MLB 112승' LG 새 외인 카라스코, 내달 1일 두산 상대 데뷔전",
+      "title": "'MLB 112승' LG 새 외인 카라스코, 내달 1일 두산 상대 데뷔 예정",
       "url": "https://n.news.naver.com/mnews/article/003/0014093747",
       "datetime": "2026.07.28 16:56",
       "office": "뉴시스",
