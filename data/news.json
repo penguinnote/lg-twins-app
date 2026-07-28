@@ -1,9 +1,121 @@
 {
   "team": "LG",
-  "updated": "2026-07-28T05:42:00",
-  "count": 18,
+  "updated": "2026-07-28T08:25:26",
+  "count": 32,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG 코치진 변경, 염갈량이 직접 답했다 \"전력 보강 차원…김일경 QC코치, 선수들과 소통 최고\" [잠실포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004430095",
+      "datetime": "2026.07.28 17:20",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004430095"
+    },
+    {
+      "title": "'ML 112승 베테랑 승부수' LG 선수단 전격 합류→불펜 피칭까지 소화... 데뷔전 확정됐다 \"첫 경기가 중요해\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004089230",
+      "datetime": "2026.07.28 17:15",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004089230"
+    },
+    {
+      "title": "'코치진 물갈이' LG, 첫 경기부터 효과 볼까?",
+      "url": "https://n.news.naver.com/mnews/article/450/0000152833",
+      "datetime": "2026.07.28 17:06",
+      "office": "STN 뉴스",
+      "oid": "450",
+      "aid": "0000152833"
+    },
+    {
+      "title": "최근 1승 9패…염경엽 LG 감독 \"체력 떨어진 것 아냐\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016219925",
+      "datetime": "2026.07.28 16:57",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016219925"
+    },
+    {
+      "title": "'MLB 112승' LG 새 외인 카라스코, 내달 1일 두산 상대 데뷔전",
+      "url": "https://n.news.naver.com/mnews/article/003/0014093747",
+      "datetime": "2026.07.28 16:56",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014093747"
+    },
+    {
+      "title": "“잘하기 위한 보강 차원이다” 염갈량이 밝힌 시즌 중 ‘코치진 보직 이동’ 이유 [SS잠실in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001256384",
+      "datetime": "2026.07.28 16:56",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001256384"
+    },
+    {
+      "title": "'1군 코치진 8명 보직이동' LG 라인업 큰 변화 없다, 4번 문보경-7번 문성주-8번 박동원 출격 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/108/0003457001",
+      "datetime": "2026.07.28 16:54",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003457001"
+    },
+    {
+      "title": "LG '승부수' 카라스코, 선수단 합류…내달 1일 두산 상대로 데뷔전",
+      "url": "https://n.news.naver.com/mnews/article/421/0009083958",
+      "datetime": "2026.07.28 16:48",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009083958"
+    },
+    {
+      "title": "'MLB 112승 레전드, 잠실 불펜 강타'…카라스코 첫 피칭, LG의 승부수 통할까?[잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004430084",
+      "datetime": "2026.07.28 16:45",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004430084"
+    },
+    {
+      "title": "8연패+1승, 그리고 또 무너진 LG…반등 노린다, 톨허스트 두 달여 만의 승리 도전→키움전 설욕까지 '두 토끼' 잡을까 [잠실 라인업]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002038594",
+      "datetime": "2026.07.28 16:24",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002038594"
+    },
+    {
+      "title": "'코칭스태프 개편' LG 라인업, 문보경 4번-박동원 8번...'13이닝 1실점' 이상영 1군 콜업",
+      "url": "https://n.news.naver.com/mnews/article/109/0005579286",
+      "datetime": "2026.07.28 16:04",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005579286"
+    },
+    {
+      "title": "문보경 4번-박동원 8번 포수 출격... '코치진 개편' LG 라인업 공개, 이상영 콜업 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004089198",
+      "datetime": "2026.07.28 16:04",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004089198"
+    },
+    {
+      "title": "LG 오스틴-문보경-문정빈 중심타선 가동, 7번 문성주[IS 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/241/0003522287",
+      "datetime": "2026.07.28 16:01",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003522287"
+    },
+    {
+      "title": "'1이닝 10실점 참패' LG 홈에서 분위기 바꿀까, 쿨린업 트리오 '오문문'",
+      "url": "https://n.news.naver.com/mnews/article/477/0000620550",
+      "datetime": "2026.07.28 15:57",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000620550"
+    },
     {
       "title": "8연패 LG 이렇게 떨어지나... 팀타율 0.306, 외국인 4번 등판. 반등의 기회는 이번주[SC 포커스]",
       "url": "https://n.news.naver.com/mnews/article/076/0004429984",
