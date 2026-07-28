@@ -186,5 +186,43 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-07-28",
+    "fetched_at": "2026-07-28T16:17:57",
+    "registered": [
+      {
+        "name": "김용의",
+        "position": "코치",
+        "team": "LG"
+      },
+      {
+        "name": "윤진호",
+        "position": "코치",
+        "team": "LG"
+      },
+      {
+        "name": "이상영",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "최경철",
+        "position": "코치",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "김재율",
+        "position": "코치",
+        "team": "LG"
+      },
+      {
+        "name": "스즈키",
+        "position": "코치",
+        "team": "LG"
+      }
+    ]
   }
 ]
