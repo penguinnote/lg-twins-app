@@ -1,16 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-07-28T13:52:11",
-  "count": 46,
+  "updated": "2026-07-28T16:02:41",
+  "count": 11,
   "carried_count": 6,
   "items": [
+    {
+      "title": "잠실 6연패 끝, 반등 신호탄 쐈다... 염경엽 감독 폭풍 칭찬 \"문정빈 전체적인 타선 이끌었다\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004089424",
+      "datetime": "2026.07.29 00:49",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004089424"
+    },
+    {
+      "title": "‘아홉수’ 깨고 드디어 ‘20세이브’…손주영 “KS, 건강, 30세이브 달성이 다음 목표” [SS스타]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001256487",
+      "datetime": "2026.07.29 00:32",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001256487"
+    },
+    {
+      "title": "1부터 19까지 50일, 19에서 20까지 26일인 것은? 손주영 아홉수 탈출 \"정말 쉽지 않았다\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000620686",
+      "datetime": "2026.07.29 00:23",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000620686"
+    },
+    {
+      "title": "\"난 마무리 체질 아냐\" 26일만에 세이브 추가 → 구원 2위! 아홉수 깨뜨린 손주영 \"답답함 풀렸다\" [인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004430281",
+      "datetime": "2026.07.29 00:05",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004430281"
+    },
+    {
+      "title": "데뷔 첫 10홈런과 데뷔 첫 20세이브...염갈량 언급한 수훈선수 5명, 톨허스트-우강훈-손주영-문성주-문정빈",
+      "url": "https://n.news.naver.com/mnews/article/109/0005579608",
+      "datetime": "2026.07.29 00:05",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005579608"
+    },
     {
       "title": "'반등 시동' LG 염경엽 감독 \"문정빈, 타선 이끌며 승리 만들어줘\"",
       "url": "https://n.news.naver.com/mnews/article/003/0014094058",
       "datetime": "2026.07.28 22:50",
       "office": "뉴시스",
       "oid": "003",
-      "aid": "0014094058"
+      "aid": "0014094058",
+      "carried": true
     },
     {
       "title": "문보경·문성주와 시너지 기대…LG 문정빈 \"문문문 트리오 되도록 더 열심히\"",
@@ -18,7 +59,8 @@
       "datetime": "2026.07.28 22:40",
       "office": "뉴시스",
       "oid": "003",
-      "aid": "0014094056"
+      "aid": "0014094056",
+      "carried": true
     },
     {
       "title": "LG 후반기 홈 첫 승! 10호 홈런 문정빈 “아버지께 감사하다”",
@@ -26,7 +68,8 @@
       "datetime": "2026.07.28 22:39",
       "office": "데일리안",
       "oid": "119",
-      "aid": "0003115866"
+      "aid": "0003115866",
+      "carried": true
     },
     {
       "title": "'LG 드디어 반등 신호탄!' 톨허스트 QS→타선까지 살아났다…키움전 5-3 승리, 최상위권 추격 불씨 되살려 [잠실 스코어]",
@@ -34,7 +77,8 @@
       "datetime": "2026.07.28 22:32",
       "office": "엑스포츠뉴스",
       "oid": "311",
-      "aid": "0002038830"
+      "aid": "0002038830",
+      "carried": true
     },
     {
       "title": "'데뷔 첫 10홈런' LG 신예 거포 문정빈 \"생각보다 빠르게 달성했다\"",
@@ -42,7 +86,8 @@
       "datetime": "2026.07.28 22:30",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009084334"
+      "aid": "0009084334",
+      "carried": true
     },
     {
       "title": "[IS 스타] S 비율이 무려 82%, 면담까지 했던 톨허스트 \"잃을 것이 없었다\"",
@@ -50,332 +95,7 @@
       "datetime": "2026.07.28 22:18",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003522318"
-    },
-    {
-      "title": "\"오랜만에 잠실 홈에서…\" 마지막까지 안심금지! 가슴 쓸어내린 염갈량, 추락하던 LG 터닝포인트 될까 [잠실승장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004430267",
-      "datetime": "2026.07.28 22:12",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004430267"
-    },
-    {
-      "title": "“팬들 덕분에 오랜만에 잠실서 승리” LG, 약 3주 만에 ‘잠실 승리’…염갈량의 감사 인사 [SS잠실in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001256478",
-      "datetime": "2026.07.28 22:09",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001256478"
-    },
-    {
-      "title": "[SW현장] 34일 만에 따낸 승리…LG 톨허스트, 7이닝 역투로 증명한 에이스 ‘저력’",
-      "url": "https://n.news.naver.com/mnews/article/396/0000750885",
-      "datetime": "2026.07.28 22:07",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000750885"
-    },
-    {
-      "title": "'4G 만에 선발승' LG 톨허스트 \"잃을 것 없다는 마인드로 던졌다\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009084326",
-      "datetime": "2026.07.28 22:05",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009084326"
-    },
-    {
-      "title": "[IS 승장] '반갑다, 화요일 승리' 염경엽 감독 \"우강훈, 손주영 위기 잘 막았다\"",
-      "url": "https://n.news.naver.com/mnews/article/241/0003522315",
-      "datetime": "2026.07.28 22:05",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003522315"
-    },
-    {
-      "title": "후반기 추락 LG 반등 시작하나…문정빈 시즌 10호 홈런+결승타로 승리",
-      "url": "https://n.news.naver.com/mnews/article/081/0003665503",
-      "datetime": "2026.07.28 22:05",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003665503"
-    },
-    {
-      "title": "'8회 1사 만루→9회 2사 2, 3루' 숱한 위기에도 LG 승리 지켰다! 사령탑도 감사 인사 \"우강훈, 손주영이 잘 막았다\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/108/0003457170",
-      "datetime": "2026.07.28 22:04",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003457170"
-    },
-    {
-      "title": "밀어서 타구 속도 170㎞ 괴력…LG 문정빈 \"손에 감각 안 느껴져\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016220198",
-      "datetime": "2026.07.28 22:03",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016220198"
-    },
-    {
-      "title": "'170.2㎞ 타구가 연패를 끊었다' 문정빈 데뷔 첫 두 자릿수 홈런...LG, 잠실 6연패 마감",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199592",
-      "datetime": "2026.07.28 22:00",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199592"
-    },
-    {
-      "title": "LG 7경기 만에 후반기 홈 첫 승, 염경엽 감독 \"우강훈 손주영 위기 막은 덕분\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000620676",
-      "datetime": "2026.07.28 22:00",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000620676"
-    },
-    {
-      "title": "'반등 신호탄' 염경엽 LG 감독 \"톨허스트가 선발로서 역할 잘했다'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009084323",
-      "datetime": "2026.07.28 21:56",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009084323"
-    },
-    {
-      "title": "문정빈 결승타·10호포 '맹활약'…LG, 키움에 5-3 승리",
-      "url": "https://n.news.naver.com/mnews/article/450/0000152838",
-      "datetime": "2026.07.28 21:56",
-      "office": "STN 뉴스",
-      "oid": "450",
-      "aid": "0000152838"
-    },
-    {
-      "title": "문정빈 10호포에 결승타… LG, 지긋지긋한 잠실 6연패 탈출",
-      "url": "https://n.news.naver.com/mnews/article/018/0006338599",
-      "datetime": "2026.07.28 21:44",
-      "office": "이데일리",
-      "oid": "018",
-      "aid": "0006338599"
-    },
-    {
-      "title": "문정빈 10호포에 결승 적시타…LG, 키움 잡고 잠실 6연패 탈출",
-      "url": "https://n.news.naver.com/mnews/article/001/0016220184",
-      "datetime": "2026.07.28 21:31",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016220184"
-    },
-    {
-      "title": "9회 2,3루 동점 위기 막다...'문정빈 10홈런 결승타→손주영 세이브' LG 진땀승, 키움 '3실책' 자멸 [잠실 리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005579560",
-      "datetime": "2026.07.28 21:31",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005579560"
-    },
-    {
-      "title": "'미쳤다' 문정빈 첫 10홈런+역전타 폭발... LG 5-3 역전승, 톨허스트 9승... 키움 실책 3개에 울었다 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004089392",
-      "datetime": "2026.07.28 21:31",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004089392"
-    },
-    {
-      "title": "문정빈 첫 10홈런·톨허스트 9승…LG, 키움 5-3으로 제압",
-      "url": "https://n.news.naver.com/mnews/article/003/0014094027",
-      "datetime": "2026.07.28 21:30",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014094027"
-    },
-    {
-      "title": "'LG, 이게 얼마 만이냐' 25일 만의 QS+문정빈 2타점…후반기 2승째",
-      "url": "https://n.news.naver.com/mnews/article/079/0004173078",
-      "datetime": "2026.07.28 21:30",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004173078"
-    },
-    {
-      "title": "'어쩌라고 막았잖아' 또 나왔다! 손주영 20SV... LG, 키움에 5-3 승리 [잠실 현장리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/108/0003457155",
-      "datetime": "2026.07.28 21:29",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003457155"
-    },
-    {
-      "title": "[프로야구 잠실전적] LG 5-3 키움",
-      "url": "https://n.news.naver.com/mnews/article/001/0016220183",
-      "datetime": "2026.07.28 21:29",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016220183"
-    },
-    {
-      "title": "'승리요정' 문정빈 10호포+결승타 → 톨허스트 9승+손주영 20세이브…악몽 떨쳐낸 LG, 키움에 5대3 승리 [잠실리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004430234",
-      "datetime": "2026.07.28 21:29",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004430234"
-    },
-    {
-      "title": "반등 계기 마련했다!…‘문정빈 데뷔 첫 10호포+톨허스트 역투’ LG, 키움 3연전 기선제압",
-      "url": "https://n.news.naver.com/mnews/article/410/0001134392",
-      "datetime": "2026.07.28 21:29",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001134392"
-    },
-    {
-      "title": "LG 두 번째 2000년대생 10홈런, 문정빈의 여름이 뜨겁다…7회 결승타까지 작렬",
-      "url": "https://n.news.naver.com/mnews/article/382/0001285529",
-      "datetime": "2026.07.28 21:29",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001285529"
-    },
-    {
-      "title": "문정빈 문성주 5안타 3타점 합작! 톨허스트는 14G 만에 QS…LG, 키움 잡고 승리로 일주일 출발",
-      "url": "https://n.news.naver.com/mnews/article/477/0000620668",
-      "datetime": "2026.07.28 21:29",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000620668"
-    },
-    {
-      "title": "LG, 최하위 키움 잡고 반등 신호탄…톨허스트, 4경기 만에 '9승'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009084294",
-      "datetime": "2026.07.28 21:28",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009084294"
-    },
-    {
-      "title": "‘코치 보직 대이동’ LG, 승부수 통했다! 키움 5-3 제압…문정빈 데뷔 첫 ‘두 자릿수’ 홈런 [SS잠실in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001256461",
-      "datetime": "2026.07.28 21:28",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001256461"
-    },
-    {
-      "title": "'후반기 첫 QS' 톨허스트, 7이닝 7K 3실점 반등투!…박찬혁 투런에도 승리 요건, LG 선발진 긴 침묵 끝냈다 [잠실 라이브]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002038795",
-      "datetime": "2026.07.28 21:04",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002038795"
-    },
-    {
-      "title": "살아난 LG 에이스 톨허스트, 키움전 7이닝 3실점 호투…9승 요건",
-      "url": "https://n.news.naver.com/mnews/article/421/0009084277",
-      "datetime": "2026.07.28 20:58",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009084277"
-    },
-    {
-      "title": "데뷔 첫 두자릿수 홈런 달성! 128m 대형 아치 쾅…'반짝반짝' LG 우타 거포의 꿈이 영근다 [잠실현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004430192",
-      "datetime": "2026.07.28 20:24",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004430192"
-    },
-    {
-      "title": "[SW현장] LG 문정빈, 7월에만 홈런 4개…키움전서 시즌 10호 아치",
-      "url": "https://n.news.naver.com/mnews/article/396/0000750880",
-      "datetime": "2026.07.28 20:21",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000750880"
-    },
-    {
-      "title": "LG에 리그에서 홈런 제일 잘 치는 타자가 있다고? 문정빈 43경기 만에 데뷔 첫 10홈런",
-      "url": "https://n.news.naver.com/mnews/article/477/0000620630",
-      "datetime": "2026.07.28 20:18",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000620630"
-    },
-    {
-      "title": "'미쳤다' 밀어쳐서 130m 초대형 비거리...LG 문정빈, 10호 홈런 터졌다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005579474",
-      "datetime": "2026.07.28 20:17",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005579474"
-    },
-    {
-      "title": "'LG 우타 거포 기대주' 문정빈 해냈다, 데뷔 첫 10홈런 고지 밟았다 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004089335",
-      "datetime": "2026.07.28 20:13",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004089335"
-    },
-    {
-      "title": "최근 1승 9패로 부진한 LG...염경엽 감독 \"체력 저하 아니다\"",
-      "url": "https://n.news.naver.com/mnews/article/425/0000199591",
-      "datetime": "2026.07.28 19:20",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000199591"
-    },
-    {
-      "title": "'MLB 112승' 카라스코가 LG 택한 진짜 이유…\"플럿코·에르난데스가 KBO 적극 추천, 팬 응원 문화에 매료됐다\" [잠실 인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002038690",
-      "datetime": "2026.07.28 19:15",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002038690",
-      "carried": true
-    },
-    {
-      "title": "'코치진 전격 개편' LG 염경엽 감독 \"보강 위한 변화\"…후반기 부진엔 \"선수들 안 지쳤다, 결국 사이클 문제\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002038629",
-      "datetime": "2026.07.28 18:38",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002038629",
-      "carried": true
-    },
-    {
-      "title": "'7월 꼴찌' LG 구세주 될까? 한국에 도대체 왜 왔나 \"부담감 극복하는 법, 정확히 안다\"…'ML 다승왕' 외인의 진심 [인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004430100",
-      "datetime": "2026.07.28 17:47",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004430100",
-      "carried": true
-    },
-    {
-      "title": "[일문일답] MLB 112승→LG 반전카드 카라스코 \"한국에 우승하러 왔다, 올라갈 일만 남았다\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000620566",
-      "datetime": "2026.07.28 17:41",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000620566",
-      "carried": true
-    },
-    {
-      "title": "LG 코치진 변경, 염갈량이 직접 답했다 \"전력 보강 차원…김일경 QC코치, 선수들과 소통 최고\" [잠실포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004430095",
-      "datetime": "2026.07.28 17:20",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004430095",
-      "carried": true
-    },
-    {
-      "title": "'ML 112승 베테랑 승부수' LG 선수단 전격 합류→불펜 피칭까지 소화... 데뷔전 확정됐다 \"첫 경기가 중요해\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004089230",
-      "datetime": "2026.07.28 17:15",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004089230",
+      "aid": "0003522318",
       "carried": true
     }
   ]
