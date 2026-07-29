@@ -2,16 +2,16 @@
   "playerId": "55167",
   "season": 2026,
   "is_pitcher": true,
-  "games": 35,
-  "updated": "2026-07-28T23:55:58",
+  "games": 36,
+  "updated": "2026-07-29T16:01:25",
   "totals": {
-    "IP": 30.002,
-    "R": 9,
-    "ER": 9,
-    "SO": 25,
-    "H": 27,
+    "IP": 31.335,
+    "R": 11,
+    "ER": 11,
+    "SO": 27,
+    "H": 29,
     "HR": 2,
-    "BB": 12,
+    "BB": 13,
     "W": 3,
     "L": 0,
     "SV": 0,
@@ -577,6 +577,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "2.70"
+    },
+    {
+      "date": "2026-07-29",
+      "opp": "키움",
+      "role": "구원",
+      "result": "",
+      "IP": 1.333,
+      "TBF": 7,
+      "H": 2,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 2,
+      "R": 2,
+      "ER": 2,
+      "era_cum": "3.16"
     }
   ],
   "coin": {
@@ -844,47 +860,54 @@
         "open": 136.829,
         "close": 139.496,
         "value": 0.5333
+      },
+      {
+        "date": "2026-07-29",
+        "opp": "키움",
+        "open": 139.496,
+        "close": 133.05,
+        "value": -1.2891
       }
     ]
   },
   "ratings": {
-    "OVR": 63,
+    "OVR": 62,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 3.6,
-        "rating": 57
+        "value": 3.73,
+        "rating": 50
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 7.5,
-        "rating": 50
+        "value": 7.76,
+        "rating": 55
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.233,
-        "rating": 77
+        "value": 0.238,
+        "rating": 72
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.6,
-        "rating": 74
+        "value": 0.57,
+        "rating": 75
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 30.0,
-        "rating": 39
+        "value": 31.3,
+        "rating": 42
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.6,
+        "value": 3.55,
         "rating": 80
       }
     ],
