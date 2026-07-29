@@ -1,9 +1,73 @@
 {
   "team": "LG",
-  "updated": "2026-07-29T15:49:22",
-  "count": 9,
+  "updated": "2026-07-29T21:55:28",
+  "count": 17,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'8회 10실점→5회 9실점' 우승팀 불펜 대체 왜 이러나! 필승조가 '단' 1이닝도 못 막다니... 후반기 LG 위기 아직 끝났다",
+      "url": "https://n.news.naver.com/mnews/article/108/0003457582",
+      "datetime": "2026.07.30 06:45",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003457582"
+    },
+    {
+      "title": "마무리 첫 해 블론 없이 20세이브 했는데 왜 불안한가, 염갈량 진단 \"볼넷 줄여야죠\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004089869",
+      "datetime": "2026.07.30 06:31",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004089869"
+    },
+    {
+      "title": "LG 초비상! '에이스 → 홈런 공장장' 1선발에서 폭풍추락…50이닝이 '분수령'이었다 [잠실리포트]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004430730",
+      "datetime": "2026.07.30 06:00",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004430730"
+    },
+    {
+      "title": "“한국에 야구하러 왔다”…LG 구할 다승왕의 포스”",
+      "url": "https://n.news.naver.com/mnews/article/081/0003665970",
+      "datetime": "2026.07.30 05:05",
+      "office": "서울신문",
+      "oid": "081",
+      "aid": "0003665970"
+    },
+    {
+      "title": "'ERA 1점대 괴물' LG 웰스의 추락, 4점대로 치솟아…한국 여름인가, 아시아쿼터의 현실인가",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199643",
+      "datetime": "2026.07.30 04:58",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199643"
+    },
+    {
+      "title": "'방망이가 쉴 새 없이' 키움, LG 18-11 완파...서건창 5안타 폭발",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199642",
+      "datetime": "2026.07.30 02:04",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199642"
+    },
+    {
+      "title": "1~9회 무려 4시간23분…'23안타 18득점 화력쇼' 설종진 감독 \"5회 만루서 빅이닝 만든 게 승리 원동력…모든 타자 제 몫 다했다\" [잠실 인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002039393",
+      "datetime": "2026.07.30 01:16",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002039393"
+    },
+    {
+      "title": "한 이닝 9실점→황당 교체 실수까지, 왜 김윤식 마운드 왔다가 그냥 내려갔나...\"투수코치가 이름 잘못 통보했다\"",
+      "url": "https://n.news.naver.com/mnews/article/109/0005580341",
+      "datetime": "2026.07.30 01:13",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005580341"
+    },
     {
       "title": "'충격' LG 팬들이 5회부터 경기장을 떠났다, 무기력한 마운드→역대급 졸전을 어쩌면 좋나 [MD잠실]",
       "url": "https://n.news.naver.com/mnews/article/117/0004089849",
