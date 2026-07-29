@@ -1,11 +1,59 @@
 {
   "team": "LG",
-  "updated": "2026-07-29T21:55:28",
-  "count": 17,
+  "updated": "2026-07-29T22:56:38",
+  "count": 23,
   "carried_count": 6,
   "items": [
     {
-      "title": "'8회 10실점→5회 9실점' 우승팀 불펜 대체 왜 이러나! 필승조가 '단' 1이닝도 못 막다니... 후반기 LG 위기 아직 끝났다",
+      "title": "'6실점→6실점→5실점' 호주에서 온 복덩이 어떡하나…'ERA 10.93' 순식간에 고민거리 됐다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000620870",
+      "datetime": "2026.07.30 07:42",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000620870"
+    },
+    {
+      "title": "WBC 영광 어디로…LG 문보경, 부활포 치긴 했는데",
+      "url": "https://n.news.naver.com/mnews/article/056/0012227953",
+      "datetime": "2026.07.30 07:41",
+      "office": "KBS",
+      "oid": "056",
+      "aid": "0012227953"
+    },
+    {
+      "title": "“우리 팀 올라갈 일만 남아”…‘빅리그 통산 112승’ 카라스코, 위기의 LG 구할까",
+      "url": "https://n.news.naver.com/mnews/article/410/0001134534",
+      "datetime": "2026.07.30 07:41",
+      "office": "MK스포츠 ",
+      "oid": "410",
+      "aid": "0001134534"
+    },
+    {
+      "title": "한 이닝 9실점, 투수 교체 실수까지…LG 불펜 왜 이러나, ‘지키는 야구’가 안 된다 [SS포커스]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001256804",
+      "datetime": "2026.07.30 07:40",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001256804"
+    },
+    {
+      "title": "1이닝 10실점→1이닝 9실점, 필승조 투입해도 대참사…176홀드 베테랑도, 153km 사이드암도 버티지 못하다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005580372",
+      "datetime": "2026.07.30 07:12",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005580372"
+    },
+    {
+      "title": "11점이나 냈는데 졌다…LG, 5회 9실점 악몽→최하위 키움에 18실점 대참사[어제의 프로야구]",
+      "url": "https://n.news.naver.com/mnews/article/020/0003737639",
+      "datetime": "2026.07.30 07:01",
+      "office": "동아일보",
+      "oid": "020",
+      "aid": "0003737639"
+    },
+    {
+      "title": "'8회 10실점→5회 9실점' 우승팀 불펜 대체 왜 이러나! 필승조가 '단' 1이닝도 못 막다니... 후반기 LG 위기 아직 안 끝났다",
       "url": "https://n.news.naver.com/mnews/article/108/0003457582",
       "datetime": "2026.07.30 06:45",
       "office": "스타뉴스",
