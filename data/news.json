@@ -1,9 +1,89 @@
 {
   "team": "LG",
-  "updated": "2026-07-30T05:35:05",
-  "count": 32,
+  "updated": "2026-07-30T08:15:32",
+  "count": 42,
   "carried_count": 6,
   "items": [
+    {
+      "title": "\"60%는 부러졌다고 봤는데…\" LG 안도의 한숨, '손등 사구' 문정빈 대타도 가능하다",
+      "url": "https://n.news.naver.com/mnews/article/076/0004430956",
+      "datetime": "2026.07.30 16:56",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004430956"
+    },
+    {
+      "title": "가슴 쓸어내린 LG, 손등에 공 맞은 문정빈 단순 타박 소견…염경엽 감독 ‘안도’",
+      "url": "https://n.news.naver.com/mnews/article/382/0001285890",
+      "datetime": "2026.07.30 16:50",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001285890"
+    },
+    {
+      "title": "7월 OPS 리그 1위인데 LG 안도의 한숨, '손등 사구' 문정빈 단순 타박상",
+      "url": "https://n.news.naver.com/mnews/article/241/0003522746",
+      "datetime": "2026.07.30 16:49",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003522746"
+    },
+    {
+      "title": "\"60% 이상 금 가거나, 부러진 줄\"…문정빈 정밀검진 이상 없다, 염경엽 안도의 한숨 \"오늘 하루 휴식\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000621009",
+      "datetime": "2026.07.30 16:30",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000621009"
+    },
+    {
+      "title": "손등 사구로 교체된 LG 문정빈, 다행히 단순 타박상…염경엽 LG 감독 “하루 정도는 쉬어야할 것”[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129054",
+      "datetime": "2026.07.30 16:27",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129054"
+    },
+    {
+      "title": "'손등 사구' 문정빈이 사라졌다, 송찬의 4번 출격... LG 선발 라인업 변화 줬다, 임찬규 10승 도전 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004090147",
+      "datetime": "2026.07.30 16:03",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004090147"
+    },
+    {
+      "title": "총 40안타 난타전 끝에 11-18로 패한 LG, 4번 송찬의 카드 꺼냈다…이상영 1군 엔트리 말소[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129049",
+      "datetime": "2026.07.30 15:58",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129049"
+    },
+    {
+      "title": "'23피안타 18실점 참사' LG, 하루 만에 분위기 반전 노린다…4시즌 연속 10승 도전 임찬규 출격, 키움전 위닝시리즈 정조준 [잠실 라인업]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002039701",
+      "datetime": "2026.07.30 15:56",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002039701"
+    },
+    {
+      "title": "'143km 직구→손등 직격' 문정빈 큰 부상 피했나? 엔트리 생존, 선발 라인업에선 제외…이상영 말소",
+      "url": "https://n.news.naver.com/mnews/article/477/0000621006",
+      "datetime": "2026.07.30 15:54",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000621006"
+    },
+    {
+      "title": "LG 6년 만에 10실점 경기 10번 채웠다… 전반기는 웃고 넘겼지만, 이제는 비상이다",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129037",
+      "datetime": "2026.07.30 14:56",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129037"
+    },
     {
       "title": "'후반기 3G ERA 10.93'  호주에서 온 亞쿼터 부진 심상치 않다, 홈런 공장장 대추락→LG 고민 커진다",
       "url": "https://n.news.naver.com/mnews/article/117/0004090053",
