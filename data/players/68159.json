@@ -1,0 +1,203 @@
+{
+  "playerId": "68159",
+  "season": 2026,
+  "is_pitcher": true,
+  "games": 5,
+  "updated": "2026-07-30T16:06:02",
+  "totals": {
+    "IP": 5.667,
+    "R": 8,
+    "ER": 7,
+    "SO": 5,
+    "H": 10,
+    "HR": 2,
+    "BB": 4,
+    "W": 0,
+    "L": 0,
+    "SV": 0,
+    "HLD": 0
+  },
+  "pitching": [
+    {
+      "date": "2026-04-10",
+      "opp": "SSG",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 3,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 1,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "0.00"
+    },
+    {
+      "date": "2026-04-15",
+      "opp": "롯데",
+      "role": "구원",
+      "result": "",
+      "IP": 0.333,
+      "TBF": 2,
+      "H": 0,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "0.00"
+    },
+    {
+      "date": "2026-04-23",
+      "opp": "한화",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 7,
+      "H": 2,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 1,
+      "SO": 1,
+      "R": 2,
+      "ER": 1,
+      "era_cum": "3.86"
+    },
+    {
+      "date": "2026-05-14",
+      "opp": "삼성",
+      "role": "구원",
+      "result": "",
+      "IP": 1.667,
+      "TBF": 7,
+      "H": 2,
+      "HR": 1,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 1,
+      "R": 2,
+      "ER": 2,
+      "era_cum": "6.75"
+    },
+    {
+      "date": "2026-05-19",
+      "opp": "KIA",
+      "role": "구원",
+      "result": "",
+      "IP": 1.667,
+      "TBF": 14,
+      "H": 6,
+      "HR": 1,
+      "BB": 2,
+      "HBP": 0,
+      "SO": 2,
+      "R": 4,
+      "ER": 4,
+      "era_cum": "11.12"
+    }
+  ],
+  "coin": {
+    "base": 100.0,
+    "scale": 5.0,
+    "constants": {
+      "year": 2026,
+      "source": "v1-representative",
+      "w_BB": 0.69,
+      "w_HBP": 0.72,
+      "w_1B": 0.89,
+      "w_2B": 1.27,
+      "w_3B": 1.62,
+      "w_HR": 2.1,
+      "lgwOBA": 0.335,
+      "wOBA_scale": 1.2,
+      "run_SB": 0.2,
+      "run_CS": -0.42,
+      "lgRA9": 4.8,
+      "bonus_HLD": 0.3,
+      "bonus_SV": 0.5
+    },
+    "candles": [
+      {
+        "date": "2026-04-10",
+        "opp": "SSG",
+        "open": 100.0,
+        "close": 102.666,
+        "value": 0.5333
+      },
+      {
+        "date": "2026-04-15",
+        "opp": "롯데",
+        "open": 102.666,
+        "close": 103.554,
+        "value": 0.1776
+      },
+      {
+        "date": "2026-04-23",
+        "opp": "한화",
+        "open": 103.554,
+        "close": 96.221,
+        "value": -1.4667
+      },
+      {
+        "date": "2026-05-14",
+        "opp": "삼성",
+        "open": 96.221,
+        "close": 90.666,
+        "value": -1.1109
+      },
+      {
+        "date": "2026-05-19",
+        "opp": "KIA",
+        "open": 90.666,
+        "close": 75.111,
+        "value": -3.1109
+      }
+    ]
+  },
+  "ratings": {
+    "OVR": 12,
+    "lowSample": true,
+    "axes": [
+      {
+        "key": "control",
+        "label": "제구",
+        "value": 6.35,
+        "rating": 15
+      },
+      {
+        "key": "strikeout",
+        "label": "탈삼진",
+        "value": 7.94,
+        "rating": 59
+      },
+      {
+        "key": "hits",
+        "label": "피안타억제",
+        "value": 0.357,
+        "rating": 1
+      },
+      {
+        "key": "homers",
+        "label": "장타억제",
+        "value": 3.18,
+        "rating": 0
+      },
+      {
+        "key": "innings",
+        "label": "이닝소화",
+        "value": 5.7,
+        "rating": 0
+      },
+      {
+        "key": "run_prevention",
+        "label": "실점억제",
+        "value": 8.67,
+        "rating": 0
+      }
+    ],
+    "type": "pitcher"
+  }
+}

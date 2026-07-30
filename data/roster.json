@@ -1,6 +1,6 @@
 {
   "team": "LG",
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "count": 30,
   "hitter_count": 15,
   "players": [
@@ -47,8 +47,8 @@
       "is_pitcher": true
     },
     {
-      "playerId": "69168",
-      "name": "이상영",
+      "playerId": "68159",
+      "name": "성동현",
       "position": "투수",
       "is_pitcher": true
     },

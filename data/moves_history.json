@@ -230,5 +230,23 @@
     "fetched_at": "2026-07-29T16:00:15",
     "registered": [],
     "waived": []
+  },
+  {
+    "date": "2026-07-30",
+    "fetched_at": "2026-07-30T16:05:06",
+    "registered": [
+      {
+        "name": "성동현",
+        "position": "투",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "이상영",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
