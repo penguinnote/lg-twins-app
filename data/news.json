@@ -1,9 +1,73 @@
 {
   "team": "LG",
-  "updated": "2026-07-30T15:48:10",
-  "count": 9,
+  "updated": "2026-07-30T22:07:38",
+  "count": 17,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘데뷔 첫 10홈런까지 -1’ LG 송찬의 “나는 홈런 타자 아니야…요즘에도 쓰레기 열심히 주워요”[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129172",
+      "datetime": "2026.07.31 07:01",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129172"
+    },
+    {
+      "title": "통산 177홀드의 무게…LG 김진성의 값진 발자취",
+      "url": "https://n.news.naver.com/mnews/article/425/0000199957",
+      "datetime": "2026.07.31 06:25",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000199957"
+    },
+    {
+      "title": "\"팬분들께 너무 죄송했다\"…임찬규, 연패 책임감에 무너졌던 속마음 털어놨다→\"잠실 마지막이라 더 벅차, 응원 보니 나도 모르게 울컥\" [잠실 인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002039959",
+      "datetime": "2026.07.31 05:30",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002039959"
+    },
+    {
+      "title": "4년 연속 10승 달성 후 눈물 감추지 못했다…에이스 숙명이란 이런 것, \"부담감 부정해왔는데…\"",
+      "url": "https://n.news.naver.com/mnews/article/076/0004431229",
+      "datetime": "2026.07.31 05:24",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004431229"
+    },
+    {
+      "title": "LG 150㎞ 선발 유망주, 구속 하락 미스터리 풀렸다 \"의도치 않게 커터처럼…\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000621078",
+      "datetime": "2026.07.31 05:06",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000621078"
+    },
+    {
+      "title": "\"오늘 홈런 비결은 이것\" 오타니를 꿈꾸는 LG 송찬의 \"쓰레기 열심히 줍는다\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004174102",
+      "datetime": "2026.07.31 05:01",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004174102"
+    },
+    {
+      "title": "‘0이닝 3실점→2군행’ 70억 FA 보상선수, 3이닝 무실점 승리…LG 홀드왕 사이드암, 또 2실점→ERA 14.00",
+      "url": "https://n.news.naver.com/mnews/article/109/0005581157",
+      "datetime": "2026.07.31 01:16",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005581157"
+    },
+    {
+      "title": "'와' LG 다시 1위권 싸움 가세하나→'6명' 일일이 언급한 승장 염갈량 \"더운 날씨에도 많은 팬 응원 덕분에 오랜만에 위닝시리즈\"",
+      "url": "https://n.news.naver.com/mnews/article/108/0003457975",
+      "datetime": "2026.07.31 01:10",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003457975"
+    },
     {
       "title": "모처럼 LG다웠다, 후반기 첫 위닝 달성! 염갈량도 만족한 투타 완벽 조화 \"찾아와주신 많은 팬들 덕분\" [MD잠실]",
       "url": "https://n.news.naver.com/mnews/article/117/0004090320",
