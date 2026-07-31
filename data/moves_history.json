@@ -248,5 +248,23 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "fetched_at": "2026-07-31T16:16:08",
+    "registered": [
+      {
+        "name": "김민수",
+        "position": "포",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "최원영",
+        "position": "외",
+        "team": "LG"
+      }
+    ]
   }
 ]
