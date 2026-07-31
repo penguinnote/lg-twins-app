@@ -1,9 +1,81 @@
 {
   "team": "LG",
-  "updated": "2026-07-31T06:39:38",
-  "count": 32,
+  "updated": "2026-07-31T09:39:41",
+  "count": 41,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'668이닝 포수 이닝 소화 1위' 박동원, 잠실 라이벌전 3경기 결장 예고... 그래서 포수 백업 콜업했구나 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004090527",
+      "datetime": "2026.07.31 18:15",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004090527"
+    },
+    {
+      "title": "1년 전 반등 떠올린 LG 염경엽 감독 “지금 순위는 중요하지 않다, 지금부터 승부처”",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129261",
+      "datetime": "2026.07.31 18:02",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129261"
+    },
+    {
+      "title": "LG 주전 포수, 잠실더비 선발 제외 왜? \"발목 안 좋고 방망이도 안 맞아\" 3연전 휴식도 고민한다 [오!쎈 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005581531",
+      "datetime": "2026.07.31 17:48",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005581531"
+    },
+    {
+      "title": "LG 운명을 짊어진 등판! 카라스코 내일 출격 → 염경엽 감독, 불펜투구 확인했다 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004431366",
+      "datetime": "2026.07.31 17:35",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004431366"
+    },
+    {
+      "title": "[IS 잠실] LG 포수 엔트리 3명, \"동원이가 너무 안 맞아서, 3경기 휴식도...\"",
+      "url": "https://n.news.naver.com/mnews/article/241/0003522961",
+      "datetime": "2026.07.31 17:33",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003522961"
+    },
+    {
+      "title": "박동원 제외, 오스틴-송찬의-문정빈 중심타선... LG 라인업, 포수 김민수 콜업 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004090504",
+      "datetime": "2026.07.31 17:00",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004090504"
+    },
+    {
+      "title": "LG 박동원 선발 라인업 제외, 강렬 스리런포 송찬의 4번 배치 '두산전 선발 명단 발표' [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/108/0003458176",
+      "datetime": "2026.07.31 17:00",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003458176"
+    },
+    {
+      "title": "[IS 잠실] '손등 사구' LG 문정빈 하루 만에 라인업 복귀, 송찬의가 4번",
+      "url": "https://n.news.naver.com/mnews/article/241/0003522952",
+      "datetime": "2026.07.31 16:54",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003522952"
+    },
+    {
+      "title": "오-송-문 클린업 출동! LG, 두산전 라인업 떴다 → 포수 김민수 콜업 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004431357",
+      "datetime": "2026.07.31 16:42",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004431357"
+    },
     {
       "title": "방출 잔혹사 딛고 '177홀드'…41세 베테랑 김진성이 쓴 새 역사",
       "url": "https://n.news.naver.com/mnews/article/079/0004174354",
