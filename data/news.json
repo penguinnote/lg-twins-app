@@ -1,9 +1,73 @@
 {
   "team": "LG",
-  "updated": "2026-08-01T11:59:20",
-  "count": 42,
+  "updated": "2026-08-01T13:41:18",
+  "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "빅리그 112승 투수 LG 카라스코, 7이닝 퍼펙트 압도적 데뷔전",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228509",
+      "datetime": "2026.08.01 22:32",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016228509"
+    },
+    {
+      "title": "'명품 투구 빛바랬다' LG·두산, 연장 끝에 2-2 무승부",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200340",
+      "datetime": "2026.08.01 22:02",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200340"
+    },
+    {
+      "title": "LG, 카라스코 7이닝 퍼펙트 압도적 데뷔전에도 두산과 2-2 무승부(종합)",
+      "url": "https://n.news.naver.com/mnews/article/003/0014102646",
+      "datetime": "2026.08.01 21:36",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014102646"
+    },
+    {
+      "title": "고요한 충격, 빅리그 112승 투수의 퍼펙트 피칭… 그러나 결론은 2-2 무승부 엔딩",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129391",
+      "datetime": "2026.08.01 21:29",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129391"
+    },
+    {
+      "title": "[IS 잠실] 카라스코 7이닝 퍼펙트→강판 직후 동점 허용...절반만 이뤄진 염갈량 바람",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523111",
+      "datetime": "2026.08.01 21:28",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523111"
+    },
+    {
+      "title": "\"완벽했다\" LG 카라스코, 7이닝 퍼펙트 데뷔전...우려를 씻었다",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200300",
+      "datetime": "2026.08.01 21:26",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200300"
+    },
+    {
+      "title": "LG, 카라스코 7이닝 퍼펙트 데뷔전에도 무승부(종합)",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228475",
+      "datetime": "2026.08.01 21:25",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016228475"
+    },
+    {
+      "title": "폭염에 프로야구 취소…시작 시간 최대 1시간 늦추기로",
+      "url": "https://n.news.naver.com/mnews/article/056/0012229587",
+      "datetime": "2026.08.01 21:22",
+      "office": "KBS",
+      "oid": "056",
+      "aid": "0012229587"
+    },
     {
       "title": "'이럴 수가' 초대형 트레이드 이적생, 9회 홈런성 타구 잡아낸 슈퍼 캐치...LG 관중석 침묵시키다",
       "url": "https://n.news.naver.com/mnews/article/109/0005582329",
@@ -266,7 +330,8 @@
       "datetime": "2026.08.01 04:30",
       "office": "한국일보",
       "oid": "469",
-      "aid": "0000945623"
+      "aid": "0000945623",
+      "carried": true
     },
     {
       "title": "백혈병도 이긴 ‘MLB 112승’ 카라스코, LG 신무기로",
@@ -274,7 +339,8 @@
       "datetime": "2026.08.01 01:41",
       "office": "동아일보",
       "oid": "020",
-      "aid": "0003738084"
+      "aid": "0003738084",
+      "carried": true
     },
     {
       "title": "18구 던져 12구가 파울→1사 2,3루 무실점 삭제…LG 1차지명, 선발 대신 불펜 수업 받나",
@@ -282,7 +348,8 @@
       "datetime": "2026.08.01 01:21",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005582032"
+      "aid": "0005582032",
+      "carried": true
     },
     {
       "title": "'160km 시대'에 던지는 130km대 낭만... 팬들 응원에 끝내 훔친 눈물 [유진형의 현장 1mm]",
@@ -290,7 +357,8 @@
       "datetime": "2026.08.01 00:08",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004090687"
+      "aid": "0004090687",
+      "carried": true
     },
     {
       "title": "'668이닝 포수 이닝 소화 1위' 박동원, 잠실 라이벌전 3경기 결장 예고... 그래서 포수 백업 콜업했구나 [MD잠실]",
@@ -308,42 +376,6 @@
       "office": "스포츠경향",
       "oid": "144",
       "aid": "0001129261",
-      "carried": true
-    },
-    {
-      "title": "LG 주전 포수, 잠실더비 선발 제외 왜? \"발목 안 좋고 방망이도 안 맞아\" 3연전 휴식도 고민한다 [오!쎈 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005581531",
-      "datetime": "2026.07.31 17:48",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005581531",
-      "carried": true
-    },
-    {
-      "title": "LG 운명을 짊어진 등판! 카라스코 내일 출격 → 염경엽 감독, 불펜투구 확인했다 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004431366",
-      "datetime": "2026.07.31 17:35",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004431366",
-      "carried": true
-    },
-    {
-      "title": "[IS 잠실] LG 포수 엔트리 3명, \"동원이가 너무 안 맞아서, 3경기 휴식도...\"",
-      "url": "https://n.news.naver.com/mnews/article/241/0003522961",
-      "datetime": "2026.07.31 17:33",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003522961",
-      "carried": true
-    },
-    {
-      "title": "박동원 제외, 오스틴-송찬의-문정빈 중심타선... LG 라인업, 포수 김민수 콜업 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004090504",
-      "datetime": "2026.07.31 17:00",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004090504",
       "carried": true
     }
   ]
