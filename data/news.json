@@ -1,9 +1,49 @@
 {
   "team": "LG",
-  "updated": "2026-08-01T02:21:31",
-  "count": 23,
+  "updated": "2026-08-01T05:50:47",
+  "count": 28,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘4년 연속’ 10승, 피처 임찬규… LG의 남은 시즌 그의 역할이 더 중요해졌다",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129341",
+      "datetime": "2026.08.01 12:31",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129341"
+    },
+    {
+      "title": "타율 최하위-OPS 최하위…LG ‘보물’이었는데, 왜 문보경은 이렇게 추락했나",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582129",
+      "datetime": "2026.08.01 12:12",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582129"
+    },
+    {
+      "title": "짧은 슬럼프 끝...LG오스틴의 무서운 반등, 역대급 시즌 달린다",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200266",
+      "datetime": "2026.08.01 12:01",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200266"
+    },
+    {
+      "title": "'월간 승률 최하위' LG,  악몽 같은 7월 지났다...카라스코와 반등 예고",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523091",
+      "datetime": "2026.08.01 11:41",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523091"
+    },
+    {
+      "title": "카라스코 QS? 그 정도론 턱도 없다, AL 다승왕  걸맞는 압도적 피칭 필요...상대가 곽빈이라 더 끓어 오른다",
+      "url": "https://n.news.naver.com/mnews/article/445/0000444285",
+      "datetime": "2026.08.01 11:33",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000444285"
+    },
     {
       "title": "임찬규의 눈물 '어떤 상황이었길래 눈시울 붉혔나' [유진형의 현장 1mm]",
       "url": "https://n.news.naver.com/mnews/article/117/0004090754",
@@ -29,7 +69,7 @@
       "aid": "0005582099"
     },
     {
-      "title": "후반기 3승10패 파멸적 추락…\"LG 우승 돕겠다\" 이젠 진짜 카라스코 뿐인데, 곽빈을 만났다 [SC포커스]",
+      "title": "후반기 3승10패 파멸적 추락…\"LG 우승 돕겠다\" 이젠 진짜 카라스코 뿐인데, 상대를 잘못 만났다 [SC포커스]",
       "url": "https://n.news.naver.com/mnews/article/076/0004431976",
       "datetime": "2026.08.01 10:11",
       "office": "스포츠조선",
