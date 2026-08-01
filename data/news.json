@@ -1,16 +1,81 @@
 {
   "team": "LG",
-  "updated": "2026-08-01T14:55:34",
-  "count": 46,
+  "updated": "2026-08-01T21:49:54",
+  "count": 14,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG 구세주 맞네…퍼펙트 교체 아쉬움 없고, 승리만 생각한다 “LG팬들 응원은 상상 이상, 잠실 주인 보여드리겠다”",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582451",
+      "datetime": "2026.08.02 06:45",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582451"
+    },
+    {
+      "title": "'살다살다 이런 블론세이브는 처음' 74구 퍼펙트가 물거품 됐다…LG 불펜, 카라스코 승리 날려, 염경엽 감독의 선택은 옳았나",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200517",
+      "datetime": "2026.08.02 04:59",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200517"
+    },
+    {
+      "title": "대체 왜 '7이닝 퍼펙트' 투수 교체했나→韓 첫 무대 압권 \"다음엔 꼭 잠실의 주인 모습을 보여드리겠다\" 패기 보소",
+      "url": "https://n.news.naver.com/mnews/article/108/0003458528",
+      "datetime": "2026.08.02 01:25",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003458528"
+    },
+    {
+      "title": "‘74구’ 7이닝 퍼펙트, 여러분이 감독이라면 교체했을까…최초 퍼펙트 대기록 도전이냐, KBO 데뷔전 몸 관리냐",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582425",
+      "datetime": "2026.08.02 01:21",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582425"
+    },
+    {
+      "title": "‘7이닝 퍼펙트’ 카라스코, 화려하게 KBO리그 데뷔 “다음엔 ‘잠실의 주인’ 모습 보여줄 것” [SS스타]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001257212",
+      "datetime": "2026.08.02 00:50",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001257212"
+    },
+    {
+      "title": "[IS 스타] '팔색조 투구로 7이닝 퍼펙트'...데뷔전 치른 카라스코 \"LG팬 응원 상상 이상\"",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523115",
+      "datetime": "2026.08.02 00:05",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523115"
+    },
+    {
+      "title": "“이게 짬에서 나오는 바이브?” 빅리그 112승의 ‘불혹 직전’ 카라스코, LG 데뷔전 7이닝 74구 퍼펙트…왜 8회엔 마운드에 오르지 않았나 [남정훈의 비욘드 더 그라운드]",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147639",
+      "datetime": "2026.08.02 00:02",
+      "office": "세계일보",
+      "oid": "022",
+      "aid": "0004147639"
+    },
+    {
+      "title": "'10연패' 딛고 KS 9차전 끝장승부…LG가 닮아야 할 삼성의 대반전 [IS 서포터즈]",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523114",
+      "datetime": "2026.08.02 00:01",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523114"
+    },
     {
       "title": "'7이닝 퍼펙트' LG 카라스코 \"투구 수 제한 있었기에 이걸로 만족\"(종합)",
       "url": "https://n.news.naver.com/mnews/article/421/0009091970",
       "datetime": "2026.08.01 23:33",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009091970"
+      "aid": "0009091970",
+      "carried": true
     },
     {
       "title": "MLB 112승의 위엄…LG 카라스코, 데뷔전 '7이닝 퍼펙트!'",
@@ -18,7 +83,8 @@
       "datetime": "2026.08.01 23:18",
       "office": "노컷뉴스",
       "oid": "079",
-      "aid": "0004174533"
+      "aid": "0004174533",
+      "carried": true
     },
     {
       "title": "LG, 두산과 연장 11회 접전 끝 2-2 무승부...카라스코는 데뷔전 7이닝 퍼펙트 완벽투",
@@ -26,7 +92,8 @@
       "datetime": "2026.08.01 23:11",
       "office": "스포츠타임스",
       "oid": "472",
-      "aid": "0000041039"
+      "aid": "0000041039",
+      "carried": true
     },
     {
       "title": "'7이닝 74구 퍼펙트' LG 카라스코, 왜 교체 아쉬움 없다 했나 \"2주 쉬었다. 투구 수 제한하고 시작해 만족한다\"",
@@ -34,7 +101,8 @@
       "datetime": "2026.08.01 23:01",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005582395"
+      "aid": "0005582395",
+      "carried": true
     },
     {
       "title": "빅리그 112승 투수 LG 카라스코, 7이닝 퍼펙트 압도적 데뷔전",
@@ -42,7 +110,8 @@
       "datetime": "2026.08.01 22:32",
       "office": "연합뉴스",
       "oid": "001",
-      "aid": "0016228509"
+      "aid": "0016228509",
+      "carried": true
     },
     {
       "title": "'명품 투구 빛바랬다' LG·두산, 연장 끝에 2-2 무승부",
@@ -50,332 +119,7 @@
       "datetime": "2026.08.01 22:02",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000200340"
-    },
-    {
-      "title": "LG, 카라스코 7이닝 퍼펙트 압도적 데뷔전에도 두산과 2-2 무승부(종합)",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102646",
-      "datetime": "2026.08.01 21:36",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014102646"
-    },
-    {
-      "title": "고요한 충격, 빅리그 112승 투수의 퍼펙트 피칭… 그러나 결론은 2-2 무승부 엔딩",
-      "url": "https://n.news.naver.com/mnews/article/144/0001129391",
-      "datetime": "2026.08.01 21:29",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001129391"
-    },
-    {
-      "title": "[IS 잠실] 카라스코 7이닝 퍼펙트→강판 직후 동점 허용...절반만 이뤄진 염갈량 바람",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523111",
-      "datetime": "2026.08.01 21:28",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523111"
-    },
-    {
-      "title": "\"완벽했다\" LG 카라스코, 7이닝 퍼펙트 데뷔전...우려를 씻었다",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200300",
-      "datetime": "2026.08.01 21:26",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200300"
-    },
-    {
-      "title": "LG, 카라스코 7이닝 퍼펙트 데뷔전에도 무승부(종합)",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228475",
-      "datetime": "2026.08.01 21:25",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016228475"
-    },
-    {
-      "title": "폭염에 프로야구 취소…시작 시간 최대 1시간 늦추기로",
-      "url": "https://n.news.naver.com/mnews/article/056/0012229587",
-      "datetime": "2026.08.01 21:22",
-      "office": "KBS",
-      "oid": "056",
-      "aid": "0012229587"
-    },
-    {
-      "title": "'이럴 수가' 초대형 트레이드 이적생, 9회 홈런성 타구 잡아낸 슈퍼 캐치...LG 관중석 침묵시키다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582329",
-      "datetime": "2026.08.01 20:51",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582329"
-    },
-    {
-      "title": "7회까지 퍼펙트…강렬한 카라스코 첫 인사, 이름값 증명했다",
-      "url": "https://n.news.naver.com/mnews/article/396/0000751188",
-      "datetime": "2026.08.01 20:27",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000751188"
-    },
-    {
-      "title": "‘ML 112승’ 투수의 ‘관록투’! LG 카라스코, ‘7이닝 퍼펙트’로 KBO리그 첫선 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257203",
-      "datetime": "2026.08.01 20:22",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257203"
-    },
-    {
-      "title": "'거물' LG 카라스코, KBO리그 데뷔전서 7이닝 퍼펙트…이름값 했다",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102578",
-      "datetime": "2026.08.01 20:12",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014102578"
-    },
-    {
-      "title": "빅리그 112승 투수 LG 카라스코, 7이닝 퍼펙트 압도적 데뷔전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228438",
-      "datetime": "2026.08.01 20:00",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016228438"
-    },
-    {
-      "title": "데뷔전서 74구로 7이닝 퍼펙트라니…‘빅리그 112승’ 위용 마음껏 뽐낸 LG 카라스코",
-      "url": "https://n.news.naver.com/mnews/article/410/0001134856",
-      "datetime": "2026.08.01 20:00",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001134856"
-    },
-    {
-      "title": "[IS 잠실] 잠실벌 경악...MLB 112승 LG 카라스코, 데뷔전 7이닝 퍼펙트 '완벽투'",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523109",
-      "datetime": "2026.08.01 19:58",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523109"
-    },
-    {
-      "title": "'MLB 112승' LG 카라스코, 완벽한 데뷔…두산전 7이닝 퍼펙트 피칭",
-      "url": "https://n.news.naver.com/mnews/article/421/0009091907",
-      "datetime": "2026.08.01 19:57",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009091907"
-    },
-    {
-      "title": "“70구 정도 던진다” ML 112승 투수 데뷔전, 왜 주전포수 박동원 2경기 연속 선발 제외됐나",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582179",
-      "datetime": "2026.08.01 17:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582179"
-    },
-    {
-      "title": "“악몽의 7월 다 갔네…” 8월 ‘대반격’ 노리는 LG, 카라스코 첫 등판으로 ‘분위기 반등’ 도전 [SS잠실in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257196",
-      "datetime": "2026.08.01 16:58",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257196"
-    },
-    {
-      "title": "염경엽 LG 감독 \"카라스코, 70구 투구…8월 스타트 잘 끊어주길\"",
-      "url": "https://n.news.naver.com/mnews/article/421/0009091830",
-      "datetime": "2026.08.01 16:55",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009091830"
-    },
-    {
-      "title": "[IS 잠실] MLB 112승 카라스코 KBO리그 데뷔...투구 수는 70개, 박동원 없이 두산 타선 상대",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523104",
-      "datetime": "2026.08.01 16:51",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523104"
-    },
-    {
-      "title": "'아뿔싸' LG 주전 안방마님 2G 연속 사라졌다, '韓 데뷔' 카라스코 어떤 투구 펼칠까 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/108/0003458470",
-      "datetime": "2026.08.01 16:35",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003458470"
-    },
-    {
-      "title": "'7월 최하위' LG 반등할까...라인업 공개, 문보경-박동원 빠졌다. 신인 양우진, 2군행",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582167",
-      "datetime": "2026.08.01 16:31",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582167"
-    },
-    {
-      "title": "‘4년 연속’ 10승, 피처 임찬규… LG의 남은 시즌 그의 역할이 더 중요해졌다",
-      "url": "https://n.news.naver.com/mnews/article/144/0001129341",
-      "datetime": "2026.08.01 12:31",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001129341"
-    },
-    {
-      "title": "타율 최하위-OPS 최하위…LG ‘보물’이었는데, 왜 문보경은 이렇게 추락했나",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582129",
-      "datetime": "2026.08.01 12:12",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582129"
-    },
-    {
-      "title": "짧은 슬럼프 끝...LG오스틴의 무서운 반등, 역대급 시즌 달린다",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200266",
-      "datetime": "2026.08.01 12:01",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200266"
-    },
-    {
-      "title": "'월간 승률 최하위' LG,  악몽 같은 7월 지났다...카라스코와 반등 예고",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523091",
-      "datetime": "2026.08.01 11:41",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523091"
-    },
-    {
-      "title": "카라스코 QS? 그 정도론 턱도 없다, AL 다승왕  걸맞는 압도적 피칭 필요...상대가 곽빈이라 더 끓어 오른다",
-      "url": "https://n.news.naver.com/mnews/article/445/0000444285",
-      "datetime": "2026.08.01 11:33",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000444285"
-    },
-    {
-      "title": "임찬규의 눈물 '어떤 상황이었길래 눈시울 붉혔나' [유진형의 현장 1mm]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004090754",
-      "datetime": "2026.08.01 11:05",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004090754"
-    },
-    {
-      "title": "MLB 112승 LG 새 외인 드디어 오늘 출격, \"카라스코 역할 가장 중요\"",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523084",
-      "datetime": "2026.08.01 10:25",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523084"
-    },
-    {
-      "title": "‘이럴 수가’ 4주 동안 연승이 없다…‘7월 최하위’ LG, 상위권과 5강 싸움의 갈림길에 놓이다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582099",
-      "datetime": "2026.08.01 10:14",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582099"
-    },
-    {
-      "title": "3승10패 파멸적 추락…\"LG 우승 돕겠다\" 이젠 진짜 카라스코 뿐인데, 상대를 잘못 만났다 [SC포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004431976",
-      "datetime": "2026.08.01 10:11",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004431976"
-    },
-    {
-      "title": "1년 새 ‘확’ 바뀐 LG ‘우타 거포 기대주’→‘트윈스 육성’의 힘 “비결은 열정적 가르침” [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257175",
-      "datetime": "2026.08.01 09:56",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257175"
-    },
-    {
-      "title": "“좋은 퍼포먼스 내는 법 알고 있어”…마침내 KBO리그 데뷔전 가지는 ‘빅리그 통산 112승’ LG 카라스코, 염갈량 고민 덜게 하나",
-      "url": "https://n.news.naver.com/mnews/article/410/0001134837",
-      "datetime": "2026.08.01 09:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001134837"
-    },
-    {
-      "title": "'MLB 112승 괴력' 카라스코, LG 희망 보여줄까? 오늘 두산전서 데뷔",
-      "url": "https://n.news.naver.com/mnews/article/421/0009091571",
-      "datetime": "2026.08.01 09:29",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009091571"
-    },
-    {
-      "title": "잠실에 뜨는 '거물' LG 카라스코, 데뷔전서 진가 발휘할까",
-      "url": "https://n.news.naver.com/mnews/article/003/0014102136",
-      "datetime": "2026.08.01 08:00",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014102136"
-    },
-    {
-      "title": "승률 0.350 최악의 7월 끝났다... 지난해 '8월 승패마진+12' 기억하라, 염갈량이 밝힌 반등 조건 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004090720",
-      "datetime": "2026.08.01 07:24",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004090720"
-    },
-    {
-      "title": "LG 운명 걸렸다…ML 112승 베테랑 KBO 데뷔전, 염경엽 감독 \"카라스코 역할이 제일 중요해\"",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582048",
-      "datetime": "2026.08.01 06:11",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582048",
-      "carried": true
-    },
-    {
-      "title": "10년 만에 부활 \"만나서 반갑습니다, LG 오지환입니다\"...이제 반등하나",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523067",
-      "datetime": "2026.08.01 06:07",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523067",
-      "carried": true
-    },
-    {
-      "title": "LG, 라이벌 두산에 졌지만 ‘희망 봤다’…선발 투수진 확연한 ‘안정세’",
-      "url": "https://n.news.naver.com/mnews/article/629/0000520926",
-      "datetime": "2026.08.01 06:04",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000520926",
-      "carried": true
-    },
-    {
-      "title": "드디어 'ML 112승 거물' 韓 무대 데뷔! 염갈량 \"역할 제일 클 것 같다\" 기대감↑... \"내 목표는 LG가 다시 한번 우승 트로피 가져오는 데 기여하는 것\" 구세주 될까",
-      "url": "https://n.news.naver.com/mnews/article/108/0003458400",
-      "datetime": "2026.08.01 06:01",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003458400",
-      "carried": true
-    },
-    {
-      "title": "23홈런·32홈런·31홈런… 46홈런? 오스틴, 내가 '파워히터'가 된 비결은",
-      "url": "https://n.news.naver.com/mnews/article/469/0000945623",
-      "datetime": "2026.08.01 04:30",
-      "office": "한국일보",
-      "oid": "469",
-      "aid": "0000945623",
-      "carried": true
-    },
-    {
-      "title": "백혈병도 이긴 ‘MLB 112승’ 카라스코, LG 신무기로",
-      "url": "https://n.news.naver.com/mnews/article/020/0003738084",
-      "datetime": "2026.08.01 01:41",
-      "office": "동아일보",
-      "oid": "020",
-      "aid": "0003738084",
+      "aid": "0000200340",
       "carried": true
     }
   ]
