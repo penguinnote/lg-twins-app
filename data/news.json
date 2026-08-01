@@ -1,9 +1,73 @@
 {
   "team": "LG",
-  "updated": "2026-08-01T10:36:54",
-  "count": 34,
+  "updated": "2026-08-01T11:59:20",
+  "count": 42,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'이럴 수가' 초대형 트레이드 이적생, 9회 홈런성 타구 잡아낸 슈퍼 캐치...LG 관중석 침묵시키다",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582329",
+      "datetime": "2026.08.01 20:51",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582329"
+    },
+    {
+      "title": "7회까지 퍼펙트…강렬한 카라스코 첫 인사, 이름값 증명했다",
+      "url": "https://n.news.naver.com/mnews/article/396/0000751188",
+      "datetime": "2026.08.01 20:27",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000751188"
+    },
+    {
+      "title": "‘ML 112승’ 투수의 ‘관록투’! LG 카라스코, ‘7이닝 퍼펙트’로 KBO리그 첫선 [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001257203",
+      "datetime": "2026.08.01 20:22",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001257203"
+    },
+    {
+      "title": "'거물' LG 카라스코, KBO리그 데뷔전서 7이닝 퍼펙트…이름값 했다",
+      "url": "https://n.news.naver.com/mnews/article/003/0014102578",
+      "datetime": "2026.08.01 20:12",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014102578"
+    },
+    {
+      "title": "빅리그 112승 투수 LG 카라스코, 7이닝 퍼펙트 압도적 데뷔전",
+      "url": "https://n.news.naver.com/mnews/article/001/0016228438",
+      "datetime": "2026.08.01 20:00",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016228438"
+    },
+    {
+      "title": "데뷔전서 74구로 7이닝 퍼펙트라니…‘빅리그 112승’ 위용 마음껏 뽐낸 LG 카라스코",
+      "url": "https://n.news.naver.com/mnews/article/410/0001134856",
+      "datetime": "2026.08.01 20:00",
+      "office": "MK스포츠 ",
+      "oid": "410",
+      "aid": "0001134856"
+    },
+    {
+      "title": "[IS 잠실] 잠실벌 경악...MLB 112승 LG 카라스코, 데뷔전 7이닝 퍼펙트 '완벽투'",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523109",
+      "datetime": "2026.08.01 19:58",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523109"
+    },
+    {
+      "title": "'MLB 112승' LG 카라스코, 완벽한 데뷔…두산전 7이닝 퍼펙트 피칭",
+      "url": "https://n.news.naver.com/mnews/article/421/0009091907",
+      "datetime": "2026.08.01 19:57",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009091907"
+    },
     {
       "title": "“70구 정도 던진다” ML 112승 투수 데뷔전, 왜 주전포수 박동원 2경기 연속 선발 제외됐나",
       "url": "https://n.news.naver.com/mnews/article/109/0005582179",
