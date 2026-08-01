@@ -2,16 +2,16 @@
   "playerId": "51154",
   "season": 2026,
   "is_pitcher": true,
-  "games": 40,
-  "updated": "2026-07-31T23:57:54",
+  "games": 41,
+  "updated": "2026-08-01T15:36:11",
   "totals": {
-    "IP": 44.335,
+    "IP": 45.335,
     "R": 18,
     "ER": 16,
     "SO": 28,
     "H": 44,
     "HR": 5,
-    "BB": 15,
+    "BB": 16,
     "W": 4,
     "L": 3,
     "SV": 1,
@@ -657,6 +657,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "3.25"
+    },
+    {
+      "date": "2026-08-01",
+      "opp": "두산",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 3,
+      "H": 0,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "3.18"
     }
   ],
   "coin": {
@@ -959,47 +975,54 @@
         "open": 138.56,
         "close": 142.727,
         "value": 0.8333
+      },
+      {
+        "date": "2026-08-01",
+        "opp": "두산",
+        "open": 142.727,
+        "close": 145.394,
+        "value": 0.5333
       }
     ]
   },
   "ratings": {
-    "OVR": 48,
+    "OVR": 49,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 3.05,
-        "rating": 72
+        "value": 3.18,
+        "rating": 69
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 5.68,
-        "rating": 10
+        "value": 5.56,
+        "rating": 8
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.253,
-        "rating": 57
+        "value": 0.25,
+        "rating": 60
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 1.02,
-        "rating": 39
+        "value": 0.99,
+        "rating": 42
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 44.3,
-        "rating": 69
+        "value": 45.3,
+        "rating": 70
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 4.49,
+        "value": 4.52,
         "rating": 43
       }
     ],

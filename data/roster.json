@@ -1,6 +1,6 @@
 {
   "team": "LG",
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "count": 30,
   "hitter_count": 15,
   "players": [
@@ -77,8 +77,8 @@
       "is_pitcher": true
     },
     {
-      "playerId": "56165",
-      "name": "양우진",
+      "playerId": "56103",
+      "name": "카라스코",
       "position": "투수",
       "is_pitcher": true
     },

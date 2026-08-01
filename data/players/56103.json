@@ -1,0 +1,111 @@
+{
+  "playerId": "56103",
+  "season": 2026,
+  "is_pitcher": true,
+  "games": 1,
+  "updated": "2026-08-01T15:36:18",
+  "totals": {
+    "IP": 7.0,
+    "R": 0,
+    "ER": 0,
+    "SO": 2,
+    "H": 0,
+    "HR": 0,
+    "BB": 0,
+    "W": 0,
+    "L": 0,
+    "SV": 0,
+    "HLD": 0
+  },
+  "pitching": [
+    {
+      "date": "2026-08-01",
+      "opp": "두산",
+      "role": "선발",
+      "result": "",
+      "IP": 7.0,
+      "TBF": 21,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 2,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "0.00"
+    }
+  ],
+  "coin": {
+    "base": 100.0,
+    "scale": 5.0,
+    "constants": {
+      "year": 2026,
+      "source": "v1-representative",
+      "w_BB": 0.69,
+      "w_HBP": 0.72,
+      "w_1B": 0.89,
+      "w_2B": 1.27,
+      "w_3B": 1.62,
+      "w_HR": 2.1,
+      "lgwOBA": 0.335,
+      "wOBA_scale": 1.2,
+      "run_SB": 0.2,
+      "run_CS": -0.42,
+      "lgRA9": 4.8,
+      "bonus_HLD": 0.3,
+      "bonus_SV": 0.5
+    },
+    "candles": [
+      {
+        "date": "2026-08-01",
+        "opp": "두산",
+        "open": 100.0,
+        "close": 118.666,
+        "value": 3.7333
+      }
+    ]
+  },
+  "ratings": {
+    "OVR": 65,
+    "lowSample": true,
+    "axes": [
+      {
+        "key": "control",
+        "label": "제구",
+        "value": 0.0,
+        "rating": 100
+      },
+      {
+        "key": "strikeout",
+        "label": "탈삼진",
+        "value": 2.57,
+        "rating": 1
+      },
+      {
+        "key": "hits",
+        "label": "피안타억제",
+        "value": 0.0,
+        "rating": 100
+      },
+      {
+        "key": "homers",
+        "label": "장타억제",
+        "value": 0.0,
+        "rating": 93
+      },
+      {
+        "key": "innings",
+        "label": "이닝소화",
+        "value": 7.0,
+        "rating": 0
+      },
+      {
+        "key": "run_prevention",
+        "label": "실점억제",
+        "value": 2.63,
+        "rating": 97
+      }
+    ],
+    "type": "pitcher"
+  }
+}
