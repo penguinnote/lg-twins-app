@@ -1,9 +1,73 @@
 {
   "team": "LG",
-  "updated": "2026-08-02T02:12:48",
-  "count": 17,
+  "updated": "2026-08-02T05:51:38",
+  "count": 25,
   "carried_count": 6,
   "items": [
+    {
+      "title": "아깝다 퍼펙트게임...LG 새 외인투수 카라스코, KBO리그 데뷔전서 사고칠 뻔",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666756",
+      "datetime": "2026.08.02 14:38",
+      "office": "서울신문",
+      "oid": "081",
+      "aid": "0003666756"
+    },
+    {
+      "title": "승리 놓쳤지만 우승 꿈 다시 살아났다…카라스코가 LG에 던진 ‘긍정의 74구’",
+      "url": "https://n.news.naver.com/mnews/article/445/0000444920",
+      "datetime": "2026.08.02 14:38",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000444920"
+    },
+    {
+      "title": "퍼펙트 도전보다 반가운 것…카라스코가 증명한 ‘112승 클래스’",
+      "url": "https://n.news.naver.com/mnews/article/396/0000751226",
+      "datetime": "2026.08.02 14:31",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000751226"
+    },
+    {
+      "title": "7이닝 퍼펙트, LG 서른아홉 구세주 등장 확인...새 에이스 될까",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523186",
+      "datetime": "2026.08.02 13:45",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523186"
+    },
+    {
+      "title": "카라스코의 ‘퍼펙트 피칭’에 드러난 ‘한국야구의 민낯’ [김대호의 야구생각]",
+      "url": "https://n.news.naver.com/mnews/article/629/0000521043",
+      "datetime": "2026.08.02 13:38",
+      "office": "더팩트",
+      "oid": "629",
+      "aid": "0000521043"
+    },
+    {
+      "title": "하루 2번이나 홈런성 타구, 오지환의 운수 없는 날…슈퍼 캐치에 잡히고, 파울 폴 살짝 벗어나고",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582529",
+      "datetime": "2026.08.02 13:14",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582529"
+    },
+    {
+      "title": "70개 정도만 던지랬더니… '7이닝 퍼펙트' LG 카라스코",
+      "url": "https://n.news.naver.com/mnews/article/469/0000945726",
+      "datetime": "2026.08.02 11:32",
+      "office": "한국일보",
+      "oid": "469",
+      "aid": "0000945726"
+    },
+    {
+      "title": "커쇼도 7이닝 80구 퍼펙트 교체됐는데...LG 카라스코 7이닝 74구 퍼펙트 교체 “만족한다\"",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582506",
+      "datetime": "2026.08.02 11:12",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582506"
+    },
     {
       "title": "‘ML 112승’ 베테랑 역시 달랐다, ‘7이닝 퍼펙트’ 강렬한 KBO 데뷔…LG 승부수 출발 좋다 [SS시선집중]",
       "url": "https://n.news.naver.com/mnews/article/468/0001257254",
@@ -13,7 +77,7 @@
       "aid": "0001257254"
     },
     {
-      "title": "ML 112승 에이스 '퍼펙트 충격 데뷔전'에도 못 이긴 LG...그게 LG 실력이다",
+      "title": "ML 112승 에이스 '퍼펙트 충격 데뷔전'에도 못 이겼다...LG를 어떻하면 좋을까",
       "url": "https://n.news.naver.com/mnews/article/445/0000444666",
       "datetime": "2026.08.02 08:57",
       "office": "MHN스포츠",
