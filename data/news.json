@@ -1,9 +1,97 @@
 {
   "team": "LG",
-  "updated": "2026-08-02T08:13:19",
-  "count": 32,
+  "updated": "2026-08-02T10:36:07",
+  "count": 43,
   "carried_count": 6,
   "items": [
+    {
+      "title": "카라스코, LG 구세주 되나… 데뷔전 ‘7이닝 퍼펙트’",
+      "url": "https://n.news.naver.com/mnews/article/022/0004147817",
+      "datetime": "2026.08.02 19:11",
+      "office": "세계일보",
+      "oid": "022",
+      "aid": "0004147817"
+    },
+    {
+      "title": "‘박동원 못지않은 존재감’ LG 이주헌, 3경기 연속 타점… 이번엔 동점 투런포 쾅!",
+      "url": "https://n.news.naver.com/mnews/article/396/0000751247",
+      "datetime": "2026.08.02 18:57",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000751247"
+    },
+    {
+      "title": "[IS 잠실] '박동원 백업' LG 이주헌, 오늘은 동점 2점포 폭발...3경기 연속 장타",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523232",
+      "datetime": "2026.08.02 18:47",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523232"
+    },
+    {
+      "title": "'7이닝 퍼펙트' 이런 외인 복덩이 봤나...감독이 부탁하자 1이닝 더 던졌다 \"다음 등판은 80구\"",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582631",
+      "datetime": "2026.08.02 18:45",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582631"
+    },
+    {
+      "title": "데뷔전서 7이닝 퍼펙트…‘역대급 등장’ 카라스코, 8회 교체 이유는",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541785",
+      "datetime": "2026.08.02 17:59",
+      "office": "중앙일보",
+      "oid": "025",
+      "aid": "0003541785"
+    },
+    {
+      "title": "\"카라스코 원래 60구 투구 요청\" 7이닝 74구 퍼펙트 →8회 칼교체 이유 있었다…\"7회 등판도 양해 구해\" 염갈량 해명 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002040906",
+      "datetime": "2026.08.02 17:55",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002040906"
+    },
+    {
+      "title": "LG 염경엽 감독 \"카라스코, 모든 구종 완벽하게 제구\"...KBO 데뷔전 호평",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200663",
+      "datetime": "2026.08.02 17:48",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200663"
+    },
+    {
+      "title": "\"카라스코 다음 등판 때는 80구\" 염경엽 LG 감독 '첫 등판 당초 계획은 6이닝' [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004091020",
+      "datetime": "2026.08.02 17:31",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004091020"
+    },
+    {
+      "title": "염경엽 LG 감독 \"카라스코, 모든 구종 커맨드 완벽한 게 장점\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016229437",
+      "datetime": "2026.08.02 17:27",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016229437"
+    },
+    {
+      "title": "염경엽 감독 “카라스코 설득해서 7회도 올린 것”[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129487",
+      "datetime": "2026.08.02 17:17",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129487"
+    },
+    {
+      "title": "‘7이닝 퍼펙트’ 카라스코 데뷔전 지켜본 LG 염경엽 감독 “완벽한 커맨드가 장점, 다음 등판 투구수는 80개”",
+      "url": "https://n.news.naver.com/mnews/article/382/0001286189",
+      "datetime": "2026.08.02 17:15",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001286189"
+    },
     {
       "title": "‘74구 7이닝 퍼펙트’ 카라스코, 더 갈수도 있지 않았나…염갈량이 밝힌 ‘속사정’ [SS잠실in]",
       "url": "https://n.news.naver.com/mnews/article/468/0001257312",
