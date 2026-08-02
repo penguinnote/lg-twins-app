@@ -2,8 +2,8 @@
   "playerId": "51100",
   "season": 2026,
   "is_pitcher": false,
-  "games": 52,
-  "updated": "2026-08-01T15:35:32",
+  "games": 53,
+  "updated": "2026-08-02T15:36:44",
   "totals": {
     "AB": 73,
     "H": 16,
@@ -374,6 +374,13 @@
     {
       "date": "2026-07-29",
       "opp": "키움",
+      "cum_avg": 0.219,
+      "cum_ops": 0.557,
+      "site_cum_avg": "0.219"
+    },
+    {
+      "date": "2026-08-02",
+      "opp": "두산",
       "cum_avg": 0.219,
       "cum_ops": 0.557,
       "site_cum_avg": "0.219"
@@ -763,6 +770,13 @@
         "open": 74.335,
         "close": 72.939,
         "value": -0.2792
+      },
+      {
+        "date": "2026-08-02",
+        "opp": "두산",
+        "open": 72.939,
+        "close": 72.939,
+        "value": 0.0
       }
     ]
   },
@@ -798,7 +812,7 @@
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.263,
-        "rating": 19
+        "rating": 20
       },
       {
         "key": "production",
