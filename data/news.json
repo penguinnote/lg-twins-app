@@ -1,16 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-08-02T11:58:12",
-  "count": 45,
+  "updated": "2026-08-02T21:50:28",
+  "count": 11,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘40세 투수’에 혼쭐난 두산,  美 마이너 ‘더블 A 수준’도 안된다…한국프로야구 ‘민낯’ 본 기분",
+      "url": "https://n.news.naver.com/mnews/article/445/0000445098",
+      "datetime": "2026.08.03 06:46",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000445098"
+    },
+    {
+      "title": "아깝다! 퍼펙트… 데뷔전은 강렬했다",
+      "url": "https://n.news.naver.com/mnews/article/081/0003666890",
+      "datetime": "2026.08.03 05:05",
+      "office": "서울신문",
+      "oid": "081",
+      "aid": "0003666890"
+    },
+    {
+      "title": "'대박' LG 74구 퍼펙트 괴물 다음 등판 일정 나왔다! KIA전 선발 출격 확정, 사령탑 \"앞으로도 좋을 것\" 뒷이야기 공개",
+      "url": "https://n.news.naver.com/mnews/article/108/0003458753",
+      "datetime": "2026.08.03 03:33",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003458753"
+    },
+    {
+      "title": "\"퍼펙트게임 도전하는 투수를 조기 강판시키다니\"…'염갈량'이 카라스코 74구만에 내린 이유 [잠실 포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004432392",
+      "datetime": "2026.08.03 00:44",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004432392"
+    },
+    {
+      "title": "역대급 등장씬",
+      "url": "https://n.news.naver.com/mnews/article/025/0003541825",
+      "datetime": "2026.08.03 00:02",
+      "office": "중앙일보",
+      "oid": "025",
+      "aid": "0003541825"
+    },
     {
       "title": "4회 고비 못넘겼다 LG 톨허스트 4이닝 6실점 '안풀리네' [MD잠실]",
       "url": "https://n.news.naver.com/mnews/article/117/0004091067",
       "datetime": "2026.08.02 19:49",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004091067"
+      "aid": "0004091067",
+      "carried": true
     },
     {
       "title": "LG 톨허스트, 두산전 4이닝 6실점 부진…시즌 10승도 불발",
@@ -18,7 +59,8 @@
       "datetime": "2026.08.02 19:48",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009092814"
+      "aid": "0009092814",
+      "carried": true
     },
     {
       "title": "카라스코, LG 구세주 되나… 데뷔전 ‘7이닝 퍼펙트’",
@@ -26,7 +68,8 @@
       "datetime": "2026.08.02 19:11",
       "office": "세계일보",
       "oid": "022",
-      "aid": "0004147817"
+      "aid": "0004147817",
+      "carried": true
     },
     {
       "title": "‘박동원 못지않은 존재감’ LG 이주헌, 3경기 연속 타점… 이번엔 동점 투런포 쾅!",
@@ -34,7 +77,8 @@
       "datetime": "2026.08.02 18:57",
       "office": "스포츠월드",
       "oid": "396",
-      "aid": "0000751247"
+      "aid": "0000751247",
+      "carried": true
     },
     {
       "title": "[IS 잠실] '박동원 백업' LG 이주헌, 오늘은 동점 2점포 폭발...3경기 연속 장타",
@@ -42,7 +86,8 @@
       "datetime": "2026.08.02 18:47",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003523232"
+      "aid": "0003523232",
+      "carried": true
     },
     {
       "title": "'7이닝 퍼펙트' 이런 외인 복덩이 봤나...감독이 부탁하자 1이닝 더 던졌다 \"다음 등판은 80구\"",
@@ -50,324 +95,7 @@
       "datetime": "2026.08.02 18:45",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005582631"
-    },
-    {
-      "title": "데뷔전서 7이닝 퍼펙트…‘역대급 등장’ 카라스코, 8회 교체 이유는",
-      "url": "https://n.news.naver.com/mnews/article/025/0003541785",
-      "datetime": "2026.08.02 17:59",
-      "office": "중앙일보",
-      "oid": "025",
-      "aid": "0003541785"
-    },
-    {
-      "title": "\"카라스코 원래 60구 투구 요청\" 7이닝 74구 퍼펙트 →8회 칼교체 이유 있었다…\"7회 등판도 양해 구해\" 염갈량 해명 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002040906",
-      "datetime": "2026.08.02 17:55",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002040906"
-    },
-    {
-      "title": "LG 염경엽 감독 \"카라스코, 모든 구종 완벽하게 제구\"...KBO 데뷔전 호평",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200663",
-      "datetime": "2026.08.02 17:48",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200663"
-    },
-    {
-      "title": "\"카라스코 다음 등판 때는 80구\" 염경엽 LG 감독 '첫 등판 당초 계획은 6이닝' [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004091020",
-      "datetime": "2026.08.02 17:31",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004091020"
-    },
-    {
-      "title": "염경엽 LG 감독 \"카라스코, 모든 구종 커맨드 완벽한 게 장점\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016229437",
-      "datetime": "2026.08.02 17:27",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016229437"
-    },
-    {
-      "title": "염경엽 감독 “카라스코 설득해서 7회도 올린 것”[스경X현장]",
-      "url": "https://n.news.naver.com/mnews/article/144/0001129487",
-      "datetime": "2026.08.02 17:17",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001129487"
-    },
-    {
-      "title": "‘7이닝 퍼펙트’ 카라스코 데뷔전 지켜본 LG 염경엽 감독 “완벽한 커맨드가 장점, 다음 등판 투구수는 80개”",
-      "url": "https://n.news.naver.com/mnews/article/382/0001286189",
-      "datetime": "2026.08.02 17:15",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001286189"
-    },
-    {
-      "title": "‘74구 7이닝 퍼펙트’ 카라스코, 더 갈수도 있지 않았나…염갈량이 밝힌 ‘속사정’ [SS잠실in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257312",
-      "datetime": "2026.08.02 17:09",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257312"
-    },
-    {
-      "title": "“역시 ML 112승 투수” 염갈량도 카라스코 ‘완벽투’ 엄지 척… 8회는 생각도 없었다",
-      "url": "https://n.news.naver.com/mnews/article/396/0000751241",
-      "datetime": "2026.08.02 17:07",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000751241"
-    },
-    {
-      "title": "퍼펙트 중 내려간 카라스코…염경엽 감독 \"6회만 던진다는 것 사정해 올려\"",
-      "url": "https://n.news.naver.com/mnews/article/079/0004174650",
-      "datetime": "2026.08.02 17:07",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004174650"
-    },
-    {
-      "title": "한여름 가마솥 더위와 사투하는 KBO리그→'염갈량'도 혀 내둘렀다 \"나도 2년전 포항에서…\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004432277",
-      "datetime": "2026.08.02 17:02",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004432277"
-    },
-    {
-      "title": "아니 왜? LG 카라스코 퍼펙트 피칭 무산, 8회 74구 교체의 비밀이 밝혀졌다 [IS 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523220",
-      "datetime": "2026.08.02 17:00",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523220"
-    },
-    {
-      "title": "“6이닝만 던진다는 걸 사정해서 7회까지 던져달라고 했다” 74구 퍼펙트의 카라스코 교체, 염경엽이 전한 비하인드",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582579",
-      "datetime": "2026.08.02 16:58",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582579"
-    },
-    {
-      "title": "'7이닝 퍼펙트에도 승리 불발' LG 라인업 떴다. 문보경-박동원 또 제외...톨허스트 10승 도전",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582571",
-      "datetime": "2026.08.02 16:26",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582571"
-    },
-    {
-      "title": "아깝다 퍼펙트게임...LG 새 외인투수 카라스코, KBO리그 데뷔전서 사고칠 뻔",
-      "url": "https://n.news.naver.com/mnews/article/081/0003666756",
-      "datetime": "2026.08.02 14:38",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003666756"
-    },
-    {
-      "title": "승리 놓쳤지만 우승 꿈 다시 살아났다…카라스코가 LG에 던진 ‘긍정의 74구’",
-      "url": "https://n.news.naver.com/mnews/article/445/0000444920",
-      "datetime": "2026.08.02 14:38",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000444920"
-    },
-    {
-      "title": "퍼펙트 도전보다 반가운 것…카라스코가 증명한 ‘112승 클래스’",
-      "url": "https://n.news.naver.com/mnews/article/396/0000751226",
-      "datetime": "2026.08.02 14:31",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000751226"
-    },
-    {
-      "title": "7이닝 퍼펙트, LG 서른아홉 구세주 등장 확인...새 에이스 될까",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523186",
-      "datetime": "2026.08.02 13:45",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523186"
-    },
-    {
-      "title": "카라스코의 ‘퍼펙트 피칭’에 드러난 ‘한국야구의 민낯’ [김대호의 야구생각]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000521043",
-      "datetime": "2026.08.02 13:38",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000521043"
-    },
-    {
-      "title": "하루 2번이나 홈런성 타구, 오지환의 운수 없는 날…슈퍼 캐치에 잡히고, 파울 폴 살짝 벗어나고",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582529",
-      "datetime": "2026.08.02 13:14",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582529"
-    },
-    {
-      "title": "70개 정도만 던지랬더니… '7이닝 퍼펙트' LG 카라스코",
-      "url": "https://n.news.naver.com/mnews/article/469/0000945726",
-      "datetime": "2026.08.02 11:32",
-      "office": "한국일보",
-      "oid": "469",
-      "aid": "0000945726"
-    },
-    {
-      "title": "커쇼도 7이닝 80구 퍼펙트 교체됐는데...LG 카라스코 7이닝 74구 퍼펙트 교체 “만족한다\"",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582506",
-      "datetime": "2026.08.02 11:12",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582506"
-    },
-    {
-      "title": "‘ML 112승’ 베테랑 역시 달랐다, ‘7이닝 퍼펙트’ 강렬한 KBO 데뷔…LG 승부수 출발 좋다 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257254",
-      "datetime": "2026.08.02 11:08",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257254"
-    },
-    {
-      "title": "ML 112승 에이스 '퍼펙트 충격 데뷔전'에도 못 이겼다...LG를 어떻하면 좋을까",
-      "url": "https://n.news.naver.com/mnews/article/445/0000444666",
-      "datetime": "2026.08.02 08:57",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000444666"
-    },
-    {
-      "title": "'아니 벌써' 짐머맨, 제2의 벨라스케즈? 카라스코에게서는 톨허스트의 향기가",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200522",
-      "datetime": "2026.08.02 08:11",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200522"
-    },
-    {
-      "title": "LG 구세주 맞네…퍼펙트 교체 아쉬움 없고, 승리만 생각한다 “LG팬들 응원은 상상 이상, 잠실 주인 보여드리겠다”",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582451",
-      "datetime": "2026.08.02 06:45",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582451"
-    },
-    {
-      "title": "'살다살다 이런 블론세이브는 처음' 74구 퍼펙트가 물거품 됐다…LG 불펜, 카라스코 승리 날려, 염경엽 감독의 선택은 옳았나",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200517",
-      "datetime": "2026.08.02 04:59",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200517"
-    },
-    {
-      "title": "대체 왜 '7이닝 퍼펙트' 투수 교체했나→韓 첫 무대 압권 \"다음엔 꼭 잠실의 주인 모습을 보여드리겠다\" 패기 보소",
-      "url": "https://n.news.naver.com/mnews/article/108/0003458528",
-      "datetime": "2026.08.02 01:25",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003458528"
-    },
-    {
-      "title": "‘74구’ 7이닝 퍼펙트, 여러분이 감독이라면 교체했을까…최초 퍼펙트 대기록 도전이냐, KBO 데뷔전 몸 관리냐",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582425",
-      "datetime": "2026.08.02 01:21",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582425"
-    },
-    {
-      "title": "‘7이닝 퍼펙트’ 카라스코, 화려하게 KBO리그 데뷔 “다음엔 ‘잠실의 주인’ 모습 보여줄 것” [SS스타]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257212",
-      "datetime": "2026.08.02 00:50",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257212"
-    },
-    {
-      "title": "[IS 스타] '팔색조 투구로 7이닝 퍼펙트'...데뷔전 치른 카라스코 \"LG팬 응원 상상 이상\"",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523115",
-      "datetime": "2026.08.02 00:05",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523115"
-    },
-    {
-      "title": "“이게 짬에서 나오는 바이브?” 빅리그 112승의 ‘불혹 직전’ 카라스코, LG 데뷔전 7이닝 74구 퍼펙트…왜 8회엔 마운드에 오르지 않았나 [남정훈의 비욘드 더 그라운드]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147639",
-      "datetime": "2026.08.02 00:02",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004147639"
-    },
-    {
-      "title": "'10연패' 딛고 KS 9차전 끝장승부…LG가 닮아야 할 삼성의 대반전 [IS 서포터즈]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523114",
-      "datetime": "2026.08.02 00:01",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523114"
-    },
-    {
-      "title": "'7이닝 퍼펙트' LG 카라스코 \"투구 수 제한 있었기에 이걸로 만족\"(종합)",
-      "url": "https://n.news.naver.com/mnews/article/421/0009091970",
-      "datetime": "2026.08.01 23:33",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009091970",
-      "carried": true
-    },
-    {
-      "title": "MLB 112승의 위엄…LG 카라스코, 데뷔전 '7이닝 퍼펙트!'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004174533",
-      "datetime": "2026.08.01 23:18",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004174533",
-      "carried": true
-    },
-    {
-      "title": "LG, 두산과 연장 11회 접전 끝 2-2 무승부...카라스코는 데뷔전 7이닝 퍼펙트 완벽투",
-      "url": "https://n.news.naver.com/mnews/article/472/0000041039",
-      "datetime": "2026.08.01 23:11",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000041039",
-      "carried": true
-    },
-    {
-      "title": "'7이닝 74구 퍼펙트' LG 카라스코, 왜 교체 아쉬움 없다 했나 \"2주 쉬었다. 투구 수 제한하고 시작해 만족한다\"",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582395",
-      "datetime": "2026.08.01 23:01",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582395",
-      "carried": true
-    },
-    {
-      "title": "빅리그 112승 투수 LG 카라스코, 7이닝 퍼펙트 압도적 데뷔전",
-      "url": "https://n.news.naver.com/mnews/article/001/0016228509",
-      "datetime": "2026.08.01 22:32",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016228509",
-      "carried": true
-    },
-    {
-      "title": "'명품 투구 빛바랬다' LG·두산, 연장 끝에 2-2 무승부",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200340",
-      "datetime": "2026.08.01 22:02",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200340",
+      "aid": "0005582631",
       "carried": true
     }
   ]
