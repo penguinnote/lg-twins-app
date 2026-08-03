@@ -1,9 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-08-03T06:16:13",
-  "count": 21,
+  "updated": "2026-08-03T10:37:28",
+  "count": 27,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'톨허스트, 또 난타' 교체 카드도 없다...LG의 깊어진 고민",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200799",
+      "datetime": "2026.08.03 19:20",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200799"
+    },
+    {
+      "title": "'ERA 4.97' 26세 LG 예비역 좌완, 첫 2군행... 강민호 김진욱 등 7명 말소 (종합)",
+      "url": "https://n.news.naver.com/mnews/article/117/0004091373",
+      "datetime": "2026.08.03 19:00",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004091373"
+    },
+    {
+      "title": "선발 잔혹사 끊은 'MLB 112승'…'7이닝 퍼펙트'로 입증한 LG 반전 카드",
+      "url": "https://n.news.naver.com/mnews/article/079/0004175010",
+      "datetime": "2026.08.03 17:15",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004175010"
+    },
+    {
+      "title": "4월 소집해제된 LG 좌완 기대주, 결국 첫 2군행 통보",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523432",
+      "datetime": "2026.08.03 17:06",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523432"
+    },
+    {
+      "title": "2025시즌 톨허스트→2026시즌 카라스코, “선발이 살아나야 한다” LG의 8월 반등을 위한 필수 조건",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129667",
+      "datetime": "2026.08.03 16:28",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129667"
+    },
+    {
+      "title": "선발 부진에 후반기 흔들…카라스코, LG 구세주 될까",
+      "url": "https://n.news.naver.com/mnews/article/005/0001864652",
+      "datetime": "2026.08.03 15:44",
+      "office": "국민일보",
+      "oid": "005",
+      "aid": "0001864652"
+    },
     {
       "title": "MLB 112승 투수의 완벽 데뷔…LG 카라스코, 선발진 가뭄 속 '단비'",
       "url": "https://n.news.naver.com/mnews/article/003/0014105164",
