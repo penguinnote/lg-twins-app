@@ -290,5 +290,22 @@
     "fetched_at": "2026-08-02T23:53:19",
     "registered": [],
     "waived": []
+  },
+  {
+    "date": "2026-08-03",
+    "fetched_at": "2026-08-03T16:55:45",
+    "registered": [],
+    "waived": [
+      {
+        "name": "김민수",
+        "position": "포",
+        "team": "LG"
+      },
+      {
+        "name": "김윤식",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
