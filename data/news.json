@@ -1,16 +1,25 @@
 {
   "team": "LG",
-  "updated": "2026-08-03T13:36:35",
-  "count": 28,
+  "updated": "2026-08-03T16:18:38",
+  "count": 7,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'반등 흐름 안 보인다' LG의 깊어진 고민...뒤집는 힘이 사라졌다",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200808",
+      "datetime": "2026.08.04 00:35",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200808"
+    },
     {
       "title": "1위와 6G. 5위와 2.5G차. 이제 5위 걱정이 먼저. 엇박자 LG 돌파구는 있나[SC포커스]",
       "url": "https://n.news.naver.com/mnews/article/076/0004432644",
       "datetime": "2026.08.03 19:38",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004432644"
+      "aid": "0004432644",
+      "carried": true
     },
     {
       "title": "'톨허스트, 또 난타' 교체 카드도 없다...LG의 깊어진 고민",
@@ -18,7 +27,8 @@
       "datetime": "2026.08.03 19:20",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000200799"
+      "aid": "0000200799",
+      "carried": true
     },
     {
       "title": "'ERA 4.97' 26세 LG 예비역 좌완, 첫 2군행... 강민호 김진욱 등 7명 말소 (종합)",
@@ -26,7 +36,8 @@
       "datetime": "2026.08.03 19:00",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004091373"
+      "aid": "0004091373",
+      "carried": true
     },
     {
       "title": "선발 잔혹사 끊은 'MLB 112승'…'7이닝 퍼펙트'로 입증한 LG 반전 카드",
@@ -34,7 +45,8 @@
       "datetime": "2026.08.03 17:15",
       "office": "노컷뉴스",
       "oid": "079",
-      "aid": "0004175010"
+      "aid": "0004175010",
+      "carried": true
     },
     {
       "title": "4월 소집해제된 LG 좌완 기대주, 결국 첫 2군행 통보",
@@ -42,7 +54,8 @@
       "datetime": "2026.08.03 17:06",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003523432"
+      "aid": "0003523432",
+      "carried": true
     },
     {
       "title": "2025시즌 톨허스트→2026시즌 카라스코, “선발이 살아나야 한다” LG의 8월 반등을 위한 필수 조건",
@@ -50,188 +63,7 @@
       "datetime": "2026.08.03 16:28",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001129667"
-    },
-    {
-      "title": "선발 부진에 후반기 흔들…카라스코, LG 구세주 될까",
-      "url": "https://n.news.naver.com/mnews/article/005/0001864652",
-      "datetime": "2026.08.03 15:44",
-      "office": "국민일보",
-      "oid": "005",
-      "aid": "0001864652"
-    },
-    {
-      "title": "MLB 112승 투수의 완벽 데뷔…LG 카라스코, 선발진 가뭄 속 '단비'",
-      "url": "https://n.news.naver.com/mnews/article/003/0014105164",
-      "datetime": "2026.08.03 14:48",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014105164"
-    },
-    {
-      "title": "MLB 112승 투수 데려왔지만, LG '우승 청부사'의 석 달째 지속되는 여름 부진",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523391",
-      "datetime": "2026.08.03 14:14",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523391"
-    },
-    {
-      "title": "[뉴스in뉴스] LG 카라스코 7이닝 퍼펙트, 머나먼 KBO리그 퍼펙트 게임",
-      "url": "https://n.news.naver.com/mnews/article/056/0012230122",
-      "datetime": "2026.08.03 12:48",
-      "office": "KBS",
-      "oid": "056",
-      "aid": "0012230122"
-    },
-    {
-      "title": "천하의 출루왕 홍창기가 팀 내 삼진 1위라니... \"타구질 좋아졌다\"던 염경엽 기대 어디로",
-      "url": "https://n.news.naver.com/mnews/article/117/0004091264",
-      "datetime": "2026.08.03 11:43",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004091264"
-    },
-    {
-      "title": "'10G ERA 5.53' 1선발인데 웬 날벼락…150㎞가 잘 안나온다→커터 위력 저하 악순환 '늪' [SC포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004432523",
-      "datetime": "2026.08.03 11:21",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004432523"
-    },
-    {
-      "title": "‘악몽의 7월’ 지나갔는데 여전히 ‘한 방’이 없다···LG의 8월은 다를까",
-      "url": "https://n.news.naver.com/mnews/article/144/0001129605",
-      "datetime": "2026.08.03 11:09",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001129605"
-    },
-    {
-      "title": "'후반기 동네북 전락' LG, 선두 경쟁은커녕 3위도 '위태'",
-      "url": "https://n.news.naver.com/mnews/article/421/0009093630",
-      "datetime": "2026.08.03 11:01",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009093630"
-    },
-    {
-      "title": "[김기철의 스포츠 브레인] LG 카라스코, 완벽하게 던지고 웃지 못한 밤",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200775",
-      "datetime": "2026.08.03 10:32",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200775"
-    },
-    {
-      "title": "LG 우승 청부사였는데, 최다패 투수로 전락하다…‘제2의 켈리’를 꿈꿨는데 힘들겠다. 외국인 교체 횟수도 다 썼는데 어쩌나",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582968",
-      "datetime": "2026.08.03 09:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582968"
-    },
-    {
-      "title": "카라스코가 난타당하면 KBO는 메이저급인가…74구 퍼펙트로 리그 수준 재단할 수 없는 이유",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200774",
-      "datetime": "2026.08.03 09:41",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200774"
-    },
-    {
-      "title": "‘40세 투수’에 혼쭐난 두산,  美 마이너 ‘더블 A 수준’도 안된다…한국프로야구 ‘민낯’ 본 기분",
-      "url": "https://n.news.naver.com/mnews/article/445/0000445098",
-      "datetime": "2026.08.03 06:46",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000445098"
-    },
-    {
-      "title": "아깝다! 퍼펙트… 데뷔전은 강렬했다",
-      "url": "https://n.news.naver.com/mnews/article/081/0003666890",
-      "datetime": "2026.08.03 05:05",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003666890"
-    },
-    {
-      "title": "'대박' LG 74구 퍼펙트 괴물 다음 등판 일정 나왔다! KIA전 선발 출격 확정, 사령탑 \"앞으로도 좋을 것\" 뒷이야기 공개",
-      "url": "https://n.news.naver.com/mnews/article/108/0003458753",
-      "datetime": "2026.08.03 03:33",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003458753"
-    },
-    {
-      "title": "\"퍼펙트게임 도전하는 투수를 조기 강판시키다니\"…'염갈량'이 카라스코 74구만에 내린 이유 [잠실 포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004432392",
-      "datetime": "2026.08.03 00:44",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004432392"
-    },
-    {
-      "title": "역대급 등장씬",
-      "url": "https://n.news.naver.com/mnews/article/025/0003541825",
-      "datetime": "2026.08.03 00:02",
-      "office": "중앙일보",
-      "oid": "025",
-      "aid": "0003541825"
-    },
-    {
-      "title": "4회 고비 못넘겼다 LG 톨허스트 4이닝 6실점 '안풀리네' [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004091067",
-      "datetime": "2026.08.02 19:49",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004091067",
-      "carried": true
-    },
-    {
-      "title": "LG 톨허스트, 두산전 4이닝 6실점 부진…시즌 10승도 불발",
-      "url": "https://n.news.naver.com/mnews/article/421/0009092814",
-      "datetime": "2026.08.02 19:48",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009092814",
-      "carried": true
-    },
-    {
-      "title": "카라스코, LG 구세주 되나… 데뷔전 ‘7이닝 퍼펙트’",
-      "url": "https://n.news.naver.com/mnews/article/022/0004147817",
-      "datetime": "2026.08.02 19:11",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004147817",
-      "carried": true
-    },
-    {
-      "title": "‘박동원 못지않은 존재감’ LG 이주헌, 3경기 연속 타점… 이번엔 동점 투런포 쾅!",
-      "url": "https://n.news.naver.com/mnews/article/396/0000751247",
-      "datetime": "2026.08.02 18:57",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000751247",
-      "carried": true
-    },
-    {
-      "title": "[IS 잠실] '박동원 백업' LG 이주헌, 오늘은 동점 2점포 폭발...3경기 연속 장타",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523232",
-      "datetime": "2026.08.02 18:47",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523232",
-      "carried": true
-    },
-    {
-      "title": "'7이닝 퍼펙트' 이런 외인 복덩이 봤나...감독이 부탁하자 1이닝 더 던졌다 \"다음 등판은 80구\"",
-      "url": "https://n.news.naver.com/mnews/article/109/0005582631",
-      "datetime": "2026.08.02 18:45",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005582631",
+      "aid": "0001129667",
       "carried": true
     }
   ]
