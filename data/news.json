@@ -1,9 +1,49 @@
 {
   "team": "LG",
-  "updated": "2026-08-02T21:50:28",
-  "count": 11,
+  "updated": "2026-08-03T02:19:57",
+  "count": 16,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘악몽의 7월’ 지나갔는데 여전히 ‘한 방’이 없다···LG의 8월은 다를까",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129605",
+      "datetime": "2026.08.03 11:09",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129605"
+    },
+    {
+      "title": "'후반기 동네북 전락' LG, 선두 경쟁은커녕 3위도 '위태'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009093630",
+      "datetime": "2026.08.03 11:01",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009093630"
+    },
+    {
+      "title": "[김기철의 스포츠 브레인] LG 카라스코, 완벽하게 던지고 웃지 못한 밤",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200775",
+      "datetime": "2026.08.03 10:32",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200775"
+    },
+    {
+      "title": "LG 우승 청부사였는데, 최다패 투수로 전락하다…‘제2의 켈리’를 꿈꿨는데 힘들겠다. 외국인 교체 횟수도 다 썼는데 어쩌나",
+      "url": "https://n.news.naver.com/mnews/article/109/0005582968",
+      "datetime": "2026.08.03 09:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005582968"
+    },
+    {
+      "title": "카라스코가 난타당하면 KBO는 메이저급인가…74구 퍼펙트로 리그 수준 재단할 수 없는 이유",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200774",
+      "datetime": "2026.08.03 09:41",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200774"
+    },
     {
       "title": "‘40세 투수’에 혼쭐난 두산,  美 마이너 ‘더블 A 수준’도 안된다…한국프로야구 ‘민낯’ 본 기분",
       "url": "https://n.news.naver.com/mnews/article/445/0000445098",
