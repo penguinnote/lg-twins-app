@@ -1,9 +1,145 @@
 {
   "team": "LG",
-  "updated": "2026-08-04T07:33:36",
-  "count": 23,
+  "updated": "2026-08-04T10:32:00",
+  "count": 40,
   "carried_count": 6,
   "items": [
+    {
+      "title": "6월엔 2.88, 7월엔 7.20...LG 웰스에게 무슨 일이 있었나",
+      "url": "https://n.news.naver.com/mnews/article/425/0000200842",
+      "datetime": "2026.08.04 19:22",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000200842"
+    },
+    {
+      "title": "[한번에쓱] 1회말 전의산에 투런포 허용 '랜더스전 선발나선' LG 웰스",
+      "url": "https://n.news.naver.com/mnews/article/108/0003459231",
+      "datetime": "2026.08.04 19:01",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003459231"
+    },
+    {
+      "title": "'충격, ERA 10.93' 호주서 온 亞쿼터, 44일 만에 6승 가능한가…\"전력 분석 파트에서 이야기했을 것, 김민준 발전 가능성↑\" [MD인천]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004091673",
+      "datetime": "2026.08.04 19:01",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004091673"
+    },
+    {
+      "title": "'후반기 추락' 톨허스트-웰스 동반 부진, 왜 이유가 뭘까...염경엽이 언급한 문제",
+      "url": "https://n.news.naver.com/mnews/article/109/0005583481",
+      "datetime": "2026.08.04 18:44",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005583481"
+    },
+    {
+      "title": "\"상대가 웰스를 읽었다\"…LG 염경엽 감독의 진단→\"데이터는 정상, 피칭 디자인 바꿔야 한다\" [인천 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002041557",
+      "datetime": "2026.08.04 18:34",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002041557"
+    },
+    {
+      "title": "위기의 LG, 염경엽 정면 돌파… 홍창기 1번 재신임, 천성호 콜업 후 전격 선발 출전",
+      "url": "https://n.news.naver.com/mnews/article/477/0000621926",
+      "datetime": "2026.08.04 18:32",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000621926"
+    },
+    {
+      "title": "“LG 다시 좋은 경기 하려면…” 염갈량이 꼽은 포인트는 역시 ‘선발’, “선발 안정 첫 번째” [SS문학in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001257819",
+      "datetime": "2026.08.04 17:57",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001257819"
+    },
+    {
+      "title": "‘후반기 ERA 6.88’ LG 염경엽 감독 “톨허스트, 결국 공격을 해야 이길 수 있다”",
+      "url": "https://n.news.naver.com/mnews/article/382/0001286588",
+      "datetime": "2026.08.04 17:56",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001286588"
+    },
+    {
+      "title": "후반기 승률 0.214 그친 LG…염경엽 감독 \"선발 투수가 살아나야\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014108319",
+      "datetime": "2026.08.04 17:54",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014108319"
+    },
+    {
+      "title": "7월 ‘패패패’ 웰스, 염경엽 감독 “데이터상 문제없어···피칭 디자인 바꿀 필요 있다”[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001129890",
+      "datetime": "2026.08.04 17:53",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001129890"
+    },
+    {
+      "title": "'8승 1패' SSG 만나는 염경엽 \"야구 몰라요, 정말 어렵다\"... 김윤식 1군 말소, 선발 라인업 공개 [인천 현장]",
+      "url": "https://n.news.naver.com/mnews/article/108/0003459213",
+      "datetime": "2026.08.04 17:51",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003459213"
+    },
+    {
+      "title": "염경엽 LG 감독 \"웰스, 데이터는 문제없어…피칭 디자인 바꿔야\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016233695",
+      "datetime": "2026.08.04 17:45",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016233695"
+    },
+    {
+      "title": "박동원 ‘하루 더’ 쉬어 간다→‘감 좋은’ 이주헌 8번타자 출격, LG 선발 라인업 발표  [SS문학in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001257813",
+      "datetime": "2026.08.04 17:38",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001257813"
+    },
+    {
+      "title": "3억 몸값 가성비 최강 아쿼, 충격의 6-6-5실점...염경엽 감독은 \"휴식 없다\" 왜? [인천 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004432903",
+      "datetime": "2026.08.04 17:35",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004432903"
+    },
+    {
+      "title": "'후반기 승률 최하위' LG, 'SSG 킬러' 면모 이어가며 분위기 반전 이룰까…최근 5경기 ERA 7.20 웰스 반등 절실 [인천 라인업]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002041541",
+      "datetime": "2026.08.04 17:29",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002041541"
+    },
+    {
+      "title": "'LG 파격 라인업' 문보경-박동원 또또 선발 빠졌다...천성호 1군 콜업→3루수 출장",
+      "url": "https://n.news.naver.com/mnews/article/109/0005583449",
+      "datetime": "2026.08.04 17:03",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005583449"
+    },
+    {
+      "title": "'패무패' LG 라인업 떴다! 박동원-문보경 빠졌다, 천성호-백승현 1군 등록…호주에서 온 亞쿼터 44일 만에 6승 도전 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004091641",
+      "datetime": "2026.08.04 17:01",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004091641"
+    },
     {
       "title": "[SW인터뷰] “실패 두려워 않고 집중…” LG 문정빈, 기회 잡은 하위 라운더의 반전",
       "url": "https://n.news.naver.com/mnews/article/396/0000751394",
