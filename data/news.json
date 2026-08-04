@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-04T04:08:20",
-  "count": 20,
+  "updated": "2026-08-04T07:33:36",
+  "count": 23,
   "carried_count": 6,
   "items": [
+    {
+      "title": "[SW인터뷰] “실패 두려워 않고 집중…” LG 문정빈, 기회 잡은 하위 라운더의 반전",
+      "url": "https://n.news.naver.com/mnews/article/396/0000751394",
+      "datetime": "2026.08.04 13:51",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000751394"
+    },
+    {
+      "title": "‘1위→최하위’ ERA 1.79→6.14 추락…LG 아시아쿼터, 20만 달러 몸값 다했지만 언제 반등할까",
+      "url": "https://n.news.naver.com/mnews/article/109/0005583389",
+      "datetime": "2026.08.04 13:19",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005583389"
+    },
+    {
+      "title": "홍창기·문보경·신민재·오지환·박동원…주전 ‘집단 와르르’, 수습책 안 보이는 ‘챔피언’ [SS포커스]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001257743",
+      "datetime": "2026.08.04 13:08",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001257743"
+    },
     {
       "title": "'삼진 급증에 발목' LG 홍창기, 부진 속 부활이 절실하다",
       "url": "https://n.news.naver.com/mnews/article/425/0000200822",
