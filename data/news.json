@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-08-04T12:56:43",
+  "updated": "2026-08-04T15:23:53",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "[한번에쓱] '감독님, 야구 아직 안끝났습니다!' 6-9로 추격하는 스리런홈런 이재원",
+      "url": "https://n.news.naver.com/mnews/article/108/0003459304",
+      "datetime": "2026.08.04 22:32",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003459304"
+    },
+    {
+      "title": "'사람 잡는 폭염' 관중 인명 사고 날 뻔 했다...LG-SSG전, 관중 온열 질환 발생→CPR로 의식 회복",
+      "url": "https://n.news.naver.com/mnews/article/109/0005583693",
+      "datetime": "2026.08.04 22:23",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005583693"
+    },
+    {
+      "title": "염경엽 승부수였나 모험수였나, 왜 투수 교체가 없었을까… 이게 LG의 현실, 3위도 위태롭다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000621965",
+      "datetime": "2026.08.04 22:20",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000621965"
+    },
+    {
+      "title": "'충격의 연속' LG의 7회와 8회, 도대체 무슨 일이...또 졌다, 8승1패 팀에게 [인천 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004433070",
+      "datetime": "2026.08.04 22:18",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004433070"
+    },
     {
       "title": "잠실 빅보이 터졌다, 무려 1460일 만에 대타 홈런…LG 아직 안 끝났다 [MD인천]",
       "url": "https://n.news.naver.com/mnews/article/117/0004091756",
@@ -298,7 +330,8 @@
       "datetime": "2026.08.04 12:25",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000200822"
+      "aid": "0000200822",
+      "carried": true
     },
     {
       "title": "LG와 kt, 데칼코마니처럼 바뀐 후반기 성적",
@@ -306,7 +339,8 @@
       "datetime": "2026.08.04 12:08",
       "office": "서울신문",
       "oid": "081",
-      "aid": "0003667374"
+      "aid": "0003667374",
+      "carried": true
     },
     {
       "title": "‘ML 다승왕’ 합류는 반갑지만…흔들리는 LG ‘우승 청부사’, 반등 절실하다 [SS시선집중]",
@@ -314,7 +348,8 @@
       "datetime": "2026.08.04 11:48",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001257702"
+      "aid": "0001257702",
+      "carried": true
     },
     {
       "title": "'타율 1할대' 추락에도…염경엽 감독이 오지환을 '빼지 못하는 이유'",
@@ -322,7 +357,8 @@
       "datetime": "2026.08.04 11:13",
       "office": "노컷뉴스",
       "oid": "079",
-      "aid": "0004175209"
+      "aid": "0004175209",
+      "carried": true
     },
     {
       "title": "LG에도 ‘붙박이 주전’은 없다···타선 세대교체는 현재진행중",
@@ -340,42 +376,6 @@
       "office": "스포츠서울",
       "oid": "468",
       "aid": "0001257667",
-      "carried": true
-    },
-    {
-      "title": "홈런,타점,장타율,다승,세이브,홀드... 후반기 추락에 트로피도 줄어들고 있다. LG가 가져갈 타이틀은 몇개?",
-      "url": "https://n.news.naver.com/mnews/article/076/0004432750",
-      "datetime": "2026.08.04 09:59",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004432750",
-      "carried": true
-    },
-    {
-      "title": "‘후반기 3승 1무 11패’ 주춤하고 있는 LG, 이번 주 반등하며 강팀 위용 되찾을까 [MK포커스]",
-      "url": "https://n.news.naver.com/mnews/article/410/0001135100",
-      "datetime": "2026.08.04 09:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001135100",
-      "carried": true
-    },
-    {
-      "title": "LG 최초 100승 눈앞인데…'퍼펙트 투수' 빅리거 특강, 첫 수강생 등록! 임찬규의 배움은 끝이 없다",
-      "url": "https://n.news.naver.com/mnews/article/076/0004432711",
-      "datetime": "2026.08.04 08:00",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004432711",
-      "carried": true
-    },
-    {
-      "title": "“모든 구종 커맨드 완벽한 게 장점”…‘데뷔전서 74구로 7이닝 퍼펙트’ 카라스코, 위기의 LG 구할까",
-      "url": "https://n.news.naver.com/mnews/article/410/0001135081",
-      "datetime": "2026.08.04 07:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001135081",
       "carried": true
     }
   ]
