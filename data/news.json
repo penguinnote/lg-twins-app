@@ -1,16 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-08-04T15:23:53",
-  "count": 46,
+  "updated": "2026-08-04T22:07:12",
+  "count": 11,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'10승 투수' 2명…'역대 최소 승리' 다승왕 나올까",
+      "url": "https://n.news.naver.com/mnews/article/421/0009097375",
+      "datetime": "2026.08.05 06:13",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009097375"
+    },
+    {
+      "title": "'샐러리캡 폭발' 걱정했던 LG, FA 대어들이 알아서 몸값 디스카운트? 웃지 못할 현실",
+      "url": "https://n.news.naver.com/mnews/article/477/0000621988",
+      "datetime": "2026.08.05 06:00",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000621988"
+    },
+    {
+      "title": "이러다 5위까지 떨어질 수도...'충격의 후반기' 염경엽 감독은 뭐가 문제인지 안다",
+      "url": "https://n.news.naver.com/mnews/article/076/0004433113",
+      "datetime": "2026.08.05 05:07",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004433113"
+    },
+    {
+      "title": "'대충격' LG 우승 청부사가 韓 최다패 1위라니…염갈량 한탄 \"안 좋은 걸 반복하고 있다, 수석코치가 피드백 전달했다\"",
+      "url": "https://n.news.naver.com/mnews/article/117/0004091812",
+      "datetime": "2026.08.05 04:41",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004091812"
+    },
+    {
+      "title": "‘1이닝-休-1이닝-休-4이닝’ 왜 71구까지 놔뒀을까…두 박자 느린 LG 벤치의 아쉬운 투수 교체",
+      "url": "https://n.news.naver.com/mnews/article/109/0005583737",
+      "datetime": "2026.08.05 01:13",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005583737"
+    },
     {
       "title": "[한번에쓱] '감독님, 야구 아직 안끝났습니다!' 6-9로 추격하는 스리런홈런 이재원",
       "url": "https://n.news.naver.com/mnews/article/108/0003459304",
       "datetime": "2026.08.04 22:32",
       "office": "스타뉴스",
       "oid": "108",
-      "aid": "0003459304"
+      "aid": "0003459304",
+      "carried": true
     },
     {
       "title": "'사람 잡는 폭염' 관중 인명 사고 날 뻔 했다...LG-SSG전, 관중 온열 질환 발생→CPR로 의식 회복",
@@ -18,7 +59,8 @@
       "datetime": "2026.08.04 22:23",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005583693"
+      "aid": "0005583693",
+      "carried": true
     },
     {
       "title": "염경엽 승부수였나 모험수였나, 왜 투수 교체가 없었을까… 이게 LG의 현실, 3위도 위태롭다",
@@ -26,7 +68,8 @@
       "datetime": "2026.08.04 22:20",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000621965"
+      "aid": "0000621965",
+      "carried": true
     },
     {
       "title": "'충격의 연속' LG의 7회와 8회, 도대체 무슨 일이...또 졌다, 8승1패 팀에게 [인천 현장]",
@@ -34,7 +77,8 @@
       "datetime": "2026.08.04 22:18",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004433070"
+      "aid": "0004433070",
+      "carried": true
     },
     {
       "title": "잠실 빅보이 터졌다, 무려 1460일 만에 대타 홈런…LG 아직 안 끝났다 [MD인천]",
@@ -42,7 +86,8 @@
       "datetime": "2026.08.04 21:31",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004091756"
+      "aid": "0004091756",
+      "carried": true
     },
     {
       "title": "LG 웰스, 타구에 종아리 맞고 조기 강판…2⅔이닝 2실점",
@@ -50,332 +95,7 @@
       "datetime": "2026.08.04 20:54",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009097179"
-    },
-    {
-      "title": "LG 선발 라클란 웰스, 박성한 타구에 종아리 맞고 조기 강판...병원 검진 계획은 없어",
-      "url": "https://n.news.naver.com/mnews/article/472/0000041066",
-      "datetime": "2026.08.04 20:50",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000041066"
-    },
-    {
-      "title": "LG 아시아 쿼터 웰스, 경기 도중 종아리에 타구 맞고 조기강판 불운",
-      "url": "https://n.news.naver.com/mnews/article/241/0003523657",
-      "datetime": "2026.08.04 20:16",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003523657"
-    },
-    {
-      "title": "'아뿔싸' LG 亞쿼터, 박성한 강습타구 맞고 교체…병원은 안 간다 \"우측 장딴지 타박, 검진 계획 없다\" [MD인천]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004091723",
-      "datetime": "2026.08.04 20:01",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004091723"
-    },
-    {
-      "title": "'염갈량의 선택' 적중! 천성호, 1군 복귀전서 동점 솔로포 폭발…LG, 초반 열세 딛고 2-2 균형 [인천 라이브]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002041589",
-      "datetime": "2026.08.04 19:58",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002041589"
-    },
-    {
-      "title": "[한번에쓱] 야구 이제 시작이지! '2-2 균형맞추는 솔로홈런' LG 천성호",
-      "url": "https://n.news.naver.com/mnews/article/108/0003459264",
-      "datetime": "2026.08.04 19:57",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003459264"
-    },
-    {
-      "title": "'LG 악재' 선발 투수 부상 교체, 3회 타구에 장딴지 강타...\"아이싱, 병원 검진 계획은 없다\"",
-      "url": "https://n.news.naver.com/mnews/article/109/0005583536",
-      "datetime": "2026.08.04 19:51",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005583536"
-    },
-    {
-      "title": "장딴지에 타구 맞은 LG 웰스, 3회 도중 조기강판…“아이싱 치료 진행 중”",
-      "url": "https://n.news.naver.com/mnews/article/382/0001286597",
-      "datetime": "2026.08.04 19:47",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001286597"
-    },
-    {
-      "title": "'LG 어쩌나' 웰스, 2⅔이닝 조기 강판…전의산에 선제 투런포 허용→박성한 타구 종아리 직격 '악재' [인천 라이브]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002041580",
-      "datetime": "2026.08.04 19:46",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002041580"
-    },
-    {
-      "title": "안 풀리는 LG…선발 웰스, 타구에 종아리 맞고 조기 강판",
-      "url": "https://n.news.naver.com/mnews/article/001/0016233770",
-      "datetime": "2026.08.04 19:44",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016233770"
-    },
-    {
-      "title": "'타구 강타' LG 웰스, 3회 만에 전격 교체... '불펜 과부하 우려' LG 악재 맞았다 [인천 현장]",
-      "url": "https://n.news.naver.com/mnews/article/108/0003459245",
-      "datetime": "2026.08.04 19:44",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003459245"
-    },
-    {
-      "title": "가뜩이나 안 풀리는 LG, 3회부터 비상사태… 웰스 타구 맞고 교체, 운도 이렇게 없나",
-      "url": "https://n.news.naver.com/mnews/article/477/0000621938",
-      "datetime": "2026.08.04 19:44",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000621938"
-    },
-    {
-      "title": "LG 웰스, 3회 도중 타구에 맞아 교체…\"오른 종아리 타박상\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014108376",
-      "datetime": "2026.08.04 19:43",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014108376"
-    },
-    {
-      "title": "LG, 지독히도 안 풀린다…亞쿼터 웰스, 경기 중 타구 맞아 교체 “병원 검진 계획 無” [SS메디컬체크]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257838",
-      "datetime": "2026.08.04 19:41",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257838"
-    },
-    {
-      "title": "'하, 안 풀리네' 갈 길 바쁜 LG 대형 악재...웰스, 타구 맞고 긴급 교체 [인천 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004432971",
-      "datetime": "2026.08.04 19:33",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004432971"
-    },
-    {
-      "title": "6월엔 2.88, 7월엔 7.20...LG 웰스에게 무슨 일이 있었나",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200842",
-      "datetime": "2026.08.04 19:22",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200842"
-    },
-    {
-      "title": "[한번에쓱] 1회말 전의산에 투런포 허용 '랜더스전 선발나선' LG 웰스",
-      "url": "https://n.news.naver.com/mnews/article/108/0003459231",
-      "datetime": "2026.08.04 19:01",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003459231"
-    },
-    {
-      "title": "'충격, ERA 10.93' 호주서 온 亞쿼터, 44일 만에 6승 가능한가…\"전력 분석 파트에서 이야기했을 것, 김민준 발전 가능성↑\" [MD인천]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004091673",
-      "datetime": "2026.08.04 19:01",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004091673"
-    },
-    {
-      "title": "'후반기 추락' 톨허스트-웰스 동반 부진, 왜 이유가 뭘까...염경엽이 언급한 문제",
-      "url": "https://n.news.naver.com/mnews/article/109/0005583481",
-      "datetime": "2026.08.04 18:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005583481"
-    },
-    {
-      "title": "\"상대가 웰스를 읽었다\"…LG 염경엽 감독의 진단→\"데이터는 정상, 피칭 디자인 바꿔야 한다\" [인천 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002041557",
-      "datetime": "2026.08.04 18:34",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002041557"
-    },
-    {
-      "title": "위기의 LG, 염경엽 정면 돌파… 홍창기 1번 재신임, 천성호 콜업 후 전격 선발 출전",
-      "url": "https://n.news.naver.com/mnews/article/477/0000621926",
-      "datetime": "2026.08.04 18:32",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000621926"
-    },
-    {
-      "title": "“LG 다시 좋은 경기 하려면…” 염갈량이 꼽은 포인트는 역시 ‘선발’, “선발 안정 첫 번째” [SS문학in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257819",
-      "datetime": "2026.08.04 17:57",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257819"
-    },
-    {
-      "title": "‘후반기 ERA 6.88’ LG 염경엽 감독 “톨허스트, 결국 공격을 해야 이길 수 있다”",
-      "url": "https://n.news.naver.com/mnews/article/382/0001286588",
-      "datetime": "2026.08.04 17:56",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001286588"
-    },
-    {
-      "title": "후반기 승률 0.214 그친 LG…염경엽 감독 \"선발 투수가 살아나야\"",
-      "url": "https://n.news.naver.com/mnews/article/003/0014108319",
-      "datetime": "2026.08.04 17:54",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014108319"
-    },
-    {
-      "title": "7월 ‘패패패’ 웰스, 염경엽 감독 “데이터상 문제없어···피칭 디자인 바꿀 필요 있다”[스경X현장]",
-      "url": "https://n.news.naver.com/mnews/article/144/0001129890",
-      "datetime": "2026.08.04 17:53",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001129890"
-    },
-    {
-      "title": "'8승 1패' SSG 만나는 염경엽 \"야구 몰라요, 정말 어렵다\"... 김윤식 1군 말소, 선발 라인업 공개 [인천 현장]",
-      "url": "https://n.news.naver.com/mnews/article/108/0003459213",
-      "datetime": "2026.08.04 17:51",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003459213"
-    },
-    {
-      "title": "염경엽 LG 감독 \"웰스, 데이터는 문제없어…피칭 디자인 바꿔야\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016233695",
-      "datetime": "2026.08.04 17:45",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016233695"
-    },
-    {
-      "title": "박동원 ‘하루 더’ 쉬어 간다→‘감 좋은’ 이주헌 8번타자 출격, LG 선발 라인업 발표  [SS문학in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257813",
-      "datetime": "2026.08.04 17:38",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257813"
-    },
-    {
-      "title": "3억 몸값 가성비 최강 아쿼, 충격의 6-6-5실점...염경엽 감독은 \"휴식 없다\" 왜? [인천 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004432903",
-      "datetime": "2026.08.04 17:35",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004432903"
-    },
-    {
-      "title": "'후반기 승률 최하위' LG, 'SSG 킬러' 면모 이어가며 분위기 반전 이룰까…최근 5경기 ERA 7.20 웰스 반등 절실 [인천 라인업]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002041541",
-      "datetime": "2026.08.04 17:29",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002041541"
-    },
-    {
-      "title": "'LG 파격 라인업' 문보경-박동원 또또 선발 빠졌다...천성호 1군 콜업→3루수 출장",
-      "url": "https://n.news.naver.com/mnews/article/109/0005583449",
-      "datetime": "2026.08.04 17:03",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005583449"
-    },
-    {
-      "title": "'패무패' LG 라인업 떴다! 박동원-문보경 빠졌다, 천성호-백승현 1군 등록…호주에서 온 亞쿼터 44일 만에 6승 도전 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004091641",
-      "datetime": "2026.08.04 17:01",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004091641"
-    },
-    {
-      "title": "[SW인터뷰] “실패 두려워 않고 집중…” LG 문정빈, 기회 잡은 하위 라운더의 반전",
-      "url": "https://n.news.naver.com/mnews/article/396/0000751394",
-      "datetime": "2026.08.04 13:51",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000751394"
-    },
-    {
-      "title": "‘1위→최하위’ ERA 1.79→6.14 추락…LG 아시아쿼터, 20만 달러 몸값 다했지만 언제 반등할까",
-      "url": "https://n.news.naver.com/mnews/article/109/0005583389",
-      "datetime": "2026.08.04 13:19",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005583389"
-    },
-    {
-      "title": "홍창기·문보경·신민재·오지환·박동원…주전 ‘집단 와르르’, 수습책 안 보이는 ‘챔피언’ [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257743",
-      "datetime": "2026.08.04 13:08",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257743"
-    },
-    {
-      "title": "'삼진 급증에 발목' LG 홍창기, 부진 속 부활이 절실하다",
-      "url": "https://n.news.naver.com/mnews/article/425/0000200822",
-      "datetime": "2026.08.04 12:25",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000200822",
-      "carried": true
-    },
-    {
-      "title": "LG와 kt, 데칼코마니처럼 바뀐 후반기 성적",
-      "url": "https://n.news.naver.com/mnews/article/081/0003667374",
-      "datetime": "2026.08.04 12:08",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003667374",
-      "carried": true
-    },
-    {
-      "title": "‘ML 다승왕’ 합류는 반갑지만…흔들리는 LG ‘우승 청부사’, 반등 절실하다 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257702",
-      "datetime": "2026.08.04 11:48",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257702",
-      "carried": true
-    },
-    {
-      "title": "'타율 1할대' 추락에도…염경엽 감독이 오지환을 '빼지 못하는 이유'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004175209",
-      "datetime": "2026.08.04 11:13",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004175209",
-      "carried": true
-    },
-    {
-      "title": "LG에도 ‘붙박이 주전’은 없다···타선 세대교체는 현재진행중",
-      "url": "https://n.news.naver.com/mnews/article/144/0001129800",
-      "datetime": "2026.08.04 10:42",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001129800",
-      "carried": true
-    },
-    {
-      "title": "고전 중인 ‘좌타 군단’ LG, ‘우타자’들이 힘내는 중…‘후반기 반등’ 위한 ‘핵심 열쇠’ [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001257667",
-      "datetime": "2026.08.04 10:37",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001257667",
+      "aid": "0009097179",
       "carried": true
     }
   ]
