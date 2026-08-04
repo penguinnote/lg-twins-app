@@ -2,15 +2,15 @@
   "playerId": "79365",
   "season": 2026,
   "is_pitcher": false,
-  "games": 88,
-  "updated": "2026-08-03T16:55:47",
+  "games": 89,
+  "updated": "2026-08-04T16:26:05",
   "totals": {
     "AB": 255,
     "H": 58,
     "2B": 11,
     "3B": 0,
     "HR": 11,
-    "BB": 40,
+    "BB": 41,
     "HBP": 4
   },
   "series": [
@@ -628,6 +628,13 @@
       "opp": "키움",
       "cum_avg": 0.227,
       "cum_ops": 0.741,
+      "site_cum_avg": "0.227"
+    },
+    {
+      "date": "2026-08-04",
+      "opp": "SSG",
+      "cum_avg": 0.227,
+      "cum_ops": 0.743,
       "site_cum_avg": "0.227"
     }
   ],
@@ -1267,6 +1274,13 @@
         "open": 99.989,
         "close": 94.406,
         "value": -1.1167
+      },
+      {
+        "date": "2026-08-04",
+        "opp": "SSG",
+        "open": 94.406,
+        "close": 95.885,
+        "value": 0.2958
       }
     ]
   },
@@ -1278,7 +1292,7 @@
         "key": "contact",
         "label": "컨택",
         "value": 0.227,
-        "rating": 20
+        "rating": 19
       },
       {
         "key": "power",
@@ -1289,8 +1303,8 @@
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.129,
-        "rating": 85
+        "value": 0.132,
+        "rating": 87
       },
       {
         "key": "speed",
@@ -1307,8 +1321,8 @@
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.333,
-        "rating": 59
+        "value": 0.334,
+        "rating": 60
       }
     ],
     "type": "hitter"

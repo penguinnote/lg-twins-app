@@ -307,5 +307,22 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-08-04",
+    "fetched_at": "2026-08-04T16:26:02",
+    "registered": [
+      {
+        "name": "백승현",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "천성호",
+        "position": "내",
+        "team": "LG"
+      }
+    ],
+    "waived": []
   }
 ]

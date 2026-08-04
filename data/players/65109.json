@@ -1,0 +1,249 @@
+{
+  "playerId": "65109",
+  "season": 2026,
+  "is_pitcher": true,
+  "games": 7,
+  "updated": "2026-08-04T16:27:08",
+  "totals": {
+    "IP": 5.667,
+    "R": 7,
+    "ER": 7,
+    "SO": 6,
+    "H": 6,
+    "HR": 2,
+    "BB": 4,
+    "W": 0,
+    "L": 0,
+    "SV": 0,
+    "HLD": 0
+  },
+  "pitching": [
+    {
+      "date": "2026-03-28",
+      "opp": "KT",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 6,
+      "H": 3,
+      "HR": 1,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 2,
+      "R": 3,
+      "ER": 3,
+      "era_cum": "27.00"
+    },
+    {
+      "date": "2026-03-31",
+      "opp": "KIA",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 4,
+      "H": 0,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 2,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "13.50"
+    },
+    {
+      "date": "2026-04-03",
+      "opp": "키움",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 3,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 2,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "9.00"
+    },
+    {
+      "date": "2026-05-19",
+      "opp": "KIA",
+      "role": "구원",
+      "result": "",
+      "IP": 0.667,
+      "TBF": 6,
+      "H": 2,
+      "HR": 1,
+      "BB": 2,
+      "HBP": 0,
+      "SO": 0,
+      "R": 4,
+      "ER": 4,
+      "era_cum": "17.18"
+    },
+    {
+      "date": "2026-05-22",
+      "opp": "키움",
+      "role": "구원",
+      "result": "",
+      "IP": 1.667,
+      "TBF": 6,
+      "H": 1,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "11.81"
+    },
+    {
+      "date": "2026-05-29",
+      "opp": "KIA",
+      "role": "구원",
+      "result": "",
+      "IP": 0.0,
+      "TBF": 0,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "11.81"
+    },
+    {
+      "date": "2026-08-04",
+      "opp": "SSG",
+      "role": "구원",
+      "result": "",
+      "IP": 0.333,
+      "TBF": 1,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "11.12"
+    }
+  ],
+  "coin": {
+    "base": 100.0,
+    "scale": 5.0,
+    "constants": {
+      "year": 2026,
+      "source": "v1-representative",
+      "w_BB": 0.69,
+      "w_HBP": 0.72,
+      "w_1B": 0.89,
+      "w_2B": 1.27,
+      "w_3B": 1.62,
+      "w_HR": 2.1,
+      "lgwOBA": 0.335,
+      "wOBA_scale": 1.2,
+      "run_SB": 0.2,
+      "run_CS": -0.42,
+      "lgRA9": 4.8,
+      "bonus_HLD": 0.3,
+      "bonus_SV": 0.5
+    },
+    "candles": [
+      {
+        "date": "2026-03-28",
+        "opp": "KT",
+        "open": 100.0,
+        "close": 87.666,
+        "value": -2.4667
+      },
+      {
+        "date": "2026-03-31",
+        "opp": "KIA",
+        "open": 87.666,
+        "close": 90.332,
+        "value": 0.5333
+      },
+      {
+        "date": "2026-04-03",
+        "opp": "키움",
+        "open": 90.332,
+        "close": 92.998,
+        "value": 0.5333
+      },
+      {
+        "date": "2026-05-19",
+        "opp": "KIA",
+        "open": 92.998,
+        "close": 74.776,
+        "value": -3.6443
+      },
+      {
+        "date": "2026-05-22",
+        "opp": "키움",
+        "open": 74.776,
+        "close": 79.221,
+        "value": 0.8891
+      },
+      {
+        "date": "2026-05-29",
+        "opp": "KIA",
+        "open": 79.221,
+        "close": 79.221,
+        "value": 0.0
+      },
+      {
+        "date": "2026-08-04",
+        "opp": "SSG",
+        "open": 79.221,
+        "close": 80.109,
+        "value": 0.1776
+      }
+    ]
+  },
+  "ratings": {
+    "OVR": 23,
+    "lowSample": true,
+    "axes": [
+      {
+        "key": "control",
+        "label": "제구",
+        "value": 6.35,
+        "rating": 15
+      },
+      {
+        "key": "strikeout",
+        "label": "탈삼진",
+        "value": 9.53,
+        "rating": 84
+      },
+      {
+        "key": "hits",
+        "label": "피안타억제",
+        "value": 0.273,
+        "rating": 36
+      },
+      {
+        "key": "homers",
+        "label": "장타억제",
+        "value": 3.18,
+        "rating": 0
+      },
+      {
+        "key": "innings",
+        "label": "이닝소화",
+        "value": 5.7,
+        "rating": 0
+      },
+      {
+        "key": "run_prevention",
+        "label": "실점억제",
+        "value": 7.79,
+        "rating": 1
+      }
+    ],
+    "type": "pitcher"
+  }
+}
