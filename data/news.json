@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-05T08:27:45",
-  "count": 20,
+  "updated": "2026-08-05T11:16:21",
+  "count": 23,
   "carried_count": 6,
   "items": [
+    {
+      "title": "한 이닝에 10실점-9실점-7실점, LG 마운드 왜 이러나",
+      "url": "https://n.news.naver.com/mnews/article/241/0003523926",
+      "datetime": "2026.08.05 19:49",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003523926"
+    },
+    {
+      "title": "한국시리즈 직행 확률 61.5% → 1.6%, '후반기 꼴찌' LG, 2년 연속 우승 미션 이번에도 실패하나",
+      "url": "https://n.news.naver.com/mnews/article/529/0000078092",
+      "datetime": "2026.08.05 18:38",
+      "office": "더게이트",
+      "oid": "529",
+      "aid": "0000078092"
+    },
+    {
+      "title": "'LG 희망' 문정빈 10홈런 폭발 뒤엔 염갈량의 타격 철학 있었다…\"10~25도 각도가 핵심, 배럴 타구는 여기서 나온다\" [인천 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002041921",
+      "datetime": "2026.08.05 17:31",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002041921"
+    },
     {
       "title": "안 풀려도 너무 안 풀리는 LG···선발진 줄줄이 쓰러지는데 “일단은 선발 야구”",
       "url": "https://n.news.naver.com/mnews/article/144/0001130075",
