@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-04T22:07:12",
-  "count": 11,
+  "updated": "2026-08-05T02:48:50",
+  "count": 14,
   "carried_count": 6,
   "items": [
+    {
+      "title": "\"웰스? 한 번 빼주면 돼, 그게 계획\" 지금 LG가 안 되는 것, 어디서부터 꼬였나",
+      "url": "https://n.news.naver.com/mnews/article/477/0000622030",
+      "datetime": "2026.08.05 10:57",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000622030"
+    },
+    {
+      "title": "후반기 ERA 10.26, 흔들리는 LG ‘복덩이 亞쿼터’…핵심은 체력 아닌, ‘피칭 디자인’ [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001257933",
+      "datetime": "2026.08.05 10:27",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001257933"
+    },
+    {
+      "title": "LG에 갑자기 거포가 탄생한 비결… 답답한 LG 타격의 소화제, 데이터 활용의 모범사례",
+      "url": "https://n.news.naver.com/mnews/article/477/0000622015",
+      "datetime": "2026.08.05 10:06",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000622015"
+    },
     {
       "title": "'10승 투수' 2명…'역대 최소 승리' 다승왕 나올까",
       "url": "https://n.news.naver.com/mnews/article/421/0009097375",
