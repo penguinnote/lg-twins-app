@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-08-05T05:41:28",
-  "count": 16,
+  "updated": "2026-08-05T08:27:45",
+  "count": 20,
   "carried_count": 6,
   "items": [
+    {
+      "title": "안 풀려도 너무 안 풀리는 LG···선발진 줄줄이 쓰러지는데 “일단은 선발 야구”",
+      "url": "https://n.news.naver.com/mnews/article/144/0001130075",
+      "datetime": "2026.08.05 16:01",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001130075"
+    },
+    {
+      "title": "공짜 찬스도 못얻어먹다니... 스스로 무너지는 선발을 도와준다? 마지막 피니시 블로가 없다[SC포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004433319",
+      "datetime": "2026.08.05 15:34",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004433319"
+    },
+    {
+      "title": "선발 무너지니 불펜도 와르르…'2연패' 노리던 LG, 어느새 '가을' 걱정",
+      "url": "https://n.news.naver.com/mnews/article/003/0014110234",
+      "datetime": "2026.08.05 15:19",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014110234"
+    },
+    {
+      "title": "손주영 보직 다시 바꿀 수도 없고… LG 7월 이후 꼴찌, 염경엽 최대 고민은 이것이다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000622093",
+      "datetime": "2026.08.05 15:18",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000622093"
+    },
     {
       "title": "‘집안싸움’ LG 김진성-우강훈 홀드왕 경쟁구도 지각변동, KT 스기모토-삼성 이승민 급부상 [SD 베이스볼 브레이크]",
       "url": "https://n.news.naver.com/mnews/article/382/0001286709",
