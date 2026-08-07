@@ -1,16 +1,25 @@
 {
   "team": "LG",
-  "updated": "2026-08-07T12:51:23",
-  "count": 31,
+  "updated": "2026-08-07T21:33:47",
+  "count": 7,
   "carried_count": 6,
   "items": [
+    {
+      "title": "후반기 추락 LG “반갑다 폭염 휴식”",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739408",
+      "datetime": "2026.08.08 01:41",
+      "office": "동아일보",
+      "oid": "020",
+      "aid": "0003739408"
+    },
     {
       "title": "“나 때문에 이렇게 된 것 같아서…” ‘1군 복귀’ 천성호의 미안함과 동기부여 “최선 다할 것” [SS잠실in]",
       "url": "https://n.news.naver.com/mnews/article/468/0001258483",
       "datetime": "2026.08.07 20:45",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001258483"
+      "aid": "0001258483",
+      "carried": true
     },
     {
       "title": "'팔꿈치 부상' 장현식 언제 돌아오나, 오는 10일 재검진 예정... 검사 결과에 촉각 [MD잠실]",
@@ -18,7 +27,8 @@
       "datetime": "2026.08.07 20:29",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004092815"
+      "aid": "0004092815",
+      "carried": true
     },
     {
       "title": "천성호→송찬의→문정빈 ‘21홈런 합작’…50억 FA 김현수 떠난 자리는 잘 메웠는데, '홍신문문오박' 언제 살아날까",
@@ -26,7 +36,8 @@
       "datetime": "2026.08.07 18:44",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005585034"
+      "aid": "0005585034",
+      "carried": true
     },
     {
       "title": "'11이닝 무실점' 키움 전준표·'20안타' LG 손용준, 프로야구 7월 퓨처스 루키상",
@@ -34,7 +45,8 @@
       "datetime": "2026.08.07 18:00",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000201317"
+      "aid": "0000201317",
+      "carried": true
     },
     {
       "title": "'폭염 브레이크' 맞이한 LG, 잠실서 기본기 중심 훈련 소화... 카라스코는 불펜 점검까지 [MD잠실]",
@@ -42,7 +54,8 @@
       "datetime": "2026.08.07 17:01",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004092756"
+      "aid": "0004092756",
+      "carried": true
     },
     {
       "title": "히어로즈 전준표·LG 손용준, 프로야구 7월 퓨처스 루키상 선정",
@@ -50,212 +63,7 @@
       "datetime": "2026.08.07 17:00",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009103037"
-    },
-    {
-      "title": "‘폭염’에 리그 멈췄지만…‘반등 절실’ LG의 훈련은 계속된다→반등 위한 ‘재정비’ 中 [SS잠실in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001258459",
-      "datetime": "2026.08.07 16:48",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001258459"
-    },
-    {
-      "title": "고양 전준표-LG 손용준, 7월 메디힐 ‘퓨처스 루키상’ 주인공",
-      "url": "https://n.news.naver.com/mnews/article/468/0001258458",
-      "datetime": "2026.08.07 16:38",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001258458"
-    },
-    {
-      "title": "후반기 승률 꼴찌 LG, ‘폭염 브레이크’로 분위기 반전 노린다",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739349",
-      "datetime": "2026.08.07 16:30",
-      "office": "동아일보",
-      "oid": "020",
-      "aid": "0003739349"
-    },
-    {
-      "title": "‘영웅과 쌍둥이 미래’ 전준표-손용준, 7월 메디힐 퓨처스 루키상 수상",
-      "url": "https://n.news.naver.com/mnews/article/396/0000751705",
-      "datetime": "2026.08.07 16:18",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000751705"
-    },
-    {
-      "title": "얼마나 잘했길래…'무실점 쾌투' 키움 전준표·'안타 제조기' LG 손용준, 7월 퓨처스 루키상",
-      "url": "https://n.news.naver.com/mnews/article/241/0003524259",
-      "datetime": "2026.08.07 16:12",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003524259"
-    },
-    {
-      "title": "키움 전준표·LG 손용준, 7월 메디힐 퓨처스 루키상 선정…손용준, 올해 2번째 수상 활약",
-      "url": "https://n.news.naver.com/mnews/article/109/0005584939",
-      "datetime": "2026.08.07 16:01",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005584939"
-    },
-    {
-      "title": "키움 전준표·LG 손용준, 7월 퓨처스 루키상 수상",
-      "url": "https://n.news.naver.com/mnews/article/003/0014114755",
-      "datetime": "2026.08.07 15:48",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014114755"
-    },
-    {
-      "title": "[오피셜]LG 손용준·고양 전준표, 7월 메디힐 퓨처스 루키상 수상…웃을 일 없는 1군에 단비같은 소식",
-      "url": "https://n.news.naver.com/mnews/article/445/0000446910",
-      "datetime": "2026.08.07 15:35",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000446910"
-    },
-    {
-      "title": "2026 퓨처스리그 월간 메디힐 퓨처스 루키상 7월 수상자…투수 고양 전준표, 타자 LG 손용준 선정",
-      "url": "https://n.news.naver.com/mnews/article/117/0004092713",
-      "datetime": "2026.08.07 15:11",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004092713"
-    },
-    {
-      "title": "투수 전준표·타자 손용준, 프로야구 7월 퓨처스 루키상 선정",
-      "url": "https://n.news.naver.com/mnews/article/001/0016239371",
-      "datetime": "2026.08.07 15:04",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016239371"
-    },
-    {
-      "title": "[오피셜] '7월 ERA 0.00 1위, 최다안타 20개 1위' 2026 퓨처스 루키상 수상자 공식발표",
-      "url": "https://n.news.naver.com/mnews/article/108/0003460089",
-      "datetime": "2026.08.07 15:04",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003460089"
-    },
-    {
-      "title": "키움 전준표-LG 손용준, 7월 퓨처스리그 최고 유망주 선정",
-      "url": "https://n.news.naver.com/mnews/article/018/0006346872",
-      "datetime": "2026.08.07 14:46",
-      "office": "이데일리",
-      "oid": "018",
-      "aid": "0006346872"
-    },
-    {
-      "title": "'157km 광속구' 전준표·'월간 20안타' 손용준, 7월 퓨처스 루키상 평정...손용준은 2개월 연속 수상",
-      "url": "https://n.news.naver.com/mnews/article/529/0000078113",
-      "datetime": "2026.08.07 14:37",
-      "office": "더게이트",
-      "oid": "529",
-      "aid": "0000078113"
-    },
-    {
-      "title": "LG ‘우타 기대주’서 ‘올해 히트상품’으로…‘폭풍 성장’ 문정빈, 비밀은 ‘타구 각도’에 있다 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001258408",
-      "datetime": "2026.08.07 12:08",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001258408"
-    },
-    {
-      "title": "날개 없이 추락하던 LG, '폭염 브레이크'에 한숨 돌렸다",
-      "url": "https://n.news.naver.com/mnews/article/421/0009102198",
-      "datetime": "2026.08.07 10:54",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009102198"
-    },
-    {
-      "title": "13승 외인 방출→11승 3선발 마무리→11승 5선발 부진…염경엽 한숨, LG 선발야구 살아날까",
-      "url": "https://n.news.naver.com/mnews/article/109/0005584712",
-      "datetime": "2026.08.07 07:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005584712"
-    },
-    {
-      "title": "'예상치 못한 엿새 여름방학' 후반기 3승 LG, '무너진 선발' 되살릴 마지막 기회될까",
-      "url": "https://n.news.naver.com/mnews/article/108/0003459978",
-      "datetime": "2026.08.07 07:42",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003459978"
-    },
-    {
-      "title": "LG 막내 포수 이주헌 “좌우 안가리고 재밌어…아직 팔팔합니다”",
-      "url": "https://n.news.naver.com/mnews/article/144/0001130425",
-      "datetime": "2026.08.07 02:00",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001130425"
-    },
-    {
-      "title": "시험대 오른 염경엽 야구…‘과대 포장’이냐, ‘진짜 명장’이냐 [김대호의 야구생각]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000522499",
-      "datetime": "2026.08.07 00:01",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000522499"
-    },
-    {
-      "title": "'4전 전승' LG 승리요정 트리플에스, 7일 잠실에 또 뜬다…라이즈는 8일 시구에 특별공연까지",
-      "url": "https://n.news.naver.com/mnews/article/109/0005584409",
-      "datetime": "2026.08.06 12:40",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005584409",
-      "carried": true
-    },
-    {
-      "title": "‘웰스 OK’ 후반기 무너진 LG 마운드, 폭염 휴식 이후 살아날까",
-      "url": "https://n.news.naver.com/mnews/article/382/0001286877",
-      "datetime": "2026.08.06 12:33",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001286877",
-      "carried": true
-    },
-    {
-      "title": "“충격의 충격이다”…장성호 해설위원, LG ‘이번 주 4위 추락’ 가능성 전망",
-      "url": "https://n.news.naver.com/mnews/article/445/0000446079",
-      "datetime": "2026.08.06 12:06",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000446079",
-      "carried": true
-    },
-    {
-      "title": "[IS 인터뷰] 6R 지명은 독기, 95㎏의 몸은 155㎞/h의 가능성을 만들었다",
-      "url": "https://n.news.naver.com/mnews/article/241/0003524064",
-      "datetime": "2026.08.06 12:03",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003524064",
-      "carried": true
-    },
-    {
-      "title": "위용 잃은 LG ‘우승 청부사’, 솟아날 구멍은 있다…과제는 ‘공격적 승부’로 투구수 줄이기 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001258208",
-      "datetime": "2026.08.06 11:18",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001258208",
-      "carried": true
-    },
-    {
-      "title": "카라스코 7이닝 퍼펙트 합작한 막내 포수 이주헌 “긴장되는 만큼 재밌던데요”[스경X인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/144/0001130265",
-      "datetime": "2026.08.06 10:29",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001130265",
+      "aid": "0009103037",
       "carried": true
     }
   ]
