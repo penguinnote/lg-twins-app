@@ -1,9 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-08-07T07:06:24",
-  "count": 20,
+  "updated": "2026-08-07T08:52:34",
+  "count": 27,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'폭염 브레이크' 맞이한 LG, 잠실서 기본기 중심 훈련 소화... 카라스코는 불펜 점검까지 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004092756",
+      "datetime": "2026.08.07 17:01",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004092756"
+    },
+    {
+      "title": "히어로즈 전준표·LG 손용준, 프로야구 7월 퓨처스 루키상 선정",
+      "url": "https://n.news.naver.com/mnews/article/421/0009103037",
+      "datetime": "2026.08.07 17:00",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009103037"
+    },
+    {
+      "title": "‘폭염’에 리그 멈췄지만…‘반등 절실’ LG의 훈련은 계속된다→반등 위한 ‘재정비’ 中 [SS잠실in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001258459",
+      "datetime": "2026.08.07 16:48",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001258459"
+    },
+    {
+      "title": "고양 전준표-LG 손용준, 7월 메디힐 ‘퓨처스 루키상’ 주인공",
+      "url": "https://n.news.naver.com/mnews/article/468/0001258458",
+      "datetime": "2026.08.07 16:38",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001258458"
+    },
+    {
+      "title": "후반기 승률 꼴찌 LG, ‘폭염 브레이크’로 분위기 반전 노린다",
+      "url": "https://n.news.naver.com/mnews/article/020/0003739349",
+      "datetime": "2026.08.07 16:30",
+      "office": "동아일보",
+      "oid": "020",
+      "aid": "0003739349"
+    },
+    {
+      "title": "‘영웅과 쌍둥이 미래’ 전준표-손용준, 7월 메디힐 퓨처스 루키상 수상",
+      "url": "https://n.news.naver.com/mnews/article/396/0000751705",
+      "datetime": "2026.08.07 16:18",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000751705"
+    },
+    {
+      "title": "얼마나 잘했길래…'무실점 쾌투' 키움 전준표·'안타 제조기' LG 손용준, 7월 퓨처스 루키상",
+      "url": "https://n.news.naver.com/mnews/article/241/0003524259",
+      "datetime": "2026.08.07 16:12",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003524259"
+    },
     {
       "title": "키움 전준표·LG 손용준, 7월 메디힐 퓨처스 루키상 선정…손용준, 올해 2번째 수상 활약",
       "url": "https://n.news.naver.com/mnews/article/109/0005584939",
