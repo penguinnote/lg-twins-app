@@ -1,16 +1,25 @@
 {
   "team": "LG",
-  "updated": "2026-08-09T13:44:23",
-  "count": 21,
+  "updated": "2026-08-09T21:25:50",
+  "count": 7,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG 캡틴 박해민과 베테랑들은 대반격을 꿈꾼다",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543301",
+      "datetime": "2026.08.10 05:50",
+      "office": "중앙일보",
+      "oid": "025",
+      "aid": "0003543301"
+    },
     {
       "title": "“100점 만점에 30점” LG ‘2년차’ 파이어볼러의 ‘반성’…“팀 이기는 데 집중할 것” [SS잠실in]",
       "url": "https://n.news.naver.com/mnews/article/468/0001258730",
       "datetime": "2026.08.09 22:25",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001258730"
+      "aid": "0001258730",
+      "carried": true
     },
     {
       "title": "\"'너무 덥다' 몇번이나 얘기했는데…\" 뒤늦은 '폭염취소' 주간, LG 캡틴의 섭섭함 가득 진심 \"선수들 의견은 왜 귀담아듣지 않나\" [인터뷰]",
@@ -18,7 +27,8 @@
       "datetime": "2026.08.09 18:31",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004434263"
+      "aid": "0004434263",
+      "carried": true
     },
     {
       "title": "반등 노리는 ‘주장’ LG 박해민 “도움 될 휴식기, 올라갈 수 있는 힘 만드는 게 중요해”",
@@ -26,7 +36,8 @@
       "datetime": "2026.08.09 17:39",
       "office": "스포츠동아",
       "oid": "382",
-      "aid": "0001287298"
+      "aid": "0001287298",
+      "carried": true
     },
     {
       "title": "“키움이 제일 무섭다” LG는 KT·삼성에 가까워질까 두산·KIA에 가까워질까…고척 3연전, 시즌 판도의 바로미터",
@@ -34,7 +45,8 @@
       "datetime": "2026.08.09 17:00",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004093147"
+      "aid": "0004093147",
+      "carried": true
     },
     {
       "title": "충격의 4위 추락, 어쩌면 더 가까운지 모른다...LG 운명을 쥔 '일주일'이 다가온다",
@@ -42,7 +54,8 @@
       "datetime": "2026.08.09 16:36",
       "office": "MHN스포츠",
       "oid": "445",
-      "aid": "0000448061"
+      "aid": "0000448061",
+      "carried": true
     },
     {
       "title": "LG 홍창기 FA 협상, '김현수 케이스' 재현될까?...밀당은 피말리지만 이적 가능성은 낮아",
@@ -50,132 +63,7 @@
       "datetime": "2026.08.09 16:04",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000201745"
-    },
-    {
-      "title": "최악의 흐름은 ‘폭염’으로 끊었다… 10위 키움·9위 SSG 만나는 LG, 반등 위한 마지막 기회",
-      "url": "https://n.news.naver.com/mnews/article/144/0001130809",
-      "datetime": "2026.08.09 15:52",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001130809"
-    },
-    {
-      "title": "만루 찬스 살린 문보경, 이 감각이 이어져야 LG가 산다",
-      "url": "https://n.news.naver.com/mnews/article/144/0001130803",
-      "datetime": "2026.08.09 14:52",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001130803"
-    },
-    {
-      "title": "위기의 ‘디펜딩 챔프’ LG, 슬기로운 ‘폭염 방학 생활’…‘최상위권 판도’ 흔들 기회 [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001258614",
-      "datetime": "2026.08.09 13:05",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001258614"
-    },
-    {
-      "title": "LG의 추락…구단 최초 MVP, 오스틴의 꿈도 사라지나, 강력한 경쟁자 등장하다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005585528",
-      "datetime": "2026.08.09 11:54",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005585528"
-    },
-    {
-      "title": "\"112승 투수인데 많이 물어봐야죠\" LG에 문을 연 '카라스코 스쿨'",
-      "url": "https://n.news.naver.com/mnews/article/241/0003524370",
-      "datetime": "2026.08.09 10:31",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003524370"
-    },
-    {
-      "title": "힘을 타고난, 힘을 쓸 줄 아는 문정빈의 조용한 진화",
-      "url": "https://n.news.naver.com/mnews/article/144/0001130765",
-      "datetime": "2026.08.09 09:59",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001130765"
-    },
-    {
-      "title": "\"LG 카라스코, 팔 스윙이 짧아 타자 느끼는 체감속도 훨씬 빨라\"…윤석민이 보는 후반기 外人",
-      "url": "https://n.news.naver.com/mnews/article/076/0004434167",
-      "datetime": "2026.08.09 09:13",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004434167"
-    },
-    {
-      "title": "LG '폭염 브레이크' 최대 수혜자 되나→'KBO 21아웃 퍼펙트' 괴물 주 2회 등판 가능해졌다",
-      "url": "https://n.news.naver.com/mnews/article/108/0003460358",
-      "datetime": "2026.08.09 07:01",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003460358"
-    },
-    {
-      "title": "\"리드 믿고 던졌다\" LG만 없어 2000년대생 포수? ML 112승 투수가 믿는 2003년생이 있다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000622557",
-      "datetime": "2026.08.09 05:56",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000622557"
-    },
-    {
-      "title": "‘폭염 브레이크’ 혜택 볼까…후반기 최하위 LG, 10위 키움-9위 SSG 상대로 위닝 실패면 5위 추락이 현실이다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005585240",
-      "datetime": "2026.08.08 17:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005585240",
-      "carried": true
-    },
-    {
-      "title": "2연속 퓨처스 루키상 받아도 1군에 자리가 없나, 1군 등록 10일에 단 1타석이라니",
-      "url": "https://n.news.naver.com/mnews/article/477/0000622522",
-      "datetime": "2026.08.08 14:48",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000622522",
-      "carried": true
-    },
-    {
-      "title": "“(박)동원이형에게 감사하죠”, ‘커리어하이’ 적는 LG 불펜 ‘희망’ 김진수의 ‘진심’ [SS잠실in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001258516",
-      "datetime": "2026.08.08 12:14",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001258516",
-      "carried": true
-    },
-    {
-      "title": "'1이닝→休→3.2이닝, 1이닝→休→4이닝' LG 새 마당쇠 상무 탈락이 전화위복되나",
-      "url": "https://n.news.naver.com/mnews/article/477/0000622494",
-      "datetime": "2026.08.08 09:15",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000622494",
-      "carried": true
-    },
-    {
-      "title": "LG, 2연패 원하는가? 카라스코만으로는 역부족, 더 강력한 승부수 던져야...염경엽 감독은 알고 있을 것",
-      "url": "https://n.news.naver.com/mnews/article/425/0000201463",
-      "datetime": "2026.08.08 07:36",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000201463",
-      "carried": true
-    },
-    {
-      "title": "후반기 추락 LG “반갑다 폭염 휴식”",
-      "url": "https://n.news.naver.com/mnews/article/020/0003739408",
-      "datetime": "2026.08.08 01:41",
-      "office": "동아일보",
-      "oid": "020",
-      "aid": "0003739408",
+      "aid": "0000201745",
       "carried": true
     }
   ]
