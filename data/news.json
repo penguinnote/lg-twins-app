@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-09T06:45:55",
-  "count": 14,
+  "updated": "2026-08-09T07:49:45",
+  "count": 17,
   "carried_count": 6,
   "items": [
+    {
+      "title": "충격의 4위 추락, 어쩌면 더 가까운지 모른다...LG 운명을 쥔 '일주일'이 다가온다",
+      "url": "https://n.news.naver.com/mnews/article/445/0000448061",
+      "datetime": "2026.08.09 16:36",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000448061"
+    },
+    {
+      "title": "LG 홍창기 FA 협상, '김현수 케이스' 재현될까?...밀당은 피말리지만 이적 가능성은 낮아",
+      "url": "https://n.news.naver.com/mnews/article/425/0000201745",
+      "datetime": "2026.08.09 16:04",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000201745"
+    },
+    {
+      "title": "최악의 흐름은 ‘폭염’으로 끊었다… 10위 키움·9위 SSG 만나는 LG, 반등 위한 마지막 기회",
+      "url": "https://n.news.naver.com/mnews/article/144/0001130809",
+      "datetime": "2026.08.09 15:52",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001130809"
+    },
     {
       "title": "만루 찬스 살린 문보경, 이 감각이 이어져야 LG가 산다",
       "url": "https://n.news.naver.com/mnews/article/144/0001130803",
