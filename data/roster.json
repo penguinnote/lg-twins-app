@@ -1,6 +1,6 @@
 {
   "team": "LG",
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "count": 30,
   "hitter_count": 15,
   "players": [
@@ -47,8 +47,8 @@
       "is_pitcher": true
     },
     {
-      "playerId": "68159",
-      "name": "성동현",
+      "playerId": "69134",
+      "name": "이정용",
       "position": "투수",
       "is_pitcher": true
     },
@@ -155,8 +155,8 @@
       "is_pitcher": false
     },
     {
-      "playerId": "68119",
-      "name": "문성주",
+      "playerId": "52103",
+      "name": "최원영",
       "position": "외야수",
       "is_pitcher": false
     },
