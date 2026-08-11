@@ -1,9 +1,105 @@
 {
   "team": "LG",
-  "updated": "2026-08-11T11:40:01",
+  "updated": "2026-08-11T12:52:25",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'초대박' 드디어 안지만 기록 깨졌다! LG 김진성, 178홀드 적립→KBO 최다 홀드 '1위' 등극",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461146",
+      "datetime": "2026.08.11 21:51",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461146"
+    },
+    {
+      "title": "'178홀드 대기록' LG 김진성, 안지만 넘어 KBO 역대 최다 홀드 新기록 [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004434950",
+      "datetime": "2026.08.11 21:50",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004434950"
+    },
+    {
+      "title": "LG 베테랑 김진성, 개인 통산 178홀드 달성…KBO 역대 최다 홀드 신기록",
+      "url": "https://n.news.naver.com/mnews/article/003/0014121488",
+      "datetime": "2026.08.11 21:49",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014121488"
+    },
+    {
+      "title": "LG 김진성, 안지만 넘어 KBO리그 최다 통산 178홀드 '新'",
+      "url": "https://n.news.naver.com/mnews/article/421/0009108808",
+      "datetime": "2026.08.11 21:49",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009108808"
+    },
+    {
+      "title": "카라스코, 10이닝 퍼펙트 깨지자 무실점도 깨졌다...그래도 노련하게 QS",
+      "url": "https://n.news.naver.com/mnews/article/241/0003524924",
+      "datetime": "2026.08.11 21:42",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003524924"
+    },
+    {
+      "title": "'10이닝 퍼펙트' 깨졌지만...'ML 112승' LG 외인, KBO 첫 승이 보인다. 6이닝 QS",
+      "url": "https://n.news.naver.com/mnews/article/109/0005586792",
+      "datetime": "2026.08.11 21:30",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005586792"
+    },
+    {
+      "title": "LG 카라스코, 10이닝 연속 퍼펙트 깨지자 무려 4연속 피안타로 2실점→그래도 QS 완성!",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461142",
+      "datetime": "2026.08.11 21:22",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461142"
+    },
+    {
+      "title": "'현직 빅리거' 카라스코, 퍼펙트 끝→2실점, KBO 매운맛 봤다…안우진도 나란히 2실점 '장군멍군' [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004434938",
+      "datetime": "2026.08.11 21:19",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004434938"
+    },
+    {
+      "title": "퍼펙트는 깨졌지만 첫 승 요건 충족…LG 카라스코, 키움전 6이닝 2실점",
+      "url": "https://n.news.naver.com/mnews/article/003/0014121461",
+      "datetime": "2026.08.11 21:19",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014121461"
+    },
+    {
+      "title": "LG 카라스코, KBO리그 데뷔 최다 10이닝 퍼펙트 '스톱'…무실점 깨져",
+      "url": "https://n.news.naver.com/mnews/article/421/0009108767",
+      "datetime": "2026.08.11 21:17",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009108767"
+    },
+    {
+      "title": "송찬의 드디어 해냈다! 정현우 상대 솔로포 쾅→커리어 첫 시즌 10홈런 고지…LG 다시 리드 [MD고척]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004093875",
+      "datetime": "2026.08.11 20:56",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004093875"
+    },
+    {
+      "title": "'10이닝 연속 퍼펙트' 카라스코, 키움 방망이에 당했다…4회 첫 피안타→5회 2실점 고전 [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002044047",
+      "datetime": "2026.08.11 20:42",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002044047"
+    },
     {
       "title": "ML 112승 명불허전, 데뷔 30타자 연속 퍼펙트 대기록…첫 안타 주인공은 서건창 [MD고척]",
       "url": "https://n.news.naver.com/mnews/article/117/0004093868",
@@ -13,7 +109,7 @@
       "aid": "0004093868"
     },
     {
-      "title": "카라스코 10이닝 연속 퍼펙트→이 타구 하나에 무결점 기록 깨졌다…근데 진짜 잘하네",
+      "title": "카라스코 10이닝 연속 퍼펙트→이 타구 하나에 무결점 기록 깨졌다…그리고 첫 실점까지",
       "url": "https://n.news.naver.com/mnews/article/477/0000622988",
       "datetime": "2026.08.11 20:28",
       "office": "스포티비뉴스",
@@ -234,7 +330,8 @@
       "datetime": "2026.08.11 13:29",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001131149"
+      "aid": "0001131149",
+      "carried": true
     },
     {
       "title": "‘충격의 퍼펙트 데뷔전’ ML 112승 LG 외인, 최하위 키움 고춧가루 잠재우고 구세주 될까",
@@ -242,7 +339,8 @@
       "datetime": "2026.08.11 13:18",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005586393"
+      "aid": "0005586393",
+      "carried": true
     },
     {
       "title": "홍창기 FA 100억 설? 잠실 떠난 홍창기가 그 정도 매력 있는지부터 따져봐야 한다",
@@ -250,7 +348,8 @@
       "datetime": "2026.08.11 11:53",
       "office": "MHN스포츠",
       "oid": "445",
-      "aid": "0000448537"
+      "aid": "0000448537",
+      "carried": true
     },
     {
       "title": "폭염 브레이크의 ‘얼리 버드’ 신민재는 다시 날아오를까",
@@ -258,7 +357,8 @@
       "datetime": "2026.08.11 11:36",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001131129"
+      "aid": "0001131129",
+      "carried": true
     },
     {
       "title": "너무 가혹한 평가? \"100점 만점에 30점!\" 21세 젊은 필승조의 단호한 진심 \"LG 승리가 최우선\" [인터뷰]",
@@ -266,7 +366,8 @@
       "datetime": "2026.08.11 10:11",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004434690"
+      "aid": "0004434690",
+      "carried": true
     },
     {
       "title": "‘타격 부침’ 겪는 LG 박동원, 쉽게 뺄 수 없는 이유→투수들이 느끼는 ‘안정감’ [SS시선집중]",
@@ -274,108 +375,7 @@
       "datetime": "2026.08.11 09:46",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001259072"
-    },
-    {
-      "title": "‘후반기 승률 꼴찌’ LG, 폭염에 푹 쉬고 이제는 살아날까…꼴찌 키움 만만히 보면 안되는 이유",
-      "url": "https://n.news.naver.com/mnews/article/109/0005586315",
-      "datetime": "2026.08.11 09:41",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005586315"
-    },
-    {
-      "title": "폭염 휴식 취한 LG, ‘ML 112승’ 카라스코 앞세워 반등 노린다",
-      "url": "https://n.news.naver.com/mnews/article/410/0001135901",
-      "datetime": "2026.08.11 09:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001135901"
-    },
-    {
-      "title": "‘흐름은 허상인가, 진짜 힘인가’…LG가 확인해야 할 폭염 브레이크 효과",
-      "url": "https://n.news.naver.com/mnews/article/445/0000448495",
-      "datetime": "2026.08.11 09:17",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000448495"
-    },
-    {
-      "title": "강판 후 더그아웃서 성장 노트 쓰는 20세 LG 투수가 있다, 염경엽 \"내년 5선발 후보\"",
-      "url": "https://n.news.naver.com/mnews/article/241/0003524785",
-      "datetime": "2026.08.11 08:40",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003524785"
-    },
-    {
-      "title": "‘0.227’ 장외 타격 최하위…우승 포수 박동원, 예비 FA 시즌인데 끝까지 반등 없을까",
-      "url": "https://n.news.naver.com/mnews/article/109/0005586275",
-      "datetime": "2026.08.11 07:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005586275"
-    },
-    {
-      "title": "‘역경 딛고 성장 서사’ 송찬의, 위기의 LG 비상 이끈다!",
-      "url": "https://n.news.naver.com/mnews/article/056/0012235142",
-      "datetime": "2026.08.11 07:01",
-      "office": "KBS",
-      "oid": "056",
-      "aid": "0012235142"
-    },
-    {
-      "title": "'강렬 데뷔' 카라스코, '폭염 방학' 후 반격 노리는 LG 선봉장 출격",
-      "url": "https://n.news.naver.com/mnews/article/003/0014119058",
-      "datetime": "2026.08.11 07:00",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014119058",
-      "carried": true
-    },
-    {
-      "title": "'니들이 폭염 맛을 알아?' \"선수들 말 왜 안 듣나\" 박해민의 말이 옳다...답은 항상 현장에 있어",
-      "url": "https://n.news.naver.com/mnews/article/425/0000201925",
-      "datetime": "2026.08.11 06:55",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000201925",
-      "carried": true
-    },
-    {
-      "title": "‘사상 첫 강제 휴식 끝’ 진짜 승부는 이제부터…풀타임 선발 체질 카라스코는 구세주가 돼줄까",
-      "url": "https://n.news.naver.com/mnews/article/144/0001131058",
-      "datetime": "2026.08.11 06:02",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001131058",
-      "carried": true
-    },
-    {
-      "title": "5일간의 '사상 첫 폭염방학' 종료… '최대 수혜' LG의 대반격인가, '공평한 휴식' 유불리 없나",
-      "url": "https://n.news.naver.com/mnews/article/076/0004434623",
-      "datetime": "2026.08.11 03:20",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004434623",
-      "carried": true
-    },
-    {
-      "title": "'폭염 브레이크 끝' LG 카라스코 주 2회 카드 꺼내들었다, 반등 열쇠될 수 있을까",
-      "url": "https://n.news.naver.com/mnews/article/117/0004093547",
-      "datetime": "2026.08.11 00:35",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004093547",
-      "carried": true
-    },
-    {
-      "title": "'3위도 위태' LG, 하필 제일 껄끄러운 키움 만난다…데뷔전 7이닝 퍼펙트 카라스코만 믿는다",
-      "url": "https://n.news.naver.com/mnews/article/311/0002043727",
-      "datetime": "2026.08.11 00:10",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002043727",
+      "aid": "0001259072",
       "carried": true
     }
   ]
