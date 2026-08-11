@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-08-11T06:57:09",
-  "count": 25,
+  "updated": "2026-08-11T08:09:33",
+  "count": 29,
   "carried_count": 6,
   "items": [
+    {
+      "title": "보여줘 ‘FA로이드’",
+      "url": "https://n.news.naver.com/mnews/article/005/0001866259",
+      "datetime": "2026.08.11 17:05",
+      "office": "국민일보",
+      "oid": "005",
+      "aid": "0001866259"
+    },
+    {
+      "title": "'안우진 상대' LG 라인업 공개! 홍창기 1번-문보경 4번 배치→문성주·성동현 말소, 이정용·최원영 등록",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461087",
+      "datetime": "2026.08.11 17:04",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461087"
+    },
+    {
+      "title": "'8승 4패 우위' 그런데 LG는 왜 키움이 껄끄러울까→'결과는 위닝→21대24 스코어 열세' 지난 시리즈가 증명…12일 만의 재대결은 어떨까",
+      "url": "https://n.news.naver.com/mnews/article/311/0002043907",
+      "datetime": "2026.08.11 16:17",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002043907"
+    },
+    {
+      "title": "챔피언일 땐 1명이었는데…LG, 올해 타이틀 경쟁이 중요해진 이유",
+      "url": "https://n.news.naver.com/mnews/article/396/0000752047",
+      "datetime": "2026.08.11 15:58",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000752047"
+    },
     {
       "title": "한계 투구수 80개, 'MLB 112승' LG 새 에이스 카라스코의 무거운 어깨",
       "url": "https://n.news.naver.com/mnews/article/241/0003524874",
