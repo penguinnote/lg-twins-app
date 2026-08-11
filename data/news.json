@@ -1,11 +1,163 @@
 {
   "team": "LG",
-  "updated": "2026-08-11T12:52:25",
+  "updated": "2026-08-11T14:16:13",
   "count": 46,
   "carried_count": 6,
   "items": [
     {
-      "title": "'초대박' 드디어 안지만 기록 깨졌다! LG 김진성, 178홀드 적립→KBO 최다 홀드 '1위' 등극",
+      "title": "'MLB 112승' 카라스코도 기쁜 KBO리그 첫 승리…\"여기선 루키\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009108853",
+      "datetime": "2026.08.11 23:10",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009108853"
+    },
+    {
+      "title": "LG도 에이스가 생겼다! '카라스코 첫 승'에 웃은 염갈량…\"선발투수로 자기 역할 잘해줬어\" [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002044120",
+      "datetime": "2026.08.11 23:07",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002044120"
+    },
+    {
+      "title": "LG팬 향해 고개 숙인 염경엽 \"평일임에도 많은 응원 덕분→조금씩 타격 좋아지는 흐름 보인다\"",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461156",
+      "datetime": "2026.08.11 22:59",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461156"
+    },
+    {
+      "title": "'두차례 방출·지독한 부상의 늪'에서 '역대 최다 홀드'까지…김진성 \"우여곡절 많았는데 포기하지 않으니 이런 기록도 나오네요.\"",
+      "url": "https://n.news.naver.com/mnews/article/076/0004434975",
+      "datetime": "2026.08.11 22:57",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004434975"
+    },
+    {
+      "title": "LG 드디어 8월 ‘첫 승’, 염갈량 오랜만에 웃었다 “조금씩 좋아지는 흐름 보인다” [SS고척in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259309",
+      "datetime": "2026.08.11 22:54",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259309"
+    },
+    {
+      "title": "\"카라스코 첫 승·김진성 최다 홀드 축하\"…염갈량, 승리 이끈 마운드·타선에 大찬사 [고척 승장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004434974",
+      "datetime": "2026.08.11 22:51",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004434974"
+    },
+    {
+      "title": "‘ML 112승’ 대투수, KBO리그서 ‘첫 승’ 맛봤다…LG 카라스코, 키움전 6이닝 2실점 ‘QS’ [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259307",
+      "datetime": "2026.08.11 22:42",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259307"
+    },
+    {
+      "title": "김진성, 세 번 방출 딛고 ‘홀드 제왕' 등극...LG 3연패 탈출",
+      "url": "https://n.news.naver.com/mnews/article/018/0006349832",
+      "datetime": "2026.08.11 22:33",
+      "office": "이데일리",
+      "oid": "018",
+      "aid": "0006349832"
+    },
+    {
+      "title": "[프로야구 고척전적] LG 8-3 키움",
+      "url": "https://n.news.naver.com/mnews/article/001/0016245816",
+      "datetime": "2026.08.11 22:28",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016245816"
+    },
+    {
+      "title": "안지만 넘었다! 김진성, KBO 홀드 新 주인공 등극→'퍼펙트 마감' 카라스코 데뷔승→LG 3연패 탈출…안우진 5사사구 무슨 일이야  [MD고척]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004093890",
+      "datetime": "2026.08.11 22:23",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004093890"
+    },
+    {
+      "title": "LG 방망이 드디어 터졌다! 오지환 쐐기 스리런포 폭발→키움 8-3 꺾고 3연패 탈출 [고척 현장리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461151",
+      "datetime": "2026.08.11 22:23",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461151"
+    },
+    {
+      "title": "'폭염 휴식'이 LG에 보약 됐다...'10이닝 퍼펙트' 카라스코 첫 승, 송찬의 솔로-오지환 스리런, 키움에 8-3 승리 [고척 리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005586871",
+      "datetime": "2026.08.11 22:22",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005586871"
+    },
+    {
+      "title": "'ML 통산 112승' 카라스코의 쾌투! 위기의 LG 구해냈다…키움 8-3 완파→3연패 탈출 [고척:스코어]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002044115",
+      "datetime": "2026.08.11 22:22",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002044115"
+    },
+    {
+      "title": "LG 웰스 결국 '불펜행'... 염경엽 \"박시원이 대신 들어가\"",
+      "url": "https://n.news.naver.com/mnews/article/450/0000153219",
+      "datetime": "2026.08.11 22:21",
+      "office": "STN 뉴스",
+      "oid": "450",
+      "aid": "0000153219"
+    },
+    {
+      "title": "카라스코 KBO 첫 승+김진성 178홀드 韓 신기록…LG, 키움 제물로 3연패 탈출 [고척 게임노트]",
+      "url": "https://n.news.naver.com/mnews/article/477/0000622999",
+      "datetime": "2026.08.11 22:21",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000622999"
+    },
+    {
+      "title": "카라스코 첫 승·김진성 178홀드…LG, 3연패 탈출",
+      "url": "https://n.news.naver.com/mnews/article/023/0003992444",
+      "datetime": "2026.08.11 22:20",
+      "office": "조선일보",
+      "oid": "023",
+      "aid": "0003992444"
+    },
+    {
+      "title": "카라스코 QS, KBO 첫승→오지환 스리런포…LG, 올 시즌 '세번째 개막전' 키움 8대3 제압[고척 리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004434966",
+      "datetime": "2026.08.11 22:20",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004434966"
+    },
+    {
+      "title": "카라스코 ‘KBO 첫 승’+오지환 ‘쐐기 스리런’→LG, 키움 8-3 완파하며 삼성 ‘맹추격’ [SS고척in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259298",
+      "datetime": "2026.08.11 22:20",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259298"
+    },
+    {
+      "title": "'폭염 방학 효과' LG, 키움 꺾고 3연패 탈출…카라스코 첫 승리",
+      "url": "https://n.news.naver.com/mnews/article/421/0009108835",
+      "datetime": "2026.08.11 22:18",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009108835"
+    },
+    {
+      "title": "'대박' 드디어 안지만 기록 깨졌다! LG 김진성, 178홀드 적립→KBO 최다 홀드 '1위' 등극",
       "url": "https://n.news.naver.com/mnews/article/108/0003461146",
       "datetime": "2026.08.11 21:51",
       "office": "스타뉴스",
@@ -178,7 +330,8 @@
       "datetime": "2026.08.11 18:44",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005586544"
+      "aid": "0005586544",
+      "carried": true
     },
     {
       "title": "“(이)주헌이 쓰면 좋겠다고 했는데…” 염갈량이 설명한 박동원 ‘선발 이유’ [SS고척in]",
@@ -186,7 +339,8 @@
       "datetime": "2026.08.11 18:26",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001259198"
+      "aid": "0001259198",
+      "carried": true
     },
     {
       "title": "카라스코, '퍼펙트 합작' 이주헌 아닌 박동원과 나서는 이유 밝혀졌다! 염경엽 \"개막하는 기분으로 가자는 의견 수용\"",
@@ -194,7 +348,8 @@
       "datetime": "2026.08.11 18:25",
       "office": "스타뉴스",
       "oid": "108",
-      "aid": "0003461110"
+      "aid": "0003461110",
+      "carried": true
     },
     {
       "title": "이주헌 아닌 박동원? 카라스코 등판인데? 왜일까…문성주는 또 옆구리 부상 이탈",
@@ -202,7 +357,8 @@
       "datetime": "2026.08.11 18:23",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000622975"
+      "aid": "0000622975",
+      "carried": true
     },
     {
       "title": "'전반기 에이스' LG 웰스, 후반기 부진에 불펜 강등",
@@ -210,7 +366,8 @@
       "datetime": "2026.08.11 18:16",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009108572"
+      "aid": "0009108572",
+      "carried": true
     },
     {
       "title": "0.366→0.244 추락, 또 옆구리 부여잡은 LG 문성주 1군 제외",
@@ -218,164 +375,7 @@
       "datetime": "2026.08.11 18:11",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003524902"
-    },
-    {
-      "title": "LG 염경엽 감독, 승부수 띄웠다…“웰스, 선발진에서 제외”",
-      "url": "https://n.news.naver.com/mnews/article/382/0001287757",
-      "datetime": "2026.08.11 18:11",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001287757"
-    },
-    {
-      "title": "\"웰스, 4일 등판이 마지막 테스트였다\"…선발 제외→박시원 투입 '염갈량' 결단했다 [고척 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004434820",
-      "datetime": "2026.08.11 18:03",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004434820"
-    },
-    {
-      "title": "LG 2년 차 박시원 선발진 가세…좌완 웰스는 롱맨으로 보직 변경",
-      "url": "https://n.news.naver.com/mnews/article/001/0016245532",
-      "datetime": "2026.08.11 18:02",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016245532"
-    },
-    {
-      "title": "“웰스 선발에서 OUT” 복덩이 亞쿼터, 선발 임무 종료→박시원이 기회 잡았다 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001259190",
-      "datetime": "2026.08.11 18:02",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001259190"
-    },
-    {
-      "title": "'후반기 최하위' LG 승부수 던졌나 \"웰스 선발서 빠졌다\"…대체자는 20세 193cm 장신 오른손 [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004093830",
-      "datetime": "2026.08.11 18:01",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004093830"
-    },
-    {
-      "title": "‘안우진 상대 15타수 무안타’ 홍창기 1번-문보경 4번, LG 라인업...문성주 전격 2군행, 최원영-이정용 1군 콜업 [오!쎈 고척]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005586508",
-      "datetime": "2026.08.11 17:32",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005586508"
-    },
-    {
-      "title": "'문성주 말소' LG, 키움전 라인업 공개…'데뷔전 7이닝 퍼펙트' ML 112승 우승 청부사, 패패패 끊어줄까 [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004093802",
-      "datetime": "2026.08.11 17:22",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004093802"
-    },
-    {
-      "title": "'후반기 승률 꼴찌' LG, 안우진 상대 5번 문정빈-6번 송찬의 타선 구성…문성주 1군 말소 [고척 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002043927",
-      "datetime": "2026.08.11 17:12",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002043927"
-    },
-    {
-      "title": "보여줘 ‘FA로이드’",
-      "url": "https://n.news.naver.com/mnews/article/005/0001866259",
-      "datetime": "2026.08.11 17:05",
-      "office": "국민일보",
-      "oid": "005",
-      "aid": "0001866259"
-    },
-    {
-      "title": "'안우진 상대' LG 라인업 공개! 홍창기 1번-문보경 4번 배치→문성주·성동현 말소, 이정용·최원영 등록",
-      "url": "https://n.news.naver.com/mnews/article/108/0003461087",
-      "datetime": "2026.08.11 17:04",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003461087"
-    },
-    {
-      "title": "'8승 4패 우위' 그런데 LG는 왜 키움이 껄끄러울까→'결과는 위닝→21대24 스코어 열세' 지난 시리즈가 증명…12일 만의 재대결은 어떨까",
-      "url": "https://n.news.naver.com/mnews/article/311/0002043907",
-      "datetime": "2026.08.11 16:17",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002043907"
-    },
-    {
-      "title": "챔피언일 땐 1명이었는데…LG, 올해 타이틀 경쟁이 중요해진 이유",
-      "url": "https://n.news.naver.com/mnews/article/396/0000752047",
-      "datetime": "2026.08.11 15:58",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000752047"
-    },
-    {
-      "title": "한계 투구수 80개, 'MLB 112승' LG 새 에이스 카라스코의 무거운 어깨",
-      "url": "https://n.news.naver.com/mnews/article/241/0003524874",
-      "datetime": "2026.08.11 15:17",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003524874"
-    },
-    {
-      "title": "LG의 8월, ‘최고의 2025’ 재현할까 ‘최악의 2024’로 돌아갈까",
-      "url": "https://n.news.naver.com/mnews/article/144/0001131149",
-      "datetime": "2026.08.11 13:29",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001131149",
-      "carried": true
-    },
-    {
-      "title": "‘충격의 퍼펙트 데뷔전’ ML 112승 LG 외인, 최하위 키움 고춧가루 잠재우고 구세주 될까",
-      "url": "https://n.news.naver.com/mnews/article/109/0005586393",
-      "datetime": "2026.08.11 13:18",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005586393",
-      "carried": true
-    },
-    {
-      "title": "홍창기 FA 100억 설? 잠실 떠난 홍창기가 그 정도 매력 있는지부터 따져봐야 한다",
-      "url": "https://n.news.naver.com/mnews/article/445/0000448537",
-      "datetime": "2026.08.11 11:53",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000448537",
-      "carried": true
-    },
-    {
-      "title": "폭염 브레이크의 ‘얼리 버드’ 신민재는 다시 날아오를까",
-      "url": "https://n.news.naver.com/mnews/article/144/0001131129",
-      "datetime": "2026.08.11 11:36",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001131129",
-      "carried": true
-    },
-    {
-      "title": "너무 가혹한 평가? \"100점 만점에 30점!\" 21세 젊은 필승조의 단호한 진심 \"LG 승리가 최우선\" [인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004434690",
-      "datetime": "2026.08.11 10:11",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004434690",
-      "carried": true
-    },
-    {
-      "title": "‘타격 부침’ 겪는 LG 박동원, 쉽게 뺄 수 없는 이유→투수들이 느끼는 ‘안정감’ [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001259072",
-      "datetime": "2026.08.11 09:46",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001259072",
+      "aid": "0003524902",
       "carried": true
     }
   ]
