@@ -1,9 +1,57 @@
 {
   "team": "LG",
-  "updated": "2026-08-10T23:29:41",
-  "count": 14,
+  "updated": "2026-08-11T01:15:52",
+  "count": 20,
   "carried_count": 6,
   "items": [
+    {
+      "title": "\"내 점수? 100점 만점에 30점!\" 21세 김영우의 단호한 진심 \"팀 승리가 최우선, 불펜서도 뜨겁게 응원\" [인터뷰]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004434690",
+      "datetime": "2026.08.11 10:11",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004434690"
+    },
+    {
+      "title": "‘타격 부침’ 겪는 LG 박동원, 쉽게 뺄 수 없는 이유→투수들이 느끼는 ‘안정감’ [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259072",
+      "datetime": "2026.08.11 09:46",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259072"
+    },
+    {
+      "title": "‘후반기 승률 꼴찌’ LG, 폭염에 푹 쉬고 이제는 살아날까…꼴찌 키움 만만히 보면 안되는 이유",
+      "url": "https://n.news.naver.com/mnews/article/109/0005586315",
+      "datetime": "2026.08.11 09:41",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005586315"
+    },
+    {
+      "title": "폭염 휴식 취한 LG, ‘ML 112승’ 카라스코 앞세워 반등 노린다",
+      "url": "https://n.news.naver.com/mnews/article/410/0001135901",
+      "datetime": "2026.08.11 09:41",
+      "office": "MK스포츠 ",
+      "oid": "410",
+      "aid": "0001135901"
+    },
+    {
+      "title": "‘흐름은 허상인가, 진짜 힘인가’…LG가 확인해야 할 폭염 브레이크 효과",
+      "url": "https://n.news.naver.com/mnews/article/445/0000448495",
+      "datetime": "2026.08.11 09:17",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000448495"
+    },
+    {
+      "title": "강판 후 더그아웃서 성장 노트 쓰는 20세 LG 투수가 있다, 염경엽 \"내년 5선발 후보\"",
+      "url": "https://n.news.naver.com/mnews/article/241/0003524785",
+      "datetime": "2026.08.11 08:40",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003524785"
+    },
     {
       "title": "‘0.227’ 장외 타격 최하위…우승 포수 박동원, 예비 FA 시즌인데 끝까지 반등 없을까",
       "url": "https://n.news.naver.com/mnews/article/109/0005586275",
