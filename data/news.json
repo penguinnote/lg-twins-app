@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-12T11:50:54",
+  "updated": "2026-08-12T12:56:34",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "\"프로 스포츠 맞아?\" 축구·야구 구단 운명 가른 황당한 '규정 미숙지'",
+      "url": "https://n.news.naver.com/mnews/article/469/0000947718",
+      "datetime": "2026.08.12 21:08",
+      "office": "한국일보",
+      "oid": "469",
+      "aid": "0000947718"
+    },
+    {
+      "title": "‘처음처럼’ LG, 그때처럼 잘 돌아갈까",
+      "url": "https://n.news.naver.com/mnews/article/144/0001131487",
+      "datetime": "2026.08.12 21:00",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001131487"
+    },
+    {
+      "title": "[한번에쓱]어제의 승리기운을 이어받자! '선발위해 그라운드로 나서는' 임찬규",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461507",
+      "datetime": "2026.08.12 20:57",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461507"
+    },
     {
       "title": "방출 3번 아픔 날렸다…41세 김진성 '최다 홀드' 신기록",
       "url": "https://n.news.naver.com/mnews/article/437/0000505908",
@@ -306,7 +330,8 @@
       "datetime": "2026.08.12 11:45",
       "office": "동아일보",
       "oid": "020",
-      "aid": "0003740318"
+      "aid": "0003740318",
+      "carried": true
     },
     {
       "title": "그 전화 한 통이 아니었다면 이 기록도 없었다…18년간 67홀드→LG에서 111홀드, '통산 홀드왕' 김진성",
@@ -314,7 +339,8 @@
       "datetime": "2026.08.12 11:29",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000623050"
+      "aid": "0000623050",
+      "carried": true
     },
     {
       "title": "포기하지 않은 '41세' LG 김진성, KBO리그 최초 200홀드 도전",
@@ -322,7 +348,8 @@
       "datetime": "2026.08.12 11:24",
       "office": "뉴스1",
       "oid": "421",
-      "aid": "0009109782"
+      "aid": "0009109782",
+      "carried": true
     },
     {
       "title": "“다시 개막하는 느낌으로 가자”···타선 개편한 LG, ‘초심 찾기’ 가 통했다",
@@ -349,33 +376,6 @@
       "office": "뉴시스",
       "oid": "003",
       "aid": "0014122217",
-      "carried": true
-    },
-    {
-      "title": "‘머문 자리’가 아름다운 남자, 카라스코의 존중은 존경으로 돌아왔다",
-      "url": "https://n.news.naver.com/mnews/article/144/0001131331",
-      "datetime": "2026.08.12 10:22",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001131331",
-      "carried": true
-    },
-    {
-      "title": "결국 LG는 그 때 161.7km의 유혹에 넘어가선 안되는 거였다...외인 교체 카드 다 쓰고 뒤늦은 후회",
-      "url": "https://n.news.naver.com/mnews/article/445/0000448751",
-      "datetime": "2026.08.12 10:21",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000448751",
-      "carried": true
-    },
-    {
-      "title": "'오지환 3점포로 쐐기' LG, 키움에 8-3 승...카라스코 KBO 첫 승",
-      "url": "https://n.news.naver.com/mnews/article/425/0000201978",
-      "datetime": "2026.08.12 09:48",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000201978",
       "carried": true
     }
   ]
