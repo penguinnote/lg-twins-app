@@ -1,9 +1,81 @@
 {
   "team": "LG",
-  "updated": "2026-08-12T10:58:55",
+  "updated": "2026-08-12T11:50:54",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "방출 3번 아픔 날렸다…41세 김진성 '최다 홀드' 신기록",
+      "url": "https://n.news.naver.com/mnews/article/437/0000505908",
+      "datetime": "2026.08.12 20:45",
+      "office": "JTBC",
+      "oid": "437",
+      "aid": "0000505908"
+    },
+    {
+      "title": "울산 오카다, 행정 착오로 LG 이적 불발…KBO “양 구단에 사과”",
+      "url": "https://n.news.naver.com/mnews/article/382/0001287984",
+      "datetime": "2026.08.12 20:41",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001287984"
+    },
+    {
+      "title": "[한번에쓱]'트윈스 임찬규와 선발 맞대결' 키움 우완투수 전준표",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461491",
+      "datetime": "2026.08.12 20:36",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461491"
+    },
+    {
+      "title": "프로야구 LG, 웨일즈와 ‘오카다 영입’ 합의했지만…규정 막혀 불발",
+      "url": "https://n.news.naver.com/mnews/article/028/0002818274",
+      "datetime": "2026.08.12 20:32",
+      "office": "한겨레",
+      "oid": "028",
+      "aid": "0002818274"
+    },
+    {
+      "title": "[한번에쓱]'서건창 타구 맞은 임찬규' I'm OK!",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461490",
+      "datetime": "2026.08.12 20:29",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461490"
+    },
+    {
+      "title": "“8월 15일 전 등록하면 된다더니”…KBO 유권해석 번복에 LG 오카다 영입 무산",
+      "url": "https://n.news.naver.com/mnews/article/021/0002811039",
+      "datetime": "2026.08.12 20:20",
+      "office": "문화일보",
+      "oid": "021",
+      "aid": "0002811039"
+    },
+    {
+      "title": "\"서울까지 왔는데 돌아가라니\" 울산 日 투수, KBO 촌극에 헛걸음…LG 이적 무산",
+      "url": "https://n.news.naver.com/mnews/article/079/0004178187",
+      "datetime": "2026.08.12 20:15",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004178187"
+    },
+    {
+      "title": "'공식 발표만 남았는데' LG 날벼락…KBO 유권해석 한 순간에 뒤집혔다→울산 오카다 영입 최종 무산, KBO \"규정 검토 미흡\" 인정 [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002044443",
+      "datetime": "2026.08.12 20:14",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002044443"
+    },
+    {
+      "title": "LG, 울산 오카다 영입 불발…KBO \"규정 검토 미흡, 이적 불가\"",
+      "url": "https://n.news.naver.com/mnews/article/421/0009111000",
+      "datetime": "2026.08.12 20:02",
+      "office": "뉴스1",
+      "oid": "421",
+      "aid": "0009111000"
+    },
     {
       "title": "KBO의 ‘실책’ LG, 오카다 이적 무산…제대로 꼬인 플랜에 ‘황당’",
       "url": "https://n.news.naver.com/mnews/article/396/0000752194",
@@ -258,7 +330,8 @@
       "datetime": "2026.08.12 10:52",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001131339"
+      "aid": "0001131339",
+      "carried": true
     },
     {
       "title": "묵묵한 ‘헌신의 결과’→KBO ‘최다 홀드’ 신기록 됐다! 김진성 “우여곡절 많았는데…” [SS스타]",
@@ -266,7 +339,8 @@
       "datetime": "2026.08.12 10:40",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001259414"
+      "aid": "0001259414",
+      "carried": true
     },
     {
       "title": "세 번의 방출 아픔 딛고 쌓은 178홀드…통산 홀드 1위로 올라선 LG 김진성",
@@ -274,7 +348,8 @@
       "datetime": "2026.08.12 10:30",
       "office": "뉴시스",
       "oid": "003",
-      "aid": "0014122217"
+      "aid": "0014122217",
+      "carried": true
     },
     {
       "title": "‘머문 자리’가 아름다운 남자, 카라스코의 존중은 존경으로 돌아왔다",
@@ -282,7 +357,8 @@
       "datetime": "2026.08.12 10:22",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001131331"
+      "aid": "0001131331",
+      "carried": true
     },
     {
       "title": "결국 LG는 그 때 161.7km의 유혹에 넘어가선 안되는 거였다...외인 교체 카드 다 쓰고 뒤늦은 후회",
@@ -290,7 +366,8 @@
       "datetime": "2026.08.12 10:21",
       "office": "MHN스포츠",
       "oid": "445",
-      "aid": "0000448751"
+      "aid": "0000448751",
+      "carried": true
     },
     {
       "title": "'오지환 3점포로 쐐기' LG, 키움에 8-3 승...카라스코 KBO 첫 승",
@@ -298,84 +375,7 @@
       "datetime": "2026.08.12 09:48",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000201978"
-    },
-    {
-      "title": "염갈량 칼 빼 들었다...‘7월 0승 ERA 7점대’ 웰스 선발 탈락, 왜 20세 2년차를 선발로 낙점했나",
-      "url": "https://n.news.naver.com/mnews/article/109/0005587028",
-      "datetime": "2026.08.12 09:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005587028"
-    },
-    {
-      "title": "방출만 세 번 당했는데 이제는 리그의 전설로, 안지만 넘어 KBO 新 어떻게 가능했나…\"간절하게 포기하지 않았다\" [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004094002",
-      "datetime": "2026.08.12 09:41",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004094002"
-    },
-    {
-      "title": "염갈량의 확고한 믿음, 주전들이 살아야 LG가 산다…\"커리어 있는 선수들이 해줘야 이겨\" [고척 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002044205",
-      "datetime": "2026.08.12 09:35",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002044205"
-    },
-    {
-      "title": "카라스코 '한계투구수'에 달린 LG 운명…올해 최다 투구수 85구",
-      "url": "https://n.news.naver.com/mnews/article/001/0016246068",
-      "datetime": "2026.08.12 09:07",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016246068",
-      "carried": true
-    },
-    {
-      "title": "어지간한 수식어로는 담기 힘든 김진성 대기록...그리고 함께 기억해야 할 또 다른 이름들",
-      "url": "https://n.news.naver.com/mnews/article/445/0000448714",
-      "datetime": "2026.08.12 08:52",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000448714",
-      "carried": true
-    },
-    {
-      "title": "ML 통산 112승 투수 맞나? 이렇게 겸손할 수가…카라스코 \"난 KBO서 루키, 첫승 의미 있다\" [고척 인터뷰]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002044161",
-      "datetime": "2026.08.12 08:22",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002044161",
-      "carried": true
-    },
-    {
-      "title": "문정빈 이어 LG ‘우타 10홈런’ 또 나왔다! 송찬의 ‘데뷔 첫’ 두 자릿수 홈런 “승리 더 중요” [SS고척in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001259363",
-      "datetime": "2026.08.12 08:16",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001259363",
-      "carried": true
-    },
-    {
-      "title": "\"내년 5선발 후보로 보고 있다\" LG 파격 결단→2년차 투수 선발진 전격 투입, 왜 계획 앞당겼나",
-      "url": "https://n.news.naver.com/mnews/article/117/0004093950",
-      "datetime": "2026.08.12 07:45",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004093950",
-      "carried": true
-    },
-    {
-      "title": "ML 112승 외인, 데뷔 10이닝 퍼펙트 진기록→LG 구세주다…“KBO에서는 루키다. 첫 승 의미 남다르다”",
-      "url": "https://n.news.naver.com/mnews/article/109/0005586969",
-      "datetime": "2026.08.12 07:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005586969",
+      "aid": "0000201978",
       "carried": true
     }
   ]
