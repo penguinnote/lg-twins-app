@@ -382,5 +382,23 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "fetched_at": "2026-08-12T15:28:23",
+    "registered": [
+      {
+        "name": "조원태",
+        "position": "투",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "웰스",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]

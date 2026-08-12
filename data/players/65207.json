@@ -2,10 +2,10 @@
   "playerId": "65207",
   "season": 2026,
   "is_pitcher": false,
-  "games": 98,
-  "updated": "2026-08-11T23:33:53",
+  "games": 99,
+  "updated": "2026-08-12T15:28:33",
   "totals": {
-    "AB": 270,
+    "AB": 271,
     "H": 66,
     "2B": 3,
     "3B": 0,
@@ -698,6 +698,13 @@
       "opp": "키움",
       "cum_avg": 0.244,
       "cum_ops": 0.585,
+      "site_cum_avg": "0.244"
+    },
+    {
+      "date": "2026-08-12",
+      "opp": "키움",
+      "cum_avg": 0.244,
+      "cum_ops": 0.582,
       "site_cum_avg": "0.244"
     }
   ],
@@ -1407,6 +1414,13 @@
         "open": 30.095,
         "close": 30.095,
         "value": 0.0
+      },
+      {
+        "date": "2026-08-12",
+        "opp": "키움",
+        "open": 30.095,
+        "close": 28.699,
+        "value": -0.2792
       }
     ]
   },
@@ -1418,7 +1432,7 @@
         "key": "contact",
         "label": "컨택",
         "value": 0.244,
-        "rating": 34
+        "rating": 35
       },
       {
         "key": "power",
@@ -1430,7 +1444,7 @@
         "key": "eye",
         "label": "선구안",
         "value": 0.099,
-        "rating": 57
+        "rating": 56
       },
       {
         "key": "speed",

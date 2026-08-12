@@ -1,6 +1,6 @@
 {
   "team": "LG",
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "count": 30,
   "hitter_count": 15,
   "players": [
@@ -53,6 +53,12 @@
       "is_pitcher": true
     },
     {
+      "playerId": "52149",
+      "name": "조원태",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
       "playerId": "75867",
       "name": "김진성",
       "position": "투수",
@@ -85,12 +91,6 @@
     {
       "playerId": "55167",
       "name": "김영우",
-      "position": "투수",
-      "is_pitcher": true
-    },
-    {
-      "playerId": "55348",
-      "name": "웰스",
       "position": "투수",
       "is_pitcher": true
     },
