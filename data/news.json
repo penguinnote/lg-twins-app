@@ -1,9 +1,73 @@
 {
   "team": "LG",
-  "updated": "2026-08-11T23:36:32",
-  "count": 24,
+  "updated": "2026-08-12T01:24:27",
+  "count": 32,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘머문 자리’가 아름다운 남자, 카라스코의 존중은 존경으로 돌아왔다",
+      "url": "https://n.news.naver.com/mnews/article/144/0001131331",
+      "datetime": "2026.08.12 10:22",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001131331"
+    },
+    {
+      "title": "결국 LG는 그 때 161.7km의 유혹에 넘어가선 안되는 거였다...외인 교체 카드 다 쓰고 뒤늦은 후회",
+      "url": "https://n.news.naver.com/mnews/article/445/0000448751",
+      "datetime": "2026.08.12 10:21",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000448751"
+    },
+    {
+      "title": "'오지환 3점포로 쐐기' LG, 키움에 8-3 승...카라스코 KBO 첫 승",
+      "url": "https://n.news.naver.com/mnews/article/425/0000201978",
+      "datetime": "2026.08.12 09:48",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000201978"
+    },
+    {
+      "title": "염갈량 칼 빼 들었다...‘7월 0승 ERA 7점대’ 웰스 선발 탈락, 왜 20세 2년차를 선발로 낙점했나",
+      "url": "https://n.news.naver.com/mnews/article/109/0005587028",
+      "datetime": "2026.08.12 09:43",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005587028"
+    },
+    {
+      "title": "방출만 세 번 당했는데 이제는 리그의 전설로, 안지만 넘어 KBO 新 어떻게 가능했나…\"간절하게 포기하지 않았다\" [MD고척]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004094002",
+      "datetime": "2026.08.12 09:41",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004094002"
+    },
+    {
+      "title": "염갈량의 확고한 믿음, 주전들이 살아야 LG가 산다…\"커리어 있는 선수들이 해줘야 이겨\" [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002044205",
+      "datetime": "2026.08.12 09:35",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002044205"
+    },
+    {
+      "title": "카라스코 '한계투구수'에 달린 LG 운명…올해 최다 투구수 85구",
+      "url": "https://n.news.naver.com/mnews/article/001/0016246068",
+      "datetime": "2026.08.12 09:07",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016246068"
+    },
+    {
+      "title": "어지간한 수식어로는 담기 힘든 김진성 대기록...그리고 함께 기억해야 할 또 다른 이름들",
+      "url": "https://n.news.naver.com/mnews/article/445/0000448714",
+      "datetime": "2026.08.12 08:52",
+      "office": "MHN스포츠",
+      "oid": "445",
+      "aid": "0000448714"
+    },
     {
       "title": "ML 통산 112승 투수 맞나? 이렇게 겸손할 수가…카라스코 \"난 KBO서 루키, 첫승 의미 있다\" [고척 인터뷰]",
       "url": "https://n.news.naver.com/mnews/article/311/0002044161",
