@@ -1,9 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-08-12T04:01:45",
-  "count": 40,
+  "updated": "2026-08-12T06:09:25",
+  "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "데뷔 첫 10홈런, LG 연패 끊어 더 값졌다…송찬의 \"목표 이뤄 기뻐, 코치님들께 감사\" [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002044293",
+      "datetime": "2026.08.12 14:14",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002044293"
+    },
+    {
+      "title": "\"기회 받았을 때 지켜내야지\" 염경엽, 왜 ERA 2.70 왼손에게 의미심장 멘트 날렸나…이제는 정말 자리 만들어야 할 때 [MD고척]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004094080",
+      "datetime": "2026.08.12 14:11",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004094080"
+    },
+    {
+      "title": "실력도 품격도 메이저리거… LG 웃게 만드는 카라스코",
+      "url": "https://n.news.naver.com/mnews/article/025/0003543895",
+      "datetime": "2026.08.12 14:09",
+      "office": "중앙일보",
+      "oid": "025",
+      "aid": "0003543895"
+    },
+    {
+      "title": "안지만서 김진성으로…12년 만에 바뀐 통산 홀드 간판, 불펜 역사 이을 다음 세대는 누구",
+      "url": "https://n.news.naver.com/mnews/article/382/0001287924",
+      "datetime": "2026.08.12 14:06",
+      "office": "스포츠동아",
+      "oid": "382",
+      "aid": "0001287924"
+    },
+    {
+      "title": "실력에 인성까지 ‘대박’! LG, ‘카라스코 효과’ 제대로 누리는 中→‘반등 조짐’ 꿈틀 [SS포커스]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259448",
+      "datetime": "2026.08.12 13:38",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259448"
+    },
+    {
+      "title": "'50구 넘기자 흔들렸다' 카라스코, 키움전 6이닝 2실점...관건은 투구 수 관리",
+      "url": "https://n.news.naver.com/mnews/article/425/0000201984",
+      "datetime": "2026.08.12 13:35",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000201984"
+    },
+    {
+      "title": "LG '52억 FA' 1군 복귀, 8월 중 이뤄질까?…염경엽 감독 \"곧 던지기 시작할 것\" [고척 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002044280",
+      "datetime": "2026.08.12 13:06",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002044280"
+    },
     {
       "title": "타자 홀리고, 동료도 움직였다… 카라스코가 보여준 ‘ML 112승 품격’",
       "url": "https://n.news.naver.com/mnews/article/018/0006350222",
@@ -274,7 +330,8 @@
       "datetime": "2026.08.12 00:01",
       "office": "MK스포츠 ",
       "oid": "410",
-      "aid": "0001135987"
+      "aid": "0001135987",
+      "carried": true
     },
     {
       "title": "'MLB 112승' 카라스코도 기쁜 KBO리그 첫 승리…\"여기선 루키\"",
@@ -319,15 +376,6 @@
       "office": "스포츠서울",
       "oid": "468",
       "aid": "0001259309",
-      "carried": true
-    },
-    {
-      "title": "\"카라스코 첫 승·김진성 최다 홀드 축하\"…염갈량, 승리 이끈 마운드·타선에 大찬사 [고척 승장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004434974",
-      "datetime": "2026.08.11 22:51",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004434974",
       "carried": true
     }
   ]
