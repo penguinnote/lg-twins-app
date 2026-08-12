@@ -1,9 +1,73 @@
 {
   "team": "LG",
-  "updated": "2026-08-12T09:56:29",
+  "updated": "2026-08-12T10:58:55",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "KBO의 ‘실책’ LG, 오카다 이적 무산…제대로 꼬인 플랜에 ‘황당’",
+      "url": "https://n.news.naver.com/mnews/article/396/0000752194",
+      "datetime": "2026.08.12 19:52",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000752194"
+    },
+    {
+      "title": "행정 실수로 울산 日 투수 오카다, LG 이적 불발…KBO \"양 구단에 사과\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014124073",
+      "datetime": "2026.08.12 19:39",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014124073"
+    },
+    {
+      "title": "KBO 실수 때문에 LG 큰일났다! 웰스 어깨부상-오카다 영입 무산, 9월까지 아시아쿼터 없이 싸운다",
+      "url": "https://n.news.naver.com/mnews/article/529/0000078170",
+      "datetime": "2026.08.12 19:35",
+      "office": "더게이트",
+      "oid": "529",
+      "aid": "0000078170"
+    },
+    {
+      "title": "LG-울산이 무슨 죄? 말 바꾼 KBO→LG, 울산 오카다 영입 무산…\"사과의 뜻 전했다\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623151",
+      "datetime": "2026.08.12 19:33",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623151"
+    },
+    {
+      "title": "교체 마감 나흘 남기고 ‘아쿼 영입 가능→불가능’ 판단 번복한 KBO, LG는 교체권 날릴 위기",
+      "url": "https://n.news.naver.com/mnews/article/144/0001131471",
+      "datetime": "2026.08.12 19:31",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001131471"
+    },
+    {
+      "title": "‘황당 착오’ KBO가 막은 ‘오카다 LG行’…“규정 검토 미흡, 울산·LG에 사과” [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259516",
+      "datetime": "2026.08.12 19:28",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259516"
+    },
+    {
+      "title": "LG, 울산 오카다 영입 합의 뒤 무산…KBO \"규정 검토 미흡\" 사과",
+      "url": "https://n.news.naver.com/mnews/article/001/0016248116",
+      "datetime": "2026.08.12 19:23",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016248116"
+    },
+    {
+      "title": "[공식 발표] LG 세 번이나 질의했는데 KBO 황당 착오로 울산 오카다 영입 불발…KBO \"LG와 울산에 사과\"",
+      "url": "https://n.news.naver.com/mnews/article/117/0004094209",
+      "datetime": "2026.08.12 19:17",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004094209"
+    },
     {
       "title": "‘어깨 견갑하근 미세 손상’ 웰스 말소한 염경엽 LG 감독 “연습 열심히 해놓고…4주 뒤 재검진”",
       "url": "https://n.news.naver.com/mnews/article/382/0001287977",
@@ -266,7 +330,8 @@
       "datetime": "2026.08.12 09:07",
       "office": "연합뉴스",
       "oid": "001",
-      "aid": "0016246068"
+      "aid": "0016246068",
+      "carried": true
     },
     {
       "title": "어지간한 수식어로는 담기 힘든 김진성 대기록...그리고 함께 기억해야 할 또 다른 이름들",
@@ -274,7 +339,8 @@
       "datetime": "2026.08.12 08:52",
       "office": "MHN스포츠",
       "oid": "445",
-      "aid": "0000448714"
+      "aid": "0000448714",
+      "carried": true
     },
     {
       "title": "ML 통산 112승 투수 맞나? 이렇게 겸손할 수가…카라스코 \"난 KBO서 루키, 첫승 의미 있다\" [고척 인터뷰]",
@@ -282,7 +348,8 @@
       "datetime": "2026.08.12 08:22",
       "office": "엑스포츠뉴스",
       "oid": "311",
-      "aid": "0002044161"
+      "aid": "0002044161",
+      "carried": true
     },
     {
       "title": "문정빈 이어 LG ‘우타 10홈런’ 또 나왔다! 송찬의 ‘데뷔 첫’ 두 자릿수 홈런 “승리 더 중요” [SS고척in]",
@@ -290,7 +357,8 @@
       "datetime": "2026.08.12 08:16",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001259363"
+      "aid": "0001259363",
+      "carried": true
     },
     {
       "title": "\"내년 5선발 후보로 보고 있다\" LG 파격 결단→2년차 투수 선발진 전격 투입, 왜 계획 앞당겼나",
@@ -298,7 +366,8 @@
       "datetime": "2026.08.12 07:45",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004093950"
+      "aid": "0004093950",
+      "carried": true
     },
     {
       "title": "ML 112승 외인, 데뷔 10이닝 퍼펙트 진기록→LG 구세주다…“KBO에서는 루키다. 첫 승 의미 남다르다”",
@@ -306,76 +375,7 @@
       "datetime": "2026.08.12 07:44",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005586969"
-    },
-    {
-      "title": "'MLB 112승→KBO 첫 승' 카라스코 겸손 보소! \"韓서 나는 신인→계속 공부하겠다, 동료들 리스펙\"",
-      "url": "https://n.news.naver.com/mnews/article/108/0003461194",
-      "datetime": "2026.08.12 07:07",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003461194"
-    },
-    {
-      "title": "41세 LG 헌신좌, 역대 최다 홀드 1위 등극! \"우여곡절 많았는데, 포기하지 않으니 이런 기회가...\" 감격 소감",
-      "url": "https://n.news.naver.com/mnews/article/108/0003461181",
-      "datetime": "2026.08.12 05:55",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003461181"
-    },
-    {
-      "title": "\"저는 여기서 루키에요\" 이래서 ML 112승 거물이구나, 실력보다 돋보인 '존중' [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004093934",
-      "datetime": "2026.08.12 05:41",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004093934",
-      "carried": true
-    },
-    {
-      "title": "‘과거’의 카라스코가 ‘미래’의 안우진에 ‘참교육’…마운드 운영 압도 [김대호의 핵심체크]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000523684",
-      "datetime": "2026.08.12 05:25",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000523684",
-      "carried": true
-    },
-    {
-      "title": "이주헌? 박동원? 카라스코에겐 중요치 않다…韓 첫 승 이룬 베테랑 루키, '리스펙' 정신이 더 빛났다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623014",
-      "datetime": "2026.08.12 05:06",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623014",
-      "carried": true
-    },
-    {
-      "title": "‘도박 추락’ 안지만 KBO 최다 홀드 기록 사라졌다...‘LG 헌신맨’ 41세 베테랑 178홀드, \"간절하게 포기하지 않으니 이런 기회도\"",
-      "url": "https://n.news.naver.com/mnews/article/109/0005586944",
-      "datetime": "2026.08.12 04:41",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005586944",
-      "carried": true
-    },
-    {
-      "title": "LG 웰스 불펜 강등 초강수! \"팀이나 선수에게나 도움안된다는 판단\" 사령탑이 직접 이유 밝혔다",
-      "url": "https://n.news.naver.com/mnews/article/108/0003461174",
-      "datetime": "2026.08.12 04:33",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003461174",
-      "carried": true
-    },
-    {
-      "title": "\"삼성·KT전 패배 뼈아팠다\"…'염갈량'이 분석한 8연패 이유→\"이젠 베테랑이 해줘야할 때\"",
-      "url": "https://n.news.naver.com/mnews/article/076/0004434997",
-      "datetime": "2026.08.12 03:22",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004434997",
+      "aid": "0005586969",
       "carried": true
     }
   ]
