@@ -1,9 +1,49 @@
 {
   "team": "LG",
-  "updated": "2026-08-13T04:06:08",
-  "count": 42,
+  "updated": "2026-08-13T06:12:12",
+  "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "\"아직 마음 정리하지 못했지만…\" LG-울산 사이에서 붕 뜬 오카다, 착잡한 심경 고백",
+      "url": "https://n.news.naver.com/mnews/article/109/0005587768",
+      "datetime": "2026.08.13 14:41",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005587768"
+    },
+    {
+      "title": "'LG 이적 불발' 울산 웨일즈 오카다 \"퓨처스 우승 위해 최선 다할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/003/0014125979",
+      "datetime": "2026.08.13 14:37",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014125979"
+    },
+    {
+      "title": "어디서 이런 보물을 데려왔나…'ML 112승' 카라스코 \"韓타자 컨택능력 뛰어나더라→난 KBO루키, 더 공부할 것\"",
+      "url": "https://n.news.naver.com/mnews/article/076/0004435527",
+      "datetime": "2026.08.13 14:22",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004435527"
+    },
+    {
+      "title": "KBO ‘황당 촌극’→LG 亞쿼터 교체 ‘무산’, 사과는 했는데…LG·울산·오카다 플랜 다 꼬였다 [SS포커스]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259741",
+      "datetime": "2026.08.13 13:50",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259741"
+    },
+    {
+      "title": "오카다 \"LG에서 1군 등판 준비했다\" KBO 규약 오독→황당 이적 무산, 오카다가 한글로 전한 진심",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623237",
+      "datetime": "2026.08.13 13:35",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623237"
+    },
     {
       "title": "위기의 '예비 FA'…LG 홍창기·박동원, 길어지는 동반 부진",
       "url": "https://n.news.naver.com/mnews/article/003/0014125553",
@@ -290,7 +330,8 @@
       "datetime": "2026.08.13 00:05",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000623169"
+      "aid": "0000623169",
+      "carried": true
     },
     {
       "title": "'이렇게 황당한 일이 있나' LG, 결별 통보 웰스와 다시 '동거'해야, 왜?",
@@ -335,15 +376,6 @@
       "office": "OSEN",
       "oid": "109",
       "aid": "0005587485",
-      "carried": true
-    },
-    {
-      "title": "\"프로 스포츠 맞아?\" 축구·야구 구단 운명 가른 황당한 '규정 미숙지'",
-      "url": "https://n.news.naver.com/mnews/article/469/0000947718",
-      "datetime": "2026.08.12 21:08",
-      "office": "한국일보",
-      "oid": "469",
-      "aid": "0000947718",
       "carried": true
     }
   ]
