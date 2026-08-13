@@ -1,9 +1,121 @@
 {
   "team": "LG",
-  "updated": "2026-08-13T08:15:44",
+  "updated": "2026-08-13T09:58:11",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "\"유니폼까지 주문했는데…\" 염경엽 터졌다, KBO 황당 번복에 LG '분통'",
+      "url": "https://n.news.naver.com/mnews/article/079/0004178633",
+      "datetime": "2026.08.13 18:45",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004178633"
+    },
+    {
+      "title": "계약서 사인→장비까지 주문했는데 LG행 무산! 오카다 질문에 말 아낀 염경엽 \"가장 안쓰러운 건 선수\"",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461823",
+      "datetime": "2026.08.13 18:45",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461823"
+    },
+    {
+      "title": "염경엽 LG 감독, 아시아쿼터 교체 무산에 \"새로운 판 짤 것\"",
+      "url": "https://n.news.naver.com/mnews/article/001/0016250721",
+      "datetime": "2026.08.13 18:26",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016250721"
+    },
+    {
+      "title": "\"유니폼까지 주문했는데\" 오카다, 잠실서 발표만 기다렸다…기본도 못챙긴 KBO 만행, 모두가 피해자 [고척포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004435641",
+      "datetime": "2026.08.13 18:23",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004435641"
+    },
+    {
+      "title": "'LG 트윈스 오카다' 계약서에 사인까지 다 했는데, KBO가 받아주질 않았다…염경엽 감독 \"가장 안쓰러운 건 선수\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623277",
+      "datetime": "2026.08.13 18:21",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623277"
+    },
+    {
+      "title": "KBO 황당 실수에 오카다 영입 불발, 염갈량은 한숨만 “된다고 해서 다른 후보 생각도 안했는데…” [오!쎈 고척]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005587921",
+      "datetime": "2026.08.13 18:21",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005587921"
+    },
+    {
+      "title": "촌극 속 현실된 아쿼 교체 무산… 새 그림 그릴 수밖에 없는 LG “박시원 멘털, 밸런스 많이 좋아졌다”",
+      "url": "https://n.news.naver.com/mnews/article/144/0001131723",
+      "datetime": "2026.08.13 18:21",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001131723"
+    },
+    {
+      "title": "“가장 안쓰러운 건 오카다” 사상 초유의 LG·울산 ‘이적 무산’ 사태…염갈량도 안타깝다 [SS고척in]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259795",
+      "datetime": "2026.08.13 18:18",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259795"
+    },
+    {
+      "title": "\"오카다 가장 안쓰러워\" 염경엽은 선수부터 감쌌다…\"투 트랙 준비하지 않았다 \"LG 亞쿼터 영입 사실상 끝 [MD고척]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004094580",
+      "datetime": "2026.08.13 18:14",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004094580"
+    },
+    {
+      "title": "‘웰스 대체 선수는 없다’ LG, 구본혁→신민재 9번 2루수 교체…키움, 알칸타라 복귀전 [오!쎈 고척]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005587883",
+      "datetime": "2026.08.13 17:21",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005587883"
+    },
+    {
+      "title": "'염경엽 감독 믿음 여전' 박동원 3G 연속 포수 선발 출전…LG, 8월 첫 위닝 시리즈 만들까 [MD고척]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004094570",
+      "datetime": "2026.08.13 17:21",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004094570"
+    },
+    {
+      "title": "'이게 무슨 날벼락' 아쉬움 삼킨 오카다의 품격 \"관심 준 LG에 감사, 울산에서 퓨처스 우승하겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/241/0003525215",
+      "datetime": "2026.08.13 17:20",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003525215"
+    },
+    {
+      "title": "'알칸타라 상대' LG 라인업 공개! '신민재 IN→구본혁 OUT' 홍창기-문보경-박동원 모두 선발 출격",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461786",
+      "datetime": "2026.08.13 17:15",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461786"
+    },
+    {
+      "title": "LG 이적· KBO 1군 데뷔 무산된 울산 오카다 \"매우 아쉽게 생각\"",
+      "url": "https://n.news.naver.com/mnews/article/214/0001517742",
+      "datetime": "2026.08.13 17:13",
+      "office": "MBC",
+      "oid": "214",
+      "aid": "0001517742"
+    },
     {
       "title": "위닝시리즈 절실한 LG, 천적 알칸타라 상대로 '우승 멤버+문정빈' 선발 라인업 가동",
       "url": "https://n.news.naver.com/mnews/article/477/0000623262",
@@ -218,7 +330,8 @@
       "datetime": "2026.08.13 08:57",
       "office": "스타뉴스",
       "oid": "108",
-      "aid": "0003461609"
+      "aid": "0003461609",
+      "carried": true
     },
     {
       "title": "사과로 끝날 일이 아니다…KBO의 ‘말 바꾸기’에 LG·울산·오카다의 꿈이 모두 다쳤다",
@@ -226,7 +339,8 @@
       "datetime": "2026.08.13 08:48",
       "office": "MHN스포츠",
       "oid": "445",
-      "aid": "0000449091"
+      "aid": "0000449091",
+      "carried": true
     },
     {
       "title": "'찬규야 괜찮아? 형 진짜 놀랐어!' 얼굴로 날아든 강습 타구에 쓰러진 임찬규, 깜짝 놀라 달려간 서건창",
@@ -234,7 +348,8 @@
       "datetime": "2026.08.13 07:46",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004435409"
+      "aid": "0004435409",
+      "carried": true
     },
     {
       "title": "‘65억’ LG 우승 포수, 왜 이러나…2경기 연속 공 놓쳐 실점→최악의 역전패 ‘충격’, 타율은 리그 최하위",
@@ -242,7 +357,8 @@
       "datetime": "2026.08.13 07:45",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005587597"
+      "aid": "0005587597",
+      "carried": true
     },
     {
       "title": "빅리그 112승 카라스코는 고개부터 숙였다",
@@ -250,7 +366,8 @@
       "datetime": "2026.08.13 07:01",
       "office": "스포츠경향",
       "oid": "144",
-      "aid": "0001131535"
+      "aid": "0001131535",
+      "carried": true
     },
     {
       "title": "'살다살다 이런 코메디는 처음' 왜 터지고 나서 움직였나?'…웰스 사태가 드러낸 LG의 안일함과 KBO의 허점",
@@ -258,124 +375,7 @@
       "datetime": "2026.08.13 06:35",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000202004"
-    },
-    {
-      "title": "\"팬들에게 야유도 받아보고, 자존심 상했을 것…지금 시련, 엄청난 자극제 될 것\"[고척 포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004435394",
-      "datetime": "2026.08.13 06:32",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004435394"
-    },
-    {
-      "title": "'흥행은 또 신기록인데, 행정이 못 따라가나' KBO, 日 오카다 이적 해프닝+뒷북 폭염 대책?",
-      "url": "https://n.news.naver.com/mnews/article/079/0004178214",
-      "datetime": "2026.08.13 06:10",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004178214"
-    },
-    {
-      "title": "‘이런 일이 있나’ LG, KBO 황당 실수로 오카다 영입 무산…“사과의 뜻 전했다”",
-      "url": "https://n.news.naver.com/mnews/article/410/0001136120",
-      "datetime": "2026.08.13 05:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001136120"
-    },
-    {
-      "title": "\"구단에 물어보세요\" 염경엽 반응 이유 있었네…KBO에 질의까지 했는데, 亞쿼터 교체 무산되나 [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004094343",
-      "datetime": "2026.08.13 05:41",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004094343"
-    },
-    {
-      "title": "3번 문의했는데 뒤늦게 “안 된다” 바꾼 KBO…아마추어 행정에 구단도 선수도 피해",
-      "url": "https://n.news.naver.com/mnews/article/081/0003669986",
-      "datetime": "2026.08.13 05:31",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003669986"
-    },
-    {
-      "title": "벼랑 끝에서 쌓은 김진성의 178홀드…모든 실패자에게 ‘희망’을 쏜다 [김대호의 야구人]",
-      "url": "https://n.news.naver.com/mnews/article/629/0000524090",
-      "datetime": "2026.08.13 05:11",
-      "office": "더팩트",
-      "oid": "629",
-      "aid": "0000524090"
-    },
-    {
-      "title": "'한시가 급한데' KBO 황당 오판에 날아간 LG의 골든타임…울산 오카다 영입 무산→대체자 찾을 시간마저 사라졌다 [고척 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002044593",
-      "datetime": "2026.08.13 05:00",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002044593"
-    },
-    {
-      "title": "이렇게 황당한 일이 있나, 왜 LG는 울산 오카다 영입 발표 직전 무산됐나…이례적인 KBO의 공식 사과",
-      "url": "https://n.news.naver.com/mnews/article/109/0005587567",
-      "datetime": "2026.08.13 04:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005587567"
-    },
-    {
-      "title": "3번이나 '오카다 LG행' 문제없다→발표 직전 불허라니! KBO는 대체 왜 19시 경기 개시에 맞춰 입장문 냈을까",
-      "url": "https://n.news.naver.com/mnews/article/108/0003461570",
-      "datetime": "2026.08.13 03:33",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003461570",
-      "carried": true
-    },
-    {
-      "title": "\"돈 벌러 온 것 NO, 야구가 하고 싶어 왔다\"…'ML 112승' 카라스코, 실력에 인성까지 '넘사벽' 레벨 [고척 포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004435380",
-      "datetime": "2026.08.13 03:22",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004435380",
-      "carried": true
-    },
-    {
-      "title": "'충격의 8회, 실책-폭투 낫아웃' LG 문정빈이 불러온 승기도, 41일 만의 2연승도 날렸다 [IS 고척]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525114",
-      "datetime": "2026.08.13 01:16",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525114",
-      "carried": true
-    },
-    {
-      "title": "'초유의 사태' KBO 오판으로 LG-울산 트레이드 무산, 가장 큰 피해자는 오카다 [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004094327",
-      "datetime": "2026.08.13 01:04",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004094327",
-      "carried": true
-    },
-    {
-      "title": "'웰스 어깨 부상' LG, 울산 오카다 영입 합의 마쳤으나 KBO 유권해석 번복에 무산",
-      "url": "https://n.news.naver.com/mnews/article/472/0000041148",
-      "datetime": "2026.08.13 00:23",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000041148",
-      "carried": true
-    },
-    {
-      "title": "구위도 품위도 빅리거… 바다 건너 온 ‘LG 복덩이’",
-      "url": "https://n.news.naver.com/mnews/article/025/0003544043",
-      "datetime": "2026.08.13 00:14",
-      "office": "중앙일보",
-      "oid": "025",
-      "aid": "0003544043",
+      "aid": "0000202004",
       "carried": true
     }
   ]
