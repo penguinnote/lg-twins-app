@@ -2,8 +2,8 @@
   "playerId": "52154",
   "season": 2026,
   "is_pitcher": false,
-  "games": 49,
-  "updated": "2026-08-12T15:28:28",
+  "games": 50,
+  "updated": "2026-08-13T15:29:52",
   "totals": {
     "AB": 90,
     "H": 21,
@@ -353,6 +353,13 @@
     {
       "date": "2026-08-04",
       "opp": "SSG",
+      "cum_avg": 0.233,
+      "cum_ops": 0.677,
+      "site_cum_avg": "0.233"
+    },
+    {
+      "date": "2026-08-13",
+      "opp": "키움",
       "cum_avg": 0.233,
       "cum_ops": 0.677,
       "site_cum_avg": "0.233"
@@ -721,6 +728,13 @@
         "open": 83.811,
         "close": 84.915,
         "value": 0.2208
+      },
+      {
+        "date": "2026-08-13",
+        "opp": "키움",
+        "open": 84.915,
+        "close": 84.915,
+        "value": 0.0
       }
     ]
   },

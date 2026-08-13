@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 29,
-  "updated": "2026-08-12T15:29:12",
+  "updated": "2026-08-13T15:30:41",
   "totals": {
     "IP": 32.665,
     "R": 8,
@@ -717,7 +717,7 @@
         "key": "control",
         "label": "제구",
         "value": 5.79,
-        "rating": 18
+        "rating": 17
       },
       {
         "key": "strikeout",
@@ -735,13 +735,13 @@
         "key": "homers",
         "label": "장타억제",
         "value": 0.55,
-        "rating": 78
+        "rating": 80
       },
       {
         "key": "innings",
         "label": "이닝소화",
         "value": 32.7,
-        "rating": 45
+        "rating": 44
       },
       {
         "key": "run_prevention",
