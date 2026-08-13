@@ -1,16 +1,105 @@
 {
   "team": "LG",
-  "updated": "2026-08-13T14:22:04",
-  "count": 46,
+  "updated": "2026-08-13T21:39:17",
+  "count": 17,
   "carried_count": 6,
   "items": [
+    {
+      "title": "LG 박동원, 무려 37일 만에 멀티히트 폭발! \"못치더라도 잘할 수 있는 것만 하자는 생각으로\"",
+      "url": "https://n.news.naver.com/mnews/article/108/0003461972",
+      "datetime": "2026.08.14 06:37",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003461972"
+    },
+    {
+      "title": "\"잠을 잘 수가 있나\" 후반기 꼴찌, '새판' 짜는 LG…추락은 염갈량을 병들게 한다 [고척포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004435864",
+      "datetime": "2026.08.14 06:00",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004435864"
+    },
+    {
+      "title": "KBO 오카다 사태→대충격 LG, 20세 오른손으로 마음 달랠까…어떻게 염갈량 마음 훔쳤나 \"엉뚱한 짓만 안 하면 꾸준하게 나간다\" [MD고척]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004094723",
+      "datetime": "2026.08.14 05:41",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004094723"
+    },
+    {
+      "title": "아들의 \"그냥 맞춰\" 조언에 터진 결승포…오스틴, 홈런왕 질문에는 \"다음 질문 받겠다\"",
+      "url": "https://n.news.naver.com/mnews/article/079/0004178667",
+      "datetime": "2026.08.14 05:36",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004178667"
+    },
+    {
+      "title": "LG 이제 돌이킬 수 없다, 웰스 잊고 박시원으로 새 판 짠다 \"스트라이크만 던지면 타자 이길 수 있어\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623326",
+      "datetime": "2026.08.14 05:00",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623326"
+    },
+    {
+      "title": "\"나 고등학생 때 카라스코가 프로였는데\" 오스틴이 생각해도 비현실적인 일, 그래서 더 기대가 크다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623323",
+      "datetime": "2026.08.14 01:38",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623323"
+    },
+    {
+      "title": "오스틴 한 방에 불붙었다. LG, 5회 타자일순 맹공으로 키움 13-6 제압",
+      "url": "https://n.news.naver.com/mnews/article/450/0000153293",
+      "datetime": "2026.08.14 00:42",
+      "office": "STN 뉴스",
+      "oid": "450",
+      "aid": "0000153293"
+    },
+    {
+      "title": "이럴거면 울산 왜 창단했나…역사적인 첫 이적, KBO 착오로 끝났다 “좋은 케이스 될 수 있었는데…”",
+      "url": "https://n.news.naver.com/mnews/article/109/0005588332",
+      "datetime": "2026.08.14 00:11",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005588332"
+    },
+    {
+      "title": "‘부진의 늪’ 박동원·신민재·홍창기로 시작한 ‘빅이닝’, LG 대승과 함께 ‘희망’ 봤다 [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001259819",
+      "datetime": "2026.08.14 00:06",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001259819"
+    },
+    {
+      "title": "\"이렇게 키운 선수가 들어가야\" 日 오카다 날린 KBO 촌극…LG, 2년 차 신예로 돌파",
+      "url": "https://n.news.naver.com/mnews/article/079/0004178650",
+      "datetime": "2026.08.14 00:06",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004178650"
+    },
+    {
+      "title": "'침몰 직전' LG, 키움 '보약' 먹고 위기탈출! 한숨 돌린 염갈량…7~8월 위닝시리즈 3번 모두 키움 [고척포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004435844",
+      "datetime": "2026.08.14 00:05",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004435844"
+    },
     {
       "title": "'가을이 코앞인데...' LG 톨허스트, 정말 왜 이러나? 키움전서 또 난타당해, 후반기 ERA 7.07",
       "url": "https://n.news.naver.com/mnews/article/425/0000202282",
       "datetime": "2026.08.13 23:11",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000202282"
+      "aid": "0000202282",
+      "carried": true
     },
     {
       "title": "“오랜만에 찬스에서 결과 잘 만들었다” 염갈량 ‘메가트윈스포’ 발동에 ‘함박웃음’ [SS고척in]",
@@ -18,7 +107,8 @@
       "datetime": "2026.08.13 23:07",
       "office": "스포츠서울",
       "oid": "468",
-      "aid": "0001259818"
+      "aid": "0001259818",
+      "carried": true
     },
     {
       "title": "'13안타 폭발' LG, 키움에 13-6 완승...오스틴 시즌 32호 홈런 포함 4타점",
@@ -26,7 +116,8 @@
       "datetime": "2026.08.13 23:05",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000202280"
+      "aid": "0000202280",
+      "carried": true
     },
     {
       "title": "염경엽도 대만족 \"오랜만에 찬스 잘 살려줬다→많은 LG 팬들 덕분에 위닝, 톨허스트 10승도 축하\"",
@@ -34,7 +125,8 @@
       "datetime": "2026.08.13 23:05",
       "office": "스타뉴스",
       "oid": "108",
-      "aid": "0003461950"
+      "aid": "0003461950",
+      "carried": true
     },
     {
       "title": "[IS 스타] 아들의 \"그냥 공을 맞히면 된다\"는 말에…오스틴, 14일 만에 홈런포",
@@ -42,7 +134,8 @@
       "datetime": "2026.08.13 23:00",
       "office": "일간스포츠",
       "oid": "241",
-      "aid": "0003525292"
+      "aid": "0003525292",
+      "carried": true
     },
     {
       "title": "“오스틴 홈런으로 좋은 흐름 만들어져” 염경엽 감독이 본 ’1이닝 8득점’ 터닝포인트",
@@ -50,332 +143,7 @@
       "datetime": "2026.08.13 22:59",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000623313"
-    },
-    {
-      "title": "염경엽 감독 \"타자들이 모처럼 중요한 찬스서 결과 만들었다\" [IS 고척]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525290",
-      "datetime": "2026.08.13 22:55",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525290"
-    },
-    {
-      "title": "“그런 더위는 처음…” 폭염에 혀내두른 오스틴, 댈러스 조언에 다시 방망이 불태웠다",
-      "url": "https://n.news.naver.com/mnews/article/144/0001131763",
-      "datetime": "2026.08.13 22:50",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001131763"
-    },
-    {
-      "title": "이 얼마 만인가? LG 베테랑 주전 타격 폭발하니까 경기가 풀린다",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525289",
-      "datetime": "2026.08.13 22:44",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525289"
-    },
-    {
-      "title": "'작별인사→사인' KBO 착오로 오카다 LG행 불발 \"마음 정리 못했지만…\"",
-      "url": "https://n.news.naver.com/mnews/article/119/0003121666",
-      "datetime": "2026.08.13 22:31",
-      "office": "데일리안",
-      "oid": "119",
-      "aid": "0003121666"
-    },
-    {
-      "title": "갈팡질팡 KBO에 아쿼 교체권 날린 LG",
-      "url": "https://n.news.naver.com/mnews/article/144/0001131759",
-      "datetime": "2026.08.13 22:30",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001131759"
-    },
-    {
-      "title": "오스틴, 시즌 32호 스리런포...LG, 키움 제물로 위닝시리즈",
-      "url": "https://n.news.naver.com/mnews/article/018/0006351435",
-      "datetime": "2026.08.13 22:29",
-      "office": "이데일리",
-      "oid": "018",
-      "aid": "0006351435"
-    },
-    {
-      "title": "메가트윈스포 대폭발… 오스틴 결승포 LG, 키움 제압",
-      "url": "https://n.news.naver.com/mnews/article/025/0003544302",
-      "datetime": "2026.08.13 22:22",
-      "office": "중앙일보",
-      "oid": "025",
-      "aid": "0003544302"
-    },
-    {
-      "title": "오카다 영입 불발로 쓰린 속 오스틴이 싹 내렸다, 홈런 포함 3안타 5타점 쾅! 톨허스트 10승…LG 8월 첫 위닝 [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004094676",
-      "datetime": "2026.08.13 22:18",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004094676"
-    },
-    {
-      "title": "‘오스틴 결승 3점포’가 기폭제 되어 타선 폭발한 LG, 난타전 끝에 키움 꺾고 후반기 첫 위닝시리즈...톨허스트 팀 타선 덕에 KBO리그 첫 ‘10승’ [고척돔 현장 리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/022/0004150839",
-      "datetime": "2026.08.13 22:17",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004150839"
-    },
-    {
-      "title": "'오스틴 터졌다→5회 8득점 빅이닝' 메가트윈스포 폭발! LG, 키움 13-6 대파하고 위닝시리즈 달성 [고척 현장리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/108/0003461946",
-      "datetime": "2026.08.13 22:17",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003461946"
-    },
-    {
-      "title": "프로야구 LG, 팀 13안타 폭발…키움에 대승",
-      "url": "https://n.news.naver.com/mnews/article/001/0016250868",
-      "datetime": "2026.08.13 22:15",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016250868"
-    },
-    {
-      "title": "'한이닝 8득점' 메가트윈스포 대폭발! 오스틴 역전 3점포 포함 4타점 불방망이…키움 잡고 시리즈위닝 [고척리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004435814",
-      "datetime": "2026.08.13 22:14",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004435814"
-    },
-    {
-      "title": "‘한 이닝 8득점’ 쌍둥이 군단 화력 미쳤다!…‘오스틴 32호포＆4타점’ LG, 키움에 전날 패배 설욕하며 위닝시리즈 달성",
-      "url": "https://n.news.naver.com/mnews/article/410/0001136271",
-      "datetime": "2026.08.13 22:14",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001136271"
-    },
-    {
-      "title": "'오스틴 역전포+5회 8득점 빅이닝' LG, 키움에 13-6 대역전승…위닝시리즈 완성",
-      "url": "https://n.news.naver.com/mnews/article/079/0004178647",
-      "datetime": "2026.08.13 22:14",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004178647"
-    },
-    {
-      "title": "‘5회 8득점 대폭발!’ LG, 키움 13-6 대파→위닝시리즈…오스틴, 3안타 1홈런 4타점 맹활약 [고척 리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005588242",
-      "datetime": "2026.08.13 22:13",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005588242"
-    },
-    {
-      "title": "오스틴 ‘32호 대포’+박동원 ‘3안타 맹타’→‘메가트윈스포’ LG, 키움 13-6 완파 [SS고척in]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001259815",
-      "datetime": "2026.08.13 22:13",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001259815"
-    },
-    {
-      "title": "'후반기 꼴찌' LG 분위기 반전? 박해민 동점타→오스틴 역전포로 1이닝 8득점 메가트윈스포, 키움에 위닝시리즈",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623309",
-      "datetime": "2026.08.13 22:13",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623309"
-    },
-    {
-      "title": "'오스틴+박동원+오지환+신민재 다 터졌다' LG, 키움 꺾고 위닝 시리즈 [IS 고척]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525286",
-      "datetime": "2026.08.13 22:12",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525286"
-    },
-    {
-      "title": "LG 오스틴, 14일 만에 시즌 32호포…KIA 김도영과 2개 차",
-      "url": "https://n.news.naver.com/mnews/article/421/0009113318",
-      "datetime": "2026.08.13 21:54",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009113318"
-    },
-    {
-      "title": "에이스가 4이닝 8실점이라니? 참담했던 22일만의 복귀 무대…준비가 부족했나 [고척리포트]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004435793",
-      "datetime": "2026.08.13 21:31",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004435793"
-    },
-    {
-      "title": "LG 아시아쿼터 교체, KBO 탓에 '황당 무산'…염경엽 감독 \"시민구단 좋은 사례 될 수 있었는데, 새 판 짜겠다\"",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045007",
-      "datetime": "2026.08.13 21:31",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045007"
-    },
-    {
-      "title": "“오카다 영입 무산의 울분을 한 방에 날려버렸다”...LG 오스틴, 시원한 3점포로 14일 만에 손 맛...32홈런으로 KIA 김도영에 2개차 추격",
-      "url": "https://n.news.naver.com/mnews/article/022/0004150833",
-      "datetime": "2026.08.13 21:04",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004150833"
-    },
-    {
-      "title": "'4위 추락 위기' LG 메가트윈스포 폭발…박해민 17타수 만에 안타로 동점→오스틴 7경기 만에 홈런 역전 스리런 터졌다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623305",
-      "datetime": "2026.08.13 20:48",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623305"
-    },
-    {
-      "title": "'LG 구세주' 박해민 동점타 → 오스틴 역전 3점포! 5회에만 8득점 빅이닝…고척돔 물들인 LG의 노란색 물결 [고척현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004435773",
-      "datetime": "2026.08.13 20:47",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004435773"
-    },
-    {
-      "title": "'김도영과 2개 차!' LG 오스틴, 균형 깨는 스리런→LG 5회에만 8득점…고척의 왕 8실점 충격 강판 [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004094631",
-      "datetime": "2026.08.13 20:44",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004094631"
-    },
-    {
-      "title": "홈런 침묵 깬 LG 오스틴, 2주 만에 대포 폭발…시즌 32호포",
-      "url": "https://n.news.naver.com/mnews/article/003/0014126822",
-      "datetime": "2026.08.13 20:40",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014126822"
-    },
-    {
-      "title": "LG 오스틴 역전 스리런 폭발, KIA 김도영 2개 차 추격 [IS 고척]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525247",
-      "datetime": "2026.08.13 20:38",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525247"
-    },
-    {
-      "title": "LG 오스틴, 14일 만에 홈런포 재가동…1위 김도영과 2개 차",
-      "url": "https://n.news.naver.com/mnews/article/001/0016250792",
-      "datetime": "2026.08.13 20:31",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016250792"
-    },
-    {
-      "title": "KBO 실수에… LG, 亞쿼터 카드 날아갈 판",
-      "url": "https://n.news.naver.com/mnews/article/022/0004150821",
-      "datetime": "2026.08.13 20:19",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004150821"
-    },
-    {
-      "title": "'LG행 무산' 오카다가 남긴 말 \"재계약 못하면 다시 오겠습니다\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016250757",
-      "datetime": "2026.08.13 19:25",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016250757"
-    },
-    {
-      "title": "\"새 판을 짜야 한다\" 오카타 불발→허탈한 LG, 그래도 빈자리는 채워야 한다…ERA 7.14 우완 다시 기회 받다 [MD고척]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004094589",
-      "datetime": "2026.08.13 19:11",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004094589"
-    },
-    {
-      "title": "\"성공 가능성을 보고 추진했는데...\" 오카다 영입 무산이 못내 아쉬운 염경엽 [IS 고척]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525240",
-      "datetime": "2026.08.13 19:07",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525240"
-    },
-    {
-      "title": "계약서 사인+유니폼 주문까지 모두 끝났는데…아사아쿼터 ‘교체 무산’ 염경엽 감독의 쓴웃음 [SD 고척 브리핑]",
-      "url": "https://n.news.naver.com/mnews/article/382/0001288171",
-      "datetime": "2026.08.13 19:02",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001288171"
-    },
-    {
-      "title": "KBO 유권 해석 실수라는 ‘촌극’에 오카다 영입 무산된 LG ‘염갈량’ “잠을 잘 수 있겠어요? 가장 안쓰러운 건 오카다와 울산 웨일즈”",
-      "url": "https://n.news.naver.com/mnews/article/022/0004150804",
-      "datetime": "2026.08.13 18:58",
-      "office": "세계일보",
-      "oid": "022",
-      "aid": "0004150804"
-    },
-    {
-      "title": "\"유니폼까지 주문했는데…\" 염경엽 터졌다, KBO 황당 번복에 LG '분통'",
-      "url": "https://n.news.naver.com/mnews/article/079/0004178633",
-      "datetime": "2026.08.13 18:45",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004178633",
-      "carried": true
-    },
-    {
-      "title": "계약서 사인→장비까지 주문했는데 LG행 무산! 오카다 질문에 말 아낀 염경엽 \"가장 안쓰러운 건 선수\"",
-      "url": "https://n.news.naver.com/mnews/article/108/0003461823",
-      "datetime": "2026.08.13 18:45",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003461823",
-      "carried": true
-    },
-    {
-      "title": "염경엽 LG 감독, 아시아쿼터 교체 무산에 \"새로운 판 짤 것\"",
-      "url": "https://n.news.naver.com/mnews/article/001/0016250721",
-      "datetime": "2026.08.13 18:26",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016250721",
-      "carried": true
-    },
-    {
-      "title": "\"유니폼까지 주문했는데\" 오카다, 잠실서 발표만 기다렸다…기본부터 놓친 KBO의 '착각', 모두가 피해자 [고척포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004435641",
-      "datetime": "2026.08.13 18:23",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004435641",
-      "carried": true
-    },
-    {
-      "title": "'LG 트윈스 오카다' 계약서에 사인까지 다 했는데, KBO가 받아주질 않았다…염경엽 감독 \"가장 안쓰러운 건 선수\"",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623277",
-      "datetime": "2026.08.13 18:21",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623277",
-      "carried": true
-    },
-    {
-      "title": "KBO 황당 실수에 오카다 영입 불발, 염갈량은 한숨만 “된다고 해서 다른 후보 생각도 안했는데…” [오!쎈 고척]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005587921",
-      "datetime": "2026.08.13 18:21",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005587921",
+      "aid": "0000623313",
       "carried": true
     }
   ]
