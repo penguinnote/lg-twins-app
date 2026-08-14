@@ -1,9 +1,17 @@
 {
   "team": "LG",
-  "updated": "2026-08-14T11:40:31",
+  "updated": "2026-08-14T12:53:16",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'5이닝 1실점' LG 송승기, 6회 앞두고 손가락 물집으로 교체",
+      "url": "https://n.news.naver.com/mnews/article/003/0014129033",
+      "datetime": "2026.08.14 20:43",
+      "office": "뉴시스",
+      "oid": "003",
+      "aid": "0014129033"
+    },
     {
       "title": "LG 송승기, 물집 생겨서 교체 [잠실 현장]",
       "url": "https://n.news.naver.com/mnews/article/076/0004436044",
@@ -322,7 +330,8 @@
       "datetime": "2026.08.14 05:00",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000623326"
+      "aid": "0000623326",
+      "carried": true
     },
     {
       "title": "\"나 고등학생 때 카라스코가 프로였는데\" 오스틴이 생각해도 비현실적인 일, 그래서 더 기대가 크다",
@@ -367,15 +376,6 @@
       "office": "노컷뉴스",
       "oid": "079",
       "aid": "0004178650",
-      "carried": true
-    },
-    {
-      "title": "한숨 돌린 염갈량 \"톨허스트 제구 안돼 어려웠지만 10승 축하.\"[고척 코멘트]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004435844",
-      "datetime": "2026.08.14 00:05",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004435844",
       "carried": true
     }
   ]
