@@ -1,9 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-08-15T06:27:43",
-  "count": 11,
+  "updated": "2026-08-15T07:25:43",
+  "count": 18,
   "carried_count": 6,
   "items": [
+    {
+      "title": "웰스→오카다→결국 케네디 낙점!…LG 초고속 영입 미쳤다! 새 亞 쿼터 외인 케네디 '등록 완료'",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623510",
+      "datetime": "2026.08.15 16:20",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623510"
+    },
+    {
+      "title": "LG ‘타임 어택’ 성공했다! 극적으로 새 亞쿼터 영입…호주 출신 케네디 등록도 ‘완료’ [SS시선집중]",
+      "url": "https://n.news.naver.com/mnews/article/468/0001260006",
+      "datetime": "2026.08.15 16:16",
+      "office": "스포츠서울",
+      "oid": "468",
+      "aid": "0001260006"
+    },
+    {
+      "title": "[공식발표] LG 버저비터 미쳤다! 웰스 대체자, PS 등록일 마감 전 극적 합류... '2m 3㎝ 장신' 존 케네디 영입",
+      "url": "https://n.news.naver.com/mnews/article/108/0003462343",
+      "datetime": "2026.08.15 16:15",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003462343"
+    },
+    {
+      "title": "LG, 결국 아시아쿼터 교체…좌완 케네디 영입",
+      "url": "https://n.news.naver.com/mnews/article/396/0000752439",
+      "datetime": "2026.08.15 16:14",
+      "office": "스포츠월드",
+      "oid": "396",
+      "aid": "0000752439"
+    },
+    {
+      "title": "LG, 웰스 방출→대체 아시아쿼터 존 케네디 2만 달러 영입 “선수 등록 완료, 투수진 도움 줄 것” [공식 발표]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005589171",
+      "datetime": "2026.08.15 16:10",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005589171"
+    },
+    {
+      "title": "'Hi 케네디, Bye 웰스' LG, 새 아시아쿼터 영입…신장 203㎝ 장신 투수",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095168",
+      "datetime": "2026.08.15 16:10",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095168"
+    },
+    {
+      "title": "[오피셜]'대반전' LG 벌써 아쿼 교체 끝냈다! 호주 국가대표 영입 \"잠실 합류\"",
+      "url": "https://n.news.naver.com/mnews/article/076/0004436169",
+      "datetime": "2026.08.15 15:58",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004436169"
+    },
     {
       "title": "‘순위 경쟁 위해 결단 내렸다’ LG, 대체 아시아쿼터 영입…또 호주 국가대표 투수 온다",
       "url": "https://n.news.naver.com/mnews/article/109/0005589164",
