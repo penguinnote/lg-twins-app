@@ -1,9 +1,41 @@
 {
   "team": "LG",
-  "updated": "2026-08-15T13:25:34",
-  "count": 41,
+  "updated": "2026-08-15T14:16:36",
+  "count": 45,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'문정빈·박동원 홈런' LG, SSG 4-1 제압하고 3위 수성...불펜 5이닝 무실점",
+      "url": "https://n.news.naver.com/mnews/article/425/0000202797",
+      "datetime": "2026.08.15 22:48",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000202797"
+    },
+    {
+      "title": "생일 자축포 결승 솔로 홈런 LG승리 주역 문정빈 \"타구 넘어갈 줄 몰랐어요\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095219",
+      "datetime": "2026.08.15 22:41",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095219"
+    },
+    {
+      "title": "속 썩이던 박동원이 공을 쪼갰다, LG 3위 지켰다… 염경엽 안도 \"박동원 홈런으로 승리 매조지해\"",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623541",
+      "datetime": "2026.08.15 22:29",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623541"
+    },
+    {
+      "title": "문정빈 생일 자축포·박동원 쐐기포…LG, SSG 잡고 3위 지켰다",
+      "url": "https://n.news.naver.com/mnews/article/018/0006352476",
+      "datetime": "2026.08.15 22:27",
+      "office": "이데일리",
+      "oid": "018",
+      "aid": "0006352476"
+    },
     {
       "title": "프로야구 LG, SSG 꺾고 3위 유지…5위 KIA는 4위 두산 제압",
       "url": "https://n.news.naver.com/mnews/article/001/0016253418",
