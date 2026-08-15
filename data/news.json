@@ -1,16 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-08-15T14:16:36",
-  "count": 45,
+  "updated": "2026-08-15T21:15:05",
+  "count": 12,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'102승' 니퍼트도 못 했는데, 오스틴은 할 수 있을까…구단에 메시지 던졌다 \"韓서 커리어 마무리하고파\"",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095252",
+      "datetime": "2026.08.16 05:41",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095252"
+    },
+    {
+      "title": "''이게 가능해?' LG, '빛의 속도'로 아쿼 대체자 케네디 영입...계약 하루 만에 모든 행정 절차 완료",
+      "url": "https://n.news.naver.com/mnews/article/425/0000202805",
+      "datetime": "2026.08.16 03:54",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000202805"
+    },
+    {
+      "title": "‘공 7개로 1이닝 삭제하다’ LG 1라운드 신인, 1이닝 퍼퍽트…사이드암 홀드왕, 볼넷-땅볼 병살타-땅볼",
+      "url": "https://n.news.naver.com/mnews/article/109/0005589568",
+      "datetime": "2026.08.16 02:05",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005589568"
+    },
+    {
+      "title": "염경엽 “내가 야구한 이후 처음” 자책… 결국 이 선수다, 100타점 해결사 돌아올까",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623546",
+      "datetime": "2026.08.16 01:10",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623546"
+    },
+    {
+      "title": "'LG 희소식' 기적으로 교체한 아쿼 어떤가 \"키 2m에 희귀한 좌완 사이드암\"",
+      "url": "https://n.news.naver.com/mnews/article/076/0004436267",
+      "datetime": "2026.08.16 00:10",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004436267"
+    },
+    {
+      "title": "[IS 스타] LG팬 생축 응원+박해민 조언...문정빈이 SSG전 결승 홈런 때려낸 힘",
+      "url": "https://n.news.naver.com/mnews/article/241/0003525526",
+      "datetime": "2026.08.16 00:05",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003525526"
+    },
     {
       "title": "'문정빈·박동원 홈런' LG, SSG 4-1 제압하고 3위 수성...불펜 5이닝 무실점",
       "url": "https://n.news.naver.com/mnews/article/425/0000202797",
       "datetime": "2026.08.15 22:48",
       "office": "마니아타임즈",
       "oid": "425",
-      "aid": "0000202797"
+      "aid": "0000202797",
+      "carried": true
     },
     {
       "title": "생일 자축포 결승 솔로 홈런 LG승리 주역 문정빈 \"타구 넘어갈 줄 몰랐어요\" [MD잠실]",
@@ -18,7 +67,8 @@
       "datetime": "2026.08.15 22:41",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004095219"
+      "aid": "0004095219",
+      "carried": true
     },
     {
       "title": "속 썩이던 박동원이 공을 쪼갰다, LG 3위 지켰다… 염경엽 안도 \"박동원 홈런으로 승리 매조지해\"",
@@ -26,7 +76,8 @@
       "datetime": "2026.08.15 22:29",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000623541"
+      "aid": "0000623541",
+      "carried": true
     },
     {
       "title": "문정빈 생일 자축포·박동원 쐐기포…LG, SSG 잡고 3위 지켰다",
@@ -34,7 +85,8 @@
       "datetime": "2026.08.15 22:27",
       "office": "이데일리",
       "oid": "018",
-      "aid": "0006352476"
+      "aid": "0006352476",
+      "carried": true
     },
     {
       "title": "프로야구 LG, SSG 꺾고 3위 유지…5위 KIA는 4위 두산 제압",
@@ -42,7 +94,8 @@
       "datetime": "2026.08.15 22:21",
       "office": "연합뉴스",
       "oid": "001",
-      "aid": "0016253418"
+      "aid": "0016253418",
+      "carried": true
     },
     {
       "title": "\"생일 축하합니다 사랑하는 문정빈\" 팬들 축하에 결승포로 답했다! LG, SSG에 4-1 승리... 시리즈 원점 [KBO 리뷰]",
@@ -50,324 +103,7 @@
       "datetime": "2026.08.15 22:11",
       "office": "스타뉴스",
       "oid": "108",
-      "aid": "0003462395"
-    },
-    {
-      "title": "문정빈·박동원 홈런+오스틴 3안타 폭발! LG, SSG 4-1 제압…손주영, 4아웃 세이브 성공→23세이브 [잠실 리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589511",
-      "datetime": "2026.08.15 22:07",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589511"
-    },
-    {
-      "title": "결승타된 솔로포 문정빈·손주영 뒷문 단속 LG, SSG에 설욕 3위 지켜 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095214",
-      "datetime": "2026.08.15 22:07",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095214"
-    },
-    {
-      "title": "[프로야구 잠실전적] LG 4-1 SSG",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253415",
-      "datetime": "2026.08.15 22:05",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016253415"
-    },
-    {
-      "title": "'저 오늘 생일이에요!' 문정빈 자축포 LG, 두산 추격 뿌리치고 3위 지켰다[잠실 리뷰]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436252",
-      "datetime": "2026.08.15 22:03",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436252"
-    },
-    {
-      "title": "[IS 잠실] '문정빈 생축 화답포' LG, SSG 꺾고 시즌 58승째",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525523",
-      "datetime": "2026.08.15 22:02",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525523"
-    },
-    {
-      "title": "‘억까’ 당한 LG, 끝까지 포기 안 했다… 극적인 버저비터 영입, 어떻게 기적 만들었나",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623525",
-      "datetime": "2026.08.15 18:50",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623525"
-    },
-    {
-      "title": "발 빠르게 움직였다…LG, 새 AQ 케네디와 계약 \"대체 후보군 포함됐던 선수\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095180",
-      "datetime": "2026.08.15 17:50",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095180"
-    },
-    {
-      "title": "LG, 새 亞쿼터로 203cm 좌완 케네디 영입…'어깨부상' 웰스는 결별",
-      "url": "https://n.news.naver.com/mnews/article/018/0006352458",
-      "datetime": "2026.08.15 17:37",
-      "office": "이데일리",
-      "oid": "018",
-      "aid": "0006352458"
-    },
-    {
-      "title": "[SW비하인드] “어떻게 해서든 성사시켜야 하니까요”…숨 가빴던 LG의 사흘, 결국 해냈다",
-      "url": "https://n.news.naver.com/mnews/article/396/0000752454",
-      "datetime": "2026.08.15 17:29",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000752454"
-    },
-    {
-      "title": "‘웰스 이탈’ LG, 아시아쿼터 투수로 호주 출신 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/119/0003122156",
-      "datetime": "2026.08.15 17:28",
-      "office": "데일리안",
-      "oid": "119",
-      "aid": "0003122156"
-    },
-    {
-      "title": "LG 아시아 쿼터 교체, 좌완 투수 케네디 영입...웰스는 웨이버 공시 요청",
-      "url": "https://n.news.naver.com/mnews/article/425/0000202691",
-      "datetime": "2026.08.15 17:24",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000202691"
-    },
-    {
-      "title": "'드디어' LG 새 아시아쿼터 찾았다!…호주 국대 출신 케네디 영입 \"땅볼 유도 능력 준수\" [공식발표]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045644",
-      "datetime": "2026.08.15 17:20",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045644"
-    },
-    {
-      "title": "'3위도 위태로운' LG, 아시아 쿼터 투수 케네디 영입…PS 출전 가능",
-      "url": "https://n.news.naver.com/mnews/article/472/0000041187",
-      "datetime": "2026.08.15 17:12",
-      "office": "스포츠타임스",
-      "oid": "472",
-      "aid": "0000041187"
-    },
-    {
-      "title": "'오카다 영입 무산' LG 트윈스. '호주 국대' 케네디와 계약...플랜B 가동",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525512",
-      "datetime": "2026.08.15 17:05",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525512"
-    },
-    {
-      "title": "\"새 아쿼 PS 뛴다\" 사실상 불가능, LG 어떻게 기적을 만들었나[잠실 리포트]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436182",
-      "datetime": "2026.08.15 17:04",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436182"
-    },
-    {
-      "title": "이게 되네? 사흘 안에 아시아쿼터 계약+비자 발급까지 다 해냈다...LG, 호주 좌완 존 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/529/0000078213",
-      "datetime": "2026.08.15 16:42",
-      "office": "더게이트",
-      "oid": "529",
-      "aid": "0000078213"
-    },
-    {
-      "title": "“땅볼 유도 능력 준수”…웰스와 결별한 LG, 새 아시아쿼터로 좌완 케네디 영입 [공식발표]",
-      "url": "https://n.news.naver.com/mnews/article/410/0001136410",
-      "datetime": "2026.08.15 16:41",
-      "office": "MK스포츠 ",
-      "oid": "410",
-      "aid": "0001136410"
-    },
-    {
-      "title": "프로야구 LG, 아시아 쿼터 투수 케네디 영입…PS 출전 가능",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253272",
-      "datetime": "2026.08.15 16:32",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016253272"
-    },
-    {
-      "title": "LG, 'PS 출전 데드라인' 맞춰 새 아시아쿼터 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/421/0009115806",
-      "datetime": "2026.08.15 16:30",
-      "office": "뉴스1",
-      "oid": "421",
-      "aid": "0009115806"
-    },
-    {
-      "title": "'플랜B' 가동한 LG, 새 아시아쿼터로 호주 국적 좌완 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/003/0014129668",
-      "datetime": "2026.08.15 16:25",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014129668"
-    },
-    {
-      "title": "웰스→오카다→결국 케네디 낙점!…LG 초고속 영입 미쳤다! 새 亞 쿼터 외인 케네디 '등록 완료'",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623510",
-      "datetime": "2026.08.15 16:20",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623510"
-    },
-    {
-      "title": "LG, PS 출전 마감일에 새 아시아쿼터 등록···호주 좌완 존 케네디",
-      "url": "https://n.news.naver.com/mnews/article/144/0001132019",
-      "datetime": "2026.08.15 16:17",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001132019"
-    },
-    {
-      "title": "LG ‘타임 어택’ 성공했다! 극적으로 새 亞쿼터 영입…호주 출신 케네디 등록도 ‘완료’ [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001260006",
-      "datetime": "2026.08.15 16:16",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001260006"
-    },
-    {
-      "title": "[공식발표] LG 버저비터 미쳤다! 웰스 대체자, PS 등록일 마감 전 극적 합류... '2m 3㎝ 장신' 존 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/108/0003462343",
-      "datetime": "2026.08.15 16:15",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003462343"
-    },
-    {
-      "title": "LG, 결국 아시아쿼터 교체…좌완 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/396/0000752439",
-      "datetime": "2026.08.15 16:14",
-      "office": "스포츠월드",
-      "oid": "396",
-      "aid": "0000752439"
-    },
-    {
-      "title": "LG, 웰스 방출→대체 아시아쿼터 존 케네디 2만 달러 영입 “선수 등록 완료, 투수진 도움 줄 것” [공식 발표]",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589171",
-      "datetime": "2026.08.15 16:10",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589171"
-    },
-    {
-      "title": "'Hi 케네디, Bye 웰스' LG, 새 아시아쿼터 영입…신장 203㎝ 장신 투수",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095168",
-      "datetime": "2026.08.15 16:10",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095168"
-    },
-    {
-      "title": "[오피셜]'대반전' LG 벌써 아쿼 교체 끝냈다! 호주 국가대표 영입 \"잠실 합류\"",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436169",
-      "datetime": "2026.08.15 15:58",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436169"
-    },
-    {
-      "title": "‘순위 경쟁 위해 결단 내렸다’ LG, 대체 아시아쿼터 영입…또 호주 국가대표 투수 온다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589164",
-      "datetime": "2026.08.15 15:21",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589164"
-    },
-    {
-      "title": "‘ML 112승’ 대투수의 KBO 적응, 지금까진 OK…주 2회 등판 ‘관문’도 넘어라 [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001259999",
-      "datetime": "2026.08.15 15:11",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001259999"
-    },
-    {
-      "title": "“워터 페스티벌 때문에 체감 온도 더 높아” 4년 장수 외인 솔직발언, 그만큼 폭염 힘들었다",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589090",
-      "datetime": "2026.08.15 10:41",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589090"
-    },
-    {
-      "title": "연승이 이렇게 어려웠나…LG, 후반기 첫 연승 '또 실패'→SSG 상대 잠실 첫 패까지, 4위 두산과 0.5G 차 '3위도 위태' [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045544",
-      "datetime": "2026.08.15 02:06",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045544"
-    },
-    {
-      "title": "'후반기 승률 0.263' LG 또 졌다, 최민준에 5이닝 노히트 굴욕까지…선두권 도약? 3위마저 위태롭다",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623463",
-      "datetime": "2026.08.15 01:25",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623463"
-    },
-    {
-      "title": "'5이닝 1실점' LG 송승기, 6회 앞두고 손가락 물집으로 교체",
-      "url": "https://n.news.naver.com/mnews/article/003/0014129033",
-      "datetime": "2026.08.14 20:43",
-      "office": "뉴시스",
-      "oid": "003",
-      "aid": "0014129033",
-      "carried": true
-    },
-    {
-      "title": "LG 송승기, 물집 생겨서 교체 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436044",
-      "datetime": "2026.08.14 20:35",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436044",
-      "carried": true
-    },
-    {
-      "title": "5회까지 투구수 70개밖에 안 됐는데, LG 송승기는 왜 강판된걸까…“손가락 물집으로 교체”[스경X현장]",
-      "url": "https://n.news.naver.com/mnews/article/144/0001131947",
-      "datetime": "2026.08.14 20:35",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001131947",
-      "carried": true
-    },
-    {
-      "title": "염갈량의 큰 그림, 2006년생 우완 박시원 풀타임 선발로 키운다→\"70~80이닝 채우면 빌드업 완성, 한두 경기만 좋으면 확 성장 가능\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045341",
-      "datetime": "2026.08.14 19:26",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045341",
-      "carried": true
-    },
-    {
-      "title": "'오카다 영입 무산→곧바로 플랜 B 가동' LG, 새 아시아쿼터 투수 영입 마무리 단계…염경엽 감독 \"불펜 자원 예상, 정규시즌만 쓸 수도\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045315",
-      "datetime": "2026.08.14 18:42",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045315",
-      "carried": true
-    },
-    {
-      "title": "‘계약은 사실상 완료’ LG, 새 아시아쿼터 자원 찾았다…15일까지 행정 절차 마무리가 관건",
-      "url": "https://n.news.naver.com/mnews/article/382/0001288316",
-      "datetime": "2026.08.14 18:21",
-      "office": "스포츠동아",
-      "oid": "382",
-      "aid": "0001288316",
+      "aid": "0003462395",
       "carried": true
     }
   ]
