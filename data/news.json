@@ -1,9 +1,65 @@
 {
   "team": "LG",
-  "updated": "2026-08-15T10:16:58",
-  "count": 34,
+  "updated": "2026-08-15T13:25:34",
+  "count": 41,
   "carried_count": 6,
   "items": [
+    {
+      "title": "프로야구 LG, SSG 꺾고 3위 유지…5위 KIA는 4위 두산 제압",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253418",
+      "datetime": "2026.08.15 22:21",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016253418"
+    },
+    {
+      "title": "\"생일 축하합니다 사랑하는 문정빈\" 팬들 축하에 결승포로 답했다! LG, SSG에 4-1 승리... 시리즈 원점 [KBO 리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/108/0003462395",
+      "datetime": "2026.08.15 22:11",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003462395"
+    },
+    {
+      "title": "문정빈·박동원 홈런+오스틴 3안타 폭발! LG, SSG 4-1 제압…손주영, 4아웃 세이브 성공→23세이브 [잠실 리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/109/0005589511",
+      "datetime": "2026.08.15 22:07",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005589511"
+    },
+    {
+      "title": "결승타된 솔로포 문정빈·손주영 뒷문 단속 LG, SSG에 설욕 3위 지켜 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095214",
+      "datetime": "2026.08.15 22:07",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095214"
+    },
+    {
+      "title": "[프로야구 잠실전적] LG 4-1 SSG",
+      "url": "https://n.news.naver.com/mnews/article/001/0016253415",
+      "datetime": "2026.08.15 22:05",
+      "office": "연합뉴스",
+      "oid": "001",
+      "aid": "0016253415"
+    },
+    {
+      "title": "'저 오늘 생일이에요!' 문정빈 자축포 LG, 두산 추격 뿌리치고 3위 지켰다[잠실 리뷰]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004436252",
+      "datetime": "2026.08.15 22:03",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004436252"
+    },
+    {
+      "title": "[IS 잠실] '문정빈 생축 화답포' LG, SSG 꺾고 시즌 58승째",
+      "url": "https://n.news.naver.com/mnews/article/241/0003525523",
+      "datetime": "2026.08.15 22:02",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003525523"
+    },
     {
       "title": "‘억까’ 당한 LG, 끝까지 포기 안 했다… 극적인 버저비터 영입, 어떻게 기적 만들었나",
       "url": "https://n.news.naver.com/mnews/article/477/0000623525",
