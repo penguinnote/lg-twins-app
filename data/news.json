@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-16T00:58:30",
-  "count": 19,
+  "updated": "2026-08-16T02:21:51",
+  "count": 22,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'KBO 착오, 日 투수 무산' LG, 203cm 111kg 좌완 케네디로 대체",
+      "url": "https://n.news.naver.com/mnews/article/079/0004179201",
+      "datetime": "2026.08.16 11:00",
+      "office": "노컷뉴스",
+      "oid": "079",
+      "aid": "0004179201"
+    },
+    {
+      "title": "\"좌완 사이드암으로 봐야죠\" LG 새로운 AQ 케네디에 거는 기대 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095301",
+      "datetime": "2026.08.16 10:51",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095301"
+    },
+    {
+      "title": "‘150km’ 투수 포기하고 타자 전향…‘오지환 후계자’ 20세 유망주, 만루 싹쓸이 2루타→3안타 4타점→후반기 4할 맹타",
+      "url": "https://n.news.naver.com/mnews/article/109/0005589651",
+      "datetime": "2026.08.16 10:45",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005589651"
+    },
     {
       "title": "[오피셜]희귀한 '203cm의 좌완 사이드암' 낯섦은 케네디에게 무기가 될 수 있을까",
       "url": "https://n.news.naver.com/mnews/article/445/0000451201",
