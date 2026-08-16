@@ -1,9 +1,97 @@
 {
   "team": "LG",
-  "updated": "2026-08-16T07:25:32",
-  "count": 30,
+  "updated": "2026-08-16T08:22:03",
+  "count": 41,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'타율 0.177' 문보경 야간 특타 삼매경! 4번타자 복귀 정조준 …\"문정빈, 자기 역할 잘하고 있다\" 염갈량의 만족감 [잠실포커스]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004436354",
+      "datetime": "2026.08.16 17:12",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004436354"
+    },
+    {
+      "title": "'LG 팬 좋겠다' 23세 우타 거포 벌써 13홈런→3G 연속 4번 중책…\"본인은 4번 타자라고 생각 안 할 거에요\" [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095344",
+      "datetime": "2026.08.16 17:10",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095344"
+    },
+    {
+      "title": "LG 새 AQ 케네디, 19일 KT전 등판할 듯[스경X현장]",
+      "url": "https://n.news.naver.com/mnews/article/144/0001132137",
+      "datetime": "2026.08.16 17:08",
+      "office": "스포츠경향",
+      "oid": "144",
+      "aid": "0001132137"
+    },
+    {
+      "title": "LG, 2년차 신인 육성에 진심! 염경엽 \"박시원 볼넷 없다는 점 고무적→단계적으로 발전하고 있어\"",
+      "url": "https://n.news.naver.com/mnews/article/108/0003462488",
+      "datetime": "2026.08.16 17:07",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003462488"
+    },
+    {
+      "title": "\"웰스보다 훨씬 낫다, 엄청난 발전을 이룬 거예요\" 박시원 호투에 흐뭇한 염경엽 감독 [IS 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/241/0003525564",
+      "datetime": "2026.08.16 17:05",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003525564"
+    },
+    {
+      "title": "'홍창기 선발 복귀+이영빈 후반기 첫 3루수 출격' 카라스코 앞세운 LG, SSG전서 후반기 첫 연승+일요일 연패 탈출 도전 [잠실 라인업]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002045886",
+      "datetime": "2026.08.16 16:52",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002045886"
+    },
+    {
+      "title": "홍창기는 선발 복귀하고, 문보경은 또 제외되다...이영빈 3루수-이재원 좌익수, LG 라인업",
+      "url": "https://n.news.naver.com/mnews/article/109/0005589753",
+      "datetime": "2026.08.16 16:33",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005589753"
+    },
+    {
+      "title": "신민재 2번-이영빈 3루-이재원 8번 출격, 홍창기-박동원 선발 복귀…염갈량, LG 타순에 변화 줬다 [잠실라인업]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004436348",
+      "datetime": "2026.08.16 16:28",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004436348"
+    },
+    {
+      "title": "LG 문정빈 오늘도 4번 타자, 9번까지 내려간 출루왕...3루수는 이영빈 [IS 잠실]",
+      "url": "https://n.news.naver.com/mnews/article/241/0003525562",
+      "datetime": "2026.08.16 16:27",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003525562"
+    },
+    {
+      "title": "'생일 결승포' 문정빈, 3G 연속 4번 중책→이영빈 7번·3B…연승 노리는 LG, 선발 라인업 공개 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095338",
+      "datetime": "2026.08.16 16:27",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095338"
+    },
+    {
+      "title": "'문보경 연이틀 제외→이영빈 선발 3B' LG 라인업 공개! 문정빈 4번 DH·홍창기 9번 배치",
+      "url": "https://n.news.naver.com/mnews/article/108/0003462482",
+      "datetime": "2026.08.16 16:27",
+      "office": "스타뉴스",
+      "oid": "108",
+      "aid": "0003462482"
+    },
     {
       "title": "'잠실? 빗방울 흩날리지만 방수포 없다' LG-SSG전 정상 개시 전망…오후 5시부터 비 예보 사실상 없다 [잠실 현장]",
       "url": "https://n.news.naver.com/mnews/article/311/0002045881",
