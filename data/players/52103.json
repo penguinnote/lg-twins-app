@@ -2,8 +2,8 @@
   "playerId": "52103",
   "season": 2026,
   "is_pitcher": false,
-  "games": 33,
-  "updated": "2026-08-15T14:46:39",
+  "games": 34,
+  "updated": "2026-08-16T14:47:00",
   "totals": {
     "AB": 17,
     "H": 2,
@@ -240,6 +240,13 @@
     },
     {
       "date": "2026-08-15",
+      "opp": "SSG",
+      "cum_avg": 0.118,
+      "cum_ops": 0.294,
+      "site_cum_avg": "0.118"
+    },
+    {
+      "date": "2026-08-16",
       "opp": "SSG",
       "cum_avg": 0.118,
       "cum_ops": 0.294,
@@ -497,11 +504,18 @@
         "open": 86.466,
         "close": 85.07,
         "value": -0.2792
+      },
+      {
+        "date": "2026-08-16",
+        "opp": "SSG",
+        "open": 85.07,
+        "close": 85.07,
+        "value": 0.0
       }
     ]
   },
   "ratings": {
-    "OVR": 20,
+    "OVR": 19,
     "lowSample": true,
     "axes": [
       {
@@ -514,7 +528,7 @@
         "key": "power",
         "label": "파워",
         "value": 0.059,
-        "rating": 17
+        "rating": 16
       },
       {
         "key": "eye",

@@ -2,13 +2,13 @@
   "playerId": "65109",
   "season": 2026,
   "is_pitcher": true,
-  "games": 7,
-  "updated": "2026-08-15T14:47:16",
+  "games": 8,
+  "updated": "2026-08-16T14:47:42",
   "totals": {
-    "IP": 5.667,
+    "IP": 6.667,
     "R": 7,
     "ER": 7,
-    "SO": 6,
+    "SO": 8,
     "H": 6,
     "HR": 2,
     "BB": 4,
@@ -129,6 +129,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "11.12"
+    },
+    {
+      "date": "2026-08-16",
+      "opp": "SSG",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 4,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 2,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "9.45"
     }
   ],
   "coin": {
@@ -200,48 +216,55 @@
         "open": 79.221,
         "close": 80.109,
         "value": 0.1776
+      },
+      {
+        "date": "2026-08-16",
+        "opp": "SSG",
+        "open": 80.109,
+        "close": 82.775,
+        "value": 0.5333
       }
     ]
   },
   "ratings": {
-    "OVR": 22,
+    "OVR": 33,
     "lowSample": true,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 6.35,
-        "rating": 14
+        "value": 5.4,
+        "rating": 19
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 9.53,
-        "rating": 83
+        "value": 10.8,
+        "rating": 94
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.273,
-        "rating": 37
+        "value": 0.231,
+        "rating": 79
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 3.18,
-        "rating": 0
+        "value": 2.7,
+        "rating": 1
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 5.7,
+        "value": 6.7,
         "rating": 0
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 7.79,
-        "rating": 1
+        "value": 6.5,
+        "rating": 6
       }
     ],
     "type": "pitcher"
