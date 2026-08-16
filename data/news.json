@@ -1,16 +1,81 @@
 {
   "team": "LG",
-  "updated": "2026-08-16T12:28:11",
-  "count": 46,
+  "updated": "2026-08-16T21:14:13",
+  "count": 14,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'연승 한 번이 이렇게 어렵나' LG 또 승리 다음 날 패배…카라스코마저 5실점 붕괴→3위 자리도 위태롭다 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002045972",
+      "datetime": "2026.08.17 06:00",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002045972"
+    },
+    {
+      "title": "LG 차세대 에이스 계속되는 70구 고비, 하지만 염경엽 웃는다…'이것'만 지키면 웰스보다 훨씬 낫다? [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095495",
+      "datetime": "2026.08.17 05:41",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095495"
+    },
+    {
+      "title": "'안 치는 건가, 못치는 건가?' 189cm 덩치에 111경기 무홈런이라니… '출루 괴물' 홍창기의 기막힌 아이러니...163cm 김성윤도 3개 쳤는데",
+      "url": "https://n.news.naver.com/mnews/article/425/0000202972",
+      "datetime": "2026.08.17 04:13",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000202972"
+    },
+    {
+      "title": "이젠 SSG에도 밀린다…4위 추락 위기 LG, 다음 상대는 더 큰 고비",
+      "url": "https://n.news.naver.com/mnews/article/081/0003670829",
+      "datetime": "2026.08.17 02:49",
+      "office": "서울신문",
+      "oid": "081",
+      "aid": "0003670829"
+    },
+    {
+      "title": "퍼펙트→QS 2실점→5실점 패전…‘ML 112승’ LG 구세주, 3경기 만에 밑천 드러나나",
+      "url": "https://n.news.naver.com/mnews/article/109/0005590048",
+      "datetime": "2026.08.17 01:16",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005590048"
+    },
+    {
+      "title": "'7이닝 퍼펙트→2실점→4실점' 카라스코마저...LG 45일 동안 연승이 없다",
+      "url": "https://n.news.naver.com/mnews/article/241/0003525580",
+      "datetime": "2026.08.17 01:13",
+      "office": "일간스포츠",
+      "oid": "241",
+      "aid": "0003525580"
+    },
+    {
+      "title": "염경엽 자신 “심하게 안 보인다” 주키치가 누렸던 효과 그대로? LG 비장의 카드 뜬다",
+      "url": "https://n.news.naver.com/mnews/article/477/0000623648",
+      "datetime": "2026.08.17 01:11",
+      "office": "스포티비뉴스",
+      "oid": "477",
+      "aid": "0000623648"
+    },
+    {
+      "title": "'투수가 깜짝 놀랐다' 153km 강속구에 심판이 맞고 쓰러지다...10분간 경기 중단→구급차 출동→대기심으로 교체",
+      "url": "https://n.news.naver.com/mnews/article/109/0005590037",
+      "datetime": "2026.08.17 00:10",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005590037"
+    },
     {
       "title": "'MLB 112승' LG 카라스코마저 무너졌다…KBO 첫 피홈런→백투백포까지 '5실점 와르르'→첫 패전 위기 [잠실 라이브]",
       "url": "https://n.news.naver.com/mnews/article/311/0002045930",
       "datetime": "2026.08.16 21:02",
       "office": "엑스포츠뉴스",
       "oid": "311",
-      "aid": "0002045930"
+      "aid": "0002045930",
+      "carried": true
     },
     {
       "title": "박해민-오스틴도 못깬 퍼펙트 굴욕 깼다! 주인공은 신민재…SSG 아빌라 상대로 안타 [잠실현장]",
@@ -18,7 +83,8 @@
       "datetime": "2026.08.16 20:03",
       "office": "스포츠조선",
       "oid": "076",
-      "aid": "0004436393"
+      "aid": "0004436393",
+      "carried": true
     },
     {
       "title": "LG 마운드 미래 육성 프로젝트, ‘70’이라는 숫자에 주목하라… 지금까지는 대성공 중",
@@ -26,7 +92,8 @@
       "datetime": "2026.08.16 19:01",
       "office": "스포티비뉴스",
       "oid": "477",
-      "aid": "0000623598"
+      "aid": "0000623598",
+      "carried": true
     },
     {
       "title": "국대 4번이 2G 연속 선발 제외라니, 문보경 살아나려고 안간힘…\"밤 12시까지 열심히 치다 갔다\" [MD잠실]",
@@ -34,7 +101,8 @@
       "datetime": "2026.08.16 19:01",
       "office": "마이데일리",
       "oid": "117",
-      "aid": "0004095361"
+      "aid": "0004095361",
+      "carried": true
     },
     {
       "title": "'이영빈 3루수 선발+문정빈 4번 유지' 염갈량의 선택…\"젊은 선수들 훈련한 것, 실전에서 확인한다\" [잠실 현장]",
@@ -42,7 +110,8 @@
       "datetime": "2026.08.16 18:59",
       "office": "엑스포츠뉴스",
       "oid": "311",
-      "aid": "0002045913"
+      "aid": "0002045913",
+      "carried": true
     },
     {
       "title": "홍창기는 선발 복귀, 왜 문보경은 2G 연속 빠졌을까…염경엽 “밤 12시까지 배팅 치고 갔다”",
@@ -50,332 +119,7 @@
       "datetime": "2026.08.16 18:44",
       "office": "OSEN",
       "oid": "109",
-      "aid": "0005589778"
-    },
-    {
-      "title": "문보경 이틀 연속 선발 제외...LG의 밸런스 회복 승부수",
-      "url": "https://n.news.naver.com/mnews/article/425/0000202956",
-      "datetime": "2026.08.16 18:41",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000202956"
-    },
-    {
-      "title": "\"커리어 없으면 선수들이 질문도 안 할 것\" 염갈량이 인정한 카라스코의 존재감…\"투구수는 80~90개 예상\" [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045904",
-      "datetime": "2026.08.16 18:32",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045904"
-    },
-    {
-      "title": "203㎝ 호주 장신 좌완 온다... LG, 아시아쿼터 존 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/450/0000153354",
-      "datetime": "2026.08.16 17:59",
-      "office": "STN 뉴스",
-      "oid": "450",
-      "aid": "0000153354"
-    },
-    {
-      "title": "후반기 ERA 1.00→좌완 베테랑 “지금은 승리조”…1년 내내 바뀌는 LG 필승조, 염경엽 “4월부터 꾸준한 사람이 없다”",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589767",
-      "datetime": "2026.08.16 17:43",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589767"
-    },
-    {
-      "title": "문보경 슬럼프 탈출 위해 안간힘! \"밤 12시까지 열심히 치다 갔다→한 템포 조정하는 과정\"",
-      "url": "https://n.news.naver.com/mnews/article/108/0003462493",
-      "datetime": "2026.08.16 17:25",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003462493"
-    },
-    {
-      "title": "\"어제도 자정까지 훈련해\"…LG 문보경, 두 경기 연속 선발 제외",
-      "url": "https://n.news.naver.com/mnews/article/001/0016253900",
-      "datetime": "2026.08.16 17:20",
-      "office": "연합뉴스",
-      "oid": "001",
-      "aid": "0016253900"
-    },
-    {
-      "title": "'타율 0.177' 문보경 4번타자 복귀 정조준! 자정까지 특타 전념…\"문정빈 잘하고 있다\" 염갈량의 만족감 [잠실포커스]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436354",
-      "datetime": "2026.08.16 17:12",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436354"
-    },
-    {
-      "title": "'LG 팬 좋겠다' 23세 우타 거포 벌써 13홈런→3G 연속 4번 중책…\"본인은 4번 타자라고 생각 안 할 거에요\" [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095344",
-      "datetime": "2026.08.16 17:10",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095344"
-    },
-    {
-      "title": "LG 새 AQ 케네디, 19일 KT전 등판할 듯[스경X현장]",
-      "url": "https://n.news.naver.com/mnews/article/144/0001132137",
-      "datetime": "2026.08.16 17:08",
-      "office": "스포츠경향",
-      "oid": "144",
-      "aid": "0001132137"
-    },
-    {
-      "title": "LG, 2년차 신인 육성에 진심! 염경엽 \"박시원 볼넷 없다는 점 고무적→단계적으로 발전하고 있어\"",
-      "url": "https://n.news.naver.com/mnews/article/108/0003462488",
-      "datetime": "2026.08.16 17:07",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003462488"
-    },
-    {
-      "title": "\"웰스보다 훨씬 낫다, 엄청난 발전을 이룬 거예요\" 박시원 호투에 흐뭇한 염경엽 감독 [IS 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525564",
-      "datetime": "2026.08.16 17:05",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525564"
-    },
-    {
-      "title": "'홍창기 선발 복귀+이영빈 후반기 첫 3루수 출격' 카라스코 앞세운 LG, SSG전서 후반기 첫 연승+일요일 연패 탈출 도전 [잠실 라인업]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045886",
-      "datetime": "2026.08.16 16:52",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045886"
-    },
-    {
-      "title": "홍창기는 선발 복귀하고, 문보경은 또 제외되다...이영빈 3루수-이재원 좌익수, LG 라인업",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589753",
-      "datetime": "2026.08.16 16:33",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589753"
-    },
-    {
-      "title": "신민재 2번-이영빈 3루-이재원 8번 출격, 홍창기-박동원 선발 복귀…염갈량, LG 타순에 변화 줬다 [잠실라인업]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436348",
-      "datetime": "2026.08.16 16:28",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436348"
-    },
-    {
-      "title": "LG 문정빈 오늘도 4번 타자, 9번까지 내려간 출루왕...3루수는 이영빈 [IS 잠실]",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525562",
-      "datetime": "2026.08.16 16:27",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525562"
-    },
-    {
-      "title": "'생일 결승포' 문정빈, 3G 연속 4번 중책→이영빈 7번·3B…연승 노리는 LG, 선발 라인업 공개 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095338",
-      "datetime": "2026.08.16 16:27",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095338"
-    },
-    {
-      "title": "'문보경 연이틀 제외→이영빈 선발 3B' LG 라인업 공개! 문정빈 4번 DH·홍창기 9번 배치",
-      "url": "https://n.news.naver.com/mnews/article/108/0003462482",
-      "datetime": "2026.08.16 16:27",
-      "office": "스타뉴스",
-      "oid": "108",
-      "aid": "0003462482"
-    },
-    {
-      "title": "'잠실? 빗방울 흩날리지만 방수포 없다' LG-SSG전 정상 개시 전망…오후 5시부터 비 예보 사실상 없다 [잠실 현장]",
-      "url": "https://n.news.naver.com/mnews/article/311/0002045881",
-      "datetime": "2026.08.16 16:13",
-      "office": "엑스포츠뉴스",
-      "oid": "311",
-      "aid": "0002045881"
-    },
-    {
-      "title": "부슬비 내리는 잠실, 경기 시간 비 예보는 없는데…LG 선수단은 정상 훈련 중 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095334",
-      "datetime": "2026.08.16 15:54",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095334"
-    },
-    {
-      "title": "빗속에도 LG 야외 훈련 강행! 가는비 내리는 잠실, 외인 에이스 맞대결 열릴 수 있나 [잠실현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436346",
-      "datetime": "2026.08.16 15:45",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436346"
-    },
-    {
-      "title": "LG ‘5선발’ 찾았다! 올해를 넘어 내년을 바라보는 박시원의 ‘재능’, “자신감 붙었다” [SS시선집중]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001260072",
-      "datetime": "2026.08.16 14:23",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001260072"
-    },
-    {
-      "title": "MLB 112승 LG 구세주, 팀 45일 만의 연승 이끌까...주 2회 등판도 OK?",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525550",
-      "datetime": "2026.08.16 13:16",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525550"
-    },
-    {
-      "title": "“이의리 구위가 더 좋죠” LG 초보 마무리, 23세이브 그런데 멀티이닝 9차례 ‘압도적 1위’ 대단하네",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589703",
-      "datetime": "2026.08.16 13:13",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589703"
-    },
-    {
-      "title": "\"나이스 배팅 박동원 선배·나이스 피칭 이우찬 선배\" LG 마무리 손주영 칭찬 릴레이 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095314",
-      "datetime": "2026.08.16 13:00",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095314"
-    },
-    {
-      "title": "\"포기를 포기하자 기적이 다가왔다\" 트윈스 국제팀 정신이 LG 선수단에 던진 메시지",
-      "url": "https://n.news.naver.com/mnews/article/445/0000451238",
-      "datetime": "2026.08.16 12:31",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000451238"
-    },
-    {
-      "title": "'KBO 착오, 日 투수 무산' LG, 203cm 111kg 좌완 케네디로 대체",
-      "url": "https://n.news.naver.com/mnews/article/079/0004179201",
-      "datetime": "2026.08.16 11:00",
-      "office": "노컷뉴스",
-      "oid": "079",
-      "aid": "0004179201"
-    },
-    {
-      "title": "\"좌완 사이드암으로 봐야죠\" LG 새로운 AQ 케네디에 거는 기대 [MD잠실]",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095301",
-      "datetime": "2026.08.16 10:51",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095301"
-    },
-    {
-      "title": "‘150km’ 투수 포기하고 타자 전향…‘오지환 후계자’ 20세 유망주, 만루 싹쓸이 2루타→3안타 4타점→후반기 4할 맹타",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589651",
-      "datetime": "2026.08.16 10:45",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589651"
-    },
-    {
-      "title": "[오피셜]희귀한 '203cm의 좌완 사이드암' 낯섦은 케네디에게 무기가 될 수 있을까",
-      "url": "https://n.news.naver.com/mnews/article/445/0000451201",
-      "datetime": "2026.08.16 09:42",
-      "office": "MHN스포츠",
-      "oid": "445",
-      "aid": "0000451201"
-    },
-    {
-      "title": "시즌 전 LG ‘히든카드’ 역할 기대했는데…부침 겪는 김윤식·이민호, 아직 시간 필요하다 [SS포커스]",
-      "url": "https://n.news.naver.com/mnews/article/468/0001260042",
-      "datetime": "2026.08.16 09:23",
-      "office": "스포츠서울",
-      "oid": "468",
-      "aid": "0001260042"
-    },
-    {
-      "title": "'문 닫는 날! 이게 진짜 가능해?' 2m 3cm 거인 합류한 LG, 한국시리즈 출전까지 가능한 새로운 아시아쿼터 투수 케네디 [잠실현장]",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436299",
-      "datetime": "2026.08.16 09:15",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436299"
-    },
-    {
-      "title": "'짐 싼 웰스보다 훨씬 낫네' LG 2년 차 박시원, 진짜 첫 선발 등판서 합격점",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525531",
-      "datetime": "2026.08.16 08:54",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525531"
-    },
-    {
-      "title": "“유영찬, PS에 던질 수도 있었지만…” LG는 일찌감치 미련 접었다, 내년은 두통 끝날까",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623562",
-      "datetime": "2026.08.16 08:21",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623562"
-    },
-    {
-      "title": "팬들이 생일 축하 노래 불러주자, 결승 홈런 쾅…타석당 홈런은 김도영 다음, LG 거포 유망주 “서운할 뻔 했는데 좋았어요”",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589592",
-      "datetime": "2026.08.16 07:44",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589592"
-    },
-    {
-      "title": "KBO가 앞길 막았지만 LG 포기 안 했다…아시아쿼터 케네디 영입",
-      "url": "https://n.news.naver.com/mnews/article/081/0003670731",
-      "datetime": "2026.08.16 06:44",
-      "office": "서울신문",
-      "oid": "081",
-      "aid": "0003670731",
-      "carried": true
-    },
-    {
-      "title": "'102승' 니퍼트도 못 했는데, 오스틴은 할 수 있을까…구단에 메시지 던졌다 \"韓서 커리어 마무리하고파\"",
-      "url": "https://n.news.naver.com/mnews/article/117/0004095252",
-      "datetime": "2026.08.16 05:41",
-      "office": "마이데일리",
-      "oid": "117",
-      "aid": "0004095252",
-      "carried": true
-    },
-    {
-      "title": "''이게 가능해?' LG, '빛의 속도'로 아쿼 대체자 케네디 영입...계약 하루 만에 모든 행정 절차 완료",
-      "url": "https://n.news.naver.com/mnews/article/425/0000202805",
-      "datetime": "2026.08.16 03:54",
-      "office": "마니아타임즈",
-      "oid": "425",
-      "aid": "0000202805",
-      "carried": true
-    },
-    {
-      "title": "‘공 7개로 1이닝 삭제하다’ LG 1라운드 신인, 1이닝 퍼퍽트…사이드암 홀드왕, 볼넷-땅볼 병살타-땅볼",
-      "url": "https://n.news.naver.com/mnews/article/109/0005589568",
-      "datetime": "2026.08.16 02:05",
-      "office": "OSEN",
-      "oid": "109",
-      "aid": "0005589568",
-      "carried": true
-    },
-    {
-      "title": "염경엽 “내가 야구한 이후 처음” 자책… 결국 이 선수다, 100타점 해결사 돌아올까",
-      "url": "https://n.news.naver.com/mnews/article/477/0000623546",
-      "datetime": "2026.08.16 01:10",
-      "office": "스포티비뉴스",
-      "oid": "477",
-      "aid": "0000623546",
-      "carried": true
-    },
-    {
-      "title": "'LG 희소식' 기적으로 교체한 아쿼 어떤가 \"키 2m에 희귀한 좌완 사이드암\"",
-      "url": "https://n.news.naver.com/mnews/article/076/0004436267",
-      "datetime": "2026.08.16 00:10",
-      "office": "스포츠조선",
-      "oid": "076",
-      "aid": "0004436267",
+      "aid": "0005589778",
       "carried": true
     }
   ]
