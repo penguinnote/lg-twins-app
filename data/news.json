@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-16T06:30:24",
-  "count": 27,
+  "updated": "2026-08-16T07:25:32",
+  "count": 30,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'잠실? 빗방울 흩날리지만 방수포 없다' LG-SSG전 정상 개시 전망…오후 5시부터 비 예보 사실상 없다 [잠실 현장]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002045881",
+      "datetime": "2026.08.16 16:13",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002045881"
+    },
+    {
+      "title": "부슬비 내리는 잠실, 경기 시간 비 예보는 없는데…LG 선수단은 정상 훈련 중 [MD잠실]",
+      "url": "https://n.news.naver.com/mnews/article/117/0004095334",
+      "datetime": "2026.08.16 15:54",
+      "office": "마이데일리",
+      "oid": "117",
+      "aid": "0004095334"
+    },
+    {
+      "title": "빗속에도 LG 야외 훈련 강행! 가는비 내리는 잠실, 외인 에이스 맞대결 열릴 수 있나 [잠실현장]",
+      "url": "https://n.news.naver.com/mnews/article/076/0004436346",
+      "datetime": "2026.08.16 15:45",
+      "office": "스포츠조선",
+      "oid": "076",
+      "aid": "0004436346"
+    },
     {
       "title": "LG ‘5선발’ 찾았다! 올해를 넘어 내년을 바라보는 박시원의 ‘재능’, “자신감 붙었다” [SS시선집중]",
       "url": "https://n.news.naver.com/mnews/article/468/0001260072",
