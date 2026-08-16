@@ -1,9 +1,17 @@
 {
   "team": "LG",
-  "updated": "2026-08-16T11:14:42",
+  "updated": "2026-08-16T12:28:11",
   "count": 46,
   "carried_count": 6,
   "items": [
+    {
+      "title": "'MLB 112승' LG 카라스코마저 무너졌다…KBO 첫 피홈런→백투백포까지 '5실점 와르르'→첫 패전 위기 [잠실 라이브]",
+      "url": "https://n.news.naver.com/mnews/article/311/0002045930",
+      "datetime": "2026.08.16 21:02",
+      "office": "엑스포츠뉴스",
+      "oid": "311",
+      "aid": "0002045930"
+    },
     {
       "title": "박해민-오스틴도 못깬 퍼펙트 굴욕 깼다! 주인공은 신민재…SSG 아빌라 상대로 안타 [잠실현장]",
       "url": "https://n.news.naver.com/mnews/article/076/0004436393",
@@ -322,7 +330,8 @@
       "datetime": "2026.08.16 06:44",
       "office": "서울신문",
       "oid": "081",
-      "aid": "0003670731"
+      "aid": "0003670731",
+      "carried": true
     },
     {
       "title": "'102승' 니퍼트도 못 했는데, 오스틴은 할 수 있을까…구단에 메시지 던졌다 \"韓서 커리어 마무리하고파\"",
@@ -367,15 +376,6 @@
       "office": "스포츠조선",
       "oid": "076",
       "aid": "0004436267",
-      "carried": true
-    },
-    {
-      "title": "[IS 스타] LG팬 생축 응원+박해민 조언...문정빈이 SSG전 결승 홈런 때려낸 힘",
-      "url": "https://n.news.naver.com/mnews/article/241/0003525526",
-      "datetime": "2026.08.16 00:05",
-      "office": "일간스포츠",
-      "oid": "241",
-      "aid": "0003525526",
       "carried": true
     }
   ]
