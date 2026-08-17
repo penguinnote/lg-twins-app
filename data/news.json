@@ -1,9 +1,33 @@
 {
   "team": "LG",
-  "updated": "2026-08-17T22:18:01",
-  "count": 11,
+  "updated": "2026-08-17T23:17:37",
+  "count": 14,
   "carried_count": 6,
   "items": [
+    {
+      "title": "‘알몬테 대신 오스틴’ LG 우승 2번을 만들었다, 오카다 대신 케네디도 ‘전화위복’ 대박 터질까",
+      "url": "https://n.news.naver.com/mnews/article/109/0005590344",
+      "datetime": "2026.08.18 07:44",
+      "office": "OSEN",
+      "oid": "109",
+      "aid": "0005590344"
+    },
+    {
+      "title": "오스틴, LG와 2년 400만 달러 '역대급 다년 계약' 체결 시나리오 가동되나?",
+      "url": "https://n.news.naver.com/mnews/article/425/0000203055",
+      "datetime": "2026.08.18 07:38",
+      "office": "마니아타임즈",
+      "oid": "425",
+      "aid": "0000203055"
+    },
+    {
+      "title": "'잠실에서 강했던' 선두 kt, '반전 절실한' 3위 LG와 주중 3연전…선두권 판도에 절대적 영향",
+      "url": "https://n.news.naver.com/mnews/article/472/0000041214",
+      "datetime": "2026.08.18 07:20",
+      "office": "스포츠타임스",
+      "oid": "472",
+      "aid": "0000041214"
+    },
     {
       "title": "'45일간 연승이 없다' 추락하는 LG 잔인한 8월, 설상가상 4연패 악몽 다시 만난다",
       "url": "https://n.news.naver.com/mnews/article/117/0004095649",
