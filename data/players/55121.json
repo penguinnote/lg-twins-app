@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 22,
-  "updated": "2026-08-17T14:53:04",
+  "updated": "2026-08-18T15:01:44",
   "totals": {
     "IP": 31.666,
     "R": 18,
@@ -549,20 +549,20 @@
     ]
   },
   "ratings": {
-    "OVR": 58,
+    "OVR": 59,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
         "value": 3.69,
-        "rating": 54
+        "rating": 55
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
         "value": 7.67,
-        "rating": 53
+        "rating": 54
       },
       {
         "key": "hits",

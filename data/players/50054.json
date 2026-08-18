@@ -2,8 +2,8 @@
   "playerId": "50054",
   "season": 2026,
   "is_pitcher": false,
-  "games": 80,
-  "updated": "2026-08-17T14:52:19",
+  "games": 81,
+  "updated": "2026-08-18T15:01:03",
   "totals": {
     "AB": 208,
     "H": 58,
@@ -570,6 +570,13 @@
     {
       "date": "2026-08-16",
       "opp": "SSG",
+      "cum_avg": 0.279,
+      "cum_ops": 0.721,
+      "site_cum_avg": "0.279"
+    },
+    {
+      "date": "2026-08-18",
+      "opp": "KT",
       "cum_avg": 0.279,
       "cum_ops": 0.721,
       "site_cum_avg": "0.279"
@@ -1155,6 +1162,13 @@
         "open": 91.46,
         "close": 90.064,
         "value": -0.2792
+      },
+      {
+        "date": "2026-08-18",
+        "opp": "KT",
+        "open": 90.064,
+        "close": 90.064,
+        "value": 0.0
       }
     ]
   },
@@ -1172,7 +1186,7 @@
         "key": "power",
         "label": "파워",
         "value": 0.106,
-        "rating": 44
+        "rating": 42
       },
       {
         "key": "eye",
@@ -1184,7 +1198,7 @@
         "key": "speed",
         "label": "주력",
         "value": 6,
-        "rating": 77
+        "rating": 76
       },
       {
         "key": "avoidK",

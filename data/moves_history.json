@@ -430,5 +430,23 @@
     "fetched_at": "2026-08-17T14:51:58",
     "registered": [],
     "waived": []
+  },
+  {
+    "date": "2026-08-18",
+    "fetched_at": "2026-08-18T15:00:39",
+    "registered": [
+      {
+        "name": "손용준",
+        "position": "내",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "이재원",
+        "position": "외",
+        "team": "LG"
+      }
+    ]
   }
 ]
