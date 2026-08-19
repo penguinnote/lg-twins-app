@@ -448,5 +448,23 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "fetched_at": "2026-08-19T15:01:00",
+    "registered": [
+      {
+        "name": "케네디",
+        "position": "투",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "김진성",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]

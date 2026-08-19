@@ -2,8 +2,8 @@
   "playerId": "52103",
   "season": 2026,
   "is_pitcher": false,
-  "games": 35,
-  "updated": "2026-08-18T23:16:42",
+  "games": 36,
+  "updated": "2026-08-19T15:01:27",
   "totals": {
     "AB": 17,
     "H": 2,
@@ -254,6 +254,13 @@
     },
     {
       "date": "2026-08-18",
+      "opp": "KT",
+      "cum_avg": 0.118,
+      "cum_ops": 0.294,
+      "site_cum_avg": "0.118"
+    },
+    {
+      "date": "2026-08-19",
       "opp": "KT",
       "cum_avg": 0.118,
       "cum_ops": 0.294,
@@ -525,11 +532,18 @@
         "open": 85.07,
         "close": 85.07,
         "value": 0.0
+      },
+      {
+        "date": "2026-08-19",
+        "opp": "KT",
+        "open": 85.07,
+        "close": 85.07,
+        "value": 0.0
       }
     ]
   },
   "ratings": {
-    "OVR": 19,
+    "OVR": 20,
     "lowSample": true,
     "axes": [
       {
@@ -560,7 +574,7 @@
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.222,
-        "rating": 35
+        "rating": 36
       },
       {
         "key": "production",
