@@ -2,8 +2,8 @@
   "playerId": "54156",
   "season": 2026,
   "is_pitcher": false,
-  "games": 3,
-  "updated": "2026-08-19T23:17:42",
+  "games": 4,
+  "updated": "2026-08-20T15:03:17",
   "totals": {
     "AB": 2,
     "H": 0,
@@ -11,7 +11,7 @@
     "3B": 0,
     "HR": 0,
     "BB": 0,
-    "HBP": 0
+    "HBP": 1
   },
   "series": [
     {
@@ -33,6 +33,13 @@
       "opp": "KT",
       "cum_avg": 0.0,
       "cum_ops": 0.0,
+      "site_cum_avg": "0.000"
+    },
+    {
+      "date": "2026-08-20",
+      "opp": "KT",
+      "cum_avg": 0.0,
+      "cum_ops": 0.333,
       "site_cum_avg": "0.000"
     }
   ],
@@ -77,6 +84,13 @@
         "open": 98.604,
         "close": 97.208,
         "value": -0.2792
+      },
+      {
+        "date": "2026-08-20",
+        "opp": "KT",
+        "open": 97.208,
+        "close": 98.812,
+        "value": 0.3208
       }
     ]
   },
@@ -117,8 +131,8 @@
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.0,
-        "rating": 0
+        "value": 0.24,
+        "rating": 4
       }
     ],
     "type": "hitter"

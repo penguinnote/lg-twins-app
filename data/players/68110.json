@@ -2,11 +2,11 @@
   "playerId": "68110",
   "season": 2026,
   "is_pitcher": false,
-  "games": 85,
-  "updated": "2026-08-19T23:18:00",
+  "games": 86,
+  "updated": "2026-08-20T15:03:31",
   "totals": {
-    "AB": 255,
-    "H": 72,
+    "AB": 259,
+    "H": 74,
     "2B": 23,
     "3B": 1,
     "HR": 10,
@@ -608,6 +608,13 @@
       "cum_avg": 0.282,
       "cum_ops": 0.871,
       "site_cum_avg": "0.282"
+    },
+    {
+      "date": "2026-08-20",
+      "opp": "KT",
+      "cum_avg": 0.286,
+      "cum_ops": 0.873,
+      "site_cum_avg": "0.286"
     }
   ],
   "coin": {
@@ -1225,30 +1232,37 @@
         "open": 160.169,
         "close": 158.294,
         "value": -0.375
+      },
+      {
+        "date": "2026-08-20",
+        "opp": "KT",
+        "open": 158.294,
+        "close": 160.127,
+        "value": 0.3667
       }
     ]
   },
   "ratings": {
-    "OVR": 60,
+    "OVR": 61,
     "lowSample": false,
     "axes": [
       {
         "key": "contact",
         "label": "컨택",
-        "value": 0.282,
-        "rating": 69
+        "value": 0.286,
+        "rating": 73
       },
       {
         "key": "power",
         "label": "파워",
-        "value": 0.216,
+        "value": 0.212,
         "rating": 89
       },
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.082,
-        "rating": 39
+        "value": 0.081,
+        "rating": 38
       },
       {
         "key": "speed",
@@ -1265,7 +1279,7 @@
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.382,
+        "value": 0.383,
         "rating": 87
       }
     ],
