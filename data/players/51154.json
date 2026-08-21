@@ -2,16 +2,16 @@
   "playerId": "51154",
   "season": 2026,
   "is_pitcher": true,
-  "games": 47,
-  "updated": "2026-08-20T23:20:52",
+  "games": 48,
+  "updated": "2026-08-21T15:03:20",
   "totals": {
-    "IP": 49.001,
-    "R": 25,
-    "ER": 21,
+    "IP": 50.001,
+    "R": 26,
+    "ER": 22,
     "SO": 30,
-    "H": 50,
+    "H": 52,
     "HR": 7,
-    "BB": 18,
+    "BB": 19,
     "W": 5,
     "L": 4,
     "SV": 1,
@@ -769,6 +769,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "3.86"
+    },
+    {
+      "date": "2026-08-21",
+      "opp": "한화",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 6,
+      "H": 2,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 0,
+      "R": 1,
+      "ER": 1,
+      "era_cum": "3.96"
     }
   ],
   "coin": {
@@ -1120,6 +1136,13 @@
         "open": 117.504,
         "close": 121.671,
         "value": 0.8333
+      },
+      {
+        "date": "2026-08-21",
+        "opp": "한화",
+        "open": 121.671,
+        "close": 119.338,
+        "value": -0.4667
       }
     ]
   },
@@ -1130,37 +1153,37 @@
       {
         "key": "control",
         "label": "제구",
-        "value": 3.31,
-        "rating": 67
+        "value": 3.42,
+        "rating": 63
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 5.51,
-        "rating": 9
+        "value": 5.4,
+        "rating": 8
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.258,
-        "rating": 52
+        "value": 0.261,
+        "rating": 51
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 1.29,
-        "rating": 27
+        "value": 1.26,
+        "rating": 28
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 49.0,
-        "rating": 69
+        "value": 50.0,
+        "rating": 71
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 5.0,
+        "value": 5.02,
         "rating": 31
       }
     ],

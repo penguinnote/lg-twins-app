@@ -1,6 +1,6 @@
 {
   "team": "LG",
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "count": 30,
   "hitter_count": 15,
   "players": [
@@ -59,6 +59,12 @@
       "is_pitcher": true
     },
     {
+      "playerId": "69168",
+      "name": "이상영",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
       "playerId": "51154",
       "name": "김진수",
       "position": "투수",
@@ -73,12 +79,6 @@
     {
       "playerId": "56103",
       "name": "카라스코",
-      "position": "투수",
-      "is_pitcher": true
-    },
-    {
-      "playerId": "65109",
-      "name": "백승현",
       "position": "투수",
       "is_pitcher": true
     },
