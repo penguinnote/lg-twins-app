@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 54,
-  "updated": "2026-08-22T23:15:13",
+  "updated": "2026-08-23T14:48:41",
   "totals": {
     "IP": 44.0,
     "R": 29,
@@ -1310,7 +1310,7 @@
         "key": "homers",
         "label": "장타억제",
         "value": 0.61,
-        "rating": 74
+        "rating": 73
       },
       {
         "key": "innings",
