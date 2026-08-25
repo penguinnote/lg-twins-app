@@ -508,5 +508,32 @@
     "fetched_at": "2026-08-24T23:17:08",
     "registered": [],
     "waived": []
+  },
+  {
+    "date": "2026-08-25",
+    "fetched_at": "2026-08-25T15:13:10",
+    "registered": [
+      {
+        "name": "강민균",
+        "position": "내",
+        "team": "LG"
+      },
+      {
+        "name": "김윤식",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "양우진",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "함창건",
+        "position": "외",
+        "team": "LG"
+      }
+    ],
+    "waived": []
   }
 ]

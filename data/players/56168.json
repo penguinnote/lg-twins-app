@@ -2,17 +2,17 @@
   "playerId": "56168",
   "season": 2026,
   "is_pitcher": true,
-  "games": 3,
-  "updated": "2026-08-24T23:18:16",
+  "games": 4,
+  "updated": "2026-08-25T15:14:33",
   "totals": {
-    "IP": 3.0,
-    "R": 3,
-    "ER": 3,
+    "IP": 4.0,
+    "R": 4,
+    "ER": 4,
     "SO": 2,
-    "H": 0,
+    "H": 2,
     "HR": 0,
-    "BB": 3,
-    "W": 0,
+    "BB": 4,
+    "W": 1,
     "L": 1,
     "SV": 0,
     "HLD": 1
@@ -65,6 +65,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "9.00"
+    },
+    {
+      "date": "2026-08-25",
+      "opp": "NC",
+      "role": "구원",
+      "result": "승",
+      "IP": 1.0,
+      "TBF": 6,
+      "H": 2,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 0,
+      "R": 1,
+      "ER": 1,
+      "era_cum": "9.00"
     }
   ],
   "coin": {
@@ -108,11 +124,18 @@
         "open": 91.833,
         "close": 94.499,
         "value": 0.5333
+      },
+      {
+        "date": "2026-08-25",
+        "opp": "NC",
+        "open": 94.499,
+        "close": 92.165,
+        "value": -0.4667
       }
     ]
   },
   "ratings": {
-    "OVR": 41,
+    "OVR": 38,
     "lowSample": true,
     "axes": [
       {
@@ -124,14 +147,14 @@
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 6.0,
-        "rating": 15
+        "value": 4.5,
+        "rating": 4
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.0,
-        "rating": 100
+        "value": 0.154,
+        "rating": 99
       },
       {
         "key": "homers",
@@ -142,14 +165,14 @@
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 3.0,
+        "value": 4.0,
         "rating": 0
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 4.87,
-        "rating": 34
+        "value": 5.2,
+        "rating": 26
       }
     ],
     "type": "pitcher"
