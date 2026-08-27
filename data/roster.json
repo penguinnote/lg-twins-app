@@ -1,18 +1,12 @@
 {
   "team": "LG",
   "updated": "2026-08-27",
-  "count": 34,
+  "count": 33,
   "hitter_count": 17,
   "players": [
     {
       "playerId": "61101",
       "name": "임찬규",
-      "position": "투수",
-      "is_pitcher": true
-    },
-    {
-      "playerId": "51111",
-      "name": "송승기",
       "position": "투수",
       "is_pitcher": true
     },

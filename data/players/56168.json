@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 4,
-  "updated": "2026-08-27T04:12:09",
+  "updated": "2026-08-27T23:52:41",
   "totals": {
     "IP": 4.0,
     "R": 4,
@@ -172,7 +172,7 @@
         "key": "run_prevention",
         "label": "실점억제",
         "value": 5.2,
-        "rating": 26
+        "rating": 27
       }
     ],
     "type": "pitcher"

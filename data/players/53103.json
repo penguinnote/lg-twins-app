@@ -2,10 +2,10 @@
   "playerId": "53103",
   "season": 2026,
   "is_pitcher": false,
-  "games": 4,
-  "updated": "2026-08-27T04:10:58",
+  "games": 5,
+  "updated": "2026-08-27T23:51:26",
   "totals": {
-    "AB": 3,
+    "AB": 6,
     "H": 0,
     "2B": 0,
     "3B": 0,
@@ -38,6 +38,13 @@
     {
       "date": "2026-07-18",
       "opp": "KT",
+      "cum_avg": 0.0,
+      "cum_ops": 0.0,
+      "site_cum_avg": "0.000"
+    },
+    {
+      "date": "2026-08-27",
+      "opp": "NC",
       "cum_avg": 0.0,
       "cum_ops": 0.0,
       "site_cum_avg": "0.000"
@@ -91,6 +98,13 @@
         "open": 97.208,
         "close": 95.812,
         "value": -0.2792
+      },
+      {
+        "date": "2026-08-27",
+        "opp": "NC",
+        "open": 95.812,
+        "close": 91.624,
+        "value": -0.8375
       }
     ]
   },
