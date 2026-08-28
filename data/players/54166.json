@@ -1,0 +1,336 @@
+{
+  "playerId": "54166",
+  "season": 2026,
+  "is_pitcher": false,
+  "games": 18,
+  "updated": "2026-08-28T23:37:20",
+  "totals": {
+    "AB": 12,
+    "H": 2,
+    "2B": 0,
+    "3B": 0,
+    "HR": 0,
+    "BB": 0,
+    "HBP": 0
+  },
+  "series": [
+    {
+      "date": "2026-05-12",
+      "opp": "삼성",
+      "cum_avg": 1.0,
+      "cum_ops": 2.0,
+      "site_cum_avg": "1.000"
+    },
+    {
+      "date": "2026-05-13",
+      "opp": "삼성",
+      "cum_avg": 0.5,
+      "cum_ops": 1.0,
+      "site_cum_avg": "0.500"
+    },
+    {
+      "date": "2026-05-14",
+      "opp": "삼성",
+      "cum_avg": 0.333,
+      "cum_ops": 0.667,
+      "site_cum_avg": "0.333"
+    },
+    {
+      "date": "2026-05-15",
+      "opp": "SSG",
+      "cum_avg": 0.333,
+      "cum_ops": 0.667,
+      "site_cum_avg": "0.333"
+    },
+    {
+      "date": "2026-05-16",
+      "opp": "SSG",
+      "cum_avg": 0.333,
+      "cum_ops": 0.667,
+      "site_cum_avg": "0.333"
+    },
+    {
+      "date": "2026-05-17",
+      "opp": "SSG",
+      "cum_avg": 0.2,
+      "cum_ops": 0.4,
+      "site_cum_avg": "0.200"
+    },
+    {
+      "date": "2026-05-19",
+      "opp": "KIA",
+      "cum_avg": 0.2,
+      "cum_ops": 0.4,
+      "site_cum_avg": "0.200"
+    },
+    {
+      "date": "2026-05-21",
+      "opp": "KIA",
+      "cum_avg": 0.167,
+      "cum_ops": 0.333,
+      "site_cum_avg": "0.167"
+    },
+    {
+      "date": "2026-05-22",
+      "opp": "키움",
+      "cum_avg": 0.125,
+      "cum_ops": 0.25,
+      "site_cum_avg": "0.125"
+    },
+    {
+      "date": "2026-05-23",
+      "opp": "키움",
+      "cum_avg": 0.125,
+      "cum_ops": 0.25,
+      "site_cum_avg": "0.125"
+    },
+    {
+      "date": "2026-05-24",
+      "opp": "키움",
+      "cum_avg": 0.125,
+      "cum_ops": 0.25,
+      "site_cum_avg": "0.125"
+    },
+    {
+      "date": "2026-05-26",
+      "opp": "롯데",
+      "cum_avg": 0.125,
+      "cum_ops": 0.25,
+      "site_cum_avg": "0.125"
+    },
+    {
+      "date": "2026-05-27",
+      "opp": "롯데",
+      "cum_avg": 0.125,
+      "cum_ops": 0.25,
+      "site_cum_avg": "0.125"
+    },
+    {
+      "date": "2026-05-29",
+      "opp": "KIA",
+      "cum_avg": 0.111,
+      "cum_ops": 0.222,
+      "site_cum_avg": "0.111"
+    },
+    {
+      "date": "2026-05-30",
+      "opp": "KIA",
+      "cum_avg": 0.2,
+      "cum_ops": 0.4,
+      "site_cum_avg": "0.200"
+    },
+    {
+      "date": "2026-05-31",
+      "opp": "KIA",
+      "cum_avg": 0.2,
+      "cum_ops": 0.4,
+      "site_cum_avg": "0.200"
+    },
+    {
+      "date": "2026-06-02",
+      "opp": "KT",
+      "cum_avg": 0.2,
+      "cum_ops": 0.4,
+      "site_cum_avg": "0.200"
+    },
+    {
+      "date": "2026-06-03",
+      "opp": "KT",
+      "cum_avg": 0.167,
+      "cum_ops": 0.333,
+      "site_cum_avg": "0.167"
+    }
+  ],
+  "coin": {
+    "base": 100.0,
+    "scale": 5.0,
+    "constants": {
+      "year": 2026,
+      "source": "v1-representative",
+      "w_BB": 0.69,
+      "w_HBP": 0.72,
+      "w_1B": 0.89,
+      "w_2B": 1.27,
+      "w_3B": 1.62,
+      "w_HR": 2.1,
+      "lgwOBA": 0.335,
+      "wOBA_scale": 1.2,
+      "run_SB": 0.2,
+      "run_CS": -0.42,
+      "lgRA9": 4.8,
+      "bonus_HLD": 0.3,
+      "bonus_SV": 0.5
+    },
+    "candles": [
+      {
+        "date": "2026-05-12",
+        "opp": "삼성",
+        "open": 100.0,
+        "close": 102.312,
+        "value": 0.4625
+      },
+      {
+        "date": "2026-05-13",
+        "opp": "삼성",
+        "open": 102.312,
+        "close": 100.916,
+        "value": -0.2792
+      },
+      {
+        "date": "2026-05-14",
+        "opp": "삼성",
+        "open": 100.916,
+        "close": 99.52,
+        "value": -0.2792
+      },
+      {
+        "date": "2026-05-15",
+        "opp": "SSG",
+        "open": 99.52,
+        "close": 99.52,
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-16",
+        "opp": "SSG",
+        "open": 99.52,
+        "close": 99.52,
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-17",
+        "opp": "SSG",
+        "open": 99.52,
+        "close": 96.728,
+        "value": -0.5583
+      },
+      {
+        "date": "2026-05-19",
+        "opp": "KIA",
+        "open": 96.728,
+        "close": 96.728,
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-21",
+        "opp": "KIA",
+        "open": 96.728,
+        "close": 95.332,
+        "value": -0.2792
+      },
+      {
+        "date": "2026-05-22",
+        "opp": "키움",
+        "open": 95.332,
+        "close": 92.54,
+        "value": -0.5583
+      },
+      {
+        "date": "2026-05-23",
+        "opp": "키움",
+        "open": 92.54,
+        "close": 92.54,
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-24",
+        "opp": "키움",
+        "open": 92.54,
+        "close": 92.54,
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-26",
+        "opp": "롯데",
+        "open": 92.54,
+        "close": 92.54,
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-27",
+        "opp": "롯데",
+        "open": 92.54,
+        "close": 92.54,
+        "value": 0.0
+      },
+      {
+        "date": "2026-05-29",
+        "opp": "KIA",
+        "open": 92.54,
+        "close": 91.144,
+        "value": -0.2792
+      },
+      {
+        "date": "2026-05-30",
+        "opp": "KIA",
+        "open": 91.144,
+        "close": 93.457,
+        "value": 0.4625
+      },
+      {
+        "date": "2026-05-31",
+        "opp": "KIA",
+        "open": 93.457,
+        "close": 93.457,
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-02",
+        "opp": "KT",
+        "open": 93.457,
+        "close": 93.457,
+        "value": 0.0
+      },
+      {
+        "date": "2026-06-03",
+        "opp": "KT",
+        "open": 93.457,
+        "close": 90.665,
+        "value": -0.5583
+      }
+    ]
+  },
+  "ratings": {
+    "OVR": 1,
+    "lowSample": true,
+    "axes": [
+      {
+        "key": "contact",
+        "label": "컨택",
+        "value": 0.167,
+        "rating": 2
+      },
+      {
+        "key": "power",
+        "label": "파워",
+        "value": 0.0,
+        "rating": 0
+      },
+      {
+        "key": "eye",
+        "label": "선구안",
+        "value": 0.0,
+        "rating": 0
+      },
+      {
+        "key": "speed",
+        "label": "주력",
+        "value": 0,
+        "rating": 0
+      },
+      {
+        "key": "avoidK",
+        "label": "삼진회피",
+        "value": 0.333,
+        "rating": 2
+      },
+      {
+        "key": "production",
+        "label": "생산성",
+        "value": 0.148,
+        "rating": 0
+      }
+    ],
+    "type": "hitter"
+  }
+}
