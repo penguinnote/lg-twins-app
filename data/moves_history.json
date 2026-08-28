@@ -553,5 +553,17 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-08-28",
+    "fetched_at": "2026-08-28T06:27:32",
+    "registered": [],
+    "waived": [
+      {
+        "name": "송승기",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
