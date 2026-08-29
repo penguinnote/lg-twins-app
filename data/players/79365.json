@@ -2,8 +2,8 @@
   "playerId": "79365",
   "season": 2026,
   "is_pitcher": false,
-  "games": 103,
-  "updated": "2026-08-29T03:59:10",
+  "games": 104,
+  "updated": "2026-08-29T17:46:24",
   "totals": {
     "AB": 289,
     "H": 66,
@@ -731,6 +731,13 @@
     {
       "date": "2026-08-27",
       "opp": "NC",
+      "cum_avg": 0.228,
+      "cum_ops": 0.744,
+      "site_cum_avg": "0.228"
+    },
+    {
+      "date": "2026-08-29",
+      "opp": "롯데",
       "cum_avg": 0.228,
       "cum_ops": 0.744,
       "site_cum_avg": "0.228"
@@ -1477,6 +1484,13 @@
         "open": 95.76,
         "close": 95.281,
         "value": -0.0958
+      },
+      {
+        "date": "2026-08-29",
+        "opp": "롯데",
+        "open": 95.281,
+        "close": 95.281,
+        "value": 0.0
       }
     ]
   },
@@ -1488,7 +1502,7 @@
         "key": "contact",
         "label": "컨택",
         "value": 0.228,
-        "rating": 24
+        "rating": 25
       },
       {
         "key": "power",
@@ -1512,13 +1526,13 @@
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.231,
-        "rating": 32
+        "rating": 34
       },
       {
         "key": "production",
         "label": "생산성",
         "value": 0.334,
-        "rating": 57
+        "rating": 58
       }
     ],
     "type": "hitter"
