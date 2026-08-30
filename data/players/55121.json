@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 24,
-  "updated": "2026-08-30T00:57:37",
+  "updated": "2026-08-30T18:09:11",
   "totals": {
     "IP": 36.333,
     "R": 25,
@@ -608,7 +608,7 @@
         "key": "strikeout",
         "label": "탈삼진",
         "value": 7.43,
-        "rating": 48
+        "rating": 47
       },
       {
         "key": "hits",

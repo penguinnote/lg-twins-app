@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 112,
-  "updated": "2026-08-30T00:56:47",
+  "updated": "2026-08-30T18:08:17",
   "totals": {
     "AB": 316,
     "H": 83,
@@ -1614,7 +1614,7 @@
         "key": "contact",
         "label": "컨택",
         "value": 0.263,
-        "rating": 52
+        "rating": 51
       },
       {
         "key": "power",
@@ -1626,7 +1626,7 @@
         "key": "eye",
         "label": "선구안",
         "value": 0.106,
-        "rating": 67
+        "rating": 66
       },
       {
         "key": "speed",

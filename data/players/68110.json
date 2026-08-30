@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 92,
-  "updated": "2026-08-30T00:57:11",
+  "updated": "2026-08-30T18:08:42",
   "totals": {
     "AB": 281,
     "H": 85,
@@ -1352,13 +1352,13 @@
         "key": "speed",
         "label": "주력",
         "value": 2,
-        "rating": 48
+        "rating": 49
       },
       {
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.237,
-        "rating": 31
+        "rating": 32
       },
       {
         "key": "production",
