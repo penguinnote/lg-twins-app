@@ -2,10 +2,10 @@
   "playerId": "67143",
   "season": 2026,
   "is_pitcher": true,
-  "games": 33,
-  "updated": "2026-09-01T01:33:22",
+  "games": 34,
+  "updated": "2026-09-01T17:54:58",
   "totals": {
-    "IP": 36.998,
+    "IP": 38.331,
     "R": 9,
     "ER": 9,
     "SO": 39,
@@ -14,7 +14,7 @@
     "BB": 25,
     "W": 1,
     "L": 0,
-    "SV": 24,
+    "SV": 25,
     "HLD": 0
   },
   "pitching": [
@@ -545,6 +545,22 @@
       "R": 1,
       "ER": 1,
       "era_cum": "2.19"
+    },
+    {
+      "date": "2026-09-01",
+      "opp": "두산",
+      "role": "구원",
+      "result": "세",
+      "IP": 1.333,
+      "TBF": 4,
+      "H": 0,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "2.11"
     }
   ],
   "coin": {
@@ -798,6 +814,13 @@
         "open": 215.997,
         "close": 213.664,
         "value": -0.4667
+      },
+      {
+        "date": "2026-09-01",
+        "opp": "두산",
+        "open": 213.664,
+        "close": 219.718,
+        "value": 1.2109
       }
     ]
   },
@@ -808,37 +831,37 @@
       {
         "key": "control",
         "label": "제구",
-        "value": 6.08,
-        "rating": 14
+        "value": 5.87,
+        "rating": 16
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 9.49,
-        "rating": 83
+        "value": 9.16,
+        "rating": 80
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.2,
-        "rating": 95
+        "value": 0.194,
+        "rating": 96
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.49,
-        "rating": 85
+        "value": 0.47,
+        "rating": 86
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 37.0,
-        "rating": 47
+        "value": 38.3,
+        "rating": 48
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 4.06,
+        "value": 4.03,
         "rating": 61
       }
     ],

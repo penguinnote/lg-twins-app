@@ -2,11 +2,11 @@
   "playerId": "65207",
   "season": 2026,
   "is_pitcher": false,
-  "games": 112,
-  "updated": "2026-09-01T01:32:44",
+  "games": 113,
+  "updated": "2026-09-01T17:54:17",
   "totals": {
-    "AB": 316,
-    "H": 83,
+    "AB": 320,
+    "H": 84,
     "2B": 5,
     "3B": 1,
     "HR": 0,
@@ -796,6 +796,13 @@
       "opp": "롯데",
       "cum_avg": 0.263,
       "cum_ops": 0.634,
+      "site_cum_avg": "0.263"
+    },
+    {
+      "date": "2026-09-01",
+      "opp": "두산",
+      "cum_avg": 0.263,
+      "cum_ops": 0.632,
       "site_cum_avg": "0.263"
     }
   ],
@@ -1603,6 +1610,13 @@
         "open": 47.365,
         "close": 46.969,
         "value": -0.0792
+      },
+      {
+        "date": "2026-09-01",
+        "opp": "두산",
+        "open": 46.969,
+        "close": 45.094,
+        "value": -0.375
       }
     ]
   },
@@ -1625,8 +1639,8 @@
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.106,
-        "rating": 66
+        "value": 0.105,
+        "rating": 64
       },
       {
         "key": "speed",
@@ -1637,14 +1651,14 @@
       {
         "key": "avoidK",
         "label": "삼진회피",
-        "value": 0.125,
+        "value": 0.124,
         "rating": 91
       },
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.295,
-        "rating": 23
+        "value": 0.294,
+        "rating": 24
       }
     ],
     "type": "hitter"
