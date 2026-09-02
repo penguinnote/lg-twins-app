@@ -2,15 +2,15 @@
   "playerId": "66108",
   "season": 2026,
   "is_pitcher": false,
-  "games": 108,
-  "updated": "2026-09-02T00:46:25",
+  "games": 109,
+  "updated": "2026-09-02T17:58:39",
   "totals": {
-    "AB": 369,
+    "AB": 371,
     "H": 92,
     "2B": 13,
     "3B": 2,
     "HR": 0,
-    "BB": 64,
+    "BB": 66,
     "HBP": 16
   },
   "series": [
@@ -769,6 +769,13 @@
       "cum_avg": 0.249,
       "cum_ops": 0.678,
       "site_cum_avg": "0.249"
+    },
+    {
+      "date": "2026-09-02",
+      "opp": "두산",
+      "cum_avg": 0.248,
+      "cum_ops": 0.678,
+      "site_cum_avg": "0.248"
     }
   ],
   "coin": {
@@ -1547,6 +1554,13 @@
         "open": 76.094,
         "close": 71.906,
         "value": -0.8375
+      },
+      {
+        "date": "2026-09-02",
+        "opp": "두산",
+        "open": 71.906,
+        "close": 72.073,
+        "value": 0.0333
       }
     ]
   },
@@ -1557,8 +1571,8 @@
       {
         "key": "contact",
         "label": "컨택",
-        "value": 0.249,
-        "rating": 40
+        "value": 0.248,
+        "rating": 42
       },
       {
         "key": "power",
@@ -1569,8 +1583,8 @@
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.141,
-        "rating": 93
+        "value": 0.144,
+        "rating": 94
       },
       {
         "key": "speed",
@@ -1581,8 +1595,8 @@
       {
         "key": "avoidK",
         "label": "삼진회피",
-        "value": 0.215,
-        "rating": 41
+        "value": 0.218,
+        "rating": 37
       },
       {
         "key": "production",

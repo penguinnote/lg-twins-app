@@ -2,20 +2,20 @@
   "playerId": "56168",
   "season": 2026,
   "is_pitcher": true,
-  "games": 6,
-  "updated": "2026-09-02T00:47:08",
+  "games": 7,
+  "updated": "2026-09-02T17:59:19",
   "totals": {
-    "IP": 5.333,
+    "IP": 6.333,
     "R": 4,
     "ER": 4,
     "SO": 5,
-    "H": 2,
+    "H": 4,
     "HR": 0,
     "BB": 4,
     "W": 1,
     "L": 1,
     "SV": 0,
-    "HLD": 2
+    "HLD": 3
   },
   "pitching": [
     {
@@ -113,6 +113,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "6.75"
+    },
+    {
+      "date": "2026-09-02",
+      "opp": "두산",
+      "role": "구원",
+      "result": "홀",
+      "IP": 1.0,
+      "TBF": 4,
+      "H": 2,
+      "HR": 0,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "5.68"
     }
   ],
   "coin": {
@@ -177,30 +193,37 @@
         "open": 93.053,
         "close": 97.219,
         "value": 0.8333
+      },
+      {
+        "date": "2026-09-02",
+        "opp": "두산",
+        "open": 97.219,
+        "close": 101.385,
+        "value": 0.8333
       }
     ]
   },
   "ratings": {
-    "OVR": 54,
+    "OVR": 51,
     "lowSample": true,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 6.75,
-        "rating": 9
+        "value": 5.68,
+        "rating": 17
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 8.44,
-        "rating": 66
+        "value": 7.11,
+        "rating": 39
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.118,
-        "rating": 99
+        "value": 0.19,
+        "rating": 96
       },
       {
         "key": "homers",
@@ -211,14 +234,14 @@
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 5.3,
+        "value": 6.3,
         "rating": 0
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 4.14,
-        "rating": 57
+        "value": 3.99,
+        "rating": 61
       }
     ],
     "type": "pitcher"

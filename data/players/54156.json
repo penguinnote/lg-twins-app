@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 7,
-  "updated": "2026-09-02T00:46:11",
+  "updated": "2026-09-02T17:58:26",
   "totals": {
     "AB": 6,
     "H": 2,
@@ -137,14 +137,14 @@
     ]
   },
   "ratings": {
-    "OVR": 78,
+    "OVR": 77,
     "lowSample": true,
     "axes": [
       {
         "key": "contact",
         "label": "컨택",
         "value": 0.333,
-        "rating": 97
+        "rating": 96
       },
       {
         "key": "power",
