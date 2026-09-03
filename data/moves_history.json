@@ -609,8 +609,20 @@
   },
   {
     "date": "2026-09-03",
-    "fetched_at": "2026-09-03T00:53:57",
-    "registered": [],
-    "waived": []
+    "fetched_at": "2026-09-03T17:56:39",
+    "registered": [
+      {
+        "name": "고우석",
+        "position": "투",
+        "team": "LG"
+      }
+    ],
+    "waived": [
+      {
+        "name": "양우진",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
