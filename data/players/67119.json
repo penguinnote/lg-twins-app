@@ -2,22 +2,39 @@
   "playerId": "67119",
   "season": 2026,
   "is_pitcher": true,
-  "games": 0,
-  "updated": "2026-09-04T00:38:31",
+  "games": 1,
+  "updated": "2026-09-04T17:42:19",
   "totals": {
-    "IP": 0.0,
+    "IP": 1.0,
     "R": 0,
     "ER": 0,
-    "SO": 0,
+    "SO": 2,
     "H": 0,
     "HR": 0,
-    "BB": 0,
+    "BB": 1,
     "W": 0,
     "L": 0,
-    "SV": 0,
+    "SV": 1,
     "HLD": 0
   },
-  "pitching": [],
+  "pitching": [
+    {
+      "date": "2026-09-04",
+      "opp": "삼성",
+      "role": "구원",
+      "result": "세",
+      "IP": 1.0,
+      "TBF": 4,
+      "H": 0,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 0,
+      "SO": 2,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "0.00"
+    }
+  ],
   "coin": {
     "base": 100.0,
     "scale": 5.0,
@@ -38,6 +55,57 @@
       "bonus_HLD": 0.3,
       "bonus_SV": 0.5
     },
-    "candles": []
+    "candles": [
+      {
+        "date": "2026-09-04",
+        "opp": "삼성",
+        "open": 100.0,
+        "close": 105.166,
+        "value": 1.0333
+      }
+    ]
+  },
+  "ratings": {
+    "OVR": 66,
+    "lowSample": true,
+    "axes": [
+      {
+        "key": "control",
+        "label": "제구",
+        "value": 9.0,
+        "rating": 2
+      },
+      {
+        "key": "strikeout",
+        "label": "탈삼진",
+        "value": 18.0,
+        "rating": 100
+      },
+      {
+        "key": "hits",
+        "label": "피안타억제",
+        "value": 0.0,
+        "rating": 100
+      },
+      {
+        "key": "homers",
+        "label": "장타억제",
+        "value": 0.0,
+        "rating": 94
+      },
+      {
+        "key": "innings",
+        "label": "이닝소화",
+        "value": 1.0,
+        "rating": 0
+      },
+      {
+        "key": "run_prevention",
+        "label": "실점억제",
+        "value": 2.2,
+        "rating": 100
+      }
+    ],
+    "type": "pitcher"
   }
 }

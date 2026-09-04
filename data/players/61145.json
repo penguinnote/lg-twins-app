@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 22,
-  "updated": "2026-09-04T00:38:36",
+  "updated": "2026-09-04T17:42:24",
   "totals": {
     "IP": 18.0,
     "R": 5,
@@ -556,7 +556,7 @@
         "key": "control",
         "label": "제구",
         "value": 4.0,
-        "rating": 47
+        "rating": 46
       },
       {
         "key": "strikeout",
@@ -568,7 +568,7 @@
         "key": "hits",
         "label": "피안타억제",
         "value": 0.239,
-        "rating": 71
+        "rating": 72
       },
       {
         "key": "homers",
