@@ -2,18 +2,18 @@
   "playerId": "61101",
   "season": 2026,
   "is_pitcher": true,
-  "games": 24,
-  "updated": "2026-09-06T00:30:27",
+  "games": 25,
+  "updated": "2026-09-06T17:13:14",
   "totals": {
-    "IP": 133.667,
-    "R": 59,
-    "ER": 57,
-    "SO": 78,
-    "H": 143,
+    "IP": 139.0,
+    "R": 66,
+    "ER": 64,
+    "SO": 79,
+    "H": 152,
     "HR": 8,
-    "BB": 38,
+    "BB": 40,
     "W": 13,
-    "L": 4,
+    "L": 5,
     "SV": 0,
     "HLD": 0
   },
@@ -401,6 +401,22 @@
       "R": 1,
       "ER": 1,
       "era_cum": "3.84"
+    },
+    {
+      "date": "2026-09-06",
+      "opp": "삼성",
+      "role": "선발",
+      "result": "패",
+      "IP": 5.333,
+      "TBF": 27,
+      "H": 9,
+      "HR": 0,
+      "BB": 2,
+      "HBP": 1,
+      "SO": 1,
+      "R": 7,
+      "ER": 7,
+      "era_cum": "4.14"
     }
   ],
   "coin": {
@@ -591,47 +607,54 @@
         "open": 150.446,
         "close": 161.446,
         "value": 2.2
+      },
+      {
+        "date": "2026-09-06",
+        "opp": "삼성",
+        "open": 161.446,
+        "close": 140.667,
+        "value": -4.1557
       }
     ]
   },
   "ratings": {
-    "OVR": 62,
+    "OVR": 63,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 2.56,
-        "rating": 84
+        "value": 2.59,
+        "rating": 83
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 5.25,
-        "rating": 7
+        "value": 5.12,
+        "rating": 8
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.271,
-        "rating": 40
+        "value": 0.276,
+        "rating": 38
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.54,
-        "rating": 80
+        "value": 0.52,
+        "rating": 81
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 133.7,
-        "rating": 96
+        "value": 139.0,
+        "rating": 98
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.84,
+        "value": 3.87,
         "rating": 68
       }
     ],

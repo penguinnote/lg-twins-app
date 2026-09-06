@@ -2,8 +2,8 @@
   "playerId": "51526",
   "season": 2026,
   "is_pitcher": true,
-  "games": 59,
-  "updated": "2026-09-06T00:30:31",
+  "games": 60,
+  "updated": "2026-09-06T17:13:19",
   "totals": {
     "IP": 47.667,
     "R": 29,
@@ -11,7 +11,7 @@
     "SO": 45,
     "H": 46,
     "HR": 3,
-    "BB": 20,
+    "BB": 22,
     "W": 0,
     "L": 1,
     "SV": 0,
@@ -961,6 +961,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "4.72"
+    },
+    {
+      "date": "2026-09-06",
+      "opp": "삼성",
+      "role": "구원",
+      "result": "",
+      "IP": 0.0,
+      "TBF": 3,
+      "H": 0,
+      "HR": 0,
+      "BB": 2,
+      "HBP": 1,
+      "SO": 0,
+      "R": 0,
+      "ER": 0,
+      "era_cum": "4.72"
     }
   ],
   "coin": {
@@ -1396,18 +1412,25 @@
         "open": 110.319,
         "close": 112.097,
         "value": 0.3557
+      },
+      {
+        "date": "2026-09-06",
+        "opp": "삼성",
+        "open": 112.097,
+        "close": 112.097,
+        "value": 0.0
       }
     ]
   },
   "ratings": {
-    "OVR": 66,
+    "OVR": 63,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 3.78,
-        "rating": 54
+        "value": 4.15,
+        "rating": 45
       },
       {
         "key": "strikeout",
@@ -1425,7 +1448,7 @@
         "key": "homers",
         "label": "장타억제",
         "value": 0.57,
-        "rating": 76
+        "rating": 75
       },
       {
         "key": "innings",
@@ -1436,8 +1459,8 @@
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.7,
-        "rating": 75
+        "value": 3.89,
+        "rating": 66
       }
     ],
     "type": "pitcher"
