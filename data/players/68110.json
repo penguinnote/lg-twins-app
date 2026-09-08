@@ -2,16 +2,16 @@
   "playerId": "68110",
   "season": 2026,
   "is_pitcher": false,
-  "games": 98,
-  "updated": "2026-09-08T00:52:25",
+  "games": 99,
+  "updated": "2026-09-08T18:00:11",
   "totals": {
-    "AB": 303,
+    "AB": 306,
     "H": 89,
     "2B": 26,
     "3B": 1,
     "HR": 14,
     "BB": 29,
-    "HBP": 15
+    "HBP": 16
   },
   "series": [
     {
@@ -699,6 +699,13 @@
       "cum_avg": 0.294,
       "cum_ops": 0.908,
       "site_cum_avg": "0.294"
+    },
+    {
+      "date": "2026-09-08",
+      "opp": "키움",
+      "cum_avg": 0.291,
+      "cum_ops": 0.901,
+      "site_cum_avg": "0.291"
     }
   ],
   "coin": {
@@ -1407,6 +1414,13 @@
         "open": 188.731,
         "close": 189.856,
         "value": 0.225
+      },
+      {
+        "date": "2026-09-08",
+        "opp": "키움",
+        "open": 189.856,
+        "close": 187.273,
+        "value": -0.5167
       }
     ]
   },
@@ -1417,19 +1431,19 @@
       {
         "key": "contact",
         "label": "컨택",
-        "value": 0.294,
-        "rating": 81
+        "value": 0.291,
+        "rating": 79
       },
       {
         "key": "power",
         "label": "파워",
-        "value": 0.231,
+        "value": 0.229,
         "rating": 92
       },
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.083,
+        "value": 0.082,
         "rating": 39
       },
       {
@@ -1442,13 +1456,13 @@
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.23,
-        "rating": 34
+        "rating": 33
       },
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.396,
-        "rating": 93
+        "value": 0.394,
+        "rating": 92
       }
     ],
     "type": "hitter"

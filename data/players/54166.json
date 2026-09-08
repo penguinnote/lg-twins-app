@@ -2,10 +2,10 @@
   "playerId": "54166",
   "season": 2026,
   "is_pitcher": false,
-  "games": 20,
-  "updated": "2026-09-08T00:52:27",
+  "games": 21,
+  "updated": "2026-09-08T18:00:13",
   "totals": {
-    "AB": 12,
+    "AB": 13,
     "H": 2,
     "2B": 0,
     "3B": 0,
@@ -153,6 +153,13 @@
       "cum_avg": 0.167,
       "cum_ops": 0.333,
       "site_cum_avg": "0.167"
+    },
+    {
+      "date": "2026-09-08",
+      "opp": "키움",
+      "cum_avg": 0.154,
+      "cum_ops": 0.308,
+      "site_cum_avg": "0.154"
     }
   ],
   "coin": {
@@ -315,6 +322,13 @@
         "open": 90.665,
         "close": 90.665,
         "value": 0.0
+      },
+      {
+        "date": "2026-09-08",
+        "opp": "키움",
+        "open": 90.665,
+        "close": 89.269,
+        "value": -0.2792
       }
     ]
   },
@@ -325,8 +339,8 @@
       {
         "key": "contact",
         "label": "컨택",
-        "value": 0.167,
-        "rating": 3
+        "value": 0.154,
+        "rating": 1
       },
       {
         "key": "power",
@@ -349,13 +363,13 @@
       {
         "key": "avoidK",
         "label": "삼진회피",
-        "value": 0.333,
-        "rating": 2
+        "value": 0.308,
+        "rating": 6
       },
       {
         "key": "production",
         "label": "생산성",
-        "value": 0.148,
+        "value": 0.137,
         "rating": 0
       }
     ],

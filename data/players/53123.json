@@ -2,15 +2,15 @@
   "playerId": "53123",
   "season": 2026,
   "is_pitcher": false,
-  "games": 122,
-  "updated": "2026-09-08T00:52:12",
+  "games": 123,
+  "updated": "2026-09-08T17:59:55",
   "totals": {
-    "AB": 465,
-    "H": 158,
-    "2B": 31,
+    "AB": 468,
+    "H": 159,
+    "2B": 32,
     "3B": 4,
     "HR": 36,
-    "BB": 65,
+    "BB": 66,
     "HBP": 9
   },
   "series": [
@@ -866,6 +866,13 @@
       "opp": "삼성",
       "cum_avg": 0.34,
       "cum_ops": 1.086,
+      "site_cum_avg": "0.340"
+    },
+    {
+      "date": "2026-09-08",
+      "opp": "키움",
+      "cum_avg": 0.34,
+      "cum_ops": 1.087,
       "site_cum_avg": "0.340"
     }
   ],
@@ -1743,6 +1750,13 @@
         "open": 390.863,
         "close": 388.988,
         "value": -0.375
+      },
+      {
+        "date": "2026-09-08",
+        "opp": "키움",
+        "open": 388.988,
+        "close": 391.572,
+        "value": 0.5167
       }
     ]
   },
@@ -1765,19 +1779,19 @@
       {
         "key": "eye",
         "label": "선구안",
-        "value": 0.12,
-        "rating": 82
+        "value": 0.121,
+        "rating": 81
       },
       {
         "key": "speed",
         "label": "주력",
         "value": 7,
-        "rating": 78
+        "rating": 77
       },
       {
         "key": "avoidK",
         "label": "삼진회피",
-        "value": 0.142,
+        "value": 0.141,
         "rating": 84
       },
       {
