@@ -663,8 +663,24 @@
   },
   {
     "date": "2026-09-10",
-    "fetched_at": "2026-09-10T00:45:18",
+    "fetched_at": "2026-09-10T17:46:05",
     "registered": [],
-    "waived": []
+    "waived": [
+      {
+        "name": "김윤식",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "배재준",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "조원태",
+        "position": "투",
+        "team": "LG"
+      }
+    ]
   }
 ]
