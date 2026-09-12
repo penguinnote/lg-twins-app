@@ -691,8 +691,19 @@
   },
   {
     "date": "2026-09-12",
-    "fetched_at": "2026-09-12T00:50:06",
-    "registered": [],
+    "fetched_at": "2026-09-12T17:20:15",
+    "registered": [
+      {
+        "name": "김강률",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "이종준",
+        "position": "투",
+        "team": "LG"
+      }
+    ],
     "waived": []
   }
 ]

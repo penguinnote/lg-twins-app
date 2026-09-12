@@ -1,7 +1,7 @@
 {
   "team": "LG",
   "updated": "2026-09-12",
-  "count": 31,
+  "count": 33,
   "hitter_count": 18,
   "players": [
     {
@@ -47,8 +47,20 @@
       "is_pitcher": true
     },
     {
+      "playerId": "77263",
+      "name": "김강률",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
       "playerId": "69168",
       "name": "이상영",
+      "position": "투수",
+      "is_pitcher": true
+    },
+    {
+      "playerId": "50904",
+      "name": "이종준",
       "position": "투수",
       "is_pitcher": true
     },

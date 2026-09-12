@@ -2,15 +2,15 @@
   "playerId": "55130",
   "season": 2026,
   "is_pitcher": true,
-  "games": 24,
-  "updated": "2026-09-12T00:51:07",
+  "games": 25,
+  "updated": "2026-09-12T17:21:11",
   "totals": {
-    "IP": 134.332,
-    "R": 64,
-    "ER": 63,
-    "SO": 109,
-    "H": 134,
-    "HR": 12,
+    "IP": 139.665,
+    "R": 66,
+    "ER": 65,
+    "SO": 112,
+    "H": 141,
+    "HR": 13,
     "BB": 32,
     "W": 11,
     "L": 9,
@@ -401,6 +401,22 @@
       "R": 0,
       "ER": 0,
       "era_cum": "4.22"
+    },
+    {
+      "date": "2026-09-12",
+      "opp": "삼성",
+      "role": "선발",
+      "result": "",
+      "IP": 5.333,
+      "TBF": 22,
+      "H": 7,
+      "HR": 1,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 3,
+      "R": 2,
+      "ER": 2,
+      "era_cum": "4.19"
     }
   ],
   "coin": {
@@ -591,47 +607,54 @@
         "open": 122.219,
         "close": 138.219,
         "value": 3.2
+      },
+      {
+        "date": "2026-09-12",
+        "opp": "삼성",
+        "open": 138.219,
+        "close": 142.44,
+        "value": 0.8443
       }
     ]
   },
   "ratings": {
-    "OVR": 71,
+    "OVR": 70,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 2.14,
-        "rating": 88
+        "value": 2.06,
+        "rating": 91
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 7.3,
-        "rating": 44
+        "value": 7.22,
+        "rating": 42
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.251,
-        "rating": 62
+        "value": 0.254,
+        "rating": 60
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.8,
-        "rating": 57
+        "value": 0.84,
+        "rating": 55
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 134.3,
-        "rating": 95
+        "value": 139.7,
+        "rating": 96
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.65,
+        "value": 3.69,
         "rating": 78
       }
     ],
