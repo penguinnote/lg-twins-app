@@ -2,17 +2,17 @@
   "playerId": "61101",
   "season": 2026,
   "is_pitcher": true,
-  "games": 25,
-  "updated": "2026-09-13T00:33:22",
+  "games": 26,
+  "updated": "2026-09-13T17:31:25",
   "totals": {
-    "IP": 139.0,
-    "R": 66,
-    "ER": 64,
-    "SO": 79,
-    "H": 152,
-    "HR": 8,
+    "IP": 146.0,
+    "R": 70,
+    "ER": 68,
+    "SO": 85,
+    "H": 159,
+    "HR": 10,
     "BB": 40,
-    "W": 13,
+    "W": 14,
     "L": 5,
     "SV": 0,
     "HLD": 0
@@ -417,6 +417,22 @@
       "R": 7,
       "ER": 7,
       "era_cum": "4.14"
+    },
+    {
+      "date": "2026-09-13",
+      "opp": "삼성",
+      "role": "선발",
+      "result": "승",
+      "IP": 7.0,
+      "TBF": 28,
+      "H": 7,
+      "HR": 2,
+      "BB": 0,
+      "HBP": 0,
+      "SO": 6,
+      "R": 4,
+      "ER": 4,
+      "era_cum": "4.19"
     }
   ],
   "coin": {
@@ -614,48 +630,55 @@
         "open": 161.446,
         "close": 140.667,
         "value": -4.1557
+      },
+      {
+        "date": "2026-09-13",
+        "opp": "삼성",
+        "open": 140.667,
+        "close": 139.334,
+        "value": -0.2667
       }
     ]
   },
   "ratings": {
-    "OVR": 62,
+    "OVR": 61,
     "lowSample": false,
     "axes": [
       {
         "key": "control",
         "label": "제구",
-        "value": 2.59,
-        "rating": 84
+        "value": 2.47,
+        "rating": 85
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
-        "value": 5.12,
+        "value": 5.24,
         "rating": 8
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.276,
+        "value": 0.275,
         "rating": 38
       },
       {
         "key": "homers",
         "label": "장타억제",
-        "value": 0.52,
-        "rating": 81
+        "value": 0.62,
+        "rating": 72
       },
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 139.0,
-        "rating": 95
+        "value": 146.0,
+        "rating": 98
       },
       {
         "key": "run_prevention",
         "label": "실점억제",
-        "value": 3.87,
-        "rating": 67
+        "value": 3.93,
+        "rating": 64
       }
     ],
     "type": "pitcher"

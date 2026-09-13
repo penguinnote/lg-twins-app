@@ -2,16 +2,16 @@
   "playerId": "77263",
   "season": 2026,
   "is_pitcher": true,
-  "games": 2,
-  "updated": "2026-09-13T00:33:37",
+  "games": 3,
+  "updated": "2026-09-13T17:31:40",
   "totals": {
-    "IP": 1.0,
-    "R": 1,
-    "ER": 1,
-    "SO": 1,
-    "H": 3,
+    "IP": 2.0,
+    "R": 2,
+    "ER": 2,
+    "SO": 2,
+    "H": 4,
     "HR": 0,
-    "BB": 2,
+    "BB": 3,
     "W": 0,
     "L": 0,
     "SV": 0,
@@ -46,6 +46,22 @@
       "BB": 1,
       "HBP": 0,
       "SO": 0,
+      "R": 1,
+      "ER": 1,
+      "era_cum": "9.00"
+    },
+    {
+      "date": "2026-09-13",
+      "opp": "삼성",
+      "role": "구원",
+      "result": "",
+      "IP": 1.0,
+      "TBF": 6,
+      "H": 1,
+      "HR": 0,
+      "BB": 1,
+      "HBP": 1,
+      "SO": 1,
       "R": 1,
       "ER": 1,
       "era_cum": "9.00"
@@ -85,6 +101,13 @@
         "open": 102.666,
         "close": 97.666,
         "value": -1.0
+      },
+      {
+        "date": "2026-09-13",
+        "opp": "삼성",
+        "open": 97.666,
+        "close": 95.332,
+        "value": -0.4667
       }
     ]
   },
@@ -95,19 +118,19 @@
       {
         "key": "control",
         "label": "제구",
-        "value": 18.0,
+        "value": 13.5,
         "rating": 0
       },
       {
         "key": "strikeout",
         "label": "탈삼진",
         "value": 9.0,
-        "rating": 74
+        "rating": 75
       },
       {
         "key": "hits",
         "label": "피안타억제",
-        "value": 0.5,
+        "value": 0.4,
         "rating": 0
       },
       {
@@ -119,7 +142,7 @@
       {
         "key": "innings",
         "label": "이닝소화",
-        "value": 1.0,
+        "value": 2.0,
         "rating": 0
       },
       {

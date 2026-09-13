@@ -2,8 +2,8 @@
   "playerId": "50054",
   "season": 2026,
   "is_pitcher": false,
-  "games": 91,
-  "updated": "2026-09-13T00:33:06",
+  "games": 92,
+  "updated": "2026-09-13T17:31:06",
   "totals": {
     "AB": 227,
     "H": 65,
@@ -646,6 +646,13 @@
     },
     {
       "date": "2026-09-12",
+      "opp": "삼성",
+      "cum_avg": 0.286,
+      "cum_ops": 0.734,
+      "site_cum_avg": "0.286"
+    },
+    {
+      "date": "2026-09-13",
       "opp": "삼성",
       "cum_avg": 0.286,
       "cum_ops": 0.734,
@@ -1309,6 +1316,13 @@
         "open": 93.71,
         "close": 94.147,
         "value": 0.0875
+      },
+      {
+        "date": "2026-09-13",
+        "opp": "삼성",
+        "open": 94.147,
+        "close": 94.147,
+        "value": 0.0
       }
     ]
   },
@@ -1320,13 +1334,13 @@
         "key": "contact",
         "label": "컨택",
         "value": 0.286,
-        "rating": 73
+        "rating": 74
       },
       {
         "key": "power",
         "label": "파워",
         "value": 0.106,
-        "rating": 44
+        "rating": 43
       },
       {
         "key": "eye",
@@ -1344,7 +1358,7 @@
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.161,
-        "rating": 70
+        "rating": 72
       },
       {
         "key": "production",
