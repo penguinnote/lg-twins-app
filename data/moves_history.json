@@ -720,14 +720,19 @@
   },
   {
     "date": "2026-09-14",
-    "fetched_at": "2026-09-14T00:35:47",
-    "registered": [
+    "fetched_at": "2026-09-14T19:31:06",
+    "registered": [],
+    "waived": [
       {
-        "name": "양우진",
+        "name": "김영우",
         "position": "투",
         "team": "LG"
+      },
+      {
+        "name": "문보경",
+        "position": "내",
+        "team": "LG"
       }
-    ],
-    "waived": []
+    ]
   }
 ]
