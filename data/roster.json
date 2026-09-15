@@ -1,8 +1,8 @@
 {
   "team": "LG",
   "updated": "2026-09-15",
-  "count": 32,
-  "hitter_count": 17,
+  "count": 33,
+  "hitter_count": 18,
   "players": [
     {
       "playerId": "61101",
@@ -181,6 +181,12 @@
     {
       "playerId": "66108",
       "name": "홍창기",
+      "position": "외야수",
+      "is_pitcher": false
+    },
+    {
+      "playerId": "68106",
+      "name": "이재원",
       "position": "외야수",
       "is_pitcher": false
     },

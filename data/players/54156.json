@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 10,
-  "updated": "2026-09-15T01:07:45",
+  "updated": "2026-09-15T18:20:29",
   "totals": {
     "AB": 9,
     "H": 2,
@@ -192,7 +192,7 @@
         "key": "power",
         "label": "파워",
         "value": 0.111,
-        "rating": 46
+        "rating": 47
       },
       {
         "key": "eye",

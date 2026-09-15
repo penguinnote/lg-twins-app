@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 63,
-  "updated": "2026-09-15T01:07:40",
+  "updated": "2026-09-15T18:20:25",
   "totals": {
     "AB": 86,
     "H": 18,
@@ -921,7 +921,7 @@
     ]
   },
   "ratings": {
-    "OVR": 18,
+    "OVR": 19,
     "lowSample": false,
     "axes": [
       {
@@ -952,7 +952,7 @@
         "key": "avoidK",
         "label": "삼진회피",
         "value": 0.269,
-        "rating": 20
+        "rating": 21
       },
       {
         "key": "production",
