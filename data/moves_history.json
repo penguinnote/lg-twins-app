@@ -734,5 +734,22 @@
         "team": "LG"
       }
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "fetched_at": "2026-09-15T01:07:23",
+    "registered": [],
+    "waived": [
+      {
+        "name": "김영우",
+        "position": "투",
+        "team": "LG"
+      },
+      {
+        "name": "문보경",
+        "position": "내",
+        "team": "LG"
+      }
+    ]
   }
 ]
