@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 27,
-  "updated": "2026-09-16T00:59:12",
+  "updated": "2026-09-16T18:17:58",
   "totals": {
     "IP": 54.668,
     "R": 49,
@@ -677,7 +677,7 @@
         "key": "strikeout",
         "label": "탈삼진",
         "value": 4.12,
-        "rating": 3
+        "rating": 2
       },
       {
         "key": "hits",
@@ -695,7 +695,7 @@
         "key": "innings",
         "label": "이닝소화",
         "value": 54.7,
-        "rating": 68
+        "rating": 67
       },
       {
         "key": "run_prevention",
