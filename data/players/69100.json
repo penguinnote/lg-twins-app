@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": false,
   "games": 119,
-  "updated": "2026-09-17T01:01:28",
+  "updated": "2026-09-17T18:24:33",
   "totals": {
     "AB": 293,
     "H": 84,
@@ -1742,7 +1742,7 @@
         "key": "production",
         "label": "생산성",
         "value": 0.306,
-        "rating": 34
+        "rating": 35
       }
     ],
     "type": "hitter"

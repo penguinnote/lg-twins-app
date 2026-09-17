@@ -3,7 +3,7 @@
   "season": 2026,
   "is_pitcher": true,
   "games": 55,
-  "updated": "2026-09-17T01:02:23",
+  "updated": "2026-09-17T18:25:27",
   "totals": {
     "IP": 56.334,
     "R": 29,
@@ -1339,7 +1339,7 @@
         "key": "innings",
         "label": "이닝소화",
         "value": 56.3,
-        "rating": 70
+        "rating": 69
       },
       {
         "key": "run_prevention",
