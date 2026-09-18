@@ -1,9 +1,11 @@
 name: daily-pipeline
 
 # 매일 LG 트윈스 데이터 수집 → data/ 자동 커밋
+# [2026-09-18] 프로젝트 중단으로 스케줄 해제. 수동 실행(workflow_dispatch)만 가능.
 on:
-  schedule:
-    - cron: "0 23 * * *"   # 08:00 KST (UTC+9) = 23:00 UTC (전일)
+  # 되살릴 때는 아래 schedule 주석만 해제하면 된다.
+  # schedule:
+  #   - cron: "0 23 * * *"   # 08:00 KST (UTC+9) = 23:00 UTC (전일)
   workflow_dispatch: {}     # 수동 실행 허용
 
 permissions:

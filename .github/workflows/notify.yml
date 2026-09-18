@@ -1,9 +1,11 @@
 name: notify-evening
 
 # 저녁 경기 종료 후: 코인 파이프라인 갱신 → 변동분 커밋 → 코인 등락 알림 발송.
+# [2026-09-18] 프로젝트 중단으로 스케줄 해제. 수동 실행(workflow_dispatch)만 가능.
 on:
-  schedule:
-    - cron: "30 14 * * *" # 23:30 KST (UTC+9) = 14:30 UTC
+  # 되살릴 때는 아래 schedule 주석만 해제하면 된다.
+  # schedule:
+  #   - cron: "30 14 * * *" # 23:30 KST (UTC+9) = 14:30 UTC
   workflow_dispatch: {}
 
 permissions:

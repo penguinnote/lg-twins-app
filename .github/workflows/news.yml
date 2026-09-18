@@ -1,10 +1,13 @@
 name: news-hourly
 
 # 뉴스만 매시간 갱신(가벼움). 스탯/코인 스크래퍼는 실행하지 않는다.
+# [2026-09-18] 프로젝트 중단으로 스케줄 해제. 수동 실행(workflow_dispatch)만 가능.
+# news.yml은 2026-08-18경부터 네이버 뉴스 목록 엔드포인트 응답 변경으로 실패 중 (pipeline/news.py fetch_news).
 on:
-  schedule:
-    # KST 06~23시 매정시 = UTC 0~14시(KST 09~23) + UTC 21~23시(KST 06~08)
-    - cron: "0 0-14,21-23 * * *"
+  # 되살릴 때는 아래 schedule 주석만 해제하면 된다.
+  # schedule:
+  #   # KST 06~23시 매정시 = UTC 0~14시(KST 09~23) + UTC 21~23시(KST 06~08)
+  #   - cron: "0 0-14,21-23 * * *"
   workflow_dispatch: {}
 
 permissions:

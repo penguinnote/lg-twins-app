@@ -10,6 +10,14 @@
   <img alt="status" src="https://img.shields.io/badge/MVP%20live-brightgreen">
 </p>
 
+> ## ⛔ 프로젝트 중단 (2026-09-18)
+>
+> 이 프로젝트는 개발이 중단되었습니다. GitHub Actions 자동 실행(`news-hourly` / `daily-pipeline` /
+> `notify-evening`)은 모두 꺼져 있고, 수동 실행(`workflow_dispatch`)만 가능합니다.
+> 되살리려면 각 워크플로 파일의 주석 처리된 `schedule:` 블록을 해제하면 됩니다.
+> 단, 재개 전에 `pipeline/news.py`의 네이버 뉴스 목록 엔드포인트를 먼저 고쳐야 합니다
+> (2026-08-18경 응답 변경으로 `news-hourly`가 계속 실패했습니다).
+
 🔗 **Live demo:** https://lg-twins-app.vercel.app/
 📄 **문서:** [기획](docs/PLANNING.md) · [코인 가격 모델](docs/VALUE_MODEL.md) · [디자인](docs/DESIGN.md) · [아키텍처](docs/ARCHITECTURE.md)
 
